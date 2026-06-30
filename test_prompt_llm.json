@@ -1,0 +1,26 @@
+[
+  {
+    "id": "https://openalex.org/W4386091044",
+    "title": "A high-performance speech neuroprosthesis",
+    "year": 2023,
+    "abstract": "Abstract Speech brain\u2013computer interfaces (BCIs) have the potential to restore rapid communication to people with paralysis by decoding neural activity evoked by attempted speech into text 1,2 or sound 3,4 . Early demonstrations, although promising, have not yet achieved accuracies sufficiently high for communication of unconstrained sentences from a large vocabulary 1\u20137 . Here we demonstrate a speech-to-text BCI that records spiking activity from intracortical microelectrode arrays. Enabled by these high-resolution recordings, our study participant\u2014who can no longer speak intelligibly owing to amyotrophic lateral sclerosis\u2014achieved a 9.1% word error rate on a 50-word vocabulary (2.7 times fewer errors than the previous state-of-the-art speech BCI 2 ) and a 23.8% word error rate on a 125,000-word vocabulary (the first successful demonstration, to our knowledge, of large-vocabulary decoding). Our participant\u2019s attempted speech was decoded at 62 words per minute, which is 3.4 times as fast as the previous record 8 and begins to approach the speed of natural conversation (160 words per minute 9 ). Finally, we highlight two aspects of the neural code for speech that are encouraging for speech BCIs: spatially intermixed tuning to speech articulators that makes accurate decoding possible from only a small region of cortex, and a detailed articulatory representation of phonemes that persists years after paralysis. These results show a feasible path forward for restoring rapid communication to people with paralysis who can no longer speak."
+  },
+  {
+    "id": "https://openalex.org/W4283689358",
+    "title": "Unleashing the power of big data to guide precision medicine in China",
+    "year": 2022,
+    "abstract": "Personalized treatments and large population studies in China are helping to uncover patterns for a range of conditions, from autism to hereditary hearing loss. Personalized treatments and large population studies in China are helping to uncover patterns for a range of conditions, from autism to hereditary hearing loss."
+  },
+  {
+    "id": "https://openalex.org/W4307659347",
+    "title": "Cryo-EM structure of the SEA complex",
+    "year": 2022,
+    "abstract": "Abstract The SEA complex (SEAC) is a growth regulator that acts as a GTPase-activating protein (GAP) towards Gtr1, a Rag GTPase that relays nutrient status to the Target of Rapamycin Complex 1 (TORC1) in yeast 1 . Functionally, the SEAC has been divided into two subcomplexes: SEACIT, which has GAP activity and inhibits TORC1, and SEACAT, which regulates SEACIT 2 . This system is conserved in mammals: the GATOR complex, consisting of GATOR1 (SEACIT) and GATOR2 (SEACAT), transmits amino acid 3 and glucose 4 signals to mTORC1. Despite its importance, the structure of SEAC/GATOR, and thus molecular understanding of its function, is lacking. Here, we solve the cryo-EM structure of the native eight-subunit SEAC. The SEAC has a modular structure in which a COPII-like cage corresponding to SEACAT binds two flexible wings, which correspond to SEACIT. The wings are tethered to the core via Sea3, which forms part of both modules. The GAP mechanism of GATOR1 is conserved in SEACIT, and GAP activity is unaffected by SEACAT in vitro. In vivo, the wings are essential for recruitment of the SEAC to the vacuole, primarily via the EGO complex. Our results indicate that rather than being a direct inhibitor of SEACIT, SEACAT acts as a scaffold for the binding of TORC1 regulators."
+  },
+  {
+    "id": "https://openalex.org/W4401397355",
+    "title": "DNA strands show symmetry in damage tolerance but asymmetries in repair efficiency",
+    "year": 2024,
+    "abstract": "The two strands of DNA, although chemically equivalent, are replicated and repaired asymmetrically. Insights into the persistence of DNA damage show how strand-specific interactions shape the genome-wide distribution of mutations, including the unexpected symmetry of mutations arising in the DNA strands during replication. DNA mutation rates across the genome are shaped by strand-specific processes."
+  }
+]
