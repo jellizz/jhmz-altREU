@@ -22,7 +22,8 @@ def build_abstract(abstract_inverted_index):
     position_map = {}
     for word, positions in abstract_inverted_index.items(): 
         for pos in positions:
-            position_map[pos] = word
+            if word != "Abstract" and pos != 0:  # skip the "Abstract" word that OpenAlex adds to the beginning of every abstract (for some journals)
+                position_map[pos] = word
     return " ".join(position_map[i] for i in sorted(position_map))
 
 
@@ -32,9 +33,10 @@ Source ID is the OpenAlex ID for the source (e.g., a journal such as Nature).
 """
 def pull_abstracts(sample, source_id):
     params = { # extra params for the API request
-        "filter": f"primary_location.source.id:{source_id},has_abstract:true,publication_year:2020-2024",
+        "filter": f"primary_location.source.id:{source_id},has_abstract:true,publication_year:2020-2026",
         "select": "id,title,publication_year,abstract_inverted_index",
         "sample": sample, # random selection of N papers
+        "per-page": sample, # number of results per call
         "api_key": API_KEY
     }
 
@@ -48,6 +50,7 @@ def pull_abstracts(sample, source_id):
     response.raise_for_status() 
     data = response.json()
 
+    # formatting with desired data
     abstracts = []
     for work in data["results"]:
         abstract_text = build_abstract(work["abstract_inverted_index"])
@@ -59,15 +62,28 @@ def pull_abstracts(sample, source_id):
                 "abstract": abstract_text,
             })
 
-    # save to a file named after the source_id so multiple journals don't overwrite each other
-    with open(f"abstracts_{source_id}.json", "w") as f:
+    # save to a file named after the source_id so multiple journals don't overwrite each other (in folder "data")
+    os.makedirs("data", exist_ok=True)
+    filepath = os.path.join("data", f"abstracts_{source_id}.json")
+    with open(filepath, "w") as f:
         json.dump(abstracts, f, indent=2)
 
     return abstracts
 
 
 if __name__ == "__main__":
-    # Nature Physics, 30 abstracts (TEST for now, can change sample size later and for actual data collection)
-    abstracts = pull_abstracts(sample=30, source_id="S137773608")
+    # Pulling 100 abstracts from each major journal of interest. 200 per field.
+
+    # 1. Physics ##############################################################
+    # (Physical Review Letters)
+
+    abstracts = pull_abstracts(sample=100, source_id="S24807848")
     print(f"Retrieved {len(abstracts)} abstracts")
     print(json.dumps(abstracts[:2], indent=2))
+
+    # (The Astrophysical Journal)
+    abstracts = pull_abstracts(sample=100, source_id="S1980519")
+    print(f"Retrieved {len(abstracts)} abstracts")
+    print(json.dumps(abstracts[:2], indent=2))
+
+    # 2. Computer Science ##########################################################

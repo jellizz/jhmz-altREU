@@ -1,0 +1,602 @@
+[
+  {
+    "id": "https://openalex.org/W2966157975",
+    "title": "Ferromagnetism in Narrow Bands of Moir\u00e9 Superlattices",
+    "year": 2020,
+    "abstract": "graphene moir\u00e9 superlattices host narrow bands with nonzero valley Chern numbers. We provide analytical and numerical evidence for a robust spin and/or valley polarized insulator at total integer band filling in nearly flat bands of several different moir\u00e9 materials. In the limit of a perfectly flat band, we present analytical arguments in favor of the ferromagnetic state substantiated by numerical calculations. Further, we numerically evaluate its stability for a finite bandwidth. We provide exact diagonalization results for models appropriate for ABC trilayer graphene aligned with hBN, twisted double bilayer graphene, and twisted bilayer graphene aligned with hBN. We also provide DMRG results for a honeycomb lattice with a quasiflat band and nonzero Chern number, which extend our results to larger system sizes. We find a maximally spin and valley polarized insulator at all integer fillings when the band is sufficiently flat. We also show that interactions may induce effective dispersive terms strong enough to destabilize this state. These results still hold in the case of zero valley Chern number (for example, trivial side of TLG/hBN). We give an intuitive picture based on extended Wannier orbitals, and emphasize the role of the quantum geometry of the band, whose microscopic details may enhance or weaken ferromagnetism in moir\u00e9 materials."
+  },
+  {
+    "id": "https://openalex.org/W4391219162",
+    "title": "Active Suppression of Quantum Dephasing in Resonantly Driven Ensembles",
+    "year": 2024,
+    "abstract": "have used quantum control to suppress the impact of random atom positions on coherent population transfer within atom pairs, enabling the observation of dipole-dipole driven Rabi oscillations in a Rydberg gas with hundreds of atoms. The method exploits the reduced coupling-strength sensitivity of the off-resonant Rabi frequency, and coherently amplifies the achievable population transfer in analogy to quasi-phase-matching in nonlinear optics. Simulations reproduce the experimental results and demonstrate the potential benefits of the technique to other many-body quantum control applications."
+  },
+  {
+    "id": "https://openalex.org/W3195930898",
+    "title": "Nanopores in Atomically Thin 2D Nanosheets Limit Aqueous Single-Stranded DNA Transport",
+    "year": 2021,
+    "abstract": "in 2D materials are highly desirable for DNA sequencing, yet achieving single-stranded DNA (ssDNA) transport through them is challenging. Using density functional theory calculations and molecular dynamics simulations we show that ssDNA transport through a pore in monolayer hexagonal boron nitride (h-BN) is marked by a basic nanomechanical conflict. It arises from the notably inhomogeneous flexural rigidity of ssDNA and causes high friction via transient DNA desorption costs exacerbated by solvation effects. For a similarly sized pore in bilayer h-BN, its self-passivated atomically smooth edge enables continuous ssDNA transport. Our findings shed light on the fundamental physics of biopolymer transport through pores in 2D materials."
+  },
+  {
+    "id": "https://openalex.org/W3123824292",
+    "title": "Impact of Spectators on a Two-Qubit Gate in a Tunable Coupling Superconducting Circuit",
+    "year": 2021,
+    "abstract": "(CR) gates have emerged as a promising scheme for fault-tolerant quantum computation with fixed-frequency qubits. We experimentally implement an entangling CR gate by using a microwave-only control in a tunable coupling superconducting circuit, where the tunable coupler provides extra degrees of freedom to verify optimal conditions for constructing a CR gate. By developing a three-qubit Hamiltonian tomography protocol, we systematically investigate the dependency of gate fidelities on spurious qubit interactions and present the first experimental approach to the evaluation of the perturbation impact arising from spectator qubits. Our results reveal that the spectator qubits lead to reductions in CR gate fidelity dependent on ZZ interactions and particular frequency detunings between spectator and gate qubits. The target spectator demonstrates a more serious impact than the control spectator under a standard echo pulse scheme, whereas the degradation of gate fidelity is observed up to 22.5% as both the spectators are present with a modest ZZ coupling to the computational qubits. Our experiments uncover an optimal CR operation regime, and the method we develop here can readily be applied to improving other kinds of two-qubit gates in large-scale quantum circuits."
+  },
+  {
+    "id": "https://openalex.org/W4411364723",
+    "title": "Spontaneous Spin-Orbit Coupling Induced by Quantum Phonon Dynamics",
+    "year": 2025,
+    "abstract": "coupling is a important focus of condensed matter physics as well as electron-phonon interaction. Traditionally spin-orbit coupling is regarded as a single-body effect arising from relativity, and electron-phonon interaction is often considered spin-independent. In this Letter, we bridge spin-orbit coupling and electron-phonon interaction, and propose a novel mechanism to dynamically generate spin-orbit coupling. Based on symmetry analysis, a spin-dependent electron-phonon coupling model is constructed, and is solved by sign-problem-free quantum Monte Carlo simulations. The phase diagram versus phonon frequency \u03c9 and coupling constant \u03bb is fully investigated. The spin-orbit coupling emerges as an order in the ground state for any \u03bb in the adiabatic limit, accompanied by a breathing mode of lattice distortion and a staggered loop spin current. This phase dominates in the entire range of \u03c9 with \u03bb<\u03bb_{\u221e}, a critical value in the \u03c9\u2192\u221e limit. At \u03bb>\u03bb_{\u221e}, the emergent spin-orbit coupling is suppressed as increasing \u03c9, and a phase transition occurs leading to charge-density-wave ordering degenerate with superconductivity. Our work opens up the possibility of hidden spin-orbit coupling in materials where it is otherwise forbidden by lattice symmetry and paves the way to explore possible materials for spintronics."
+  },
+  {
+    "id": "https://openalex.org/W3120321111",
+    "title": "Nonlocal Effects Reflect the Jamming Criticality in Frictionless Granular Flows Down Inclines",
+    "year": 2021,
+    "abstract": "jamming transition is accompanied by a rich phenomenology such as hysteresis or nonlocal effects that is still not well understood. Here, we experimentally investigate a model frictionless granular layer flowing down an inclined plane as a way to disentangle generic collective effects from those arising from frictional interactions. We find that thin frictionless granular layers are devoid of hysteresis of the avalanche angle, yet the layer stability increases as it gets thinner. Steady rheological laws obtained for different layer thicknesses can be collapsed into a unique master curve, supporting the idea that nonlocal effects are the consequence of the usual finite-size effects associated with the presence of a critical point. This collapse indicates that the so-called isostatic length l^{*}, the scale on which pinning a boundary freezes all remaining floppy modes, governs the effect of boundaries on flow and rules out other propositions made in the past."
+  },
+  {
+    "id": "https://openalex.org/W3041566821",
+    "title": "Dimensionality-Induced Change in Topological Order in Multiferroic Oxide Superlattices",
+    "year": 2021,
+    "abstract": "construct ferroelectric (LuFeO_{3})_{m}/(LuFe_{2}O_{4}) superlattices with varying index m to study the effect of confinement on topological defects. We observe a thickness-dependent transition from neutral to charged domain walls and the emergence of fractional vortices. In thin LuFeO_{3} layers, the volume fraction of domain walls grows, lowering the symmetry from P6_{3}cm to P3c1 before reaching the nonpolar P6_{3}/mmc state, analogous to the group-subgroup sequence observed at the high-temperature ferroelectric to paraelectric transition. Our study shows how dimensional confinement stabilizes textures beyond those in bulk ferroelectric systems."
+  },
+  {
+    "id": "https://openalex.org/W3205738223",
+    "title": "Measurement of the Coherent Elastic Neutrino-Nucleus Scattering Cross Section on CsI by COHERENT",
+    "year": 2022,
+    "abstract": "measured the cross section of coherent elastic neutrino-nucleus scattering (CEvNS) using a CsI[Na] scintillating crystal in a high flux of neutrinos produced at the Spallation Neutron Source at Oak Ridge National Laboratory. New data collected before detector decommissioning have more than doubled the dataset since the first observation of CEvNS, achieved with this detector. Systematic uncertainties have also been reduced with an updated quenching model, allowing for improved precision. With these analysis improvements, the COHERENT Collaboration determined the cross section to be (165_{-25}^{+30})\u00d710^{-40} cm^{2}, consistent with the standard model, giving the most precise measurement of CEvNS yet. The timing structure of the neutrino beam has been exploited to compare the CEvNS cross section from scattering of different neutrino flavors. This result places leading constraints on neutrino nonstandard interactions while testing lepton flavor universality and measures the weak mixing angle as sin^{2}\u03b8_{W}=0.220_{-0.026}^{+0.028} at Q^{2}\u2248(50 MeV)^{2}."
+  },
+  {
+    "id": "https://openalex.org/W2974540358",
+    "title": "Protocol for Precise Field Sensing in the Optical Domain with Cold Atoms in a Cavity",
+    "year": 2020,
+    "abstract": "the context of quantum metrology, optical cavity-QED platforms have primarily been focused on the generation of entangled atomic spin states useful for next-generation frequency and time standards. Here, we report a complementary application: the use of optical cavities to generate nonclassical states of light for electric field sensing below the standard quantum limit. We show that cooperative atom-light interactions in the strong collective coupling regime can be used to engineer generalized atom-light cat states which enable quantum enhanced sensing of small displacements of the cavity field even in the presence of photon loss. We demonstrate that metrological gains of 10-20 dB below the standard quantum limit are within reach for current cavity-QED systems operating with long-lived alkaline-earth atoms."
+  },
+  {
+    "id": "https://openalex.org/W3080433904",
+    "title": "Demonstration of Dissipative Quasihelical Edge Transport in Quantum Anomalous Hall Insulators",
+    "year": 2020,
+    "abstract": "a topological insulator (TI) film with transition metal ions can break its time-reversal symmetry and lead to the realization of the quantum anomalous Hall (QAH) effect. Prior studies have shown that the longitudinal resistance of the QAH samples usually does not vanish when the Hall resistance shows a good quantization. This has been interpreted as a result of the presence of possible dissipative conducting channels in magnetic TI samples. By studying the temperature- and magnetic-field-dependence of the magnetoresistance of a magnetic TI sandwich heterostructure device, we demonstrate that the predominant dissipation mechanism in thick QAH insulators can switch between nonchiral edge states and residual bulk states in different magnetic-field regimes. The interactions between bulk states, chiral edge states, and nonchiral edge states are also investigated. Our Letter provides a way to distinguish between the dissipation arising from the residual bulk states and nonchiral edge states, which is crucial for achieving true dissipationless transport in QAH insulators and for providing deeper insights into QAH-related phenomena."
+  },
+  {
+    "id": "https://openalex.org/W4392451469",
+    "title": "Multimessenger Constraints on Radiatively Decaying Axions from GW170817",
+    "year": 2024,
+    "abstract": "metastable hypermassive neutron star produced in the coalescence of two neutron stars can copiously produce axions that radiatively decay into O(100) MeV photons. These photons can form a fireball with characteristic temperature smaller than 1 MeV. By relying on x-ray observations of GW170817/GRB 170817A with CALET CGBM, Konus-Wind, and Insight-HXMT/HE, we present new bounds on the axion-photon coupling for axion masses in the range 1-400 MeV. We exclude couplings down to 5\u00d710^{-11} GeV^{-1}, complementing and surpassing existing constraints. Our approach can be extended to any feebly interacting particle decaying into photons."
+  },
+  {
+    "id": "https://openalex.org/W4220781149",
+    "title": "Stochastic Single-Shot Polarization Pinning of Polariton Condensate at High Temperatures",
+    "year": 2022,
+    "abstract": "resolve single-shot polariton condensate polarization dynamics, revealing a high degree of circular polarization persistent up to T=170 K. The statistical analysis of pulse-to-pulse polariton condensate polarization elucidates the stochastic nature of the polarization pinning process, which is strongly dependent on the pump laser intensity and polarization. Our experiments show that by spatial trapping and isolating condensates from their noisy environment it is possible to form strongly spin-polarized polariton condensates at high temperatures, offering a promising route to the realization of polariton spin lattices for quantum simulations."
+  },
+  {
+    "id": "https://openalex.org/W4410032803",
+    "title": "Ergodicity Breaking and Scaling Relations for Finite-Time First-Order Phase Transition",
+    "year": 2025,
+    "abstract": "and metastable states are typical features associated with ergodicity breaking in the first-order phase transition. We explore the scaling relations of nonequilibrium thermodynamics in finite-time first-order phase transitions. Using the Curie-Weiss model as an example, for large systems we find the excess work scales as v^{2/3} when the magnetic field is quenched at a finite rate v across the phase transition. We further reveal a crossover in the scaling of the excess work from v^{2/3} to v when downsizing the system. Our study elucidates the interplay between the finite-time dynamics and the finite-size effect, which leads to different scaling behaviors of the excess work with or without ergodicity breaking."
+  },
+  {
+    "id": "https://openalex.org/W2991552201",
+    "title": "Signatures of the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mo>*</mml:mo></mml:mrow></mml:msup><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>2380</mml:mn><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:math> Hexaquark in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>d</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mi>\u03b3</mml:mi><mml:mo>,</mml:mo><mml:mi>p</mml:mi><mml:mover accent=\"true\"><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">\u2192</mml:mo></mml:mrow></mml:mover><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:math>",
+    "year": 2020,
+    "abstract": "report a measurement of the spin polarization of the recoiling neutron in deuterium photodisintegration, utilizing a new large acceptance polarimeter within the Crystal Ball at MAMI. The measured photon energy range of 300-700 MeV provides the first measurement of recoil neutron polarization at photon energies where the quark substructure of the deuteron plays a role, thereby providing important new constraints on photodisintegration mechanisms. A very high neutron polarization in a narrow structure centered around E_{\u03b3}\u223c570 MeV is observed, which is inconsistent with current theoretical predictions employing nucleon resonance degrees of freedom. A Legendre polynomial decomposition suggests this behavior could be related to the excitation of the d^{*}(2380) hexaquark."
+  },
+  {
+    "id": "https://openalex.org/W4413344596",
+    "title": "Assessing Cosmological Evidence for Nonminimal Coupling",
+    "year": 2025,
+    "abstract": "recent observational evidence of deviations from the Lambda cold dark matter model points toward the presence of evolving dark energy. The simplest possibility consists of a cosmological scalar field \u03c6, dubbed \"quintessence,\" driving the accelerated expansion. We assess the evidence for the existence of such a scalar field. We find that, if the accelerated expansion is driven by quintessence, the data favor a potential energy V(\u03c6) that is concave, i.e., m^{2}=d^{2}V/d\u03c6^{2}<0. Furthermore, and more significantly, the data strongly favor a scalar field that is nonminimally coupled to gravity [Bayes factor log(B)=7.34\u00b10.6], leading to time variations in the gravitational constant on cosmological scales, and the existence of fifth forces on smaller scales. The fact that we do not observe such fifth forces implies that either new physics must come into play on noncosmological scales or that quintessence is an unlikely explanation for the observed cosmic acceleration."
+  },
+  {
+    "id": "https://openalex.org/W4391346659",
+    "title": "Polarization-Sensitive Photoluminescence from Aligned Carbon Chains Terminated by\u00a0Gold\u00a0Clusters",
+    "year": 2024,
+    "abstract": "synthesize a thin film composed of long carbyne chains terminated by gold clusters and study its optical properties. The presence of gold particles stabilizes longer chains and leads to their alignment. We show that the gold clusters also act as a source of electron doping, thus, changing the intensity of photoluminescence from quadratic dependence on the pumping intensity without gold to linear with gold. We also observe that the excitation of the film at the gold plasmon frequency causes the blue shift of photoluminescence and estimate, on the basis of this effect, the minimum length of the carbyne chains. The high degree of alignment of the gold-terminated carbyne chains results in strongly anisotropic light absorption characterized by a distinctive cosine dependence on the angle between the carbyne molecule and polarization plane of the excitation. This paves the way for a new class of ultimately thin polarization sensitive emitters to be used in future integrated quantum photonics devices."
+  },
+  {
+    "id": "https://openalex.org/W7160186941",
+    "title": "One-Loop QCD <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mi>\u03b2</mml:mi> </mml:mrow> </mml:math> Function as an Index",
+    "year": 2026,
+    "abstract": "this Letter, we show that the one-loop QCD \u03b2 function can be obtained from an index theorem on twistor space. This is achieved by recalling that the \u03b8 angle of self-dual gauge theory flows according the one-loop \u03b2 function. Rewriting self-dual gauge theory as a holomorphic theory on twistor space this flow can be computed as the anomaly to scale invariance. The one-loop Weyl anomaly coefficient a-c can be recovered similarly."
+  },
+  {
+    "id": "https://openalex.org/W4407770034",
+    "title": "Paradigm for Finding <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mi>d</mml:mi> </mml:mrow> </mml:math> -Electron Heavy Fermions: The Case of Cr-doped <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>CsFe</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:mrow> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>As</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:mrow> </mml:mrow> </mml:math>",
+    "year": 2025,
+    "abstract": "define a general strategy for finding new heavy-fermionic materials without rare-earth elements: doping a Hund metal with pronounced orbital-selective correlations towards half-filling. We argue that in general band structures, a possible orbital-selective Mott transition is frustrated by interorbital hopping into heavy-fermion behavior-where d orbitals provide both the heavy and the light electrons-which is enhanced when approaching half-filling. This phase ultimately disappears due to magnetic correlations, as in a standard Doniach diagram. Experimentally we have hole doped CsFe_{2}As_{2}, a Hund metal with 0.5 electrons/Fe away from half-filling, and obtained a heavy fermionic state with the highest Sommerfeld coefficient for Fe pnictides to date (270 mJ/mol K^{2}), before signatures of an antiferromagnetic phase set in."
+  },
+  {
+    "id": "https://openalex.org/W4417347330",
+    "title": "Achieving the Quantum Fisher Information Bound in Pseudo-Hermitian Sensors",
+    "year": 2026,
+    "abstract": "systems have attracted considerable interest over the last few decades due to their unique spectral and dynamical properties not encountered in Hermitian counterparts. An intensely debated question is whether non-Hermitian systems, described by pseudo-Hermitian Hamiltonians with real spectra, can offer enhanced sensitivity for parameter estimation when they are operated at or close to exceptional points. However, much of the current analysis and conclusions are based on mathematical formalism developed for Hermitian quantum systems, which is questionable when applied to pseudo-Hermitian Hamiltonians, whose Hilbert space is intrinsically nonflat. Here, we develop a covariant formulation of quantum Fisher information (QFI) defined on the deformed Hilbert space of pseudo-Hermitian Hamiltonians. This covariant framework ensures the preservation of the state norm and enables a consistent treatment of parameter sensitivity. We further show that the covariant QFI of pseudo-Hermitian systems is dual to the ordinary QFI of corresponding Hermitian systems. Importantly, this correspondence naturally imposes an upper bound on the covariant QFI and allows one to identify optimal projections which saturate the corresponding classical Fisher information to this ultimate limit. The developed framework also enables to set the criteria under which pseudo-Hermitian sensors can exhibit an advantage over their Hermitian counterparts of the same dimensionality."
+  },
+  {
+    "id": "https://openalex.org/W3119284616",
+    "title": "Hinge Spin Polarization in Magnetic Topological Insulators Revealed by Resistance Switch",
+    "year": 2021,
+    "abstract": "report on the possibility of detecting hinge spin polarization in magnetic topological insulators by resistance measurements. By implementing a three-dimensional model of magnetic topological insulators into a multiterminal device with ferromagnetic contacts near the top surface, local spin features of the chiral edge modes are unveiled. We find local spin polarization at the hinges that inverts the sign between the top and bottom surfaces. At the opposite edge, the topological state with inverted spin polarization propagates in the reverse direction. A large resistance switch between forward and backward propagating states is obtained, driven by the matching between the spin polarized hinges and the ferromagnetic contacts. This feature is general to the ferromagnetic, antiferromagnetic, and canted antiferromagnetic phases, and enables the design of spin-sensitive devices, with the possibility of reversing the hinge spin polarization of the currents."
+  },
+  {
+    "id": "https://openalex.org/W4378799351",
+    "title": "Superconductivity, Charge Density Wave, and Supersolidity in Flat Bands with a Tunable Quantum Metric",
+    "year": 2023,
+    "abstract": "the fate of an interacting system in the limit where the electronic bandwidth is quenched is often highly nontrivial. The complex interplay between interactions and quantum fluctuations driven by the band geometry can drive competition between various ground states, such as charge density wave order and superconductivity. In this work, we study an electronic model of topologically trivial flat bands with a continuously tunable Fubini-Study metric in the presence of on-site attraction and nearest-neighbor repulsion, using numerically exact quantum Monte Carlo simulations. By varying the electron filling and the minimal spatial extent of the localized flat-band Wannier wave functions, we obtain a number of intertwined orders. These include a phase with coexisting charge density wave order and superconductivity, i.e., a supersolid. In spite of the nonperturbative nature of the problem, we identify an analytically tractable limit associated with a \"small\" spatial extent of the Wannier functions and derive a low-energy effective Hamiltonian that can well describe our numerical results. We also provide unambiguous evidence for the violation of any putative lower bound on the zero-temperature superfluid stiffness in geometrically nontrivial flat bands."
+  },
+  {
+    "id": "https://openalex.org/W2999204473",
+    "title": "Simulating a Mott Insulator Using Attractive Interaction",
+    "year": 2020,
+    "abstract": "study the particle-hole symmetry in the Hubbard model using ultracold fermionic atoms in an optical lattice. We demonstrate the mapping between charge and spin degrees of freedom and, in particular, show the occurrence of a state with \"incompressible\" magnetization for attractive interactions. Our results present a novel approach to quantum simulation by giving access to strongly correlated phases of matter through an experimental mapping to easier detectable observables."
+  },
+  {
+    "id": "https://openalex.org/W4410538652",
+    "title": "Deviations from the Porter-Thomas Distribution due to Nonstatistical <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mi>\u03b3</mml:mi> </mml:mrow> </mml:math> Decay below the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mmultiscripts> <mml:mrow> <mml:mi>Nd</mml:mi> </mml:mrow> <mml:mprescripts/> <mml:none/> <mml:mrow> <mml:mn>150</mml:mn> </mml:mrow> </mml:mmultiscripts> </mml:mrow> </mml:math> Neutron Separation Threshold",
+    "year": 2025,
+    "abstract": "introduce a new method for the study of fluctuations of partial transition widths based on nuclear resonance fluorescence experiments with quasimonochromatic linearly polarized photon beams below particle separation thresholds. It is based on the average branching of decays of J=1 states of an even-even nucleus to the 2_{1}^{+} state in comparison to the ground state. Between 5 and 7 MeV, a constant average branching ratio for \u03b3 decays from 1^{-} states of 0.490(16) is observed for the nuclide ^{150}Nd. Assuming \u03c7^{2}-distributed partial transition widths, this average branching ratio is related to a degree of freedom of \u03bd=1.93(12), rejecting the validity of the Porter-Thomas distribution, requiring \u03bd=1. The observed deviation can be explained by nonstatistical effects in the \u03b3-decay behavior with contributions in the range of 9.4(10)% up to 94(10)%."
+  },
+  {
+    "id": "https://openalex.org/W4285800903",
+    "title": "Large <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>N</mml:mi></mml:math> Partition Functions, Holography, and Black Holes",
+    "year": 2022,
+    "abstract": "present a simple closed form expression for the topologically twisted index of the ABJM theory as a function of the magnetic fluxes and complex chemical potentials valid at fixed k and to all orders in the 1/N expansion. This in turn leads to analytic expressions for the topologically twisted index at fixed genus in the 't Hooft limit to all orders in the 1/sqrt[\u03bb] expansion. These results have important implications for holography and the microscopic entropy counting of supersymmetric static AdS_{4} black holes. Generalizations to other SCFTs arising from M2-branes are also briefly discussed."
+  },
+  {
+    "id": "https://openalex.org/W4406497212",
+    "title": "Observation of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msubsup><mml:mrow><mml:mi mathvariant=\"normal\">\u039b</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msubsup><mml:mo stretchy=\"false\">\u2192</mml:mo><mml:mi mathvariant=\"normal\">\u039b</mml:mi><mml:msub><mml:mrow><mml:mi>a</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>980</mml:mn><mml:msup><mml:mrow><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math> and Evidence for <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"normal\">\u03a3</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>1380</mml:mn><mml:msup><mml:mrow><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math> in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msubsup><mml:mrow><mml:mi mathvariant=\"normal\">\u039b</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msubsup><mml:mo stretchy=\"false\">\u2192</mml:mo><mml:mi mathvariant=\"normal\">\u039b</mml:mi><mml:msup><mml:mrow><mml:mi>\u03c0</mml:mi></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mi>\u03b7</mml:mi></mml:mrow></mml:math>",
+    "year": 2025,
+    "abstract": "on 6.1 fb^{-1} of e^{+}e^{-} annihilation data collected at center-of-mass energies from 4.600 to 4.843 GeV with the BESIII detector at the BEPCII collider, a partial wave analysis of \u039b_{c}^{+}\u2192\u039b\u03c0^{+}\u03b7 is performed, and branching fractions and decay asymmetry parameters of intermediate processes are determined. The process \u039b_{c}^{+}\u2192\u039ba_{0}(980)^{+} is observed for the first time, and evidence for the pentaquark candidate \u03a3(1380)^{+} decaying into \u039b\u03c0^{+} is found with statistical significance larger than 3\u03c3 with mass and width fixed to theoretical predictions. The branching fraction product B[\u039b_{c}^{+}\u2192\u039ba_{0}(980)^{+}]B[a_{0}(980)^{+}\u2192\u03c0^{+}\u03b7] is determined to be (1.05\u00b10.16_{stat}\u00b10.05_{syst}\u00b10.07_{ext})%, which is larger than theoretical calculations by 1-2 orders of magnitude. Here the third (external) systematic is from B(\u039b_{c}^{+}\u2192\u039b\u03c0^{+}\u03b7). Finally, we precisely obtain the absolute branching fraction B(\u039b_{c}^{+}\u2192\u039b\u03c0^{+}\u03b7)=(1.94\u00b10.07_{stat}\u00b10.11_{syst})%."
+  },
+  {
+    "id": "https://openalex.org/W4390579938",
+    "title": "Extracting Higher Central Charge from a Single Wave Function",
+    "year": 2024,
+    "abstract": "$(2+1)\\mathrm{D}$ topologically ordered phase may or may not have a gappable edge, even if its chiral central charge ${c}_{\\ensuremath{-}}$ is vanishing. Recently, it was discovered that a quantity regarded as a ``higher'' version of chiral central charge gives a further obstruction beyond ${c}_{\\ensuremath{-}}$ to gapping out the edge. In this Letter, we show that the higher central charges can be characterized by the expectation value of the partial rotation operator acting on the wave function of the topologically ordered state. This allows us to extract the higher central charge from a single wave function, which can be evaluated on a quantum computer. Our characterization of the higher central charge is analytically derived from the modular properties of edge conformal field theory, as well as the numerical results with the $\\ensuremath{\\nu}=1/2$ bosonic Laughlin state and the non-Abelian gapped phase of the Kitaev honeycomb model, which corresponds to $\\mathrm{U}(1{)}_{2}$ and Ising topological order, respectively. The Letter establishes a numerical method to obtain a set of obstructions to the gappable edge of $(2+1)\\mathrm{D}$ bosonic topological order beyond ${c}_{\\ensuremath{-}}$, which enables us to completely determine if a $(2+1)\\mathrm{D}$ bosonic Abelian topological order has a gappable edge or not. We also point out that the expectation values of the partial rotation on a single wave function put a constraint on the low-energy spectrum of the bulk-boundary system of $(2+1)\\mathrm{D}$ bosonic topological order, reminiscent of the Lieb-Schultz-Mattis-type theorems."
+  },
+  {
+    "id": "https://openalex.org/W2999278972",
+    "title": "Universality Classes of Spin Transport in One-Dimensional Isotropic Magnets: The Onset of Logarithmic Anomalies",
+    "year": 2020,
+    "abstract": "report a systematic study of finite-temperature spin transport in quantum and classical one-dimensional magnets with isotropic spin interactions, including both integrable and nonintegrable models. Employing a phenomenological framework based on a generalized Burgers' equation in a time-dependent stochastic environment, we identify four different universality classes of spin fluctuations. These comprise, aside from normal spin diffusion, three types of superdiffusive transport: the Kardar-Parisi-Zhang universality class and two distinct types of anomalous diffusion with multiplicative logarithmic corrections. Our predictions are supported by extensive numerical simulations on various examples of quantum and classical chains. Contrary to common belief, we demonstrate that even nonintegrable spin chains can display a diverging spin diffusion constant at finite temperatures."
+  },
+  {
+    "id": "https://openalex.org/W4390347123",
+    "title": "Expanding the Pressure Frontier in Gr\u00fcneisen Parameter Measurement: Study of Sodium Chloride",
+    "year": 2023,
+    "abstract": "Gr\u00fcneisen parameter (\u03b3) is crucial for determining many thermal properties, including the anharmonic effect, thermostatistics, and equation of state of materials. However, the isentropic adiabatic compression conditions required to measure the Gr\u00fcneisen parameter under high pressure are difficult to achieve. Thus, direct experimental Gr\u00fcneisen parameter data in a wide range of pressures is sparse. In this work, we developed a new device that can apply pressure (up to tens of GPa) with an extremely short time of about 0.5 ms, confidently achieving isentropic adiabatic compression. Then, we applied our new technique to sodium chloride and measured its Gr\u00fcneisen parameter, which conforms to previous theoretical predictions. According to our obtained sodium chloride Gr\u00fcneisen parameters, the calculated Hugoniot curve of the NaCl B1 phase appears up to 20 GPa and 960 K, which compares very well with the shock compression experimental data by Fritz et al. and other calculation works. Our results suggest that this new method can reliably measure the Gr\u00fcneisen parameter of even more materials, which is significant for researching the equation of state in substances."
+  },
+  {
+    "id": "https://openalex.org/W4403247026",
+    "title": "Flexomagnetoelectric Effect in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>Sr</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> <mml:msub> <mml:mrow> <mml:mi>IrO</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>4</mml:mn> </mml:mrow> </mml:msub> </mml:mrow> </mml:math> Thin Films",
+    "year": 2024,
+    "abstract": "engineering is explicitly effective to manipulate and even create phases and orderings in strongly correlated materials. Flexural stress is universally practical to break the space-inversion or time-reversal symmetry. Here, by introducing strain gradient in a centrosymmetric antiferromagnet Sr_{2}IrO_{4}, the space-inversion symmetry is broken accompanying a nonequivalent O p-Ir d orbital hybridization along the z axis. Thus, an emergent polar phase and out-of-plane magnetic moment have been simultaneously observed in these asymmetric Sr_{2}IrO_{4} thin films, which both are absent in its ground state. Furthermore, upon the application of a magnetic field, such polarization can be controlled by modifying the occupied d orbitals through spin-orbit interaction, giving rise to a flexomagnetoelectric effect. This Letter provides a general strategy to artificially design multiple symmetries and ferroic orderings in strongly correlated systems."
+  },
+  {
+    "id": "https://openalex.org/W4389433690",
+    "title": "Mechanochemical Active Feedback Generates Convergence Extension in Epithelial Tissue",
+    "year": 2023,
+    "abstract": "extension, the simultaneous elongation of tissue along one axis while narrowing along a perpendicular axis, occurs during embryonic development. A fundamental process that contributes to shaping the organism, it happens in many different species and tissue types. Here, we present a minimal continuum model, that can be directly linked to the controlling microscopic biochemistry, which shows spontaneous convergence extension. It is comprised of a 2D viscoelastic active material with a mechanochemical active feedback mechanism coupled to a substrate via friction. Robust convergent extension behavior emerges beyond a critical value of the activity parameter and is controlled by the boundary conditions and the coupling to the substrate. Oscillations and spatial patterns emerge in this model when internal dissipation dominates over friction, as well as in the active elastic limit."
+  },
+  {
+    "id": "https://openalex.org/W4324139611",
+    "title": "Multiphoton Ionization Reduction of Atoms in Two-Color Femtosecond Laser Fields",
+    "year": 2023,
+    "abstract": "report the ionization reduction of atoms in two-color femtosecond laser fields in this joint theoretical-experimental study. For the multiphoton ionization of atoms using a 400 nm laser pulse, the ionization probability is reduced if another relatively weak 800 nm laser pulse is overlapped. Such ionization reduction consistently occurs regardless of the relative phase between the two pulses. The time-dependent Schr\u00f6dinger equation simulation results indicate that with the assisted 800 nm photons the electron can be launched to Rydberg states with large angular quantum numbers, which stand off the nuclei and thus are hard to be freed in the multiphoton regime. This mechanism works for hydrogen, helium, and probably some other atoms if two-color laser fields are properly tuned."
+  },
+  {
+    "id": "https://openalex.org/W4381551274",
+    "title": "Collective Energy Transfer to a Spectator Atom via Multicenter Intermolecular Coulombic Decay",
+    "year": 2026,
+    "abstract": "mechanisms that enable collective and upconverted energy transfer from multiple photoacceptors to a nonabsorbing spectator reaction center are highly desirable for efficient light-energy utilization. Here, we show that intermolecular Coulombic decay (ICD), a nonlocal energy-relaxation channel in photoexcited molecules, offers an avenue for such a novel energy-transfer mechanism. On irradiation of a pyridine-argon gas mixture at 266 nm and at low laser intensities, we observed a surprisingly dominant formation of argon cations. Measurements of the laser-power dependence, together with systematic studies of Ar^{+} yield versus laser intensity and molecular density, reveal that ICD mediates the collective funneling of excitation energy from multiple photoexcited pyridine molecules to a nonphotoabsorbing argon atom, leading to its ionization. The density of the reaction center offers an efficient handle to optimize this collective energy transfer. This mechanism opens new avenues in light-harvesting design and may help explain the remarkable resistance of biomolecules to photodamage."
+  },
+  {
+    "id": "https://openalex.org/W4381743826",
+    "title": "Ultrafast Temporal SU(1,1) Interferometer",
+    "year": 2023,
+    "abstract": "are highly sensitive to phase differences and are utilized in numerous schemes. Of special interest is the quantum SU(1,1) interferometer which is able to improve the sensitivity of classical interferometers. We theoretically develop and experimentally demonstrate a temporal SU(1,1) interferometer based on two time lenses in a 4f configuration. This temporal SU(1,1) interferometer has a high temporal resolution, imposes interference on both time and spectral domains, and is sensitive to the phase derivative which is important for detecting ultrafast phase changes. Therefore, this interferometer can be utilized for temporal mode encoding, imaging, and studying the ultrafast temporal structure of quantum light."
+  },
+  {
+    "id": "https://openalex.org/W3093274238",
+    "title": "Emergent Bloch Oscillations in a Kinetically Constrained Rydberg Spin Lattice",
+    "year": 2021,
+    "abstract": "explore the relaxation dynamics of elementary spin clusters in a kinetically constrained spin system. Inspired by experiments with Rydberg lattice gases, we focus on the situation in which an excited spin leads to a \"facilitated\" excitation of a neighboring spin. We show that even weak interactions that extend beyond nearest neighbors can have a dramatic impact on the relaxation behavior: they generate a linear potential, which under certain conditions leads to the onset of Bloch oscillations of spin clusters. These hinder the expansion of a cluster and, more generally, the relaxation of many-body states toward equilibrium. This shows that nonergodic behavior in kinetically constrained systems may occur as a consequence of the interplay between reduced connectivity of many-body states and weak interparticle interactions. We furthermore show that the emergent Bloch oscillations identified here can be detected in experiment through measurements of the Rydberg atom density and discuss how spin-orbit coupling between internal and external degrees of freedom of spin clusters can be used to control their relaxation behavior."
+  },
+  {
+    "id": "https://openalex.org/W4387060388",
+    "title": "New Probe of Inflationary Gravitational Waves: Cross-Correlations of Lensed Primary CMB <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi></mml:math>-Modes with Large-Scale Structure",
+    "year": 2023,
+    "abstract": "propose a new probe of inflationary gravitational waves (IGWs): the cross-correlation of the lensing of inflationary $B$-mode polarization with a large-scale structure (LSS) tracer, which can also be a cosmic microwave background (CMB) lensing map. This is equivalent to measuring a three-point function of two CMB $B$-modes and an LSS tracer. We forecast expected $1\\ensuremath{\\sigma}$ constraints on the tensor-to-scalar ratio $r$, albeit with a simplistic foreground treatment, and find constraints of ${\\ensuremath{\\sigma}}_{r}\\ensuremath{\\simeq}7\\ifmmode\\times\\else\\texttimes\\fi{}{10}^{\\ensuremath{-}3}$ from the correlation of CMB-S4-Deep $B$-mode lensing and LSST galaxies, ${\\ensuremath{\\sigma}}_{r}\\ensuremath{\\simeq}5\\ifmmode\\times\\else\\texttimes\\fi{}{10}^{\\ensuremath{-}3}$ from the correlation of CMB-S4-Deep $B$-mode lensing and CMB-S4-Deep CMB lensing, and ${\\ensuremath{\\sigma}}_{r}\\ensuremath{\\simeq}{10}^{\\ensuremath{-}2}$ from the correlation of LiteBIRD $B$-mode lensing and CMB-S4-Wide lensing. Because this probe is inherently non-Gaussian, simple Gaussian foregrounds will not produce any biases to the measurement of $r$. While a detailed investigation of non-Gaussian foreground contamination for different cross-correlations will be essential, this observable has the potential to be a useful probe of IGWs, which, due to different sensitivity to many potential sources of systematic errors, can be complementary to standard methods for constraining $r$."
+  },
+  {
+    "id": "https://openalex.org/W3209466116",
+    "title": "Investigation of Nonequilibrium Electronic Dynamics of Warm Dense Copper with Femtosecond X-Ray Absorption Spectroscopy",
+    "year": 2021,
+    "abstract": "optical excitation of matter leads to highly excited states that are far from equilibrium. In this study, femtosecond x-ray absorption spectroscopy was used to visualize the ultrafast dynamics in photoexcited warm dense Cu. The rich dynamical features related to d vacancies are observed on femtosecond timescales. Despite the success in explaining x-ray absorption data in the picosecond regime, the new femtosecond data are poorly understood through the traditional two-temperature model based on the fast thermalization concept and the static electronic structure for high-temperature metals. An improved understanding can be achieved by including the recombination dynamics of nonthermal electrons and changes in the screening of the excited d block. The population balance between the 4sp and 3d bands is mainly determined by the recombination rate of nonthermal electrons, and the underpopulated 3d block is initially strongly downshifted and recovered in several hundreds of femtoseconds."
+  },
+  {
+    "id": "https://openalex.org/W3206102951",
+    "title": "Boulay <i>et\u00a0al.</i> Reply:",
+    "year": 2021,
+    "abstract": "audience"
+  },
+  {
+    "id": "https://openalex.org/W3041537843",
+    "title": "Activating Hidden Metrological Usefulness",
+    "year": 2020,
+    "abstract": "consider bipartite entangled states that cannot outperform separable states in any linear interferometer. Then, we show that these states can still be more useful metrologically than separable states if several copies of the state are provided or an ancilla is added to the quantum system. We present a general method to find the local Hamiltonian for which a given quantum state performs the best compared to separable states. We obtain analytically the optimal Hamiltonian for some quantum states with a high symmetry. We show that all bipartite entangled pure states outperform separable states in metrology. Some potential applications of the results are also suggested."
+  },
+  {
+    "id": "https://openalex.org/W3170421275",
+    "title": "Giant Photoelasticity of Polaritons for Detection of Coherent Phonons in a Superlattice with Quantum Sensitivity",
+    "year": 2022,
+    "abstract": "functionality of phonon-based quantum devices largely depends on the efficiency of the interaction of phonons with other excitations. For phonon frequencies above 20 GHz, generation and detection of the phonon quanta can be monitored through photons. The photon-phonon interaction can be enormously strengthened by involving an intermediate resonant quasiparticle, e.g., an exciton, with which a photon forms a polariton. In this work, we discover a giant photoelasticity of exciton-polaritons in a short-period superlattice and exploit it to detect propagating acoustic phonons. We demonstrate that 42 GHz coherent phonons can be detected with extremely high sensitivity in the time domain Brillouin oscillations by probing with photons in the spectral vicinity of the polariton resonance."
+  },
+  {
+    "id": "https://openalex.org/W3018084236",
+    "title": "Phase Diagram and Superconducting Dome of Infinite-Layer <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>Nd</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>\u2212</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>Sr</mml:mi></mml:mrow><mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>NiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math> Thin Films",
+    "year": 2020,
+    "abstract": "Nd_{1-x}Sr_{x}NiO_{2} thin films with Sr doping level x from 0.08 to 0.3 are synthesized and investigated. We find a superconducting dome x between 0.12 and 0.235 accompanied by a weakly insulating behavior in both under- and overdoped regimes. The dome is akin to that in the electron-doped 214-type and infinite-layer cuprate superconductors. For x\u22650.18, the normal state Hall coefficient (R_{H}) changes the sign from negative to positive as the temperature decreases. The temperature of the sign changes decreases monotonically with decreasing x from the overdoped side and approaches the superconducting dome at the midpoint, suggesting a reconstruction of the Fermi surface with the dopant concentration across the dome."
+  },
+  {
+    "id": "https://openalex.org/W4410287810",
+    "title": "QED Corrections to the Parity-Violating Asymmetry in High-Energy Electron-Nucleus Collisions",
+    "year": 2025,
+    "abstract": "parity-violating asymmetry, including leading-order QED corrections to the Coulomb potential, is calculated nonperturbatively by solving the Dirac equation. At GeV collision energies and forward scattering angles, QED effects enhance the asymmetry by approximately 5% for the recently measured nuclei ^{27}Al, ^{48}Ca, and ^{208}Pb. The corrections result in a shift of the estimated neutron radius, leading to an increase in the inferred neutron skin thicknesses of these nuclei and, thus, to the pressure neutrons feel around nuclear saturation density."
+  },
+  {
+    "id": "https://openalex.org/W4387494562",
+    "title": "Measurement of the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msubsup><mml:mrow><mml:mi mathvariant=\"normal\">\u039b</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup><mml:mo stretchy=\"false\">\u2192</mml:mo><mml:mi mathvariant=\"normal\">\u039b</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>1520</mml:mn><mml:mo stretchy=\"false\">)</mml:mo><mml:msup><mml:mrow><mml:mi>\u03bc</mml:mi></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mi>\u03bc</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math> Differential Branching Fraction",
+    "year": 2023,
+    "abstract": "branching fraction of the rare decay ${\\mathrm{\\ensuremath{\\Lambda}}}_{b}^{0}\\ensuremath{\\rightarrow}\\mathrm{\\ensuremath{\\Lambda}}(1520){\\ensuremath{\\mu}}^{+}{\\ensuremath{\\mu}}^{\\ensuremath{-}}$ is measured for the first time, in the squared dimuon mass intervals ${q}^{2}$, excluding the $J/\\ensuremath{\\psi}$ and $\\ensuremath{\\psi}(2S)$ regions. The data sample analyzed was collected by the LHCb experiment at center-of-mass energies of 7, 8, and 13 TeV, corresponding to a total integrated luminosity of $9\\text{ }\\text{ }{\\mathrm{fb}}^{\\ensuremath{-}1}$. The result in the highest ${q}^{2}$ interval, ${q}^{2}&gt;15.0\\text{ }\\text{ }{\\mathrm{GeV}}^{2}/{c}^{4}$, where theoretical predictions have the smallest model dependence, agrees with the predictions."
+  },
+  {
+    "id": "https://openalex.org/W3207335671",
+    "title": "Direct Observation of Collective Electronuclear Modes about a Quantum Critical Point",
+    "year": 2021,
+    "abstract": "directly measure the low energy excitation modes of the quantum Ising magnet LiHoF_{4} using microwave spectroscopy. Instead of a single electronic mode, we find a set of collective electronuclear modes, in which the spin-1/2 Ising electronic spins hybridize with the bath of spin-7/2 Ho nuclear spins. The lowest-lying electronuclear mode softens at the approach to the quantum critical point, even in the presence of disorder. This softening is rapidly quenched by a longitudinal magnetic field. Similar electronuclear structures should exist in other spin-based quantum Ising systems."
+  },
+  {
+    "id": "https://openalex.org/W4410825515",
+    "title": "Sum of Entanglement and Subsystem Coherence Is Invariant under Quantum Reference Frame Transformations",
+    "year": 2025,
+    "abstract": "work on quantum reference frames (QRFs) has demonstrated that superposition and entanglement are properties that change under QRF transformations. Given their utility in quantum information processing, it is important to understand how a mere change of perspective can produce or reduce these resources. Here we prove the existence of a QRF invariant which can be decomposed such that it captures the trade-off between entanglement and subsystem coherence: we demonstrate the invariance of the sum of entanglement and subsystem coherence for two pairs of resource quantifiers. Moreover, we find a weaker trade-off that holds for any possible pair of measures. Finally, we discuss the implications of this interplay for violations of Bell's inequalities, clarifying that for any choice of QRF, there is a quantum resource responsible for the violation. These findings contribute to a better understanding of the quantum information theoretic aspects of QRFs, offering a foundation for future exploration in both quantum theory and quantum gravity."
+  },
+  {
+    "id": "https://openalex.org/W3199305320",
+    "title": "Fractionalization on the Surface: Is Type-II Terminated <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mn>1</mml:mn><mml:mi>T</mml:mi><mml:mtext>\u2212</mml:mtext><mml:mrow><mml:msub><mml:mrow><mml:mi>TaS</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:math> Surface an Anomalously Realized Spin Liquid?",
+    "year": 2022,
+    "abstract": "type-II terminated 1T-TaS_{2} surface of a three-dimensional 1T-TaS_{2} bulk material realizes the effective spin-1/2 degree of freedom on each David star cluster with T^{2}=-1 such that the time-reversal symmetry is realized anomalously, despite the fact that bulk three-dimensional 1T-TaS_{2} material has an even number of electrons per unit cell with T^{2}=+1. This surface is effectively viewed as a spin-1/2 triangular lattice magnet, except with a fully gapped topological bulk. We further propose this surface termination realizes a spinon Fermi surface spin liquid with the surface fractionalization but with a nonexotic three-dimensional bulk. We analyze possible experimental consequences, especially the surface spectroscopic measurements, of the type-II terminated surface spin liquid."
+  },
+  {
+    "id": "https://openalex.org/W3021288136",
+    "title": "Observation of Pauli Crystals",
+    "year": 2021,
+    "abstract": "Pauli exclusion principle is a fundamental law underpinning the structure of matter. Because of their antisymmetric wave function, no two fermions can occupy the same quantum state. Here, we report on the direct observation of the Pauli principle in a continuous system of up to six particles in the ground state of a two-dimensional harmonic oscillator. To this end, we sample the full many-body wave function by applying a single atom resolved imaging scheme in momentum space. We find so-called Pauli crystals as a manifestation of higher order correlations. In contrast to true crystalline phases, these unique high-order density correlations emerge even without any interactions present. Our work lays the foundation for future studies of correlations in strongly interacting systems of many fermions."
+  },
+  {
+    "id": "https://openalex.org/W3129935988",
+    "title": "Neither Contextuality nor Nonlocality Admits Catalysts",
+    "year": 2021,
+    "abstract": "show that the resource theory of contextuality does not admit catalysts, i.e., there are no correlations that can enable an otherwise impossible resource conversion and still be recovered afterward. As a corollary, we observe that the same holds for nonlocality. As entanglement allows for catalysts, this adds a further example to the list of \"anomalies of entanglement,\" showing that nonlocality and entanglement behave differently as resources. We also show that catalysis remains impossible even if, instead of classical randomness, we allow some more powerful behaviors to be used freely in the free transformations of the resource theory."
+  },
+  {
+    "id": "https://openalex.org/W4399530894",
+    "title": "Measurement-Based Infused Circuits for Variational Quantum Eigensolvers",
+    "year": 2024,
+    "abstract": "quantum eigensolvers (VQEs) are successful algorithms for studying physical systems on quantum computers. Recently, they were extended to the measurement-based model of quantum computing, bringing resource graph states and their advantages into the realm of quantum simulation. In this Letter, we incorporate such ideas into traditional VQE circuits. This enables novel problem-informed designs and versatile implementations of many-body Hamiltonians. We showcase our approach on real superconducting quantum computers by performing VQE simulations of testbed systems including the perturbed planar code, Z_{2} lattice gauge theory, 1D quantum chromodynamics, and the LiH molecule."
+  },
+  {
+    "id": "https://openalex.org/W4324049366",
+    "title": "Dynamics of Compression-Driven Gas-Liquid Displacement in a Capillary Tube",
+    "year": 2023,
+    "abstract": "study two-phase displacement via the steady compression of an air reservoir connected to an oil-filled capillary tube. Our experiments and modeling reveal complex displacement dynamics depending on compression rate and reservoir volume that, for large reservoirs, depend on a single dimensionless compressibility number. We identify two distinct displacement regimes, separated by a critical value of the compressibility number. While the subcritical regime exhibits quasisteady displacement after an initial transient, the supercritical regime exhibits burstlike expulsion."
+  },
+  {
+    "id": "https://openalex.org/W4391471905",
+    "title": "Interplay of Andreev Reflection and Coulomb Blockade in Hybrid Superconducting Single-Electron Transistors",
+    "year": 2024,
+    "abstract": "study the interplay between Coulomb blockade and superconductivity in a tunable superconductor-superconductor-normal-metal single-electron transistor. The device is realized by connecting the superconducting island via an oxide barrier to the normal-metal lead and with a break junction to the superconducting lead. The latter enables Cooper pair transport and (multiple) Andreev reflection. We show that these processes are relevant also far above the superconducting gap and that signatures of Coulomb blockade may reoccur at high bias while they are absent for small bias in the strong-coupling regime. Our experimental findings agree with simulations using a rate equation approach in combination with the full counting statistics of multiple Andreev reflection."
+  },
+  {
+    "id": "https://openalex.org/W3017524536",
+    "title": "Quantized Circulation of Anomalous Shift in Interface Reflection",
+    "year": 2020,
+    "abstract": "particle beam may undergo an anomalous spatial shift when it is reflected at an interface. The shift forms a vector field defined in the two-dimensional interface momentum space. We show that, although the shift vector at individual momentum is typically sensitive to the system details, its integral along a close loop, i.e., its circulation, could yield a robust quantized number under certain conditions of interest. Particularly, this is the case when the beam is incident from a trivial medium, then the quantized circulation of anomalous shift (CAS) directly manifests the topological character of the other medium. We demonstrate that the topological charge of a Weyl medium as well as the unconventional pair potentials of a superconductor can be captured and distinguished by CAS. Our work unveils a hidden quantized feature in a ubiquitous physical process, which may also offer a new approach for probing topological media."
+  },
+  {
+    "id": "https://openalex.org/W4414083075",
+    "title": "Modification of the Jet Energy-Energy Correlator in Cold Nuclear Matter",
+    "year": 2025,
+    "abstract": "compute medium corrections to the energy-energy correlator (EEC) for jets in electron-nucleus collisions at leading order in the QCD coupling and the interaction of the jet with the medium. We derive an analytical expression for the modification of the EEC as a function of the opening angle and show that the modification is strongest at large angles within the jet cone. We obtain explicit results for the dependence of the modification on the jet energy, the scattering power of cold nuclear matter, and the path length within the medium. We extend our calculations to gluon jets in proton-nucleus collisions and compare our results with recent preliminary data for proton-lead collisions at the LHC. We also discuss the role of comovers on the EEC in p+Pb collisions."
+  },
+  {
+    "id": "https://openalex.org/W3021792367",
+    "title": "Polaron Photoconductivity in the Weak and Strong Light-Matter Coupling Regime",
+    "year": 2020,
+    "abstract": "investigate the potential for cavity-modified electron transfer in a doped organic semiconductor through the photocurrent that arises from exciting charged molecules (polarons). When the polaron optical transition is strongly coupled to a Fabry-Perot microcavity mode, we observe polaron polaritons in the photoconductivity action spectrum and find that their magnitude depends differently on applied electric field than photocurrent originating from the excitation of uncoupled polarons in the same cavity. Crucially, moving from positive to negative detuning causes the upper and lower polariton photocurrents to swap their field dependence, with the more polaronlike branch resembling that of an uncoupled excitation. These observations are understood on the basis of a phenomenological model in which strong coupling alters the Onsager dissociation of polarons from their dopant counterions by effectively increasing the thermalization length of the photoexcited charge carrier."
+  },
+  {
+    "id": "https://openalex.org/W4221166766",
+    "title": "Understanding the Fragile-to-Strong Transition in Silica from Microscopic Dynamics",
+    "year": 2022,
+    "abstract": "this work, we revisit the fragile-to-strong transition (FTS) in the simulated BKS silica from the perspective of microscopic dynamics in an effort to elucidate the dynamical behaviors of fragile and strong glass-forming liquids. Softness, which is a machine-learned feature from local atomic structures, is used to predict the microscopic activation energetics and long-term dynamics. The FTS is found to originate from a change in the temperature dependence of the microscopic activation energetics. Furthermore, results suggest there are two diffusion channels with different energy barriers in BKS silica. The fast dynamics at high temperatures is dominated by the channel with small energy barriers (<\u223c1 eV), which is controlled by the short-range order. The rapid closing of this diffusion channel when lowering temperature leads to the fragile behavior. On the other hand, the slow dynamics at low temperatures is dominated by the channel with large energy barriers controlled by the medium-range order. This slow diffusion channel changes only subtly with temperature, leading to the strong behavior. The distributions of barriers in the two channels show different temperature dependences, causing a crossover at \u223c3100 K. This transition temperature in microscopic dynamics is consistent with the inflection point in the configurational entropy, suggesting there is a fundamental correlation between microscopic dynamics and thermodynamics."
+  },
+  {
+    "id": "https://openalex.org/W4416048541",
+    "title": "Raman Optical Activity Induced by Ferroaxial Order in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>NiTiO</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>3</mml:mn> </mml:mrow> </mml:msub> </mml:mrow> </mml:math>",
+    "year": 2026,
+    "abstract": "optical activity (ROA), the dependence of Raman intensity on the circular polarization of incident and scattered light, has traditionally been observed in chiral molecules and magnetic materials, where inversion or time-reversal symmetry is broken. Here we demonstrate that ROA can also arise in a centrosymmetric and nonmagnetic ferroaxial crystal. Using circularly polarized Raman spectroscopy on single-crystalline NiTiO_{3}, we observed a pronounced ROA signal in the cross-circular polarization configurations, which correlates with the ferroaxial domain structure. Our symmetry analysis, first-principles calculations of phonons, and tight-binding model calculations reveal that the natural ROA originates from the ferroaxial order and persists even within the electric dipole approximation. These results establish ROA as a powerful probe of ferroaxial order in centrosymmetric systems."
+  },
+  {
+    "id": "https://openalex.org/W4367840687",
+    "title": "Global Topological Synchronization on Simplicial and Cell Complexes",
+    "year": 2023,
+    "abstract": "signals, i.e., dynamical variables defined on nodes, links, triangles, etc. of higher-order networks, are attracting increasing attention. However, the investigation of their collective phenomena is only at its infancy. Here we combine topology and nonlinear dynamics to determine the conditions for global synchronization of topological signals defined on simplicial or cell complexes. On simplicial complexes we show that topological obstruction impedes odd dimensional signals to globally synchronize. On the other hand, we show that cell complexes can overcome topological obstruction and in some structures signals of any dimension can achieve global synchronization."
+  },
+  {
+    "id": "https://openalex.org/W4410495644",
+    "title": "Local Properties of the Rapidity Distribution in the Lieb-Liniger Model",
+    "year": 2025,
+    "abstract": "study the rapidity distribution in the Lieb-Liniger model and derive exact relations for its derivatives at the Fermi level. The latter enables us to treat analytically the free energy of the system at low temperatures and arbitrary interactions. We calculated the leading-order correction to the well-known result obtained using conformal field theory. In contrast to the leading-order term controlled by the sound velocity or the Luttinger liquid parameter, the new term is controlled by an additional dimensionless parameter. We calculated its series expansions in the limiting cases of weak and strong interactions. Our results are generalized to other Galilean-invariant integrable systems."
+  },
+  {
+    "id": "https://openalex.org/W4386325322",
+    "title": "Extremal Kerr Black Holes as Amplifiers of New Physics",
+    "year": 2023,
+    "abstract": "show that extremal Kerr black holes are sensitive probes of new physics. Stringy or quantum corrections to general relativity are expected to generate higher-curvature terms in the gravitational action. We show that in the presence of these terms, asymptotically flat extremal rotating black holes have curvature singularities on their horizon. Furthermore, near-extremal black holes can have large yet finite tidal forces for infalling observers. In addition, we consider five-dimensional extremal charged black holes and show that higher-curvature terms can have a large effect on the horizon geometry."
+  },
+  {
+    "id": "https://openalex.org/W7131889011",
+    "title": "Probing Cosmic Ray Composition and Muonphilic Dark Matter via Muon Tomography",
+    "year": 2026,
+    "abstract": "Letter presents a novel cosmic-ray scattering experiment employing a resistive plate chamber muon tomography system. By introducing the scattering angle between incident and outgoing cosmic-ray tracks as a key observable, this approach enables simultaneous studies of secondary cosmic-ray composition and searching for new physics. During a 63-day campaign, 1.18 million cosmic ray scattering events were recorded and analyzed. By performing combined template fits to the observed angular distribution, particle abundances are measured\u2014for example, resolving the electron component at <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <a:mrow> <a:mo>\u223c</a:mo> <a:mn>2</a:mn> <a:mo>%</a:mo> </a:mrow> </a:math> precision. Furthermore, constraints are established on elastic muon\u2013dark matter (DM) scattering cross sections for muonphilic dark matter. At the 95% confidence level, the limit reaches <c:math xmlns:c=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <c:mrow> <c:mn>1.61</c:mn> <c:mo>\u00d7</c:mo> <c:msup> <c:mrow> <c:mn>10</c:mn> </c:mrow> <c:mrow> <c:mo>\u2212</c:mo> <c:mn>17</c:mn> </c:mrow> </c:msup> <c:mtext> </c:mtext> <c:mtext> </c:mtext> <c:msup> <c:mrow> <c:mi>cm</c:mi> </c:mrow> <c:mrow> <c:mn>2</c:mn> </c:mrow> </c:msup> </c:mrow> </c:math> for 1 GeV slow DM, demonstrating the sensitivity limit to light muon-coupled slow DM, in scenarios where a strongly interacting dark matter component is captured and thermalized within Earth, leading to large surface densities."
+  },
+  {
+    "id": "https://openalex.org/W3006967304",
+    "title": "Multiple Particle Correlation Analysis of Many-Particle Systems: Formalism and Application to Active Matter",
+    "year": 2020,
+    "abstract": "introduce a fast spatial point pattern analysis technique that is suitable for systems of many identical particles giving rise to multiparticle correlations up to arbitrary order. The obtained correlation parameters allow us to quantify the quality of mean field assumptions or theories that incorporate correlations of limited order. We study the Vicsek model of self-propelled particles and create a correlation map marking the required correlation order for each point in phase space incorporating up to ten-particle correlations. We find that multiparticle correlations are important even in a large part of the disordered phase. Furthermore, the two-particle correlation parameter serves as an excellent order parameter to locate both phase transitions of the system, whereas two different order parameters were required before."
+  },
+  {
+    "id": "https://openalex.org/W7155362447",
+    "title": "Harnessing Plasmonic Heating for Switching in Antiferromagnets",
+    "year": 2026,
+    "abstract": "waste is a bottleneck in the development of green information technologies and much effort has been devoted to suppress the heating effect in both electronic and spintronic devices. Here, we take an alternative approach and show that controllable heating at the nanoscale can actually benefit information processing. In particular, we study a hybrid nanostructure consisting of a metallic square frame and an antiferromagnetic (AFM) thin film and show that the plasmonic heating can reversibly switch two perpendicularly oriented AFM domains without the assistance of magnetic fields and electric currents. The required switching energy is at the order 1 nJ, 3 to 6 orders of magnitude lower than the current-driven AFM switching. The physical mechanism arises from the thermal-induced strain fields inside the frame, which couple to and manipulate the magnetic orientation via magnetoelastic effect. The strain field direction can be well controlled by selectively exciting the longitudinal and transverse plasmon modes by varying the polarization of the waves, which readily allows for a reversible switching of the AFM vector. Our findings provide tremendous opportunities for optically manipulating the magnetism with ultralow energy consumption and may further promote the interdisciplinary study of photonics, acoustics, and spintronics."
+  },
+  {
+    "id": "https://openalex.org/W2970143778",
+    "title": "Hybrid Quantum Computing with Conditional Beam Splitter Gate in Trapped Ion System",
+    "year": 2020,
+    "abstract": "hybrid approach to quantum computation simultaneously utilizes both discrete and continuous variables, which offers the advantage of higher density encoding and processing powers for the same physical resources. Trapped ions, with discrete internal states and motional modes that can be described by continuous variables in an infinite-dimensional Hilbert space, offer a natural platform for this approach. A nonlinear gate for universal quantum computing can be implemented with the conditional beam splitter Hamiltonian |e\u27e9\u27e8e|(a[over ^]^{\u2020}b[over ^]+a[over ^]b[over ^]^{\u2020}) that swaps the quantum states of two motional modes, depending on the ion's internal state. We realize such a gate and demonstrate its applications for quantum state overlap measurements, single-shot parity measurement, and generation of NOON states."
+  },
+  {
+    "id": "https://openalex.org/W3152685858",
+    "title": "Quantum Hall Valley Splitters and a Tunable Mach-Zehnder Interferometer in Graphene",
+    "year": 2021,
+    "abstract": "is a very promising test bed for the field of electron quantum optics. However, a fully tunable and coherent electronic beam splitter is still missing. We report the demonstration of electronic beam splitters in graphene that couple quantum Hall edge channels having opposite valley polarizations. The electronic transmission of our beam splitters can be tuned from zero to near unity. By independently setting the beam splitters at the two corners of a graphene p-n junction to intermediate transmissions, we realize a fully tunable electronic Mach-Zehnder interferometer. This tunability allows us to unambiguously identify the quantum interferences due to the Mach-Zehnder interferometer, and to study their dependence with the beam-splitter transmission and the interferometer bias voltage. The comparison with conventional semiconductor interferometers points toward universal processes driving the quantum decoherence in those two different 2D systems, with graphene being much more robust to their effect."
+  },
+  {
+    "id": "https://openalex.org/W4411788399",
+    "title": "Universal Efimov Scaling in the Rabi-Coupled Few-Body Spectrum",
+    "year": 2025,
+    "abstract": "investigate the behavior of the Efimov effect-a universal quantum few-body phenomenon-in the presence of an external driving field. Specifically, we consider up to three bosonic atoms, such as ^{133}Cs, interacting with a light atom, such as ^{6}Li, where the latter has two internal spin states {\u2191,\u2193} that are Rabi coupled. Assuming that only the spin-\u2191 light atom interacts with the bosons, we find that the Rabi drive transposes the entire Efimov spectrum such that the Efimov trimers and tetramers are centered around the Rabi-shifted two-body scattering resonance. Crucially, we show that the Rabi drive preserves the trimers' discrete scaling symmetry, while universally shifting the Efimov three-body parameter, leading to a log-periodic modulation in the spectrum as the Rabi drive is varied. Our results suggest that Efimov physics can be conveniently explored using an applied driving field, opening up the prospect of an externally tunable three-body parameter."
+  },
+  {
+    "id": "https://openalex.org/W4404711842",
+    "title": "Isomeric Population Transfer of the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mmultiscripts> <mml:mrow> <mml:mi>Th</mml:mi> </mml:mrow> <mml:mprescripts/> <mml:none/> <mml:mrow> <mml:mn>229</mml:mn> </mml:mrow> </mml:mmultiscripts> </mml:mrow> </mml:math> Nucleus via Hyperfine Electronic Bridge",
+    "year": 2024,
+    "abstract": "electronic bridge (EB) excitation of nuclei has been found as a versatile approach to efficiently excite the ^{229}Th isomers. Previous studies on EB excitation have typically disregarded the hyperfine structure as well as the decay of the excited atoms and ions by just treating the nucleus-electron coupling perturbatively. In the present work, we apply a quantum-optical approach to nonperturbatively investigate EB excitation of ^{229}Th^{3+} ions. This approach considers both the hyperfine structure and atomic decay through dressed hyperfine state and quantum master equation techniques. Numerical results show that the isomeric steady-state population of the time-independent scheme is constrained by atomic decay to a maximum of only 27.9%. By leveraging the dark state, however, the (time-dependent) stimulated Raman adiabatic passage method theoretically reaches a remarkable 99.7% isomeric population transfer and demonstrates a potential nuclear-laser scheme via the EB mechanism. Our quantum-optical approach exhibits a large flexibility and paves a promising avenue for utilizing advanced quantum-control technologies to design and optimize experimental schemes of EB excitation."
+  },
+  {
+    "id": "https://openalex.org/W3035687248",
+    "title": "Long-Distance Free-Space Measurement-Device-Independent Quantum Key Distribution",
+    "year": 2020,
+    "abstract": "quantum key distribution (MDI-QKD), based on two-photon interference, is immune to all attacks against the detection system and allows a QKD network with untrusted relays. Since the MDI-QKD protocol was proposed, fiber-based implementations aimed at longer distance, higher key rates, and network verification have been rapidly developed. However, owing to the effect of atmospheric turbulence, MDI-QKD over a free-space channel remains experimentally challenging. Herein, by developing a robust adaptive optics system, high-precision time synchronization and frequency locking between independent photon sources located far apart, we realized the first free-space MDI-QKD over a 19.2-km urban atmospheric channel, which well exceeds the effective atmospheric thickness. Our experiment takes the first step toward satellite-based MDI-QKD. Moreover, the technology developed herein opens the way to quantum experiments in free space involving long-distance interference of independent single photons."
+  },
+  {
+    "id": "https://openalex.org/W4417267770",
+    "title": "Energy Independence of the Collins Asymmetry in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msup> <mml:mrow> <mml:mi>p</mml:mi> </mml:mrow> <mml:mrow> <mml:mo stretchy=\"false\">\u2191</mml:mo> </mml:mrow> </mml:msup> <mml:mi>p</mml:mi> </mml:mrow> </mml:math> Collisions",
+    "year": 2025,
+    "abstract": "STAR experiment reports new, high-precision measurements of the transverse single-spin asymmetries for \u03c0^{\u00b1} within jets, namely the Collins asymmetries, from transversely polarized p^{\u2191}p collisions at sqrt[s]=510 GeV. The energy-scaled distribution of jet transverse momentum, x_{T}=2p_{T,jet}/sqrt[s], shows a remarkable consistency for Collins asymmetries of \u03c0^{\u00b1} in jets between sqrt[s]=200 GeV and 510 GeV. This indicates that the Collins asymmetries are nearly energy independent, with, at most, a very weak scale dependence in p^{\u2191}p collisions. These results extend to high-momentum scales (Q^{2}\u22643400 GeV^{2}) and enable unique tests of evolution and universality in the transverse-momentum-dependent formalism, thus providing important constraints for the Collins fragmentation functions."
+  },
+  {
+    "id": "https://openalex.org/W4310865054",
+    "title": "New Measurement Resolves Key Astrophysical Fe XVII Oscillator Strength Problem",
+    "year": 2022,
+    "abstract": "of the most enduring and intensively studied problems of x-ray astronomy is the disagreement of state-of-the art theory and observations for the intensity ratio of two Fe XVII transitions of crucial value for plasma diagnostics, dubbed 3C and 3D. We unravel this conundrum at the PETRA III synchrotron facility by increasing the resolving power 2.5 times and the signal-to-noise ratio thousandfold compared with our previous work. The Lorentzian wings had hitherto been indistinguishable from the background and were thus not modeled, resulting in a biased line-strength estimation. The present experimental oscillator-strength ratio R_{exp}=f_{3C}/f_{3D}=3.51(2)_{stat}(7)_{sys} agrees with our state-of-the-art calculation of R_{th}=3.55(2), as well as with some previous theoretical predictions. To further rule out any uncertainties associated with the measured ratio, we also determined the individual natural linewidths and oscillator strengths of 3C and 3D transitions, which also agree well with the theory. This finally resolves the decades-old mystery of Fe XVII oscillator strengths."
+  },
+  {
+    "id": "https://openalex.org/W4387011133",
+    "title": "Berry Curvature and Bulk-Boundary Correspondence from Transport Measurement for Photonic Chern Bands",
+    "year": 2023,
+    "abstract": "curvature is a fundamental element to characterize topological quantum physics, while a full measurement of Berry curvature in momentum space was not reported for topological states. Here we achieve two-dimensional Berry curvature reconstruction in a photonic quantum anomalous Hall system via Hall transport measurement of a momentum-resolved wave packet. Integrating measured Berry curvature over the two-dimensional Brillouin zone, we obtain Chern numbers corresponding to -1 and 0. Further, we identify bulk-boundary correspondence by measuring topology-linked chiral edge states at the boundary. The full topological characterization of photonic Chern bands from Berry curvature, Chern number, and edge transport measurements enables our photonic system to serve as a versatile platform for further in-depth study of novel topological physics."
+  },
+  {
+    "id": "https://openalex.org/W4404345331",
+    "title": "Quantum Random Access Memory with Transmon-Controlled Phonon Routing",
+    "year": 2025,
+    "abstract": "random access memory (QRAM) promises simultaneous data queries at multiple memory locations, with data retrieved in coherent superpositions, essential for achieving quantum speedup in many quantum algorithms. We introduce a transmon-controlled phonon router and propose a QRAM implementation by connecting these routers in a treelike architecture. The router controls the motion of itinerant surface acoustic wave phonons based on the state of the control transmon, implementing the core functionality of conditional routing for QRAM. Our QRAM design is compact, supports fast routing operations, and avoids frequency crowding. Additionally, we propose a hybrid dual-rail encoding method to detect dominant loss errors without additional hardware, a versatile approach applicable to other QRAM platforms. Our estimates indicate that the proposed QRAM platform can achieve high heralding rates using current device parameters, with heralding fidelity primarily limited by transmon dephasing."
+  },
+  {
+    "id": "https://openalex.org/W7155844225",
+    "title": "Electrical Switching of Strain Gradients and 90\u00b0 Domain Walls via Hidden Polar-Acoustic Coupling in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msub> <mml:mrow> <mml:mi>PbTiO</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>3</mml:mn> </mml:mrow> </mml:msub> </mml:mrow> </mml:math>",
+    "year": 2026,
+    "abstract": "strain gradients hold great promise for tailoring emergent functionalities, their flexible global control remains a fundamental challenge. Here, we address this concern in PbTiO_{3} under biaxial tensile strain by uncovering the spontaneous appearance of strain gradients and 90\u00b0 ferroelectric domain walls and demonstrating their electric control. Combining symmetry analysis and first-principles calculations, we reveal hidden polar-acoustic instabilities within conventionally assumed ground states. We further demonstrate that the trilinear coupling among the modulated polar mode, acoustic mode with modulated strain, and uniform polar mode spontaneously stabilizes a lower-energy a_{1}/a_{2} 90\u00b0 domain structure with Pmc2_{1} symmetry and intrinsic strain gradients. Remarkably, we discover similar polar-acoustic coupling that governs both the c/a domain patterns and their dramatic piezoelectric enhancement. Leveraging these strong lattice couplings, we develop a unified framework for describing and electrically switching spatially varying strain and polarization fields. Our Letter resolves long-standing cross-scale discrepancies in the strain phase diagrams of PbTiO_{3}, reveals a new phonon-mediated mechanism for giant piezoelectricity, and provides the atomistic foundation for the electrical control of strain gradients and domain walls."
+  },
+  {
+    "id": "https://openalex.org/W4401024208",
+    "title": "Giant Piezoelectric Effects of Topological Structures in Stretched Ferroelectric Membranes",
+    "year": 2024,
+    "abstract": "ferroelectric oxide membranes emerge as a promising platform for exploring the interplay between topological polar ordering and dipolar interactions that are continuously tunable by strain. Our investigations combining density functional theory (DFT) and deep-learning-assisted molecular dynamics simulations demonstrate that DFT-predicted strain-driven morphotropic phase boundary involving monoclinic phases manifest as diverse domain structures at room temperatures, featuring continuous distributions of dipole orientations and mobile domain walls. Detailed analysis of dynamic structures reveals that the enhanced piezoelectric response observed in stretched PbTiO_{3} membranes results from small-angle rotations of dipoles at domain walls, distinct from conventional polarization rotation mechanism and adaptive phase theory inferred from static structures. We identify a ferroelectric topological structure, termed \"dipole spiral,\" which exhibits a giant intrinsic piezoelectric response (>320 pC/N). This helical structure, possessing a rotational zero-energy mode, unlocks new possibilities for exploring chiral phonon dynamics and dipolar Dzyaloshinskii-Moriya-like interactions."
+  },
+  {
+    "id": "https://openalex.org/W4409219384",
+    "title": "Nanoscale Casimir Force Softening Originated from Quantum Surface Responses",
+    "year": 2025,
+    "abstract": "coupling between vacuum fields and quantum matter occurs at the nanoscale and broadens the horizon of light-matter interaction. Nanoscale Casimir force, as an exhibition of vacuum fields, inevitably experiences the influence of surface electron responses due to their quantum character, which are ignorable in micron Casimir force. Here, we develop a three-dimensional conformal map method to tackle typical experimental configurations with surface electron contributions to Casimir force purposely and delicately included. Based on this method, we reveal that quantum surface responses (QSRs) can either enhance or suppress the nanoscale Casimir force, depending on materials and crystal facets. The mechanism is demonstrated to be the Casimir force softening, which results from QSRs effectively altering the distance seen by the Casimir interaction. With such an understanding, we then provide a recipe to handle the nanoscale Casimir force between nanoscale complex objects. Our findings not only highlight the interaction between QSRs and vacuum fields but also provide a recipe for theoretical and experimental investigation of nanoscale fluctuation-type problems."
+  },
+  {
+    "id": "https://openalex.org/W4324100373",
+    "title": "Electronic Excitation Response of DNA to High-Energy Proton Radiation in Water",
+    "year": 2023,
+    "abstract": "lack of molecular-level understanding for the electronic excitation response of DNA to charged particle radiation, such as high-energy protons, remains a fundamental scientific bottleneck in advancing proton and other ion beam cancer therapies. In particular, the dependence of different types of DNA damage on high-energy protons represents a significant knowledge void. Here we employ first-principles real-time time-dependent density functional theory simulation, using a massively parallel supercomputer, to unravel the quantum-mechanical details of the energy transfer from high-energy protons to DNA in water. The calculations reveal that protons deposit significantly more energy onto the DNA sugar-phosphate side chains than onto the nucleobases, and greater energy transfer is expected onto the DNA side chains than onto water. As a result of this electronic stopping process, highly energetic holes are generated on the DNA side chains as a source of oxidative damage."
+  },
+  {
+    "id": "https://openalex.org/W4402762993",
+    "title": "Superconductivity and Mott Physics in Organic Charge Transfer Materials",
+    "year": 2024,
+    "abstract": "phase diagrams of quasi two-dimensional organic superconductors display a plethora of fundamental phenomena associated with strong electron correlations, such as unconventional superconductivity, metal-insulator transitions, frustrated magnetism and spin liquid behavior. We analyze a minimal model for these compounds, the Hubbard model on an anisotropic triangular lattice, using cutting-edge quantum embedding methods respecting the lattice symmetry. We demonstrate the existence of unconventional superconductivity by directly entering the symmetry-broken phase. We show that the crossover from the Fermi liquid metal to the Mott insulator is associated with the formation of a pseudogap. The predicted momentum-selective destruction of the Fermi surface into hot and cold regions provides motivation for further spectroscopic studies. Our theoretical results agree with experimental phase diagrams of \u03ba-BEDT organics."
+  },
+  {
+    "id": "https://openalex.org/W2956066593",
+    "title": "Stellarators with Permanent Magnets",
+    "year": 2020,
+    "abstract": "is shown that the magnetic-field coils of a stellarator can, at least in principle, be substantially simplified by the use of permanent magnets. Such magnets cannot create toroidal magnetic flux, but they can be used to shape the plasma and thus to create poloidal flux and rotational transform, thereby easing the requirements on the magnetic-field coils. As an example, a quasiaxisymmetric stellarator configuration is constructed with only 8 circular coils (all identical) and permanent magnets."
+  },
+  {
+    "id": "https://openalex.org/W4404983566",
+    "title": "Measurement of Very-High-Energy Diffuse Gamma-Ray Emissions from the Galactic Plane with LHAASO-WCDA",
+    "year": 2025,
+    "abstract": "diffuse Galactic gamma-ray emission is a very important tool used to study the propagation and interaction of cosmic rays in the Milky Way. In this Letter, we report the measurements of the diffuse emission from the Galactic plane---covering Galactic longitudes from 15\\ifmmode^\\circ\\else\\textdegree\\fi{} to 235\\ifmmode^\\circ\\else\\textdegree\\fi{} and latitudes from $\\ensuremath{-}5\\ifmmode^\\circ\\else\\textdegree\\fi{}$ to $+5\\ifmmode^\\circ\\else\\textdegree\\fi{}$, in an energy range of 1 to 25 TeV---made with the Water Cherenkov Detector Array (WCDA) of the Large High Altitude Air Shower Observatory. After the sky regions of known sources are masked, the diffuse emission is detected with $24.6\\ensuremath{\\sigma}$ and $9.1\\ensuremath{\\sigma}$ significance in the inner Galactic plane ($15\\ifmmode^\\circ\\else\\textdegree\\fi{}&lt;l&lt;125\\ifmmode^\\circ\\else\\textdegree\\fi{}$, $|b|&lt;5\\ifmmode^\\circ\\else\\textdegree\\fi{}$) and outer Galactic plane ($125\\ifmmode^\\circ\\else\\textdegree\\fi{}&lt;l&lt;235\\ifmmode^\\circ\\else\\textdegree\\fi{}$, $|b|&lt;5\\ifmmode^\\circ\\else\\textdegree\\fi{}$), respectively. The WCDA spectra in both regions can be well described by a power-law function, with spectral indices of $\\ensuremath{-}2.67\\ifmmode\\pm\\else\\textpm\\fi{}0.0{5}_{\\mathrm{stat}}$ in the inner region and $\\ensuremath{-}2.83\\ifmmode\\pm\\else\\textpm\\fi{}0.1{9}_{\\mathrm{stat}}$ in the outer region, respectively. Combined with the Square Kilometer Array (KM2A) measurements at higher energies, a clear softening of the spectrum is found in the inner region, with change of spectral indices by $\\ensuremath{\\sim}0.5$ at a break energy around 30 TeV. The fluxes of the diffuse emission are higher by a factor of 1.5--2.7 than the model prediction assuming local cosmic ray spectra and the gas column density, which are consistent with those measured by the KM2A. Along the Galactic longitude, the spatial distribution of the diffuse emission shows deviation from that of the gas column density. The spectral shape of the diffuse emission may vary in different longitude regions. The WCDA measurements bridge the gap between the low-energy measurements by space detectors and the ultra-high-energy observations by KM2A and other experiments. These results suggest that improved modeling of the wideband diffuse emission is required."
+  },
+  {
+    "id": "https://openalex.org/W3207826257",
+    "title": "Higher-Order Topological Phase of Interacting Photon Pairs",
+    "year": 2022,
+    "abstract": "phases open a door to such intriguing phenomena as unidirectional propagation and disorder-resilient localization at a stable frequency. Recently discovered higher-order topological phases further extend the concept of topological protection enabling versatile control over localization in multiple dimensions. Motivated by the recent advances in quantum technologies such as large coherently operating qubit ensembles, we predict and investigate the higher-order topological phase of photon pairs emerging due to effective photon-photon interaction and described by the extended version of Bose-Hubbard model. Being feasible for state-of-the-art experimental capabilities, the designed model provides an interesting example of interaction-induced topological transitions in the few-particle two-dimensional system."
+  },
+  {
+    "id": "https://openalex.org/W4408054615",
+    "title": "Nuclear Astrophysics in the Storage Ring: Background Suppressed Simultaneous Measurement of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mo stretchy=\"false\">(</mml:mo> <mml:mi>p</mml:mi> <mml:mo>,</mml:mo> <mml:mi>\u03b3</mml:mi> <mml:mo stretchy=\"false\">)</mml:mo> </mml:mrow> </mml:math> and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:mo stretchy=\"false\">(</mml:mo> <mml:mi>p</mml:mi> <mml:mo>,</mml:mo> <mml:mi>n</mml:mi> <mml:mo stretchy=\"false\">)</mml:mo> </mml:mrow> </mml:math> Reactions",
+    "year": 2025,
+    "abstract": "report the application of the new elimination of Rutherford elastic scattering technique for the measurement of proton-induced reaction cross sections utilizing stored ions decelerated to astrophysical energies. This approach results in a background reduction factor of about 1 order of magnitude, enabling the first measurement of a (p, n) cross section in a storage ring. Here, the reaction channels ^{124}Xe(p,n) and ^{124}Xe(p,\u03b3) have been studied just above the neutron threshold energy. The new data provide valuable constraints for Hauser-Feshbach theory and extrapolation of the (p,\u03b3) cross section to lower energies. Most importantly, for nuclei of limited availability, the method represents a powerful improvement to efficiently study proton-induced reactions at energies within or close to the astrophysical Gamow window, bringing many reaction measurements within reach that were previously inaccessible in the laboratory."
+  },
+  {
+    "id": "https://openalex.org/W3031374581",
+    "title": "Properties of Neon, Magnesium, and Silicon Primary Cosmic Rays Results from the Alpha Magnetic Spectrometer",
+    "year": 2020,
+    "abstract": "report the observation of new properties of primary cosmic rays, neon (Ne), magnesium (Mg), and silicon (Si), measured in the rigidity range 2.15 GV to 3.0 TV with 1.8\u00d710^{6} Ne, 2.2\u00d710^{6} Mg, and 1.6\u00d710^{6} Si nuclei collected by the Alpha Magnetic Spectrometer experiment on the International Space Station. The Ne and Mg spectra have identical rigidity dependence above 3.65 GV. The three spectra have identical rigidity dependence above 86.5 GV, deviate from a single power law above 200 GV, and harden in an identical way. Unexpectedly, above 86.5 GV the rigidity dependence of primary cosmic rays Ne, Mg, and Si spectra is different from the rigidity dependence of primary cosmic rays He, C, and O. This shows that the Ne, Mg, and Si and He, C, and O are two different classes of primary cosmic rays."
+  },
+  {
+    "id": "https://openalex.org/W4416113411",
+    "title": "Spectral Dynamics in Broadband Frequency Combs with Overlapping Harmonics",
+    "year": 2025,
+    "abstract": "frequency combs and their spectra of evenly spaced discrete laser lines are essential to modern time and frequency metrology. Recent advances in integrated photonic waveguides enable efficient nonlinear broadening of an initially narrowband frequency comb to multi-octave bandwidth. Here, we study the nonlinear dynamics in the generation of such ultrabroadband spectra where different harmonics of the comb can overlap. We show that a set of interleaved combs with different offset frequencies extending across the entire spectrum can emerge, which can be arranged into a practically evenly spaced ultrabroadband frequency comb when the initial comb is offset-free."
+  },
+  {
+    "id": "https://openalex.org/W4417035309",
+    "title": "Experimental Observation of Non-Markovian Quantum Exceptional Points",
+    "year": 2025,
+    "abstract": "of the most remarkable features that distinguish open systems from closed ones is the presence of exceptional points (EPs), where two or more eigenvectors of a non-Hermitian operator coalesce, accompanying the convergence of the corresponding eigenvalues. So far, EPs have been demonstrated on a number of platforms, ranging from classical optical systems to fully quantum-mechanical spin-boson models. In these demonstrations, the reservoir that induced the non-Hermiticity was treated as a Markovian one, without considering its memory effect. We here present the first experimental demonstration of non-Markovian quantum EPs, engineered by coupling a Josephson-junction-based qubit to a leaky electromagnetic resonator, which acts as a non-Markovian reservoir. We map out the spectrum of the extended Liouvillian superoperator by observing the quantum state evolution of the qubit and the pseudomode, in which the memory of the reservoir is encoded. We identify a twofold second-order EP and a third-order EP in the Liouvillian spectrum, which cannot be realized with a Markovian reservoir. Our results pave the way for experimental exploration of exotic phenomena associated with non-Markovian quantum EPs."
+  },
+  {
+    "id": "https://openalex.org/W3045875470",
+    "title": "Signature of Short-Range van der Waals Forces Observed in Poisson Spot Diffraction with Indium Atoms",
+    "year": 2020,
+    "abstract": "phase of de Broglie matter waves is a sensitive probe for small forces. In particular, the attractive van der Waals force experienced by polarizable atoms in the close vicinity of neutral surfaces is of importance in nanoscale systems. It results in a phase shift that can be observed in matter-wave diffraction experiments. Here, we observe Poisson spot diffraction of indium atoms at submillimeter distances behind spherical submicron silicon dioxide particles to probe the dispersion forces between atoms and the particle surfaces. We compare the measured relative intensity of Poisson's spot to theoretical results derived from first principles in an earlier communication and find a clear signature of the atom-surface interaction."
+  },
+  {
+    "id": "https://openalex.org/W4213028282",
+    "title": "Unexpected Upper Critical Dimension for Spin Glass Models in a Field Predicted by the Loop Expansion around the Bethe Solution at Zero Temperature",
+    "year": 2022,
+    "abstract": "spin-glass transition in a field in finite dimension is analyzed directly at zero temperature using a perturbative loop expansion around the Bethe lattice solution. The loop expansion is generated by the M-layer construction whose first diagrams are evaluated numerically and analytically. The generalized Ginzburg criterion reveals that the upper critical dimension below which mean-field theory fails is D_{U}\u22658, at variance with the classical result D_{U}=6 yielded by finite-temperature replica field theory. Our expansion around the Bethe lattice has two crucial differences with respect to the classical one. The finite connectivity z of the lattice is directly included from the beginning in the Bethe lattice, while in the classical computation the finite connectivity is obtained through an expansion in 1/z. Moreover, if one is interested in the zero temperature (T=0) transition, one can directly expand around the T=0 Bethe transition. The expansion directly at T=0 is not possible in the classical framework because the fully connected spin glass does not have a transition at T=0, being in the broken phase for any value of the external field."
+  },
+  {
+    "id": "https://openalex.org/W2981545675",
+    "title": "Normal-Superfluid Phase Separation in Spin-Half Bosons at Finite Temperature",
+    "year": 2020,
+    "abstract": "pseudospin-half bosons with interspin attraction and intraspin repulsion, the normal phase and Bose condensed phase can coexist at finite temperature. The homogeneous system is unstable against the spinodal decomposition within a medium density interval, and, consequently, a normal-superfluid phase separation takes place. The isothermal equation of state shows a characteristic plateau in the P-V (pressure-volume) diagram, which is reminiscent of a classical gas-liquid transition, although, unlike the latter, the coexistence lines never terminate at a critical point as temperature increases. In a harmonic trap, the phase separation can be revealed by the density profile of the atomic cloud, which exhibits a sudden jump across the phase boundary."
+  },
+  {
+    "id": "https://openalex.org/W7162508367",
+    "title": "Enhancing Nonreciprocity through Squeezing-Induced Symmetry Breaking",
+    "year": 2026,
+    "abstract": "engineering enables unidirectional energy and signal flow. We establish squeezing-induced symmetry breaking between two cavities as a guiding principle for exponentially amplifying reservoir-mediated nonreciprocity. Rather than a simple scaling of the coupling, this mechanism strategically redistributes the squeezing resources to relax experimental requirements, as single-cavity squeezing alone demands a much larger squeezing strength. Moreover, reservoir squeezing does not alter the system symmetry, but reshapes the noise correlations and thereby changes the system dynamics. The proposed mechanism improves the performance of the quantum battery by several orders of magnitude, including stored energy, charging power, and ergotropy, with the analytical expressions provided. Extending to the optical isolation, we observe a second-order exponential enhancement of the output signal. Our results open a new avenue for nonreciprocal quantum information processing and nonreciprocal quantum device design."
+  },
+  {
+    "id": "https://openalex.org/W3157244206",
+    "title": "Nuclear Spin Dynamics, Noise, Squeezing, and Entanglement in Box Model",
+    "year": 2021,
+    "abstract": "obtain a compact analytical solution for the nonlinear equation for the nuclear spin dynamics in the central spin box model in the limit of many nuclear spins. The total nuclear spin component along the external magnetic field is conserved and the two perpendicular components precess or oscillate depending on the electron spin polarization, with the frequency, determined by the nuclear spin polarization. As applications of our solution, we calculate the nuclear spin noise spectrum and describe the effects of nuclear spin squeezing and many body entanglement in the absence of a system excitation."
+  },
+  {
+    "id": "https://openalex.org/W4391542601",
+    "title": "Universal Crosstalk of Twisted Light in Random Media",
+    "year": 2024,
+    "abstract": "light offers wider bandwidths and higher security for communication. However, propagation through complex random media, such as the Earth's atmosphere, typically induces intermodal crosstalk. We show numerically and experimentally that coupling of photonic orbital angular momentum modes is governed by a universal function of a single parameter: the ratio between the random medium's and the beam's transverse correlation lengths, even in the regime of pronounced intensity fluctuations."
+  },
+  {
+    "id": "https://openalex.org/W3135924264",
+    "title": "Emergent Field-Driven Robot Swarm States",
+    "year": 2021,
+    "abstract": "present an ecology-inspired form of active matter consisting of a robot swarm. Each robot moves over a planar dynamic resource environment represented by a large light-emitting diode array in search of maximum light intensity; the robots deplete (dim) locally by their presence the local light intensity and seek maximum light intensity. Their movement is directed along the steepest local light intensity gradient; we call this emergent symmetry breaking motion \"field drive.\" We show there emerge dynamic and spatial transitions similar to gas, crystalline, liquid, glass, and jammed states as a function of robot density, resource consumption rates, and resource recovery rates. Paradoxically the nongas states emerge from smooth, flat resource landscapes, not rough ones, and each state can directly move to a glassy state if the resource recovery rate is slow enough, at any robot density."
+  },
+  {
+    "id": "https://openalex.org/W3039379757",
+    "title": "Universal Algebraic Growth of Entanglement Entropy in Many-Body Localized Systems with Power-Law Interactions",
+    "year": 2020,
+    "abstract": "interactions play a key role in a large variety of physical systems. In the presence of disorder, these systems may undergo many-body localization for a sufficiently large disorder. Within the many-body localized phase the system presents in time an algebraic growth of entanglement entropy, S_{vN}(t)\u221dt^{\u03b3}. Whereas the critical disorder for many-body localization depends on the system parameters, we find by extensive numerical calculations that the exponent \u03b3 acquires a universal value \u03b3_{c}\u22430.33 at the many-body localization transition, for different lattice models, decay powers, filling factors, or initial conditions. Moreover, our results suggest an intriguing relation between \u03b3_{c} and the critical minimal decay power of interactions necessary for many-body localization."
+  },
+  {
+    "id": "https://openalex.org/W4385415324",
+    "title": "Observation of Low-Lying Isomeric States in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math>: A New Avenue for Dark Matter and Solar Neutrino Detection in Xenon Detectors",
+    "year": 2023,
+    "abstract": "report on new measurements establishing the existence of low-lying isomeric states in ^{136}Cs using \u03b3 rays produced in ^{136}Xe(p,n)^{136}Cs reactions. Two states with O(100) ns lifetimes are placed in the decay sequence of the ^{136}Cs levels that are populated in charged-current interactions of solar neutrinos and fermionic dark matter with ^{136}Xe. Xenon-based experiments can therefore exploit a delayed-coincidence tag of these interactions, greatly suppressing backgrounds to enable spectroscopic studies of solar neutrinos and dark matter."
+  },
+  {
+    "id": "https://openalex.org/W4404694486",
+    "title": "Consistency of Dark Energy Survey Year 1 Galaxy Clusters with <i>Planck</i>",
+    "year": 2024,
+    "abstract": "recent Dark Energy Survey Year 1 (DES-Y1) analysis of galaxy cluster abundances and weak lensing produced \u03a9_{m} and \u03c3_{8} constraints in 5.6\u03c3 tension with those derived from Planck. It is suggested in that work that this tension is driven by unmodeled systematics in optical cluster selection. We present a novel simulation-based forward modeling framework that explicitly incorporates cluster selection into its model predictions. Applying this framework to the DES-Y1 data we find consistency with Planck, possibly resolving the tension found in the DES-Y1 analysis. An extension of this approach to the final DES data set will produce robust constraints on \u039bCDM parameters and correspondingly strong tests of cosmological models."
+  },
+  {
+    "id": "https://openalex.org/W4414038165",
+    "title": "Singlet-Only Always-On Gapless Exchange Qubits with Baseband Control",
+    "year": 2025,
+    "abstract": "propose a singlet-only always-on gapless exchange (SAGE) spin qubit that encodes a single qubit in the spins of four electrons while allowing universal baseband control. While conventional exchange-only qubits suffer from magnetic-field-gradient-induced leakage and coherent errors due to local nuclear environments and variations in the g-factor, the SAGE qubit subspace is protected from coherent errors due to local magnetic field gradients, and leakage out of the computational subspace is energetically suppressed due to the exchange interactions between electrons being always on. Consequently, we find that when magnetic gradient noise dominates over charge noise, coherence times and single-qubit gate infidelities of the SAGE qubit improve by an order of magnitude compared to conventional exchange-only qubits. Moreover, using realistic parameters, two-qubit gates can be performed with a single interqubit exchange pulse with times comparable in duration to conventional exchange-only qubits but with a significantly simplified pulse sequence."
+  },
+  {
+    "id": "https://openalex.org/W4416326253",
+    "title": "Role of Hydrodynamics in the Synchronization of <i>Chlamydomonas</i> Flagella",
+    "year": 2025,
+    "abstract": "hydrodynamic coupling has long been considered essential for synchronization of eukaryotic flagella, recent experiments on the unicellular biflagellate model organism Chlamydomonas demonstrate that -at the single cell level- intracellular mechanical coupling is necessary for coordination. It is therefore unclear what role, if any, hydrodynamic forces actually play in the synchronization of multiple flagella within individual cells, arguably the building block of large scale coordination. Here we address this question experimentally by transiently blocking hydrodynamic coupling between the two flagella of single Chlamydomonas. Our results reveal that in wild type cells intracellularly mediated forces are necessary and sufficient for flagellar synchronization, with hydrodynamic coupling causing minimal changes in flagellar dynamics. However, fluid-mediated ciliary coupling is responsible for the extended periods of anti-phase synchronization observed in a mutant with weaker intracellular coupling. At the single-cell level, therefore, flagellar coordination depends on a subtle balance between intracellular and extracellular forces."
+  },
+  {
+    "id": "https://openalex.org/W4285029287",
+    "title": "Realization of an Error-Correcting Surface Code with Superconducting Qubits",
+    "year": 2022,
+    "abstract": "error correction is a critical technique for transitioning from noisy intermediate-scale quantum devices to fully fledged quantum computers. The surface code, which has a high threshold error rate, is the leading quantum error correction code for two-dimensional grid architecture. So far, the repeated error correction capability of the surface code has not been realized experimentally. Here, we experimentally implement an error-correcting surface code, the distance-three surface code which consists of 17 qubits, on the Zuchongzhi 2.1 superconducting quantum processor. By executing several consecutive error correction cycles, the logical error can be significantly reduced after applying corrections, achieving the repeated error correction of surface code for the first time. This experiment represents a fully functional instance of an error-correcting surface code, providing a key step on the path towards scalable fault-tolerant quantum computing."
+  },
+  {
+    "id": "https://openalex.org/W4405108295",
+    "title": "Realizing Strong and Robust Quasi-1D Superconductors via Multiorbital Chains: NaBe as an Example",
+    "year": 2024,
+    "abstract": "(Q1D) systems are inherently unfavorable for superconductivity due to electronic instabilities and significant quantum fluctuations. This has led to a half-century-long pursuit of strong and robust Q1D superconductors. Herein, we propose an effective multiorbital chain approach that utilizes the interorbital self-doping to not only suppress the instability but also to position the Fermi level near the band edges. Crucially, the introduced multiorbital band crossings simultaneously create significant interband pairings that suppress pair fluctuations. As a result, strong and robust Q1D superconductivity becomes achievable. Our proposal is further realized in a realistic material system, namely, chainlike NaBe. Ab initio Eliashberg theory calculations predict a high superconducting transition temperature (T_{C}) of 17.2 K in NaBe, owing to its significant interband pairings and band-edge effects. Under doping or pressure, the T_{C} is boosted to over 20 K, which greatly exceeds the record of 11.5 K of all known Q1D superconductors. This work paves the way for discovering strong and robust Q1D superconductors in the multiorbital BCS-Eliashberg frame."
+  },
+  {
+    "id": "https://openalex.org/W4376107228",
+    "title": "Stabilizing Fluctuating Spin-Triplet Superconductivity in Graphene via Induced Spin-Orbit Coupling",
+    "year": 2023,
+    "abstract": "recent experiment showed that a proximity-induced Ising spin-orbit coupling enhances the spin-triplet superconductivity in Bernal bilayer graphene. Here, we show that, due to the nearly perfect spin rotation symmetry of graphene, the fluctuations of the spin orientation of the triplet order parameter suppress the superconducting transition to nearly zero temperature. Our analysis shows that both an Ising spin-orbit coupling and an in-plane magnetic field can eliminate these low-lying fluctuations and can greatly enhance the transition temperature, consistent with the recent experiment. Our model also suggests the possible existence of a phase at small anisotropy and magnetic field which exhibits quasilong-range ordered spin-singlet charge 4e superconductivity, even while the triplet 2e superconducting order only exhibits short-ranged correlations. Finally, we discuss relevant experimental signatures."
+  },
+  {
+    "id": "https://openalex.org/W4319078015",
+    "title": "Coulombic Surface-Ion Interactions Induce Nonlinear and Chemistry-Specific Charging Kinetics",
+    "year": 2023,
+    "abstract": "important for many industrial applications, chemical reactions responsible for the charging of solids in water are often poorly understood. We theoretically investigate the charging kinetics of solid-liquid interfaces and find that the time-dependent equilibration of surface charge contains key information not only on the reaction mechanism, but also on the valency of the reacting ions. We construct a nonlinear differential equation describing surface charging by combining chemical Langmuir kinetics and electrostatic Poisson-Boltzmann theory. Our results reveal a clear distinction between late-time (near-equilibrium) and short-time (far-from-equilibrium) relaxation rates, the ratio of which contains information on the charge valency and ad- or desorption mechanism of the charging process. Similarly, we find that single-ion reactions can be distinguished from two-ion reactions, as the latter show an inflection point during equilibration. Interestingly, such inflection points are characteristic of autocatalytic reactions, and we conclude that the Coulombic ion-surface interaction is an autocatalytic feedback mechanism."
+  },
+  {
+    "id": "https://openalex.org/W3024514575",
+    "title": "Microscale Marangoni Surfers",
+    "year": 2020,
+    "abstract": "apply laser light to induce the asymmetric heating of Janus colloids adsorbed at water-oil interfaces and realize active micrometric \"Marangoni surfers.\" The coupling of temperature and surfactant concentration gradients generates Marangoni stresses leading to self-propulsion. Particle velocities span 4 orders of magnitude, from microns/s to cm/s, depending on laser power and surfactant concentration. Experiments are rationalized by finite elements simulations, defining different propulsion regimes relative to the magnitude of the thermal and solutal Marangoni stress components."
+  },
+  {
+    "id": "https://openalex.org/W4409479386",
+    "title": "Myosin-Independent Amoeboid Cell Motility",
+    "year": 2025,
+    "abstract": "cell polarization and motility are important processes involved in many physiological and pathological phenomena, such as embryonic development, wound healing, and cancer metastasis. The traditional view of mammalian cell motility suggests that molecular motors, adhesion, and cell deformation are all necessary components for mammalian cell movement. However, experiments on immune system cells have shown that the inhibition of molecular motors does not significantly affect cell motility. We present a new theory and simulations demonstrating that actin polymerization alone is sufficient to induce spontaneously cell polarity accompanied by the retrograde flow. These findings provide a new understanding of the fundamental mechanisms of cell movement and at the same time provide a simple mechanism for cell motility in diverse configurations, e.g., on an adherent substrate, in a nonadherent matrix, or in liquids."
+  }
+]

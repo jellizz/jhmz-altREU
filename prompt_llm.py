@@ -43,9 +43,11 @@ anthropic_client = Anthropic(
 
 gemini_client = genai.Client()'''
 
-
+# this is the prompt base that will be injected with the abstract (needs some tweaking)
 prompt_base_tsk1 = "TASK 1: words..."
 prompt_base_tsk2 = "TASK 2: more words..."
+
+# this is the file that contains the abstracts to be prompted with (could also set as variable for different journal jsons)
 abstracts_file = "test_prompt_llm.json"
 
 
@@ -61,7 +63,7 @@ def load_file(filename):
 
 # 1b. Parse the abstracts JSON for an abstract; cross-check ids of abstract
 # JSON and current JSON being build to ensure that an abstract
-# has not been prompted with yet
+# has not been prompted with yet (checks using OpenAlex id, given in json formatting for abstracts)
 
 def completed_abstract_ids(filename):
     content = load_file(filename)
