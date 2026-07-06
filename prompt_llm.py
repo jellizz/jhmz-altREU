@@ -44,7 +44,8 @@ anthropic_client = Anthropic(
 gemini_client = genai.Client()'''
 
 # this is the prompt base that will be injected with the abstract (needs some tweaking)
-prompt_base_tsk1 = "TASK 1: words..."
+prompt_base_tsk1 = "Acting as an academic expert, generate one one-sentence scientific question that scholars might ask about a piece of scientific literature, based on a specific abstract from a scientific paper. The question should require the synthesis of multiple scientific papers to answer (a literature-review style question). :"
+
 prompt_base_tsk2 = "TASK 2: more words..."
 
 # this is the file that contains the abstracts to be prompted with (could also set as variable for different journal jsons)
@@ -144,7 +145,7 @@ def prompt_llm(prompt, llm):
             input=prompt
         )
         return response.output_text
-    else:
+    else: # for testing purposes, if you want to see what the rest of the code does without actually calling an LLM
         return "QUESTION:\nWhat is a pineapple?\nANSWER:\nA fruit.\nREFERENCES:\n[1] Doe, John. (2026). Pineapple. Pineapple Journal, 1(23), 45-67. DOI: pineapple.com.\n[2] Doe, Jane. (1234). Original Pineapple. Pineapple Origins, 1(23), 45-67. DOI: pineapple.og.com."
         
 

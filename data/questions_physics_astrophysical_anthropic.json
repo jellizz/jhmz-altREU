@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W4320896688",
+    "model": "anthropic",
+    "question": "How do the neutrino flux upper limits derived from IceCube follow-up searches of LIGO/Virgo gravitational-wave events compare across different multimessenger observatories and theoretical models of compact object mergers to constrain the astrophysical mechanisms of high-energy neutrino production?"
+  },
+  {
+    "id": "https://openalex.org/W3003715657",
+    "model": "anthropic",
+    "question": "What are the physical mechanisms and magnetic topological conditions that determine whether fast and wide coronal mass ejections efficiently accelerate and release >20 MeV protons, and how do these factors interact to explain the observed variability in SEP production across otherwise comparable eruption events?"
+  },
+  {
+    "id": "https://openalex.org/W4394924449",
+    "model": "anthropic",
+    "question": "How do the refractory element depletion patterns observed in solar analogs across different stellar surveys and spectroscopic methods reconcile with competing theoretical models of planet formation, galactic chemical evolution, and stellar birth environments in explaining the Sun's apparent refractory depletion?"
+  },
+  {
+    "id": "https://openalex.org/W4391670627",
+    "model": "anthropic",
+    "question": "How do the constraints on the FRB energy distribution parameters and redshift evolution derived from the CHIME/FRB catalog compare with those obtained from other FRB surveys and localized samples, and what do these collective findings imply about whether the FRB population traces the cosmic star formation history or requires a delayed progenitor channel?"
+  },
+  {
+    "id": "https://openalex.org/W4225000992",
+    "model": "anthropic",
+    "question": "How do the multiwavelength emission mechanisms proposed across different theoretical FRB models\u2014such as magnetospheric inverse Compton scattering versus magnetar blastwave interactions\u2014compare in their predicted radio-optical spectral energy distributions, and what combination of observational constraints would be required to definitively discriminate among them?"
+  },
+  {
+    "id": "https://openalex.org/W4319591860",
+    "model": "anthropic",
+    "question": "How do the observational signatures and physical mechanisms of accretion-jet coupling during spectral state transitions in blazars driven by supermassive black holes compare with those in stellar-mass black hole binaries, and to what extent do these similarities support a mass-invariant, scale-unified state transition paradigm across the black hole mass spectrum?"
+  },
+  {
+    "id": "https://openalex.org/W3138992703",
+    "model": "anthropic",
+    "question": "How do the relative contributions of tether-cutting reconnection versus ideal MHD instabilities (such as the helical kink and torus instabilities) in triggering filament eruptions vary across different active region magnetic configurations and eruption events reported in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W3134057496",
+    "model": "anthropic",
+    "question": "How does the diffusive nature of the splashback boundary in dark matter halos, as quantified by redshift-dependent coefficients, compare across different theoretical frameworks and simulation-based approaches for characterizing halo boundaries, and what physical mechanisms might explain its convergence to a cosmology-dependent threshold redshift?"
+  },
+  {
+    "id": "https://openalex.org/W4405212617",
+    "model": "anthropic",
+    "question": "How do the polarimetric signatures of black hole photon rings predicted by geometric and general-relativistic magnetohydrodynamic models compare across different studies, and to what extent are these predictions robust to variations in accretion flow physics, spin, and electron heating prescriptions when assessed against next-generation interferometric detection capabilities?"
+  },
+  {
+    "id": "https://openalex.org/W4306180666",
+    "model": "anthropic",
+    "question": "How do the spectral signatures of winds and outflows, such as the ~0.9 keV emission feature, correlate with luminosity-temperature scaling relations across the broader population of ultraluminous X-ray sources to distinguish between super-Eddington accretion onto stellar-mass compact objects versus intermediate-mass black holes?"
+  },
+  {
+    "id": "https://openalex.org/W4393118748",
+    "model": "anthropic",
+    "question": "How does the Chameleon dark energy model's predicted phantom crossing at z\u223c0.5 compare with the range of dynamical dark energy scenarios and modified gravity frameworks proposed to explain the DESI-preferred evolving equation of state, and to what extent do their observational signatures remain distinguishable across current cosmological datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4362554369",
+    "model": "anthropic",
+    "question": "How do the retrievability and potential false-positive sources of vegetation-like \"red edge\" surface features compare across different surface biosignatures, atmospheric conditions, and abiotic mineral reflectance signatures when characterizing terrestrial exoplanets with reflection spectroscopy?"
+  },
+  {
+    "id": "https://openalex.org/W3209679018",
+    "model": "anthropic",
+    "question": "How do the relative contributions of shock dissipation versus turbulent cascade to energy dissipation compare across different astrophysical plasma environments, and what physical parameters govern the transition between these dissipation regimes?"
+  },
+  {
+    "id": "https://openalex.org/W4200338967",
+    "model": "anthropic",
+    "question": "Here is a literature-review style scientific question based on the abstract:\n\nHow do the predictions of test-particle models of null-point reconnection in coronal jets compare with those derived from alternative acceleration frameworks, such as kinetic particle-in-cell simulations and observational studies of circular-ribbon flares and heliospheric particle beams, in explaining the spatial segregation of accelerated protons and electrons?"
+  },
+  {
+    "id": "https://openalex.org/W4414777503",
+    "model": "anthropic",
+    "question": "How do the differences in stellar inference frameworks, photometric surveys, and modeling assumptions across contemporary 3D dust mapping efforts affect the consistency and reliability of extinction estimates in high-extinction, high-density regions of the Galactic plane?"
+  },
+  {
+    "id": "https://openalex.org/W4408990833",
+    "model": "anthropic",
+    "question": "How do the systematic effects of filament identification algorithms, redshift space distortions, and viewing angle dependencies compare across the broader body of cosmic web studies, and to what extent might these methodological variations reconcile or challenge the reported detections of filament spin in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4396804458",
+    "model": "anthropic",
+    "question": "How do the observed emission-height differences and frequency-independent emission heights of PSR J0614+2229's two states compare with the magnetospheric mode-switching mechanisms proposed for other pulsars exhibiting similar state-switching and spectral-index variations?"
+  },
+  {
+    "id": "https://openalex.org/W3123887781",
+    "model": "anthropic",
+    "question": "How do the shock formation dynamics and nonlinear energy cascade mechanisms of torsional Alfv\u00e9n waves in solar jets, as modeled by the thin flux tube approximation, compare with alternative wave-heating and energy-transfer frameworks proposed across the literature for reconciling coronal heating with solar wind acceleration?"
+  },
+  {
+    "id": "https://openalex.org/W4392110199",
+    "model": "anthropic",
+    "question": "How does the observed early formation of brightest cluster galaxies through dry major mergers in high-redshift protoclusters, prior to full cluster core assembly, reconcile with existing models of hierarchical BCG assembly and environmental quenching mechanisms across diverse protocluster and cluster environments?"
+  },
+  {
+    "id": "https://openalex.org/W3217025167",
+    "model": "anthropic",
+    "question": "How do the mechanisms of methanol formation\u2014particularly grain-surface hydrogenation of CO versus gas-phase pathways\u2014reconcile the observed persistence of methanol abundances in metal-poor outer Galaxy clouds with the metallicity-dependent chemical models and organic molecule surveys across the Galactic disk?"
+  },
+  {
+    "id": "https://openalex.org/W4406629820",
+    "model": "anthropic",
+    "question": "How do the radial dependencies of age\u2013velocity dispersion relation power-law indices observed across different Galactic disk populations reconcile with competing dynamical heating mechanisms\u2014such as giant molecular clouds, spiral arms, satellite mergers, and in situ turbulent formation\u2014when synthesized across independent Milky Way surveys, N-body simulations, and cosmological zoom-in studies of disk evolution?"
+  },
+  {
+    "id": "https://openalex.org/W4404376640",
+    "model": "anthropic",
+    "question": "How do the derived upper limits on HCCSCN column densities across these diverse molecular clouds compare with the detected abundances and predicted formation pathways of related sulfur- and cyanide-bearing species, and what do such comparisons reveal about the chemical feasibility of alkynyl thiocyanate synthesis in interstellar environments?"
+  },
+  {
+    "id": "https://openalex.org/W4399856585",
+    "model": "anthropic",
+    "question": "How do the atmospheric thermal structures and H\u207b opacity signatures of irradiated brown dwarfs orbiting white dwarfs compare to those of hot and ultra-hot Jupiters, and to what extent can differences in viewing geometry and host-star irradiation account for the divergent day-to-nightside temperature transitions observed across these two classes of highly irradiated substellar atmospheres?"
+  },
+  {
+    "id": "https://openalex.org/W3130802944",
+    "model": "anthropic",
+    "question": "How do the mass-loss histories and circumstellar medium structures inferred from radio, optical, and X-ray observations of Type Ia supernovae collectively constrain the relative contributions of single-degenerate, double-degenerate, and nova-shaped CSM progenitor channels?"
+  },
+  {
+    "id": "https://openalex.org/W4407755761",
+    "model": "anthropic",
+    "question": "How do the temperature-dependent formation and destruction pathways of carbon oxide radiolysis products in irradiated CO\u2082 ices, as revealed across laboratory astrochemistry studies, collectively constrain the use of CO/CO\u2082 ratios as reliable tracers of galactic cosmic-ray exposure history on trans-Neptunian objects?"
+  },
+  {
+    "id": "https://openalex.org/W4413141852",
+    "model": "anthropic",
+    "question": "How do systematic uncertainties in stellar atmospheric models of M dwarfs across different wavelength regimes compare in their impact on exoplanet characterization between emission and transmission spectroscopy, and what complementary observational or modeling strategies could jointly mitigate these effects?"
+  },
+  {
+    "id": "https://openalex.org/W4386114764",
+    "model": "anthropic",
+    "question": "How do the mechanisms and efficiencies of magnetic focusing, Coulomb collisions, and turbulent scattering compare across different coronal magnetic field configurations in shaping the transport and collimation of suprathermal electron populations during solar flares?"
+  },
+  {
+    "id": "https://openalex.org/W4415983269",
+    "model": "anthropic",
+    "question": "How does the amplitude-independent characteristic period of 3D oscillatory reconnection compare with reconnection-driven periodicities identified in 2D null-point studies and observed quasi-periodic pulsations in solar flares, and can these signatures be reconciled to establish a unified diagnostic framework for inferring the plasma properties of coronal null points?"
+  },
+  {
+    "id": "https://openalex.org/W7151819322",
+    "model": "anthropic",
+    "question": "How do differing spectropolarimetric inversion strategies and model assumptions systematically bias the inferred chromospheric magnetic field oscillations across studies of umbral flashes, and what independent observational or theoretical constraints could discriminate between magnetic field fluctuations and velocity gradients as the dominant driver of the observed Stokes profile variations during magnetoacoustic shocks?"
+  },
+  {
+    "id": "https://openalex.org/W3092851500",
+    "model": "anthropic",
+    "question": "How do the predictions of the L[CII]\u2013SFR relation and [CII] luminosity function derived from cosmological hydrodynamic simulations coupled with radiative transfer methods compare with those from semi-analytic models and other simulation frameworks, and what physical processes account for the discrepant slopes reported across these approaches?"
+  },
+  {
+    "id": "https://openalex.org/W4388266310",
+    "model": "anthropic",
+    "question": "How do the mechanisms and efficiencies of dust nucleation, coagulation, and fractal aggregate formation in circumstellar outflows compare across different types of evolved stars and varying metallicity environments, and what are their collective implications for mass loss rates and interstellar medium dust enrichment?"
+  },
+  {
+    "id": "https://openalex.org/W3085278849",
+    "model": "anthropic",
+    "question": "How do the diagnostic criteria used to establish physical associations between supernova remnants and molecular clouds\u2014such as spatial correlations, kinematic disturbances, and derived physical parameters\u2014compare in reliability across different studies, and what systematic approaches can best distinguish genuine associations from chance spatial coincidences?"
+  },
+  {
+    "id": "https://openalex.org/W4385445267",
+    "model": "anthropic",
+    "question": "How do the systematic uncertainties in the Hubble constant derived from different distance calibration methods (e.g., IR surface brightness fluctuations, Cepheid variables, and the tip of the red giant branch) compare and potentially reconcile, and to what extent do differences in the intrinsic properties of type Ia supernovae across various host galaxy environments contribute to the persistent Hubble tension?"
+  },
+  {
+    "id": "https://openalex.org/W3085652472",
+    "model": "anthropic",
+    "question": "How do the systematic discrepancies between simulated and observed bar fractions and sizes across different cosmological simulations reflect the interplay between numerical resolution limits, subgrid physics prescriptions, and disk stability criteria in reproducing the secular evolution of barred galaxies?"
+  },
+  {
+    "id": "https://openalex.org/W3159310330",
+    "model": "anthropic",
+    "question": "How do systematic deviations between response-weighted and luminosity-weighted broad-line region radii, as predicted by locally optimally emitting cloud models, compare with empirical constraints from reverberation mapping and spectroastrometry studies across different hydrogen emission lines, and what are their combined implications for the reliability of SARM-based Hubble constant measurements?"
+  },
+  {
+    "id": "https://openalex.org/W3082994736",
+    "model": "anthropic",
+    "question": "How do the empirical activity\u2013rotation relationships derived from X-ray luminosity and Rossby number compare across different stellar populations and activity indicators, and what do these comparisons reveal about the underlying magnetic dynamo mechanisms operating in stars with distinct internal structures?"
+  },
+  {
+    "id": "https://openalex.org/W7166852628",
+    "model": "anthropic",
+    "question": "How do the merger fractions and morphological disturbance signatures observed in changing-look AGN hosts compare with those of other AGN populations and quiescent galaxies across cosmic time, and what does this reveal about the relative contribution of galaxy interactions versus internal accretion-disk instabilities in triggering AGN variability?"
+  },
+  {
+    "id": "https://openalex.org/W4408381241",
+    "model": "anthropic",
+    "question": "How do the atmospheric and climatic effects of cometary impacts on tidally locked terrestrial exoplanets vary across different impactor compositions, sizes, and bombardment frequencies, and how do these modeled signatures compare with the observable biosignature and habitability markers predicted by other coupled impact-climate studies?"
+  },
+  {
+    "id": "https://openalex.org/W4402782186",
+    "model": "anthropic",
+    "question": "How do supervised machine-learning approaches for classifying solar and stellar flares compare across different instruments and spectral datasets in their ability to mitigate flare-induced contamination in exoplanet transmission spectra?"
+  },
+  {
+    "id": "https://openalex.org/W7151557000",
+    "model": "anthropic",
+    "question": "How do the systematic uncertainties in core-collapse supernova nucleosynthesis yields\u2014arising from differences in stellar evolution treatments, explosion mechanisms, and metallicity dependencies across various yield tables\u2014propagate into constraints on the relative contributions of massive stars and Type Ia supernovae inferred from intracluster medium abundance patterns like those observed in the Perseus Cluster?"
+  },
+  {
+    "id": "https://openalex.org/W7150902589",
+    "model": "anthropic",
+    "question": "How do local long-GRB rates derived from synthetic population modeling calibrated to Fermi-GBM observations compare with estimates obtained through alternative detection instruments, luminosity function assumptions, and cosmic star formation history models across the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4282967044",
+    "model": "anthropic",
+    "question": "How does the metallicity-dependent preference of long gamma-ray burst progenitors, as inferred from their cosmic formation rate exceeding the star formation rate at high redshift, reconcile with the diversity of metallicities reported across direct host galaxy observations and stellar evolution models of collapsar progenitors?"
+  },
+  {
+    "id": "https://openalex.org/W4386113398",
+    "model": "anthropic",
+    "question": "How do the disk masses, sizes, and substructure characteristics of Class 0 protostellar disks like RCrA IRS5N compare across the broader population of embedded disks, and what do these properties reveal about the timing and initial conditions of planet formation in the earliest stages of stellar evolution?"
+  },
+  {
+    "id": "https://openalex.org/W3119058164",
+    "model": "anthropic",
+    "question": "How do the physical mechanisms linking the surface brightness of ionized layers on embedded molecular clouds to foreground ionized gas, as observed in the Orion Nebula, compare across other H II regions with similar embedded cloud structures and X-ray-emitting hot gas?"
+  },
+  {
+    "id": "https://openalex.org/W3153509651",
+    "model": "anthropic",
+    "question": "How do the magnetic structure and thermal connectivity of transition region plasma revealed by CLASP2, IRIS, and SDO observations reconcile with competing theoretical models of the transition region proposed across the literature, and what are the implications for using chromospheric spectral line measurements as boundary conditions in coronal magnetic field extrapolations?"
+  },
+  {
+    "id": "https://openalex.org/W4304782242",
+    "model": "anthropic",
+    "question": "How do the period\u2013Wesenheit relations calibrated using open-cluster-averaged Gaia parallaxes compare, in terms of slope, zero-point, and residual scatter, with those derived through alternative distance anchors such as detached eclipsing binaries, Baade\u2013Wesselink techniques, and Gaia parallaxes with varying zero-point corrections, and what do these discrepancies imply for the reliability of Cepheids as calibrators of the extragalactic distance scale and the Hubble constant?"
+  },
+  {
+    "id": "https://openalex.org/W4393318639",
+    "model": "anthropic",
+    "question": "How do the observed properties of helium-deficient dwarf novae below the period minimum, such as KSP-OT-201712a, constrain competing evolutionary pathways linking cataclysmic variables to AM CVn systems and Type Ia supernova progenitors?"
+  },
+  {
+    "id": "https://openalex.org/W4403688433",
+    "model": "anthropic",
+    "question": "How do the mass\u2013size scaling relations and morphological transitions of molecular clouds derived from 3D dust extinction mapping reconcile with those obtained through spectral-line emission surveys across different galactic environments, and what do these discrepancies reveal about the relative contributions of galactic shear versus local self-gravity and turbulence in regulating cloud structure?"
+  },
+  {
+    "id": "https://openalex.org/W7140305665",
+    "model": "anthropic",
+    "question": "How do the spin constraints derived from EHT brightness asymmetry measurements of M87* compare and reconcile with independent spin estimates obtained through jet morphology, X-ray reverberation, and cosmological black hole growth models across the broader literature?"
+  },
+  {
+    "id": "https://openalex.org/W4225000210",
+    "model": "anthropic",
+    "question": "How do the physical mechanisms governing gas mixing timescales and turbulent diffusion in galactic disks reconcile the apparent discrepancy between the large metallicity variations inferred from neutral clouds and the homogeneous chemical composition indicated by H ii regions, B-type stars, classical Cepheids, and young clusters in the solar neighborhood?"
+  },
+  {
+    "id": "https://openalex.org/W4403316790",
+    "model": "anthropic",
+    "question": "How do measurements of intrinsic chemical abundance scatter in metal-poor stars across dwarf galaxies and globular clusters compare across different spectroscopic resolutions and analysis methods, and what do these collective constraints reveal about the nucleosynthetic yields of the first stellar generations and the early star formation and mixing histories of these systems?"
+  },
+  {
+    "id": "https://openalex.org/W4408636724",
+    "model": "anthropic",
+    "question": "How do the mechanisms governing inertial and kinetic Alfv\u00e9n wave transmission and dissipation across Alfv\u00e9n speed gradients, as characterized in laboratory experiments, compare with the damping and mode-conversion processes proposed in theoretical and observational studies of coronal heating and solar wind turbulence?"
+  },
+  {
+    "id": "https://openalex.org/W4400459872",
+    "model": "anthropic",
+    "question": "How do the initial multiplicities, migration rates, and eccentricity-damping efficiencies inferred from resonant-chain instability models for long-period giant exoplanets compare with the physical conditions predicted by hydrodynamical simulations of planet\u2013disk interactions and other proposed dynamical formation channels for Hot Jupiters?"
+  },
+  {
+    "id": "https://openalex.org/W2982449297",
+    "model": "anthropic",
+    "question": "How do the parametric and structural uncertainties inherent in coupled planetary thermal-evolution and climate models compare across different studies, and what methodological strategies have been developed to propagate and constrain these uncertainties when forecasting the long-term habitability of terrestrial exoplanets?"
+  },
+  {
+    "id": "https://openalex.org/W3126756370",
+    "model": "anthropic",
+    "question": "How do the atmospheric dynamics, habitability predictions, and observational detectability of Proxima b vary across different general circulation models and assumed atmospheric compositions, and to what extent do these modeling choices reconcile or conflict with one another?"
+  },
+  {
+    "id": "https://openalex.org/W3110225936",
+    "model": "anthropic",
+    "question": "How do the systematic uncertainties and biases introduced by Bayesian neural network-based lens modeling compare with those of traditional forward-modeling approaches across the broader landscape of time-delay cosmography methods for Hubble constant determination?"
+  },
+  {
+    "id": "https://openalex.org/W7164400693",
+    "model": "anthropic",
+    "question": "How do the assumptions underlying the radio\u2013FIR correlation and its potential evolution with redshift, when combined with CMB attenuation effects and dust properties inferred across cosmic time, affect the reliability of predicted radio\u2013FIR SED-based detectability of star-forming galaxies at the epoch of reionization?"
+  },
+  {
+    "id": "https://openalex.org/W3036290821",
+    "model": "anthropic",
+    "question": "How do the detectability constraints and null results from X-ray periodicity searches for supermassive black hole binaries compare with those derived from optical, infrared, and gravitational-wave (pulsar timing array) surveys, and what do these combined multi-wavelength and multi-messenger findings imply about the true occurrence rate of sub-parsec SMBHBs?"
+  },
+  {
+    "id": "https://openalex.org/W4412732219",
+    "model": "anthropic",
+    "question": "How do the relative contributions of different high-eccentricity migration mechanisms (e.g., von Zeipel-Lidov-Kozai oscillations, secular chaos, and planet-planet scattering) to producing polar-orbiting Neptune-sized planets compare, and to what extent can each mechanism account for the observed correlation between orbital misalignment and tidally induced radius inflation?"
+  },
+  {
+    "id": "https://openalex.org/W4409129455",
+    "model": "anthropic",
+    "question": "How do the distinct early-phase color populations and their associated progenitor channels identified in Type Ia supernovae reconcile with the diversity of explosion mechanisms and host environment correlations reported across the broader literature on SN Ia spectrophotometric diversity?"
+  },
+  {
+    "id": "https://openalex.org/W3140539212",
+    "model": "anthropic",
+    "question": "How do the systematic uncertainties inherent in the Davis\u2013Chandrasekhar\u2013Fermi method and its variants affect the reliability of magnetic field strength estimates and inferred mass-to-flux ratios across different molecular cloud environments?"
+  },
+  {
+    "id": "https://openalex.org/W3044970519",
+    "model": "anthropic",
+    "question": "How does the universality of the conditional probability distribution of [O ii] luminosity given NUV absolute magnitude reported here compare with the redshift- and environment-dependent scaling relations between emission-line strength, star-formation rate, and dust attenuation established across other star-forming galaxy samples in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4402321018",
+    "model": "anthropic",
+    "question": "How do the relative enrichment patterns of \u03b1 elements versus iron in the stellar and gas-phase components of intermediate-mass galaxies compare to those observed in Local Group satellites and massive field galaxies, and what do these differences reveal about the universality of starvation as a quenching mechanism across the galaxy mass spectrum?"
+  },
+  {
+    "id": "https://openalex.org/W4410329913",
+    "model": "anthropic",
+    "question": "How do the acceleration and transport mechanisms responsible for low-energy ion beams from impulsive solar flares compare across different heliocentric distances, and what role do coronal magnetic field configurations and interplanetary scattering processes play in shaping their observed energy dispersion signatures?"
+  },
+  {
+    "id": "https://openalex.org/W7137815868",
+    "model": "anthropic",
+    "question": "How do the satellite abundance and radial distribution statistics of star-forming, Magellanic Cloud\u2013like satellites around Milky Way analogs derived from medium-band photometric surveys compare with predictions from cosmological hydrodynamical simulations and with spectroscopically confirmed satellite censuses, and what do discrepancies reveal about the fidelity of current models of satellite quenching and hierarchical galaxy formation?"
+  },
+  {
+    "id": "https://openalex.org/W7126078128",
+    "model": "anthropic",
+    "question": "How do the observed spatial gradients in deuterium fractionation and CO depletion across starless and protostellar cores in Barnard 5 compare with predictions from chemical evolution models and with measurements from other star-forming regions, and to what extent can these tracers serve as reliable evolutionary clocks for core collapse and protostellar formation?"
+  },
+  {
+    "id": "https://openalex.org/W4381436208",
+    "model": "anthropic",
+    "question": "How do the relative contributions of the equatorial dipole and nondipole components of the coronal magnetic field to interplanetary magnetic field variations, as inferred from potential field source surface models, compare with those derived from alternative modeling approaches and in situ observations across multiple solar cycles in addressing the open flux problem?"
+  },
+  {
+    "id": "https://openalex.org/W4415946837",
+    "model": "anthropic",
+    "question": "How do stellar parameter and elemental abundance inference methodologies systematically affect the derived internal structure constraints of terrestrial exoplanets across different studies in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W3080971874",
+    "model": "anthropic",
+    "question": "How do the resolution-dependent stochastic outcomes of gas-driven massive black hole orbital decay, including circumbinary disk formation and potential binary stalling at subparsec scales, compare across different numerical implementations and physical mechanisms (e.g., stellar-driven hardening) proposed to resolve the \"final parsec problem\" and ensure entry into the gravitational-wave emission phase?"
+  },
+  {
+    "id": "https://openalex.org/W4409552450",
+    "model": "anthropic",
+    "question": "How do the properties of intermediate-width emission lines in radio-selected tidal disruption events compare across the broader population of coronal line emitters and other transient nuclear phenomena, and what do these similarities reveal about the physical mechanisms and circumnuclear environments that produce such spectral features?"
+  },
+  {
+    "id": "https://openalex.org/W4390886784",
+    "model": "anthropic",
+    "question": "What are the primary formation and destruction pathways of peptide-like molecules such as HCONH\u2082 and CH\u2083CONH\u2082 across diverse interstellar environments, and how do gas-phase versus grain-surface chemistry contribute to their observed abundance ratios relative to related species like HNCO?"
+  },
+  {
+    "id": "https://openalex.org/W4416550738",
+    "model": "anthropic",
+    "question": "How do the excitation mechanisms and observable signatures of inertial modes inferred from 3D rotating convection simulations compare with those derived from helioseismic and planetary observations, and to what extent can differential-rotation instabilities versus stochastic convective forcing be distinguished as the dominant driver across different stellar and planetary regimes?"
+  },
+  {
+    "id": "https://openalex.org/W3213569005",
+    "model": "anthropic",
+    "question": "How do the mechanisms and efficiency of supernova-driven dark matter core formation predicted by idealized N-body models compare with those emerging from fully cosmological hydrodynamical simulations across different feedback implementations and galaxy mass regimes?"
+  },
+  {
+    "id": "https://openalex.org/W3070567070",
+    "model": "anthropic",
+    "question": "How do the chemical abundance patterns observed in high-redshift Lyman limit systems compare with those of carbon-enhanced metal-poor stars and predicted nucleosynthetic yields of Population III supernovae in tracing the earliest episodes of cosmic metal enrichment?"
+  },
+  {
+    "id": "https://openalex.org/W4224110596",
+    "model": "anthropic",
+    "question": "How do the filament dissolution and subgroup merger processes identified in young stellar groups compare with predictions from hierarchical star formation simulations and observations of embedded clusters across different star-forming environments?"
+  },
+  {
+    "id": "https://openalex.org/W7126205459",
+    "model": "anthropic",
+    "question": "How do automated and semiautomated multi-instrument trigger processing frameworks compare in their effectiveness at enabling rapid multiwavelength and multimessenger follow-up of gamma-ray transients across different gamma-ray monitor constellations?"
+  },
+  {
+    "id": "https://openalex.org/W3045835824",
+    "model": "anthropic",
+    "question": "How do the power-law indices of molecular cloud mass and area distributions derived from CO surveys compare across different regions of the Milky Way and various tracers, and what do these variations reveal about the physical processes governing molecular cloud formation and evolution?"
+  },
+  {
+    "id": "https://openalex.org/W7155357928",
+    "model": "anthropic",
+    "question": "**Question:** How do the predictions of fuzzy dark matter soliton-core models for the formation and obscuration of high-redshift compact objects compare to those of alternative theoretical frameworks\u2014such as cold dark matter direct-collapse black hole seeds or dense stellar cluster models\u2014in explaining the observed properties of Little Red Dots?"
+  },
+  {
+    "id": "https://openalex.org/W4388023724",
+    "model": "anthropic",
+    "question": "How do the magnetic field turbulence characteristics inferred from Faraday depth fluctuations in supernova remnants compare across different remnants and evolutionary stages, and what do these variations reveal about the interaction between shock dynamics and the surrounding interstellar medium?"
+  },
+  {
+    "id": "https://openalex.org/W4283750622",
+    "model": "anthropic",
+    "question": "How do the relative contributions of solar X-ray flux rise rate versus ionospheric sluggishness in shaping short-wave fadeout onset dynamics compare across different latitudes, hemispheres, and solar cycle phases as reported in the broader ionospheric response literature?"
+  },
+  {
+    "id": "https://openalex.org/W3018734733",
+    "model": "anthropic",
+    "question": "How do the nucleosynthetic origins and enrichment timescales of carbon and nitrogen reconcile with the observed near-constant C/N ratio across galactic radius, given the divergent chemical evolution patterns reported for these elements in Milky Way and extragalactic H ii region studies?"
+  },
+  {
+    "id": "https://openalex.org/W4407583426",
+    "model": "anthropic",
+    "question": "How does the \"relative alpha\" instability criterion derived from linear force-free extrapolation fields compare, in predictive accuracy and physical basis, with other magnetic-helicity- and free-energy-based eruption proxies proposed across the solar flare forecasting literature?"
+  },
+  {
+    "id": "https://openalex.org/W4406883057",
+    "model": "anthropic",
+    "question": "How do the observed multi-decadal decline in solar polar fields and the synchronous reduction in solar wind microturbulence since the mid-1990s relate to proposed mechanisms of long-term solar activity modulation and the potential onset of a grand solar minimum across multiple studies?"
+  },
+  {
+    "id": "https://openalex.org/W4402151016",
+    "model": "anthropic",
+    "question": "How do black hole mass measurements derived from stellar dynamical modeling systematically compare with those from gas dynamical methods across the galaxy population, and what physical or methodological factors account for the discrepancies observed in cases where the two techniques disagree?"
+  },
+  {
+    "id": "https://openalex.org/W3080761822",
+    "model": "anthropic",
+    "question": "How do the quenching delay and exponential timescales inferred from splashback-based infall-time measurements compare with those derived from other environmental quenching probes across different cluster masses and redshifts?"
+  },
+  {
+    "id": "https://openalex.org/W4380785160",
+    "model": "anthropic",
+    "question": "How do the discrepancies between observed far-ultraviolet continuum slopes and standard thin-disk model predictions, along with evidence for inner-disk truncation and sub-Eddington temperatures, inform competing accretion-disk models across the broader population of Seyfert AGN when soft X-ray excess, X-ray reprocessing, and coronal Comptonization are simultaneously considered?"
+  },
+  {
+    "id": "https://openalex.org/W4328089550",
+    "model": "anthropic",
+    "question": "How do the effects of composition stratification and corotation-point singularities on inertial r-mode stability compare across barotropic and nonbarotropic neutron star models in the existing literature, and what implications do these differences hold for the reliability of gravitational-wave search templates targeting fast-spinning neutron stars?"
+  },
+  {
+    "id": "https://openalex.org/W4409464492",
+    "model": "anthropic",
+    "question": "How do the different evolutionary pathways proposed for red versus non-red early-type galaxies\u2014such as gas accretion, mergers, and environmental quenching\u2014reconcile with their contrasting alignment behaviors within large-scale cosmic filaments across various studies?"
+  },
+  {
+    "id": "https://openalex.org/W4397002459",
+    "model": "anthropic",
+    "question": "How do the systematic uncertainties introduced by optical-to-NIR spectral extrapolation methods compare with those from established NIR spectral templates and empirical K-correction approaches in their impact on cosmological distance measurements using Type Ia supernovae?"
+  },
+  {
+    "id": "https://openalex.org/W4225784363",
+    "model": "anthropic",
+    "question": "How do the predicted electromagnetic signatures\u2014such as periodic light curves, UV/X-ray spectral features, and spin-dependent mini-disk luminosities\u2014of inspiraling supermassive binary black holes compare across different general relativistic magnetohydrodynamic simulation approaches and mass-accretion regimes, and to what extent can these signatures be robustly distinguished from single active galactic nuclei to enable multimessenger identification of binary candidates?"
+  },
+  {
+    "id": "https://openalex.org/W4383101627",
+    "model": "anthropic",
+    "question": "How do the roles of magnetospheric changes versus internal moment-of-inertia variations in explaining anomalous braking indices compare across the population of pulsars exhibiting spin-down state transitions without accompanying glitches?"
+  },
+  {
+    "id": "https://openalex.org/W7125514988",
+    "model": "anthropic",
+    "question": "How do the spatial scales and energetics of AGN-driven outflows in compact galaxy groups compare to those in isolated active galaxies, and to what extent do galaxy interactions and tidal flows modulate the efficiency of AGN feeding and feedback processes across different group environments?"
+  },
+  {
+    "id": "https://openalex.org/W4416126380",
+    "model": "anthropic",
+    "question": "What are the competing astrophysical and cosmological interpretations\u2014such as intrahalo light, high-redshift galaxy populations, and direct-collapse black holes\u2014that have been proposed to explain excess near-infrared background anisotropy on arcminute scales, and how well does each account for the observed spectral shape and declining cross-correlation coefficient at low multipoles across independent experiments?"
+  },
+  {
+    "id": "https://openalex.org/W4411034099",
+    "model": "anthropic",
+    "question": "How do observations of metallicity gradients and N/O abundance ratios across a sample of star-forming dwarf galaxies constrain the relative contributions of external metal-poor gas accretion versus internal secular processes in triggering and sustaining starburst activity?"
+  },
+  {
+    "id": "https://openalex.org/W4402243105",
+    "model": "anthropic",
+    "question": "How do the mechanisms and efficiency of the \"streaming torque\" identified here compare with other dust-related and thermal torque mechanisms proposed in the literature for reversing rapid inward migration of low-mass protoplanets, and under what disk conditions does each dominate?"
+  },
+  {
+    "id": "https://openalex.org/W4405697076",
+    "model": "anthropic",
+    "question": "How do the various depolarization mechanisms proposed in the literature\u2014including jet precession, magnetic field structure variations, and viewing geometry effects\u2014compare in their ability to reconcile the discrepancy between theoretically predicted and observationally measured polarization degrees across the population of GRB early optical afterglows?"
+  },
+  {
+    "id": "https://openalex.org/W3194701197",
+    "model": "anthropic",
+    "question": "How do the systematic uncertainties inherent in nuclear mass models, r-process nucleosynthesis pathways, and stellar abundance observations collectively propagate to reconcile the discrepancies between nuclear cosmochronological age estimates and independent cosmological age determinations from CMB and gravitational lensing measurements?"
+  },
+  {
+    "id": "https://openalex.org/W3012569800",
+    "model": "anthropic",
+    "question": "How do the intensity contrasts, magnetic field strengths, and Evershed flow properties derived from 3D radiative MHD simulations of starspots across different spectral types compare with values inferred from the collective body of indirect observational techniques\u2014such as Doppler imaging, Zeeman-Doppler imaging, and molecular-band spectropolarimetry\u2014and what do the discrepancies reveal about the limitations of current starspot models and observational methods?"
+  },
+  {
+    "id": "https://openalex.org/W4386212050",
+    "model": "anthropic",
+    "question": "How do the nucleosynthetic yields and neutrino-driven wind properties predicted by 3D core-collapse supernova simulations compare across different simulation codes and physical treatments, and to what extent do these variations reconcile with observed abundance patterns of weak r-process elements in metal-poor stars?"
+  },
+  {
+    "id": "https://openalex.org/W4401372798",
+    "model": "anthropic",
+    "question": "How do the outflow properties and circumnuclear density profiles inferred from late-time radio flares in tidal disruption events compare with those derived from alternative models (e.g., delayed jet formation, off-axis relativistic jets, or sub-relativistic disk winds), and what does this synthesis reveal about the consistency of black hole mass estimates across different radio-emission mechanisms?"
+  }
+]
