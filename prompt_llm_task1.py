@@ -130,14 +130,14 @@ def generate_questions(abstracts_file, output_file, llm="testing"):
 
 
 if __name__ == "__main__":
-    # # calling on gemini and abstracts_S1980519.json (Physical Review Letters)
+    # # calling on gemini and abstracts_S1980519.json (Astrophysical Journal)
     # generate_questions(
     #     abstracts_file="data/abstracts_S1980519.json",
     #     output_file="data/questions_physics_astrophysical_anthropic.json",
     #     llm="anthropic",
     # )
 
-    # calling on gemini and abstracts_S24807848.json (The Astrophysical Journal)
+    # calling on gemini and abstracts_S24807848.json (Physical Review Letters)
     generate_questions(
         abstracts_file="data/abstracts_S24807848.json",
         output_file="data/questions_physics_prl_anthropic.json",
