@@ -74,16 +74,40 @@ def pull_abstracts(sample, source_id):
 if __name__ == "__main__":
     # Pulling 100 abstracts from each major journal of interest. 200 per field.
 
-    # 1. Physics ##############################################################
-    # (Physical Review Letters)
+    # # 1. Physics ##############################################################
+    # # (Physical Review Letters)
 
-    abstracts = pull_abstracts(sample=100, source_id="S24807848")
+    # abstracts = pull_abstracts(sample=100, source_id="S24807848")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+
+    # # (The Astrophysical Journal)
+    # abstracts = pull_abstracts(sample=100, source_id="S1980519")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+
+    # # 2. Medicine ##########################################################
+
+    # # (The New England Journal of Medicine), not available via OpenAlex
+    # # (CELL), s110447773
+    # abstracts = pull_abstracts(sample=100, source_id="S110447773")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+
+    # # (The Lancet), s49861241
+    # abstracts = pull_abstracts(sample=100, source_id="S49861241")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+
+    # 3. Social Sciences ##########################################################
+    # For this, we decided on Economics and Psychology.
+
+    # American Economic Review, S23254222
+    abstracts = pull_abstracts(sample=100, source_id="S23254222")
     print(f"Retrieved {len(abstracts)} abstracts")
     print(json.dumps(abstracts[:2], indent=2))
 
-    # (The Astrophysical Journal)
-    abstracts = pull_abstracts(sample=100, source_id="S1980519")
+    # Frontiers in Psychology, S9692511
+    abstracts = pull_abstracts(sample=100, source_id="S9692511")
     print(f"Retrieved {len(abstracts)} abstracts")
     print(json.dumps(abstracts[:2], indent=2))
-
-    # 2. Computer Science ##########################################################
