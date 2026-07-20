@@ -1,6 +1,6 @@
-'''
+"""
 Takes questions generated from abstracts and prompts the various LLMS for answers. Saves the responses to a new JSON file.
-'''
+"""
 
 # will format responses in a json like:
 '''
@@ -39,6 +39,10 @@ anthropic_client = Anthropic(
 
 gemini_client = genai.Client()
 
+
+# ----------------------------------------------------------------------
+# PROMPT BASES CAN BE WRITTEN HERE! Open to modification as we run test cases.
+# ----------------------------------------------------------------------
 
 # Prompt base(s) that will be injected with the question. 
 prompt_base_v1 = (
@@ -201,7 +205,7 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
     to output_file. Safe to re-run: skips any question id already
     present in output_file.
 
-    Has an optional prompt_base parameter. 
+    Has an optional prompt_base parameter (for testing or for different prompt styles).
     """
     questions = load_file(questions_file)
     done_ids = set(completed_questions(output_file))
