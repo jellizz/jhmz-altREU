@@ -59,20 +59,17 @@ REFERENCES:
 )
 
 # does not require that the answer be fully written out.
-prompt_base_v2 = (
-    """ Given a provided scientific question, reason about an answer and justify your answer using at least 5 scientific references, but use as many as needed to get your point across. 
-    You may write out your reasoning for using the references as needed, but keep the answer very short. References must have: Author name(s), article title, journal, year of publication, and a DOI.
+prompt_base_v2 = """Given a provided scientific question, provide a concise answer (less than 100 words) supported by at least 5 scientific references. Do not include any reasoning, commentary, or explanation for why you selected the references. 
+
+References must include: Author name(s), article title, journal, year of publication, and a DOI.
 References should follow the format: Last, Firstname Middlename. (Year). Title of article. Title of Journal, Volume(Issue), Page-Range. DOI: doi.org/xxxxx. 
 
 You must format your response EXACTLY as follows, with no other text before or after:
 ANSWER:
-<your answer here. Again, keep it short, but you may write out your reasoning for using the references as needed.>
+<your concise answer here, less than 100 words>
 REFERENCES:
-<your references here, one per line>
-
-
+<your references here, strictly one reference per line with no commentary>
 """ 
-)
 
 
 # 1a. Load current JSON, if it exists. Build off of this.
@@ -112,9 +109,6 @@ def build_prompt(question, prompt_base=prompt_base_v1):
             # https://developers.openai.com/api/reference/python
         #response.choices[0].message.content
 
-        # Llama
-            # https://github.com/meta-llama/llama-api-python
-        #response["completion_message"]["content"]["text"]
 
         # Anthropic
             # https://platform.claude.com/docs/en/cli-sdks-libraries/sdks/python
@@ -138,7 +132,7 @@ def prompt_llm(prompt, llm):
     elif llm == "anthropic":
         client = anthropic_client
         response = client.messages.create(
-            max_tokens=1024, # DETERMINE THIS??? (this is cutting off our responses WITH ANSWERS)
+            max_tokens=2000, # DETERMINE THIS??? (this is cutting off our responses WITH ANSWERS)
             messages=[
                 {
                     "role": "user",
@@ -163,21 +157,36 @@ def prompt_llm(prompt, llm):
 # breaks the response into 'question', 'answer', 'references'
 # !!! NEED TO TEST LLM RESPONSE to see if it actually formats how we want, bc this depends on the llm response format
 
-# parse first
+# parse first, then build the JSON and save it to the output file.
 ANSWER_RE = re.compile(
-    r"ANSWER:\s*(.*?)\s*REFERENCES:\s*(.*)",
+    r"(?:\*\*|###\s*)?ANSWER:\s*(?:\*\*)?\s*(.*?)\s*(?:\*\*|###\s*)?REFERENCES:\s*(?:\*\*)?\s*(.*)",
     re.IGNORECASE | re.DOTALL,
 )
 
 def parse_response(raw_response):
+    """
+    Parses the raw response from the LLM into an answer and as a list of references."""
+    
     match = ANSWER_RE.search(raw_response)
     if not match:
-        # Model didn't follow the format -- don't silently lose the data,
+        # Model didn't follow the format
         # stash the whole thing as the answer and flag it for review.
-        return raw_response.strip(), "check response b/c it didn't follow the expected format"
+        return raw_response.strip(), ["check response b/c it didn't follow the expected format"]
     answer = match.group(1).strip()
-    references = match.group(2).strip()
-    return answer, references
+    references_raw = match.group(2).strip()
+    
+    # Split references by newline, remove bullets, numbers, and whitespace, and ignore empty lines
+    references = []
+    for line in references_raw.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        line = re.sub(r"^(\d+\.|\[\d+\]|\-|\*)\s*", "", line)
+        references.append(line)
+
+    return answer, references # a string, a list of strings.
+    
+
 
 
 
@@ -189,23 +198,24 @@ def build_json(filename, abstract_id, llm, question, answer, references):
         "model": llm,
         "question": question, 
         "response": {
-            "answer": answer,
-            "references": references
-        }
+            "answer": answer, 
+            "references": references # LIST.
+        },
     }
 
     output_file.append(new_entry)
     with open(filename, "w") as f:
-        json.dump(output_file, f)
+        json.dump(output_file, f, indent = 4)
 
-def generate_responses(questions_file, output_file, llm="testing", prompt_base=prompt_base_v1):
+def generate_responses(questions_file, output_file, llm="testing", prompt_base=prompt_base_v2):
     """
-    Reads questions from questions_file, prompts the given llm for a
-    literature-review-style answer on each one, and appends results
-    to output_file. Safe to re-run: skips any question id already
-    present in output_file.
+    Reads lit-review questions from questions_file, prompts the given llm for a
+    literature-review-style answer on each one, and adds results
+    to output_file. Safe to re-run as well, as it skips any question id already
+    present in output_file (won't re-run questions).
 
-    Has an optional prompt_base parameter (for testing or for different prompt styles).
+    Has an optional prompt_base parameter (for testing or for different prompt styles, defaults to
+    one without full response to limit tokens used).
     """
     questions = load_file(questions_file)
     done_ids = set(completed_questions(output_file))
@@ -232,7 +242,7 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 # write main loop in here, later combine everything outside in main.py?
 
 if __name__ == "__main__":
-    # calling on anthropic and abstracts_S1980519.json (Astrophysical Journal)
+    # calling on anthropic and test_questions.json
     generate_responses(
         questions_file="test_questions.json",
         output_file="data/test_responses_task2.json",
