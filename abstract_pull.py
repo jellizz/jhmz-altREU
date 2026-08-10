@@ -102,12 +102,36 @@ if __name__ == "__main__":
     # 3. Social Sciences ##########################################################
     # For this, we decided on Economics and Psychology.
 
-    # American Economic Review, S23254222
-    abstracts = pull_abstracts(sample=100, source_id="S23254222")
-    print(f"Retrieved {len(abstracts)} abstracts")
-    print(json.dumps(abstracts[:2], indent=2))
+    # # American Economic Review, S23254222
+    # abstracts = pull_abstracts(sample=100, source_id="S23254222")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
 
-    # Frontiers in Psychology, S9692511
-    abstracts = pull_abstracts(sample=100, source_id="S9692511")
+    # # Frontiers in Psychology, S9692511
+    # abstracts = pull_abstracts(sample=100, source_id="S9692511")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+    
+    # 4. Computer Science ##########################################################
+    # IEEE Transactions on Neural Networks and Learning Systems, Expert Systems with Applications
+    
+    # abstracts = pull_abstracts(sample=100, source_id="S4210175523")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+    
+    # abstracts = pull_abstracts(sample=100, source_id="S13144211")
+    # print(f"Retrieved {len(abstracts)} abstracts")
+    # print(json.dumps(abstracts[:2], indent=2))
+
+     # 5. Environmental Science ##########################################################
+    # The Science of the Total Environment, Journal of Hazardous Materials
+    abstracts = pull_abstracts(sample=100, source_id="s86852077")
     print(f"Retrieved {len(abstracts)} abstracts")
     print(json.dumps(abstracts[:2], indent=2))
+    
+    abstracts = pull_abstracts(sample=100, source_id="S145089992")
+    print(f"Retrieved {len(abstracts)} abstracts")
+    print(json.dumps(abstracts[:2], indent=2))
+    
+        
+    
