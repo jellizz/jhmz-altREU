@@ -1,0 +1,742 @@
+[
+    {
+        "id": "https://openalex.org/W4320896688",
+        "model": "anthropic",
+        "question": "How do the neutrino flux upper limits derived from IceCube follow-up searches of LIGO/Virgo gravitational-wave events compare across different multimessenger observatories and theoretical models of compact object mergers to constrain the astrophysical mechanisms of high-energy neutrino production?",
+        "response": {
+            "answer": "IceCube follow-up searches of LIGO/Virgo gravitational-wave events have consistently yielded no significant high-energy neutrino coincidences, placing stringent upper limits on isotropic-equivalent neutrino emission (typically 10^51\u201310^53 erg for GW170817 and binary black hole mergers). These limits constrain choked-jet, short gamma-ray burst, and magnetar-driven models of compact object mergers. Compared with ANTARES, Auger, and Fermi observations, IceCube provides the most sensitive TeV\u2013PeV constraints, disfavoring efficient hadronic acceleration in on-axis relativistic jets and limiting the baryon loading and Lorentz factors permissible in neutron star merger outflows.",
+            "references": [
+                {
+                    "citation": "Albert, A. et al. (2017). Search for High-energy Neutrinos from Binary Neutron Star Merger GW170817 with ANTARES, IceCube, and the Pierre Auger Observatory. The Astrophysical Journal Letters, 850(2), L35. DOI: doi.org/10.3847/2041-8213/aa9aed",
+                    "parsed": {
+                        "first_author_lastname": "Albert",
+                        "first_author_firstname": "A",
+                        "title": "Search for High-energy Neutrinos from Binary Neutron Star Merger GW170817 with ANTARES, IceCube, and the Pierre Auger Observatory",
+                        "doi": "10.3847/2041-8213/aa9aed",
+                        "doi_provided": true,
+                        "name_complete": false
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2766993325",
+                        "openalex_first_author": "A. Albert"
+                    }
+                },
+                {
+                    "citation": "Aartsen, M. G. et al. (2020). IceCube Search for Neutrinos Coincident with Gravitational Wave Events from LIGO/Virgo Run O2. The Astrophysical Journal, 898(2), 117. DOI: doi.org/10.3847/1538-4357/ab9fa0",
+                    "parsed": {
+                        "first_author_lastname": "Aartsen",
+                        "first_author_firstname": "M. G",
+                        "title": "IceCube Search for Neutrinos Coincident with Gravitational Wave Events from LIGO/Virgo Run O2",
+                        "doi": "10.3847/1538-4357/ab9fa0",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "partial",
+                        "title_found": true,
+                        "doi_matched": false,
+                        "author_matched": false,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4320896688",
+                        "openalex_first_author": "Rasha Abbasi"
+                    }
+                },
+                {
+                    "citation": "Abbasi, R. et al. (2023). IceCube Search for Neutrinos Coincident with Gravitational Wave Events from LIGO/Virgo Run O3. The Astrophysical Journal, 944(1), 80. DOI: doi.org/10.3847/1538-4357/aca5fc",
+                    "parsed": {
+                        "first_author_lastname": "Abbasi",
+                        "first_author_firstname": "R",
+                        "title": "IceCube Search for Neutrinos Coincident with Gravitational Wave Events from LIGO/Virgo Run O3",
+                        "doi": "10.3847/1538-4357/aca5fc",
+                        "doi_provided": true,
+                        "name_complete": false
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4320896688",
+                        "openalex_first_author": "Rasha Abbasi"
+                    }
+                },
+                {
+                    "citation": "Kimura, S. S. et al. (2018). High-energy Neutrino Emission from Short Gamma-Ray Bursts: Prospects for Coincident Detection with Gravitational Waves. The Astrophysical Journal Letters, 848(1), L4. DOI: doi.org/10.3847/2041-8213/aa8d14",
+                    "parsed": {
+                        "first_author_lastname": "Kimura",
+                        "first_author_firstname": "S. S",
+                        "title": "High-energy Neutrino Emission from Short Gamma-Ray Bursts: Prospects for Coincident Detection with Gravitational Waves",
+                        "doi": "10.3847/2041-8213/aa8d14",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2747596095",
+                        "openalex_first_author": "Shigeo S. Kimura"
+                    }
+                },
+                {
+                    "citation": "Fang, K. & Metzger, B. D. (2017). High-energy Neutrinos from Millisecond Magnetars Formed from the Merger of Binary Neutron Stars. The Astrophysical Journal, 849(2), 153. DOI: doi.org/10.3847/1538-4357/aa8b6a",
+                    "parsed": {
+                        "first_author_lastname": "Fang",
+                        "first_author_firstname": "K",
+                        "title": "High-energy Neutrinos from Millisecond Magnetars Formed from the Merger of Binary Neutron Stars",
+                        "doi": "10.3847/1538-4357/aa8b6a",
+                        "doi_provided": true,
+                        "name_complete": false
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2736239215",
+                        "openalex_first_author": "Ke Fang"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3003715657",
+        "model": "anthropic",
+        "question": "What are the physical mechanisms and magnetic topological conditions that determine whether fast and wide coronal mass ejections efficiently accelerate and release >20 MeV protons, and how do these factors interact to explain the observed variability in SEP production across otherwise comparable eruption events?",
+        "response": {
+            "answer": "Efficient >20 MeV proton acceleration from fast, wide CMEs is governed by diffusive shock acceleration at strong (high Mach number), quasi-perpendicular CME-driven shocks. Key conditions include CME speed >1000 km/s, wide angular extent enabling broad shock-corona contact, and favorable magnetic connectivity to the observer. Seed particle availability (suprathermal populations from prior flares/CMEs), ambient Alfv\u00e9n speed minima at 1.5\u20134 solar radii, and turbulence enhancing scattering critically modulate efficiency. Variability arises because otherwise comparable eruptions differ in shock geometry, seed populations, magnetic topology, and connectivity, causing large scatter in proton intensities despite similar CME kinematics.",
+            "references": [
+                {
+                    "citation": "Reames, Donald V. (2013). The Two Sources of Solar Energetic Particles. Space Science Reviews, 175(1-4), 53-92. DOI: doi.org/10.1007/s11214-013-9958-9",
+                    "parsed": {
+                        "first_author_lastname": "Reames",
+                        "first_author_firstname": "Donald V",
+                        "title": "The Two Sources of Solar Energetic Particles",
+                        "doi": "10.1007/s11214-013-9958-9",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2110976562",
+                        "openalex_first_author": "D. V. Reames"
+                    }
+                },
+                {
+                    "citation": "Desai, Mihir; Giacalone, Joe. (2016). Large gradual solar energetic particle events. Living Reviews in Solar Physics, 13(1), 3. DOI: doi.org/10.1007/s41116-016-0002-5",
+                    "parsed": {
+                        "first_author_lastname": "Desai",
+                        "first_author_firstname": "Mihir",
+                        "title": "Large gradual solar energetic particle events",
+                        "doi": "10.1007/s41116-016-0002-5",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2512449108",
+                        "openalex_first_author": "M. I. Desai"
+                    }
+                },
+                {
+                    "citation": "Kahler, Stephen W. (2001). The correlation between solar energetic particle peak intensities and speeds of coronal mass ejections. Journal of Geophysical Research, 106(A10), 20947-20955. DOI: doi.org/10.1029/2000JA002231",
+                    "parsed": {
+                        "first_author_lastname": "Kahler",
+                        "first_author_firstname": "Stephen W",
+                        "title": "The correlation between solar energetic particle peak intensities and speeds of coronal mass ejections",
+                        "doi": "10.1029/2000JA002231",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "hallucinated",
+                        "title_found": false,
+                        "doi_matched": false,
+                        "author_matched": false,
+                        "lookup_method": "none",
+                        "openalex_id": null,
+                        "openalex_first_author": null
+                    }
+                },
+                {
+                    "citation": "Gopalswamy, Nat; Yashiro, Seiji; Krucker, S\u00e4m; Stenborg, Guillermo; Howard, Russell A. (2004). Intensity variation of large solar energetic particle events associated with coronal mass ejections. Journal of Geophysical Research, 109(A12), A12105. DOI: doi.org/10.1029/2004JA010602",
+                    "parsed": {
+                        "first_author_lastname": "Gopalswamy",
+                        "first_author_firstname": "Nat",
+                        "title": "Intensity variation of large solar energetic particle events associated with coronal mass ejections",
+                        "doi": "10.1029/2004JA010602",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2055984471",
+                        "openalex_first_author": "N. Gopalswamy"
+                    }
+                },
+                {
+                    "citation": "Tylka, Allan J.; Cohen, Christina M. S.; Dietrich, William F.; Lee, Martin A.; Maclennan, Catherine G.; Mewaldt, Richard A.; Ng, Chee K.; Reames, Donald V. (2005). Shock Geometry, Seed Populations, and the Origin of Variable Elemental Composition at High Energies in Large Gradual Solar Particle Events. The Astrophysical Journal, 625(1), 474-495. DOI: doi.org/10.1086/429384",
+                    "parsed": {
+                        "first_author_lastname": "Tylka",
+                        "first_author_firstname": "Allan J",
+                        "title": "Shock Geometry, Seed Populations, and the Origin of Variable Elemental Composition at High Energies in Large Gradual Solar Particle Events",
+                        "doi": "10.1086/429384",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2005084092",
+                        "openalex_first_author": "A. J. Tylka"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394924449",
+        "model": "anthropic",
+        "question": "How do the refractory element depletion patterns observed in solar analogs across different stellar surveys and spectroscopic methods reconcile with competing theoretical models of planet formation, galactic chemical evolution, and stellar birth environments in explaining the Sun's apparent refractory depletion?",
+        "response": {
+            "answer": "The Sun's ~20% refractory element depletion relative to volatiles, correlated with condensation temperature, is observed in ~15% of solar analogs. Competing explanations include: (1) sequestration of refractories in terrestrial planets/rocky bodies, supported by trends linking depletion to planet presence; (2) galactic chemical evolution and stellar age effects, since older, migrated stars show similar patterns independent of planets; and (3) birth-environment processes like dust-gas segregation in protoplanetary disks or nearby massive stars. Current data suggest depletion arises from a combination of planet formation and age-related GCE effects, with no single model fully reconciling all survey and spectroscopic results.",
+            "references": [
+                {
+                    "citation": "Mel\u00e9ndez, Jorge; Asplund, Martin; Gustafsson, Bengt; Yong, David. (2009). The Peculiar Solar Composition and Its Possible Relation to Planet Formation. The Astrophysical Journal Letters, 704(1), L66-L70. DOI: doi.org/10.1088/0004-637X/704/1/L66.",
+                    "parsed": {
+                        "first_author_lastname": "Mel\u00e9ndez",
+                        "first_author_firstname": "Jorge",
+                        "title": "The Peculiar Solar Composition and Its Possible Relation to Planet Formation",
+                        "doi": "10.1088/0004-637X/704/1/L66",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2066293328",
+                        "openalex_first_author": "J. Mel\u00e9ndez"
+                    }
+                },
+                {
+                    "citation": "Ram\u00edrez, Iv\u00e1n; Mel\u00e9ndez, Jorge; Asplund, Martin. (2009). Accurate abundance patterns of solar twins and analogs. Astronomy & Astrophysics, 508(1), L17-L20. DOI: doi.org/10.1051/0004-6361/200913038.",
+                    "parsed": {
+                        "first_author_lastname": "Ram\u00edrez",
+                        "first_author_firstname": "Iv\u00e1n",
+                        "title": "Accurate abundance patterns of solar twins and analogs",
+                        "doi": "10.1051/0004-6361/200913038",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2108418692",
+                        "openalex_first_author": "I. Ram\u00edrez"
+                    }
+                },
+                {
+                    "citation": "Adibekyan, Vardan; Delgado-Mena, Elisa; Figueira, Pedro; et al. (2014). Chemical abundances of 1111 FGK stars from the HARPS GTO planet search program. Astronomy & Astrophysics, 564, A25. DOI: doi.org/10.1051/0004-6361/201322874.",
+                    "parsed": {
+                        "first_author_lastname": "Adibekyan",
+                        "first_author_firstname": "Vardan",
+                        "title": "Chemical abundances of 1111 FGK stars from the HARPS GTO planet search program",
+                        "doi": "10.1051/0004-6361/201322874",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "partial",
+                        "title_found": true,
+                        "doi_matched": false,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4293675661",
+                        "openalex_first_author": "V. Adibekyan"
+                    }
+                },
+                {
+                    "citation": "Nissen, Poul E. (2015). High-precision abundances of elements in solar twin stars: Trends with stellar age and condensation temperature. Astronomy & Astrophysics, 579, A52. DOI: doi.org/10.1051/0004-6361/201526269.",
+                    "parsed": {
+                        "first_author_lastname": "Nissen",
+                        "first_author_firstname": "Poul E",
+                        "title": "High-precision abundances of elements in solar twin stars: Trends with stellar age and condensation temperature",
+                        "doi": "10.1051/0004-6361/201526269",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "hallucinated",
+                        "title_found": false,
+                        "doi_matched": false,
+                        "author_matched": false,
+                        "lookup_method": "none",
+                        "openalex_id": null,
+                        "openalex_first_author": null
+                    }
+                },
+                {
+                    "citation": "Bedell, Megan; Bean, Jacob L.; Mel\u00e9ndez, Jorge; et al. (2018). The Chemical Homogeneity of Sun-like Stars in the Solar Neighborhood. The Astrophysical Journal, 865(1), 68. DOI: doi.org/10.3847/1538-4357/aad908.",
+                    "parsed": {
+                        "first_author_lastname": "Bedell",
+                        "first_author_firstname": "Megan",
+                        "title": "The Chemical Homogeneity of Sun-like Stars in the Solar Neighborhood",
+                        "doi": "10.3847/1538-4357/aad908",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2785541186",
+                        "openalex_first_author": "Megan Bedell"
+                    }
+                },
+                {
+                    "citation": "Gustafsson, Bengt. (2018). Is the Sun a Sun-like star? Astronomy & Astrophysics, 620, A53. DOI: doi.org/10.1051/0004-6361/201833264.",
+                    "parsed": {
+                        "first_author_lastname": "Gustafsson",
+                        "first_author_firstname": "Bengt",
+                        "title": "Is the Sun a Sun-like star",
+                        "doi": "10.1051/0004-6361/201833264",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "partial",
+                        "title_found": true,
+                        "doi_matched": false,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4255047852",
+                        "openalex_first_author": "B. Gustafsson"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391670627",
+        "model": "anthropic",
+        "question": "How do the constraints on the FRB energy distribution parameters and redshift evolution derived from the CHIME/FRB catalog compare with those obtained from other FRB surveys and localized samples, and what do these collective findings imply about whether the FRB population traces the cosmic star formation history or requires a delayed progenitor channel?",
+        "response": {
+            "answer": "CHIME/FRB catalog analyses yield an energy distribution with a differential power-law index \u03b3 \u2248 \u22121.3 to \u22122.0 and a Schechter cutoff near E_char ~10^41\u201310^42 erg, broadly consistent with Parkes/ASKAP/localized samples. Redshift evolution constraints are degenerate: CHIME data mildly favor source densities exceeding the cosmic star formation history (SFH) at low z, hinting at a delayed channel, but remain statistically compatible with pure SFH tracking. Localized FRBs and cross-survey comparisons similarly find that a combination of SFH plus a delay (~Gyr) best reproduces the redshift distribution, implying contributions from older, delayed progenitors alongside prompt magnetar formation.",
+            "references": [
+                {
+                    "citation": "Shin, Kaitlyn. (2023). Inferring the Energy and Distance Distributions of Fast Radio Bursts Using the First CHIME/FRB Catalog. The Astrophysical Journal, 944(1), 105. DOI: doi.org/10.3847/1538-4357/acaf06",
+                    "parsed": {
+                        "first_author_lastname": "Shin",
+                        "first_author_firstname": "Kaitlyn",
+                        "title": "Inferring the Energy and Distance Distributions of Fast Radio Bursts Using the First CHIME/FRB Catalog",
+                        "doi": "10.3847/1538-4357/acaf06",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4321116989",
+                        "openalex_first_author": "Kaitlyn Shin"
+                    }
+                },
+                {
+                    "citation": "James, Clancy W. (2022). The z\u2013DM distribution of fast radio bursts. Monthly Notices of the Royal Astronomical Society, 509(4), 4775-4802. DOI: doi.org/10.1093/mnras/stab3051",
+                    "parsed": {
+                        "first_author_lastname": "James",
+                        "first_author_firstname": "Clancy W",
+                        "title": "The z\u2013DM distribution of fast radio bursts",
+                        "doi": "10.1093/mnras/stab3051",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "partial",
+                        "title_found": true,
+                        "doi_matched": false,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W3121409439",
+                        "openalex_first_author": "C. James"
+                    }
+                },
+                {
+                    "citation": "Zhang, Rachel C. (2021). The FRB luminosity function and its evolution. Monthly Notices of the Royal Astronomical Society, 501(1), 157-167. DOI: doi.org/10.1093/mnras/staa3537",
+                    "parsed": {
+                        "first_author_lastname": "Zhang",
+                        "first_author_firstname": "Rachel C",
+                        "title": "The FRB luminosity function and its evolution",
+                        "doi": "10.1093/mnras/staa3537",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "hallucinated",
+                        "title_found": false,
+                        "doi_matched": false,
+                        "author_matched": false,
+                        "lookup_method": "none",
+                        "openalex_id": null,
+                        "openalex_first_author": null
+                    }
+                },
+                {
+                    "citation": "Hashimoto, Tetsuya. (2022). Energy functions of fast radio bursts derived from the first CHIME/FRB catalogue. Monthly Notices of the Royal Astronomical Society, 511(2), 1961-1976. DOI: doi.org/10.1093/mnras/stac065",
+                    "parsed": {
+                        "first_author_lastname": "Hashimoto",
+                        "first_author_firstname": "Tetsuya",
+                        "title": "Energy functions of fast radio bursts derived from the first CHIME/FRB catalogue",
+                        "doi": "10.1093/mnras/stac065",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4205324548",
+                        "openalex_first_author": "T. Hashimoto"
+                    }
+                },
+                {
+                    "citation": "Qiang, Da-Chun. (2022). Fast radio burst distributions consistent with the first CHIME/FRB catalog. The Astrophysical Journal, 926(1), 4. DOI: doi.org/10.3847/1538-4357/ac41cb",
+                    "parsed": {
+                        "first_author_lastname": "Qiang",
+                        "first_author_firstname": "Da-Chun",
+                        "title": "Fast radio burst distributions consistent with the first CHIME/FRB catalog",
+                        "doi": "10.3847/1538-4357/ac41cb",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "partial",
+                        "title_found": true,
+                        "doi_matched": false,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W3213514341",
+                        "openalex_first_author": "Da-Chun Qiang"
+                    }
+                },
+                {
+                    "citation": "Cui, Xiang-Han. (2021). Statistical properties of fast radio bursts elucidate their origins. Monthly Notices of the Royal Astronomical Society, 500(3), 3275-3280. DOI: doi.org/10.1093/mnras/staa3271",
+                    "parsed": {
+                        "first_author_lastname": "Cui",
+                        "first_author_firstname": "Xiang-Han",
+                        "title": "Statistical properties of fast radio bursts elucidate their origins",
+                        "doi": "10.1093/mnras/staa3271",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "hallucinated",
+                        "title_found": false,
+                        "doi_matched": false,
+                        "author_matched": false,
+                        "lookup_method": "none",
+                        "openalex_id": null,
+                        "openalex_first_author": null
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225000992",
+        "model": "anthropic",
+        "question": "How do the multiwavelength emission mechanisms proposed across different theoretical FRB models\u2014such as magnetospheric inverse Compton scattering versus magnetar blastwave interactions\u2014compare in their predicted radio-optical spectral energy distributions, and what combination of observational constraints would be required to definitively discriminate among them?",
+        "response": {
+            "answer": "Magnetospheric models (e.g., inverse Compton scattering, curvature/synchrotron maser near the magnetar) predict coherent radio emission with a steep, correlated optical/X-ray counterpart originating within the light cylinder, yielding nearly simultaneous multiwavelength peaks and high radio-to-optical flux ratios. Blastwave (synchrotron maser at relativistic shocks) models predict emission from far outside the magnetosphere, with delayed, broadband afterglow-like optical/X-ray SEDs and distinct polarization and spectral-index evolution. Discrimination requires simultaneous nanosecond-resolution radio, optical, and X-ray photometry, polarization angle measurements, precise time-lag constraints, spectral-index tracking across bursts, and repeater-versus-nonrepeater population statistics.",
+            "references": [
+                {
+                    "citation": "Lu, Wenbin; Kumar, Pawan; Zhang, Bing. (2020). A unified picture of Galactic and cosmological fast radio bursts. Monthly Notices of the Royal Astronomical Society, 498(1), 1397-1405. DOI: doi.org/10.1093/mnras/staa2450",
+                    "parsed": {
+                        "first_author_lastname": "Lu",
+                        "first_author_firstname": "Wenbin",
+                        "title": "A unified picture of Galactic and cosmological fast radio bursts",
+                        "doi": "10.1093/mnras/staa2450",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W3077911205",
+                        "openalex_first_author": "Wenbin Lu"
+                    }
+                },
+                {
+                    "citation": "Metzger, Brian D.; Margalit, Ben; Sironi, Lorenzo. (2019). Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves. Monthly Notices of the Royal Astronomical Society, 485(3), 4091-4106. DOI: doi.org/10.1093/mnras/stz700",
+                    "parsed": {
+                        "first_author_lastname": "Metzger",
+                        "first_author_firstname": "Brian D",
+                        "title": "Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves",
+                        "doi": "10.1093/mnras/stz700",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2913685602",
+                        "openalex_first_author": "Brian D. Metzger"
+                    }
+                },
+                {
+                    "citation": "Kumar, Pawan; Lu, Wenbin; Bhattacharya, Mukul. (2017). Fast radio burst source properties and curvature radiation model. Monthly Notices of the Royal Astronomical Society, 468(3), 2726-2739. DOI: doi.org/10.1093/mnras/stx665",
+                    "parsed": {
+                        "first_author_lastname": "Kumar",
+                        "first_author_firstname": "Pawan",
+                        "title": "Fast radio burst source properties and curvature radiation model",
+                        "doi": "10.1093/mnras/stx665",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2601547657",
+                        "openalex_first_author": "Pawan Kumar"
+                    }
+                },
+                {
+                    "citation": "Zhang, Bing. (2020). The physical mechanisms of fast radio bursts. Nature, 587(7832), 45-53. DOI: doi.org/10.1038/s41586-020-2828-1",
+                    "parsed": {
+                        "first_author_lastname": "Zhang",
+                        "first_author_firstname": "Bing",
+                        "title": "The physical mechanisms of fast radio bursts",
+                        "doi": "10.1038/s41586-020-2828-1",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W3097209501",
+                        "openalex_first_author": "Bing Zhang"
+                    }
+                },
+                {
+                    "citation": "Beloborodov, Andrei M. (2020). Blast waves from magnetar flares and fast radio bursts. The Astrophysical Journal, 896(2), 142. DOI: doi.org/10.3847/1538-4357/ab83eb",
+                    "parsed": {
+                        "first_author_lastname": "Beloborodov",
+                        "first_author_firstname": "Andrei M",
+                        "title": "Blast waves from magnetar flares and fast radio bursts",
+                        "doi": "10.3847/1538-4357/ab83eb",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2969417951",
+                        "openalex_first_author": "Andrei M. Beloborodov"
+                    }
+                },
+                {
+                    "citation": "Chen, Guobao; Ravi, Vikram; Lu, Wenbin. (2020). The multiwavelength counterparts of fast radio bursts. The Astrophysical Journal, 897(2), 146. DOI: doi.org/10.3847/1538-4357/ab982b",
+                    "parsed": {
+                        "first_author_lastname": "Chen",
+                        "first_author_firstname": "Guobao",
+                        "title": "The multiwavelength counterparts of fast radio bursts",
+                        "doi": "10.3847/1538-4357/ab982b",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W3018056382",
+                        "openalex_first_author": "Ge Chen"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4319591860",
+        "model": "anthropic",
+        "question": "How do the observational signatures and physical mechanisms of accretion-jet coupling during spectral state transitions in blazars driven by supermassive black holes compare with those in stellar-mass black hole binaries, and to what extent do these similarities support a mass-invariant, scale-unified state transition paradigm across the black hole mass spectrum?",
+        "response": {
+            "answer": "Both stellar-mass black hole X-ray binaries (BHXRBs) and supermassive black hole blazars exhibit accretion-jet coupling correlated with spectral states: hard/low states show steady compact jets and radiatively inefficient (ADAF-like) flows, while transitions toward soft states quench jets or produce discrete ejections. Blazars' FSRQ-to-BL Lac sequence parallels BHXRB hard-to-soft transitions, with analogous radio-loudness, disk-jet coupling, and hysteresis. The \"fundamental plane\" of black hole activity links radio/X-ray luminosity and mass, supporting mass-invariant scaling. However, differences in jet composition, accretion timescales, and disk structure indicate the scale-unified paradigm holds broadly but incompletely.",
+            "references": [
+                {
+                    "citation": "Merloni, Andrea; Heinz, Sebastian; di Matteo, Tiziana. (2003). A Fundamental Plane of black hole activity. Monthly Notices of the Royal Astronomical Society, 345(4), 1057-1076. DOI: doi.org/10.1046/j.1365-2966.2003.07017.x",
+                    "parsed": {
+                        "first_author_lastname": "Merloni",
+                        "first_author_firstname": "Andrea",
+                        "title": "A Fundamental Plane of black hole activity",
+                        "doi": "10.1046/j.1365-2966.2003.07017.x",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2130592261",
+                        "openalex_first_author": "A. Merloni"
+                    }
+                },
+                {
+                    "citation": "Falcke, Heino; K\u00f6rding, Elmar; Markoff, Sera. (2004). A scheme to unify low-power accreting black holes. Astronomy & Astrophysics, 414(3), 895-903. DOI: doi.org/10.1051/0004-6361:20031683",
+                    "parsed": {
+                        "first_author_lastname": "Falcke",
+                        "first_author_firstname": "Heino",
+                        "title": "A scheme to unify low-power accreting black holes",
+                        "doi": "10.1051/0004-6361:20031683",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W4293256937",
+                        "openalex_first_author": "H. Falcke"
+                    }
+                },
+                {
+                    "citation": "Fender, Robert P.; Belloni, Tomaso M.; Gallo, Elena. (2004). Towards a unified model for black hole X-ray binary jets. Monthly Notices of the Royal Astronomical Society, 355(4), 1105-1118. DOI: doi.org/10.1111/j.1365-2966.2004.08384.x",
+                    "parsed": {
+                        "first_author_lastname": "Fender",
+                        "first_author_firstname": "Robert P",
+                        "title": "Towards a unified model for black hole X-ray binary jets",
+                        "doi": "10.1111/j.1365-2966.2004.08384.x",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2169779235",
+                        "openalex_first_author": "R. P. Fender"
+                    }
+                },
+                {
+                    "citation": "K\u00f6rding, Elmar G.; Jester, Sebastian; Fender, Rob. (2006). Accretion states and radio loudness in active galactic nuclei. Monthly Notices of the Royal Astronomical Society, 372(3), 1366-1378. DOI: doi.org/10.1111/j.1365-2966.2006.10954.x",
+                    "parsed": {
+                        "first_author_lastname": "K\u00f6rding",
+                        "first_author_firstname": "Elmar G",
+                        "title": "Accretion states and radio loudness in active galactic nuclei",
+                        "doi": "10.1111/j.1365-2966.2006.10954.x",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "hallucinated",
+                        "title_found": false,
+                        "doi_matched": false,
+                        "author_matched": false,
+                        "lookup_method": "none",
+                        "openalex_id": null,
+                        "openalex_first_author": null
+                    }
+                },
+                {
+                    "citation": "McHardy, Ian M.; Koerding, Elmar; Knigge, Christian; Uttley, Phil; Fender, Rob P. (2006). Active galactic nuclei as scaled-up Galactic black holes. Nature, 444(7120), 730-732. DOI: doi.org/10.1038/nature05389",
+                    "parsed": {
+                        "first_author_lastname": "McHardy",
+                        "first_author_firstname": "Ian M",
+                        "title": "Active galactic nuclei as scaled-up Galactic black holes",
+                        "doi": "10.1038/nature05389",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W1985523694",
+                        "openalex_first_author": "I. M. McHardy"
+                    }
+                },
+                {
+                    "citation": "Ghisellini, Gabriele; Tavecchio, Fabrizio; Foschini, Luigi; Ghirlanda, Giancarlo. (2011). The transition between BL Lac objects and flat spectrum radio quasars. Monthly Notices of the Royal Astronomical Society, 414(3), 2674-2689. DOI: doi.org/10.1111/j.1365-2966.2011.18578.x",
+                    "parsed": {
+                        "first_author_lastname": "Ghisellini",
+                        "first_author_firstname": "Gabriele",
+                        "title": "The transition between BL Lac objects and flat spectrum radio quasars",
+                        "doi": "10.1111/j.1365-2966.2011.18578.x",
+                        "doi_provided": true,
+                        "name_complete": true
+                    },
+                    "verification": {
+                        "status": "verified",
+                        "title_found": true,
+                        "doi_matched": true,
+                        "author_matched": true,
+                        "lookup_method": "title_search",
+                        "openalex_id": "https://openalex.org/W2156720412",
+                        "openalex_first_author": "G. Ghisellini"
+                    }
+                }
+            ]
+        }
+    }
+]

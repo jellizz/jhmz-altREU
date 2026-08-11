@@ -1,18 +1,342 @@
 """
 Verfies that citations exist, given a list of citations in APA formatting.
-Based on tools such as Hallucite Checker & CheckIfExist, working by checking if the citation exists in Google Scholar, Crossref, OpenAlex, 
-or other databases.
+Checks if citation components can be found in OpenAlex.
+
+Verification is based on:
+    Title
+    First Author
+    DOI
+
 """
 
-##### pseudocode for hallucination checker
+import os
+import json
+import re
+import time
+import unicodedata
+import requests
+from difflib import SequenceMatcher
 
-# 1. Load citation string from JSON file
-# 2. Parse references as list from citation string
-# 3. For each reference, check if it exists in Google Scholar, Crossref, OpenAlex, or other databases
-#   3a. checking if title exists (if not, then it is a hallucinated reference).
-#   3b. checking if author names exist for that title (if not, then it is a hallucinated reference).
-#   3c. checking if DOI exists for that title (if not, then it is a hallucinated reference).
-# 4. Return a list of references that do not exist!!
+EMAIL = os.environ.get("EMAIL", "zonghoo@gmail.com") # use 
 
-##### pseudocode for first author identifier
-# 1. If the citation was hallucinated, we want to verify if the author actually exists. Check if the first author exists in the database (Google Scholar, Crossref, OpenAlex, etc.) by searching for their name and seeing if they have any publications.
+
+# Load JSON
+def load_response(filename):
+    if os.path.exists(filename):
+        with open(filename, "r") as f:
+            content = f.read().strip()
+            if not content:
+                return []
+            return json.loads(content)
+    return []
+
+
+# Text normalization
+def normalize(text):
+    """Lowercase, strip accents, punctuation, and extra whitespace."""
+    if not text:
+        return ""
+    text = unicodedata.normalize("NFKD", text)
+    text = text.encode("ascii", "ignore").decode("ascii")
+    text = text.lower()
+    text = re.sub(r"[-–—/:]", " ", text)
+    text = re.sub(r"[^\w\s]", "", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+def similarity(a, b):
+    """Fuzzy string similarity between 0 and 1."""
+    return SequenceMatcher(None, normalize(a), normalize(b)).ratio()
+
+
+# Parse citation to get a paper's first author, title, DOI
+def parse_single_citation(citation):
+    # Find year
+    year_match = re.search(r'\((\d{4})\)', citation)
+    if year_match:
+        year = int(year_match.group(1))
+    else:
+        None
+
+    # Find DOI
+    doi_match = re.search(r'10\.\d{4,9}/[-._;()/:a-zA-Z0-9]+', citation)
+    if doi_match:
+        doi = doi_match.group(0).rstrip(".,")
+    else:
+        None
+    if doi is not None:
+        doi_provided = True
+    else:
+        doi_provided = False
+
+    # Get authors
+    author_raw = ""
+    if year_match:
+        author_raw = citation[:year_match.start()].strip().rstrip(".")
+
+    # Get first author (anything before ;/&/"and")
+    first_author = re.split(r';|&|\band\b', author_raw)[0].strip()
+    first_author = re.sub(r'\bet al\.?\b', '', first_author, flags=re.IGNORECASE).strip()
+
+    # Get author first and last names
+    lastname, firstname = "", ""
+    if "," in first_author:
+        parts = first_author.split(",", 1)
+        lastname = parts[0].strip()
+        firstname = parts[1].strip().rstrip(".")
+    else:
+        lastname = first_author.strip()
+
+    # Get title
+    # journal starts with a capital letter after ". "
+    title = ""
+    if year_match:
+        after_year = citation[year_match.end():].lstrip(". ")
+        title_match = re.match(r'(.+?)[.?!]\s+[A-Z]', after_year)
+        if title_match:
+            title = title_match.group(1).strip()
+
+    return {
+        "raw": citation,
+        "first_author_lastname": lastname,
+        "first_author_firstname": firstname,
+        "author_raw": author_raw,
+        "year": year,
+        "title": title,
+        "doi": doi,
+        "doi_provided": doi_provided,
+        "name_complete": len(firstname) > 2
+    }
+
+
+# Parse citation string list
+def parse_references(citations):
+    citations = []
+    for citation in citations:
+        citations.append(parse_single_citation(citation))
+    return citations
+
+
+# Search OpenAlex for DOI
+def openalex_by_doi(doi):
+    url = f"https://api.openalex.org/works/https://doi.org/{doi}"
+    try:
+        r = requests.get(
+            url,
+            headers={"User-Agent": f"mailto:{EMAIL}"},
+            timeout=15
+        )
+        if r.status_code == 200:
+            return r.json()
+        return None
+    except Exception:
+        return None
+
+
+# Search OpenAlex for title
+# Uses fuzzy matching with 0.85 threshold <-- Allows small text differences/errors to match
+def openalex_by_title(title):
+    url = "https://api.openalex.org/works"
+    params = {
+        "search": title,
+        "per_page": 5,
+        "select": "id,title,doi,authorships"
+    }
+    try:
+        r = requests.get(
+            url,
+            params=params,
+            headers={"User-Agent": f"mailto:{EMAIL}"},
+            timeout=15
+        )
+        if r.status_code != 200:
+            return None
+
+        results = r.json().get("results", [])
+        best, best_score = None, 0
+
+        for work in results:
+            candidate_title = work.get("title", "")
+            score = similarity(title, candidate_title)
+            if score > best_score:
+                best_score = score
+                best = work
+
+        if best_score >= 0.85:
+            return best
+        return None
+
+    except Exception:
+        return None
+
+
+# Get first author's name from OpenAlex, if possible
+def extract_first_author_from_record(record):
+    authorships = record.get("authorships", [])
+    if not authorships:
+        return None
+    first = authorships[0]
+    author = first.get("author", {})
+    return author.get("display_name", None)
+
+
+# Citation verification 
+# Follows Zhao et al.: Look for title -> author -> DOI
+'''
+Hallucination: Title fails
+Partial: Title passes, DOI/author fails
+Verified: Title, author, DOI pass
+'''
+def verify_citation(parsed):
+    """
+    Verify a parsed citation against OpenAlex.
+    
+    Follows Zhao et al. title-first approach:
+    1. Search by title — primary signal
+    2. If title found, check author match
+    3. If title found, check DOI match
+    4. If title not found, mark as hallucinated regardless of DOI
+    """
+    title = parsed.get("title", "")
+    doi = parsed.get("doi")
+    doi_provided = parsed.get("doi_provided", False)
+    parsed_lastname = parsed.get("first_author_lastname", "").lower()
+
+    # Check title
+    record = openalex_by_title(title) if title else None
+    lookup_method = "title_search" if record else "none"
+
+    # Title not found
+    if record is None:
+        return {
+            "status": "hallucinated",
+            "title_found": False,
+            "doi_matched": False,
+            "author_matched": False,
+            "lookup_method": lookup_method,
+            "openalex_id": None,
+            "openalex_first_author": None
+        }
+
+    # Title found with 0.85 similarity
+    record_title = record.get("title", "")
+    title_found = similarity(title, record_title) >= 0.85
+
+    # Title too different -> Hallucinated 
+    if not title_found:
+        return {
+            "status": "hallucinated",
+            "title_found": False,
+            "doi_matched": False,
+            "author_matched": False,
+            "lookup_method": lookup_method,
+            "openalex_id": record.get("id"),
+            "openalex_first_author": extract_first_author_from_record(record)
+        }
+
+    # Check first author
+    openalex_first_author = extract_first_author_from_record(record)
+    author_matched = False
+
+    if openalex_first_author and parsed_lastname:
+        openalex_lastname = openalex_first_author.split()[-1].lower()
+        author_matched = similarity(parsed_lastname, openalex_lastname) >= 0.85
+
+    # Check DOI
+    doi_matched = False
+    if doi_provided and doi:
+        record_doi = record.get("doi", "")
+        if record_doi:
+            record_doi_clean = re.sub(r'https?://(dx\.)?doi\.org/', '', record_doi).lower().rstrip(".,")
+            parsed_doi_clean = re.sub(r'https?://(dx\.)?doi\.org/', '', doi).lower().rstrip(".,")
+            doi_matched = record_doi_clean == parsed_doi_clean
+
+    # Determine status
+    if author_matched and doi_matched:
+        status = "verified"
+    elif author_matched and not doi_provided:
+        status = "verified"
+    else:
+        status = "partial"
+
+    return {
+        "status": status,
+        "title_found": True,
+        "doi_matched": doi_matched,
+        "author_matched": author_matched,
+        "lookup_method": lookup_method,
+        "openalex_id": record.get("id"),
+        "openalex_first_author": openalex_first_author
+    }
+
+
+# Putting everything together... 
+# Looks at each citation in input_file, verifies information in OpenAlex, returns verdict in output_file
+def verify_all(input_file, output_file):
+    data = load_response(input_file)
+    results = []
+
+    for record in data:
+        print(f"\nProcessing: {record['id']}")
+        verified_references = []
+
+        for raw_citation in record["response"]["references"]:
+            parsed = parse_single_citation(raw_citation)
+            verification = verify_citation(parsed)
+
+            verified_references.append({
+                "citation": raw_citation,
+                "parsed": {
+                    "first_author_lastname": parsed["first_author_lastname"],
+                    "first_author_firstname": parsed["first_author_firstname"],
+                    "title": parsed["title"],
+                    "doi": parsed["doi"],
+                    "doi_provided": parsed["doi_provided"],
+                    "name_complete": parsed["name_complete"]
+                },
+                "verification": verification
+            })
+
+            status = verification["status"]
+            title = parsed["title"][:60] if parsed["title"] else "(no title)"
+            print(f"  [{status}] {title}")
+
+            time.sleep(1) 
+
+        results.append({
+            "id": record["id"],
+            "model": record["model"],
+            "question": record["question"],
+            "response": {
+                "answer": record["response"]["answer"],
+                "references": verified_references
+            }
+        })
+
+    with open(output_file, "w") as f:
+        json.dump(results, f, indent=4)
+
+    # print summary
+    all_refs = [
+        ref
+        for r in results
+        for ref in r["response"]["references"]
+    ]
+    total = len(all_refs)
+    verified = sum(1 for r in all_refs if r["verification"]["status"] == "verified")
+    partial = sum(1 for r in all_refs if r["verification"]["status"] == "partial")
+    hallucinated = sum(1 for r in all_refs if r["verification"]["status"] == "hallucinated")
+
+    print(f"\n{'='*40}")
+    print(f"Total citations:  {total}")
+    print(f"Verified:         {verified} ({verified/total*100:.1f}%)")
+    print(f"Partial:          {partial} ({partial/total*100:.1f}%)")
+    print(f"Hallucinated:     {hallucinated} ({hallucinated/total*100:.1f}%)")
+    print(f"Saved to {output_file}")
+
+
+if __name__ == "__main__":
+    verify_all(
+        input_file="data/test_responses_task2.json",
+        output_file="data/test_responses_task2_verified.json"
+    )
