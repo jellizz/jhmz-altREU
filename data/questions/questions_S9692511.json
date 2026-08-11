@@ -1,0 +1,332 @@
+[
+  {
+    "id": "https://openalex.org/W7137898102",
+    "model": "openai",
+    "question": "How do cognitive control deficits, particularly lecture-related mind wandering, mediate or moderate the relationship between problematic short-video use and academic adaptation outcomes among college freshmen across existing studies on digital media use, attention regulation, and higher education mental health interventions?"
+  },
+  {
+    "id": "https://openalex.org/W4378746061",
+    "model": "openai",
+    "question": "How do personal uncertainties\u2014such as value uncertainty, capacity uncertainty, and motive uncertainty\u2014interact with established constructs like self-efficacy, trust, perceived risk, and health literacy to shape health behaviors across different populations and public health contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4315640625",
+    "model": "openai",
+    "question": "How do compassion-centered mindfulness interventions for healthcare professionals, such as MB CARE, influence clinician self-compassion, emotional regulation, burnout, patient-centered communication, and patient-perceived quality of care across different clinical settings?"
+  },
+  {
+    "id": "https://openalex.org/W3190802744",
+    "model": "openai",
+    "question": "How do psychological factors studied in performance science\u2014such as motivation, anxiety regulation, attentional focus, self-efficacy, and practice quality\u2014interact across domains like sport, music, and performing arts to influence expert performance development and outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4297017337",
+    "model": "openai",
+    "question": "How do posttraumatic growth, personal value orientations (e.g., self-transcendence and self-enhancement), and culturally specific coping processes interact to shape life satisfaction among university students during large-scale public health crises such as COVID-19?"
+  },
+  {
+    "id": "https://openalex.org/W4283318613",
+    "model": "openai",
+    "question": "How does the interplay between high-performance work systems, challenge stress, and perceived organizational support shape employee innovation behavior across different organizational contexts, and what do existing studies reveal about the mediating and moderating mechanisms underlying this relationship?"
+  },
+  {
+    "id": "https://openalex.org/W4293215616",
+    "model": "openai",
+    "question": "How do semi-supervised user portrait models that integrate social network structure, partial demographic attributes, topic-model representations, CNN-based multimodal feature extraction, and stacking-based ensemble learning compare across the literature in predicting user attributes such as education and residence, particularly in terms of accuracy, scalability, interpretability, and robustness to sparse or noisy social media data?"
+  },
+  {
+    "id": "https://openalex.org/W4205807895",
+    "model": "openai",
+    "question": "How do patterns of teachers\u2019 pre-service and in-service subject-knowledge development, particularly in mathematics and language, relate to prior academic achievement, teacher professionalization policies, and student outcomes across different national education systems?"
+  },
+  {
+    "id": "https://openalex.org/W3169292159",
+    "model": "openai",
+    "question": "How do social class identity, social trust, and satisfaction with public services interact across different generational cohorts and urban\u2013rural household registration groups to shape residents\u2019 subjective well-being in China, and how do these mechanisms compare with findings from broader international literature on inequality, governance, and happiness?"
+  },
+  {
+    "id": "https://openalex.org/W4406188574",
+    "model": "openai",
+    "question": "How does autonomy-supportive coaching interact with psychological resilience, dispositional optimism, and other developmental factors across diverse youth sport contexts to shape long-term athlete development outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4414443627",
+    "model": "openai",
+    "question": "How do institutional regime type, staff\u2013inmate role differences, and therapeutic versus security-oriented practices interact to shape perceived prison social climate and downstream mental health, behavioral, and rehabilitative outcomes across correctional and forensic psychiatric settings?"
+  },
+  {
+    "id": "https://openalex.org/W7162104349",
+    "model": "openai",
+    "question": "How do social dominance orientations, traditionalist-sexist-fundamentalist beliefs, mental health factors, parenting styles, and contextual-cultural conditions interact across diverse youth populations to shape contemporary authoritarian attitudes and their consequences for democratic coexistence?"
+  },
+  {
+    "id": "https://openalex.org/W7123352779",
+    "model": "openai",
+    "question": "How do culturally specific teacher attribution frameworks for behavioral problems in children with special educational needs\u2014such as the newly developed Chinese scale encompassing neurophysiological, environmental-task, motivational-cognitive, emotional-social, and support-system factors\u2014compare with international attribution models in predicting inclusive classroom intervention practices and student outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W7165958084",
+    "model": "openai",
+    "question": "How do conceptualizations of mindfulness as a media-facing self-regulation capacity integrate evidence on its moderating, mediating, and normative roles across digital stress, social media use, AI adoption, immersive interventions, and ethical news consumption?"
+  },
+  {
+    "id": "https://openalex.org/W7117484712",
+    "model": "openai",
+    "question": "How do preservice physical education teachers\u2019 professional cognitions, emotional experiences, and behavioural dispositions develop across teacher education contexts, and what institutional, cultural, and pedagogical factors identified across international literature shape the dynamics of these belief systems?"
+  },
+  {
+    "id": "https://openalex.org/W3001018708",
+    "model": "openai",
+    "question": "How do attentional and affective mechanisms in the neural circuitry of value-based decision-making interact with individual vulnerability factors to enable marketing-induced deviations from consumer preferences, and what evidence supports regulatory or transparency-based interventions to mitigate these effects?"
+  },
+  {
+    "id": "https://openalex.org/W3126576237",
+    "model": "openai",
+    "question": "How do gendered expectations of agentic versus communal attributes across pre- and post-tenure academic career stages interact with structural, organizational, and evaluative barriers to shape women\u2019s progression into tenured STEM professorships across national higher-education contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4389055989",
+    "model": "openai",
+    "question": "How do critiques of the Unfolding Argument, functionalist and causal-structure theories of consciousness, and methodological debates over neural, behavioral, and first-person phenomenological evidence collectively inform what counts as a scientifically valid test of consciousness in humans versus non-human or artificial systems?"
+  },
+  {
+    "id": "https://openalex.org/W4205284027",
+    "model": "openai",
+    "question": "How do injunctive and descriptive norms surrounding parenthood among married same-sex and different-sex couples vary across gender, age cohort, and sexual orientation, and how do these norms interact with broader heteronormative, pronatalist, and minority-stress processes documented in the family formation literature?"
+  },
+  {
+    "id": "https://openalex.org/W4410872905",
+    "model": "openai",
+    "question": "How do different dimensions of network literacy (e.g., usage, perception, information evaluation, and digital safety) influence subjective well-being among middle-aged and older adults across cultural contexts, and through what mediating mechanisms\u2014such as interpersonal relationships, social participation, digital inclusion, and access to services\u2014have prior studies explained these effects?"
+  },
+  {
+    "id": "https://openalex.org/W3164756847",
+    "model": "openai",
+    "question": "How does the evidence across clinical trials and mechanistic studies explain the comparative efficacy of acupuncture combined with Chinese medicine emotional therapy versus psychological therapy alone for reducing depressive symptoms and improving quality of life in elderly patients with alcohol dependence, particularly under pandemic-related stressors such as COVID-19?"
+  },
+  {
+    "id": "https://openalex.org/W7140175560",
+    "model": "openai",
+    "question": "How has pandemic-era facial mask exposure affected the development of young children\u2019s emotion recognition accuracy and gaze allocation strategies across different emotions, and how do these effects compare with broader evidence on children\u2019s use of eye- versus mouth-region cues in typical and atypical social-perceptual development?"
+  },
+  {
+    "id": "https://openalex.org/W4306878627",
+    "model": "openai",
+    "question": "How do executive-function domains such as emotion regulation and risk avoidance interact with social functioning across neurodevelopmental and psychiatric conditions to predict challenging behavior, and what evidence supports challenging behavior as a mediating pathway linking these capacities to child and family quality of life outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4414531262",
+    "model": "openai",
+    "question": "How do social support networks, self-efficacy mechanisms, and attitudes toward normative behavior interact across educational, psychological, and sports science literature to explain and reduce sports anomie or misconduct among university students?"
+  },
+  {
+    "id": "https://openalex.org/W4225265854",
+    "model": "openai",
+    "question": "How do specific parental behaviors during parent\u2013child play\u2014such as warmth, responsiveness, sensitivity, affective expression, and harsh control\u2014interact with child risk status and developmental context to influence internalizing and externalizing behavioral adjustment across early childhood?"
+  },
+  {
+    "id": "https://openalex.org/W4320918654",
+    "model": "openai",
+    "question": "How does the study identified by DOI 10.3389/fpsyg.2023.1037736 relate to and extend prior empirical and theoretical literature in movement science and sport psychology regarding the psychological mechanisms underlying sport performance, motor behavior, and athlete well-being?"
+  },
+  {
+    "id": "https://openalex.org/W4229460331",
+    "model": "openai",
+    "question": "How do transfer learning approaches\u2014such as domain-invariant subspace projection, MMD-based distribution alignment, adversarial adaptation, and dictionary learning\u2014compare in mitigating inter-subject variability and reducing labeled target-subject data requirements for across-subject EEG-based emotion recognition?"
+  },
+  {
+    "id": "https://openalex.org/W3167064696",
+    "model": "openai",
+    "question": "How do virtual sound source synthesis methods such as vector-based amplitude panning compare with real loudspeaker or movable-source paradigms in measuring minimum audible angle across azimuths, listener populations, stimulus types, and acoustic environments, and what methodological factors determine their validity as substitutes for conventional localization acuity tests?"
+  },
+  {
+    "id": "https://openalex.org/W4416774493",
+    "model": "openai",
+    "question": "How do tailored, multi-agency domestic abuse perpetrator intervention programmes that combine victim-safety safeguards, perpetrator accountability mechanisms, skilled facilitation, and ongoing outcome evaluation compare with standardised programme models in improving engagement, retention, behavioural change, and reduced reoffending across diverse perpetrator populations?"
+  },
+  {
+    "id": "https://openalex.org/W4296099565",
+    "model": "openai",
+    "question": "How do sociotechnical factors\u2014including diagnostic technologies, governance practices, media narratives, healthcare worker visibility, lockdown conditions, and culturally shaped notions of collective responsibility\u2014jointly influence public trust, hope, and compliance with population-wide COVID-19 mass testing programs across different national and pandemic contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4376279837",
+    "model": "openai",
+    "question": "How do organizational \u201chygiene factors\u201d (e.g., workload, staffing, scheduling, compensation, and technical resources) interact with individualized motivators (e.g., teamwork quality, career development, and perceived future prospects) to shape job satisfaction, intention to stay, and turnover intention among physicians in academic medicine across different institutional and national contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4377220345",
+    "model": "openai",
+    "question": "How do perceptual feature saliency, prior-knowledge constraints, and the independence of hidden rules jointly influence insight experience and strategy selection in restructuring-based problem solving across card-sorting, classic insight, and rule-learning paradigms?"
+  },
+  {
+    "id": "https://openalex.org/W7159985358",
+    "model": "openai",
+    "question": "How do different psychological symptoms, particularly negative self-concept, depression, hostility, somatization, and anxiety, interact with loneliness and related social-cognitive mechanisms to predict internet addiction among university students across diverse cultural and academic contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4382600497",
+    "model": "anthropic",
+    "question": "How do cross-cultural and non-Western philosophical frameworks of agency and cooperation compare in their capacity to inform empirical evolutionary models of collaborative behavior across human and non-human species?"
+  },
+  {
+    "id": "https://openalex.org/W7154568426",
+    "model": "anthropic",
+    "question": "How do the developmental mechanisms linking appearance-related social media engagement to body dissatisfaction and anxiety differ across cultural contexts and athletic versus non-athletic adolescent populations, and to what extent do cognitive-processing-focused interventions outperform behavioral screen-time reduction strategies in mitigating these effects?"
+  },
+  {
+    "id": "https://openalex.org/W4362551592",
+    "model": "anthropic",
+    "question": "How do text memorization strategies compare with other formulaic language and input-based learning approaches in their effectiveness for developing EFL learners' argumentative writing proficiency across diverse linguistic and cultural contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3096649154",
+    "model": "anthropic",
+    "question": "How does the capacity for referential and emotional communication in dogs, as evidenced by their sensitivity to owners' expressed preferences, compare across domesticated and non-domesticated species, and to what extent does domestication versus individual social experience account for these socio-cognitive abilities?"
+  },
+  {
+    "id": "https://openalex.org/W4282979467",
+    "model": "anthropic",
+    "question": "How do data-driven and multimodal teaching decision-making approaches compare across different language education contexts in their effectiveness at achieving precision and personalized learning outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W3165116995",
+    "model": "anthropic",
+    "question": "How do explicit and implicit attitudes toward sustainable products differentially predict actual pro-environmental behavior, and what role do individual traits like mindfulness play in moderating this attitude-behavior relationship across various consumer domains?"
+  },
+  {
+    "id": "https://openalex.org/W4387141385",
+    "model": "anthropic",
+    "question": "How do the differential mediating roles of shame and guilt in the relationships between distinct types of self-discrepancy and specific emotional disorders (depression versus anxiety) compare across diverse cultural contexts and clinical populations?"
+  },
+  {
+    "id": "https://openalex.org/W3119245481",
+    "model": "anthropic",
+    "question": "To what extent do the mechanisms linking tinnitus interventions to cognitive improvement\u2014particularly the mediating roles of attention, emotion, and neural plasticity\u2014converge or diverge across cognitive behavioral therapy, sound therapy, and other intervention modalities documented in the broader tinnitus literature?"
+  },
+  {
+    "id": "https://openalex.org/W3092899789",
+    "model": "anthropic",
+    "question": "How do the psychological stress factors and coping mechanisms identified among medical students during the COVID-19 pandemic compare across different national, cultural, and healthcare-system contexts, and what interventions have proven most effective in mitigating stress-related declines in professional motivation?"
+  },
+  {
+    "id": "https://openalex.org/W4311515932",
+    "model": "anthropic",
+    "question": "How do individual dispositions (such as career calling), creativity-related mechanisms, and leadership styles interact across the existing literature to either promote or constrain creative deviance in organizational settings?"
+  },
+  {
+    "id": "https://openalex.org/W3046632646",
+    "model": "anthropic",
+    "question": "How does the relative influence of specific home literacy environment components (parent teaching, shared book reading, and access to literacy resources) on early literacy development vary as a function of orthographic consistency across alphabetic and non-alphabetic writing systems, and what socio-cultural or instructional factors beyond orthographic depth might account for cross-linguistic differences?"
+  },
+  {
+    "id": "https://openalex.org/W4284885989",
+    "model": "anthropic",
+    "question": "How do the interactive effects of tax incentives and tax enforcement on corporate R&D investment vary across different institutional contexts, ownership structures, and levels of economic development, and to what extent do the \"governance,\" \"incentive,\" \"taxation,\" and \"rent-seeking\" mechanisms explain these variations in the broader literature?"
+  },
+  {
+    "id": "https://openalex.org/W7165389780",
+    "model": "anthropic",
+    "question": "How do the design features and clinical efficacy of digital self-management interventions for bipolar disorder vary across different cultural contexts and delivery platforms, and what evidence-based components most consistently predict improved patient adherence and outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4379055521",
+    "model": "anthropic",
+    "question": "How do socio-cultural and linguistic factors shape the selection of metaphorical source domains in public discourse about health crises across different languages and cultural contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4406133364",
+    "model": "anthropic",
+    "question": "How do psychosocial and contextual determinants of dietary lapses identified through ecological momentary assessment differ across metabolic conditions and populations, and to what extent can these real-time factors be leveraged to design effective personalized dietary interventions for type 2 diabetes management?"
+  },
+  {
+    "id": "https://openalex.org/W4402529020",
+    "model": "anthropic",
+    "question": "How do the mechanisms underlying the gender equality paradox in subjective well-being differ between transitioning economies and countries with established gender equality, and to what extent do cultural, economic, and institutional factors mediate the differential happiness returns to egalitarian attitudes across genders?"
+  },
+  {
+    "id": "https://openalex.org/W4295798658",
+    "model": "anthropic",
+    "question": "How do the mediating roles of consumer knowledge and perceived income in linking positive personality to smart product purchase behavior compare with the mediating mechanisms identified across broader consumer behavior and technology adoption literature?"
+  },
+  {
+    "id": "https://openalex.org/W4317513176",
+    "model": "anthropic",
+    "question": "How do the moderating effects of remote work arrangements and leader-follower relationship tenure on the association between positive leadership and employee vigor compare with those reported across the broader literature on virtual leadership and psychological well-being?"
+  },
+  {
+    "id": "https://openalex.org/W3149190393",
+    "model": "anthropic",
+    "question": "How do the relationships between distinct types of parentification (instrumental versus emotional) and adolescent academic and psychosocial outcomes vary across cultural contexts and family structures, and what mediating mechanisms consistently account for the divergent, sometimes positive, effects observed in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4390670697",
+    "model": "anthropic",
+    "question": "How does the measurement invariance and validity of the Brunnsviken Brief Quality of Life Inventory compare to that of other established quality of life instruments across clinical and demographic subgroups, and what do these collective findings reveal about best practices for assessing quality of life in transdiagnostic mental health research?"
+  },
+  {
+    "id": "https://openalex.org/W3193984011",
+    "model": "anthropic",
+    "question": "How do perceptual and task-demand factors interact with developmental changes in children's conceptual understanding to shape reasoning errors across various Piagetian and balance-scale paradigms?"
+  },
+  {
+    "id": "https://openalex.org/W3013450035",
+    "model": "anthropic",
+    "question": "How do the predictors of parenting intentions identified through the theory of planned behavior framework interact with structural, legal, and social barriers to family formation to explain the persistent gap in actual parenthood rates between gay men and their heterosexual and lesbian peers?"
+  },
+  {
+    "id": "https://openalex.org/W3164363991",
+    "model": "anthropic",
+    "question": "How do cultural values such as Zhongyong thinking and other context-specific cognitive frameworks moderate the relationship between subordinates' impression management tactics and supervisors' HR-related evaluations across different cultural and organizational settings?"
+  },
+  {
+    "id": "https://openalex.org/W3189801651",
+    "model": "anthropic",
+    "question": "How do achievement goals interact with contextual and institutional factors to shape higher education instructors' self-regulated learning from student evaluations of teaching across diverse educational systems?"
+  },
+  {
+    "id": "https://openalex.org/W4406926090",
+    "model": "anthropic",
+    "question": "How do the mechanisms of home-preschool continuity, parental agency, and linguistically responsive teaching interact to support the linguistic security and well-being of children from diverse linguistic and cultural backgrounds across different national and educational contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3205188289",
+    "model": "anthropic",
+    "question": "How do contextual and structural factors, such as technical infrastructure, media affinity, and situational constraints, moderate the predictive relationships within the Technology Acceptance Model across diverse educational settings and forced versus voluntary technology adoption scenarios?"
+  },
+  {
+    "id": "https://openalex.org/W3159134713",
+    "model": "anthropic",
+    "question": "How do the psychometric properties and diagnostic cut-off scores of re-experiencing-based short-form PTSD screening instruments vary across different cultural and linguistic populations, and what factors account for the observed cross-cultural variability?"
+  },
+  {
+    "id": "https://openalex.org/W3211404141",
+    "model": "anthropic",
+    "question": "How does the moderating role of habit in the relationship between satisfaction, perceived usefulness, flow experience, and continuance intention compare across different information system contexts and cultural settings, and what theoretical mechanisms explain any observed variations?"
+  },
+  {
+    "id": "https://openalex.org/W4416226286",
+    "model": "anthropic",
+    "question": "How does the multiscale neurophysiological cascade proposed by the Integrative Theory of Martial Arts\u2014linking metastability, functional connectivity, neuroplasticity, neural synchronization, and signal-to-noise ratio toward a quasicritical brain state\u2014compare with mechanistic models advanced across other multimodal physical, cognitive, and contemplative interventions in the broader brain-health literature?"
+  },
+  {
+    "id": "https://openalex.org/W4416342794",
+    "model": "anthropic",
+    "question": "How do the roles of psychological inflexibility, loneliness, and internalized homophobia in driving sexualized substance use compare across different cultural and linguistic populations, and what does this reveal about the generalizability of contextual behavioral models like Acceptance and Commitment Therapy for addressing chemsex among gay and bisexual men worldwide?"
+  },
+  {
+    "id": "https://openalex.org/W4378469117",
+    "model": "anthropic",
+    "question": "How do the various pedagogical strategies for fostering interprofessional competencies, common language, intergroup contact, inclusive identities, and beliefs in diversity benefits compare in their effectiveness across different health-related study programs and healthcare contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4388126082",
+    "model": "anthropic",
+    "question": "How do compassion-integrated social-emotional learning programs compare to traditional SEL interventions in their long-term efficacy for promoting empathy, prosocial behavior, and emotional regulation in school-aged children across diverse cultural and educational contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3217578915",
+    "model": "anthropic",
+    "question": "How do the eye-tracking indicators of deception (such as pupil size and fixation behaviors) identified in questionnaire surveys compare with those reported across other deception-detection contexts, and to what extent do differences between instructed and spontaneous lying paradigms account for inconsistencies in the broader literature?"
+  }
+]
