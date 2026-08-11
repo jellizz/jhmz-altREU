@@ -16,9 +16,11 @@ import time
 import unicodedata
 import requests
 from difflib import SequenceMatcher
+from dotenv import load_dotenv
 
-EMAIL = os.environ.get("EMAIL", "zonghoo@gmail.com") # use 
+load_dotenv()
 
+OPENALEX_API_KEY = os.environ["OPENALEX_API_KEY"]
 
 # Load JSON
 def load_response(filename):
@@ -123,7 +125,9 @@ def openalex_by_doi(doi):
     try:
         r = requests.get(
             url,
-            headers={"User-Agent": f"mailto:{EMAIL}"},
+            params = {
+                "api_key": OPENALEX_API_KEY
+            },
             timeout=15
         )
         if r.status_code == 200:
@@ -138,6 +142,7 @@ def openalex_by_doi(doi):
 def openalex_by_title(title):
     url = "https://api.openalex.org/works"
     params = {
+        "api_key": OPENALEX_API_KEY,
         "search": title,
         "per_page": 5,
         "select": "id,title,doi,authorships"
@@ -146,10 +151,10 @@ def openalex_by_title(title):
         r = requests.get(
             url,
             params=params,
-            headers={"User-Agent": f"mailto:{EMAIL}"},
             timeout=15
         )
         if r.status_code != 200:
+            print(f"OpenAlex error {r.status_code}: {r.text}")
             return None
 
         results = r.json().get("results", [])
@@ -300,8 +305,6 @@ def verify_all(input_file, output_file):
             status = verification["status"]
             title = parsed["title"][:60] if parsed["title"] else "(no title)"
             print(f"  [{status}] {title}")
-
-            time.sleep(1) 
 
         results.append({
             "id": record["id"],
