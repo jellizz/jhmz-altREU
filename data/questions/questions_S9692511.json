@@ -328,5 +328,175 @@
     "id": "https://openalex.org/W3217578915",
     "model": "anthropic",
     "question": "How do the eye-tracking indicators of deception (such as pupil size and fixation behaviors) identified in questionnaire surveys compare with those reported across other deception-detection contexts, and to what extent do differences between instructed and spontaneous lying paradigms account for inconsistencies in the broader literature?"
+  },
+  {
+    "id": "https://openalex.org/W4319729163",
+    "model": "gemini",
+    "question": "How do message framing strategies (gain versus loss) interact with individuals' implicit theories of health to influence engagement with digital wellness and mental health information on social media, and what role do cognitive mediators like risk perception play in these dynamics across diverse populations?"
+  },
+  {
+    "id": "https://openalex.org/W3107188921",
+    "model": "gemini",
+    "question": "How have contemporary researchers integrated qualitative phenomenological accounts with quantitative motion-capture and computational data to validate the theoretical frameworks of embodied music cognition in instrumental performance?"
+  },
+  {
+    "id": "https://openalex.org/W4226079563",
+    "model": "gemini",
+    "question": "How does the integration of psychological frameworks, such as causal attribution theory, within higher education entrepreneurship curricula influence both the development of student entrepreneurial self-efficacy and the empirical performance of their subsequent start-up ventures?"
+  },
+  {
+    "id": "https://openalex.org/W3156184693",
+    "model": "gemini",
+    "question": "How does the broader body of literature on neurogenetics and social behavior explain the mechanisms by which dopaminergic pathway genes, specifically *DBH* polymorphisms, interact with biological sex to moderate the longitudinal development of prosocial traits like dispositional compassion?"
+  },
+  {
+    "id": "https://openalex.org/W4389391288",
+    "model": "gemini",
+    "question": "How do individual variations in motor skills and sensorimotor integration influence the relationship between embodied language comprehension\u2014such as the action-sentence compatibility effect\u2014and autistic traits across the broader autism phenotype continuum?"
+  },
+  {
+    "id": "https://openalex.org/W4225162776",
+    "model": "gemini",
+    "question": "How do the optimal duration thresholds and sensory modalities of nature-based interventions vary across the existing literature when mitigating mental fatigue and restoring high-level decision-making capabilities in competitive athletic and other high-cognitive-demand populations?"
+  },
+  {
+    "id": "https://openalex.org/W4306178335",
+    "model": "gemini",
+    "question": "How do the predictive relationships between Dark Tetrad personality traits and bullying victimization vary across different developmental stages\u2014specifically comparing adolescence to adulthood\u2014and what mediating socio-ecological factors explain these differences across educational and workplace environments?"
+  },
+  {
+    "id": "https://openalex.org/W7165923606",
+    "model": "gemini",
+    "question": "How do empirical findings across existential psychology, psychoneuroimmunology, and clinical intervention studies converge to support or challenge the proposed \"Meaning $\\rightarrow$ Biology $\\rightarrow$ Health\" pathway, particularly regarding the distinct physiological and psychological outcomes of moral versus cosmic frameworks of suffering?"
+  },
+  {
+    "id": "https://openalex.org/W3147592610",
+    "model": "gemini",
+    "question": "To what extent does the broader literature on teacher education support the findings that teaching practica foster a shift toward student-centered pedagogical metaphors while simultaneously reinforcing positive emotional states among pre-service teachers across different subject domains?"
+  },
+  {
+    "id": "https://openalex.org/W4311030004",
+    "model": "gemini",
+    "question": "To what extent do the psychological mechanisms of motivated reasoning and identity defense in omnivores explain the paradox between immediate behavioral resistance to vegan advocacy and long-term, indirect dietary change?"
+  },
+  {
+    "id": "https://openalex.org/W3200832234",
+    "model": "gemini",
+    "question": "How does the broader body of literature across different digital platforms support, challenge, or extend the Social Exchange Theory framework regarding the mediating role of collective self-esteem and the moderating role of network heterogeneity in the relationship between social currency and online prosocial behavior?"
+  },
+  {
+    "id": "https://openalex.org/W4385835579",
+    "model": "gemini",
+    "question": "How does the efficacy of combining custom, dialect-specific psychological lexicons with recurrent neural networks compare to state-of-the-art transformer-based models (such as AraBERT) for detecting nuanced mental health states like anxiety across diverse Arabic-speaking populations in the broader literature?"
+  },
+  {
+    "id": "https://openalex.org/W4413440937",
+    "model": "gemini",
+    "question": "How do contemporary findings in social neuroscience, embodied cognition, and cultural neuropsychology collectively support or challenge the Sociobiological Informational Theory's (SIT) proposal for a \"new anatomy\" that integrates socio-cultural and personal contexts into cortical function?"
+  },
+  {
+    "id": "https://openalex.org/W7168350617",
+    "model": "gemini",
+    "question": "How do various modalities of informal digital language learning (IDLL) shape the construction of learners' multilingual identities, and to what extent are these developmental pathways mediated by social presence and moderated by digital literacy across different cultural and demographic contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3197926492",
+    "model": "gemini",
+    "question": "How does the broader scientific literature evaluate the impact of leadership strategies on mitigating ethical concerns and managing emotional culture shifts among healthcare staff during the integration of assistive technologies in long-term care settings?"
+  },
+  {
+    "id": "https://openalex.org/W4391648556",
+    "model": "gemini",
+    "question": "To what extent do variables such as sport-specific cognitive demands, athlete skill levels, and training protocols (duration, frequency, and task type) moderate the long-term transfer of cognitive-motor dual-task training benefits to real-world athletic competition compared to traditional single-task training?"
+  },
+  {
+    "id": "https://openalex.org/W4309933713",
+    "model": "gemini",
+    "question": "How does the literature reconcile the conflicting effects of supervisor monitoring styles on the psychological empowerment and multi-dimensional work performance of self-leading employees across different remote and hybrid work environments globally?"
+  },
+  {
+    "id": "https://openalex.org/W4206082526",
+    "model": "gemini",
+    "question": "How do pandemic-induced disruptions to practical skills training and peer interactions during professional internships affect the prevalence of anxiety and depression among postgraduate students globally, and how do these mental health outcomes vary across different academic disciplines and institutional support systems?"
+  },
+  {
+    "id": "https://openalex.org/W4410215404",
+    "model": "gemini",
+    "question": "How do the temporal dynamics and transition patterns of EEG microstates associated with self-referential processing (microstate C) and executive control (microstate D) in social anxiety compare to those observed across other anxiety and depressive disorders, and to what extent can these dynamic neural signatures serve as transdiagnostic predictors of treatment response?"
+  },
+  {
+    "id": "https://openalex.org/W4360609878",
+    "model": "gemini",
+    "question": "To what extent do different types of nonlinguistic contextual cues, such as faces or environmental settings, differentially modulate the behavioral and electrophysiological mechanisms of reactive versus proactive language control across diverse bilingual populations?"
+  },
+  {
+    "id": "https://openalex.org/W4411394721",
+    "model": "gemini",
+    "question": "How do cognitive vulnerability factors, such as learned helplessness, interact with school-related anxieties and environmental stressors to shape distinct latent profiles of adolescent school absenteeism across diverse cultural and educational systems?"
+  },
+  {
+    "id": "https://openalex.org/W3187055811",
+    "model": "gemini",
+    "question": "To what extent does the broader empirical literature on canid social cognition and domestication support the \"super-dominance\" hypothesis of dog-human cooperation compared to alternative models, such as evolutionary attachment or cooperative breeding theories?"
+  },
+  {
+    "id": "https://openalex.org/W4402846474",
+    "model": "gemini",
+    "question": "How does the broader empirical literature characterize the relationship between physiological synchrony (such as heart rate variability) and observer-rated alliance rupture-resolution processes, and to what extent do these physiological dynamics consistently predict treatment outcomes across different psychotherapeutic modalities for personality disorders?"
+  },
+  {
+    "id": "https://openalex.org/W4306970965",
+    "model": "gemini",
+    "question": "What does the collective body of educational research indicate about the direct and mediated pathways through which school diversity climates influence mainstream teachers' intercultural self-efficacy across different international contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4223528937",
+    "model": "gemini",
+    "question": "How do diverse cultural backgrounds shape subjective daylight perception in built environments, and what consensus exists across current literature regarding the validity of subjective occupant assessment methodologies compared to objective physical daylight measurements?"
+  },
+  {
+    "id": "https://openalex.org/W3180066967",
+    "model": "gemini",
+    "question": "To what extent does the empirical literature across diverse psychotherapeutic orientations support the hypothesized synergistic relationship between client awareness and agency, and how do these two constructs jointly mediate clinical outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4385952870",
+    "model": "gemini",
+    "question": "How does the implementation of personality-based algorithmic screening in personnel selection compare to other debiasing methodologies in balancing gender equity, predictive validity, and stakeholder perceptions of fairness?"
+  },
+  {
+    "id": "https://openalex.org/W4315432761",
+    "model": "gemini",
+    "question": "To what extent do global empirical findings support the mediating role of body-image distress in the relationship between digital sexual objectification and physical activity, and how do these dynamics vary across different demographic cohorts and cultural contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4323309548",
+    "model": "gemini",
+    "question": "How does the broader body of communication literature characterize the interplay between official state-media framing and grassroots public sentiment on social media during global mega-sporting events across different political regimes?"
+  },
+  {
+    "id": "https://openalex.org/W7162767963",
+    "model": "gemini",
+    "question": "What are the primary neurobiological and psychosocial mechanisms identified in the literature that explain why mind-body physical activity interventions yield more pronounced mental health benefits than aerobic or sports-based interventions for children and adolescents with elevated baseline psychological risk?"
+  },
+  {
+    "id": "https://openalex.org/W4280566394",
+    "model": "gemini",
+    "question": "How has the scholarly literature integrated distributed and ecological cognition frameworks to model organizational decision-making, specifically regarding the computational operationalization of socio-material versus conceptual cognitive resources?"
+  },
+  {
+    "id": "https://openalex.org/W4412685781",
+    "model": "gemini",
+    "question": "To what extent do school-based social-emotional learning (SEL) interventions demonstrate transfer effects to cognitive executive functions in elementary school children, and how do informant discrepancies between teachers and caregivers affect the synthesis of these outcome measures across the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4304890232",
+    "model": "gemini",
+    "question": "How do the relative influences of internal and external social capital, along with peer recommendations, vary across different crowdfunding platform designs and cultural contexts in shaping online prosocial donation behavior?"
+  },
+  {
+    "id": "https://openalex.org/W4410511717",
+    "model": "gemini",
+    "question": "How do the interactive effects of referee physical output, environmental conditions, and competitive match context on foul rates in soccer vary across different global professional leagues?"
   }
 ]

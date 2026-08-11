@@ -5,8 +5,6 @@ Isolates the question-generating task (TASK1) from the rest of the code in promp
 import os
 import json
 import random
-import time
-from collections import deque
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -39,26 +37,6 @@ prompt_base = (
     "require the synthesis of multiple scientific papers to answer (a "
     "literature-review style question). Abstract:"
 )
-
-# Gemini free tier: 5 requests per 60s window. Track call timestamps and
-# sleep just long enough to stay under the limit.
-_gemini_call_times = deque()
-GEMINI_MAX_CALLS = 5
-GEMINI_WINDOW_SECONDS = 60
-
-def _gemini_rate_limit():
-    now = time.time()
-    # drop timestamps older than the window
-    while _gemini_call_times and now - _gemini_call_times[0] > GEMINI_WINDOW_SECONDS:
-        _gemini_call_times.popleft()
-
-    if len(_gemini_call_times) >= GEMINI_MAX_CALLS:
-        sleep_time = GEMINI_WINDOW_SECONDS - (now - _gemini_call_times[0]) + 1  # +1s buffer
-        print(f"Gemini rate limit reached, sleeping {sleep_time:.1f}s...")
-        time.sleep(sleep_time)
-
-    _gemini_call_times.append(time.time())
-
 
 # 1a. Load current JSON, if it exists. Build off of this.
 # (Safeguard for if it crashes in the middle, can pick up where it left off)
@@ -106,8 +84,8 @@ def prompt_llm(prompt, llm):
         return response.content[0].text
 
     elif llm == "gemini":
-        _gemini_rate_limit()
-        response = gemini_client.interactions.create(
+        client = gemini_client
+        response = client.interactions.create(
             model="gemini-3.5-flash",
             input=prompt
         )
@@ -127,7 +105,6 @@ def build_json(filename, abstract_id, llm, question):
     }
 
     output_file.append(new_entry)
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
         json.dump(output_file, f, indent=2)
 
@@ -154,31 +131,29 @@ def generate_questions(abstracts_file, output_file):
         [random.choice(llms)]
     )
 
-    skipped = []
-
     for abstract, llm in zip(abstracts, llm_assignments):
         abstract_id = abstract["id"]
         if abstract_id in completed_abstracts:
             continue
 
         prompt = build_prompt(abstract["abstract"])
-        try:
-            question = prompt_llm(prompt, llm)
-            build_json(output_file, abstract_id, llm, question)
-        except Exception as e:
-            print(f"Skipping {abstract_id} ({llm}) due to error: {e}")
-            skipped.append({"id": abstract_id, "llm": llm})
-            continue
+        question = prompt_llm(prompt, llm)
+        build_json(output_file, abstract_id, llm, question)
 
-    if skipped:
-        print(f"\n{len(skipped)} abstract(s) skipped due to errors:")
-        for s in skipped:
-            print(f"  - {s['id']} ({s['llm']})")
-        print("Fix access/quota issues and rerun to fill these in.")
+    print(f"Done. Questions saved to {output_file}")
 
-    print(f"\nDone. Questions saved to {output_file}")
 
 
 if __name__ == "__main__":
-    generate_questions(abstracts_file="data/abstracts/abstracts_S9692511.json", output_file="data/questions/questions_S9692511.json")
-    generate_questions(abstracts_file="data/abstracts/abstracts_S1980519.json", output_file="data/questions/questions_S1980519.json") # didnt finish gemini yet
+    # generate_questions(abstracts_file="data/abstracts/abstracts_S9692511.json", output_file="data/questions/questions_S9692511.json")
+    # generate_questions(abstracts_file="data/abstracts/abstracts_S1980519.json", output_file="data/questions/questions_S1980519.json")
+    
+    # generate_questions(abstracts_file="data/abstracts/abstracts_S13144211.json", output_file="data/questions/questions_S13144211.json")
+    # generate_questions(abstracts_file="data/abstracts/abstracts_S23254222.json", output_file="data/questions/questions_S23254222.json")
+    # generate_questions(abstracts_file="data/abstracts/abstracts_S24807848.json", output_file="data/questions/questions_S24807848.json")
+    # generate_questions(abstracts_file="data/abstracts/abstracts_S49861241.json", output_file="data/questions/questions_S49861241.json") 
+    generate_questions(abstracts_file="data/abstracts/abstracts_s86852077.json", output_file="data/questions/questions_s86852077.json")
+    
+    generate_questions(abstracts_file="data/abstracts/abstracts_S110447773.json", output_file="data/questions/questions_S110447773.json")
+    generate_questions(abstracts_file="data/abstracts/abstracts_S145089992.json", output_file="data/questions/questions_S145089992.json")
+    generate_questions(abstracts_file="data/abstracts/abstracts_S4210175523.json", output_file="data/questions/questions_S4210175523.json")

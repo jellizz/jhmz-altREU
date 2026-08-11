@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W2966157975",
+    "model": "openai",
+    "question": "How do band topology, quantum geometry, interaction-induced dispersion, and extended Wannier orbital structure collectively determine the stability of spin- and valley-polarized insulating phases across different graphene moir\u00e9 superlattices, including TLG/hBN, TDBG, and TBG/hBN, as reported in theoretical and numerical studies?"
+  },
+  {
+    "id": "https://openalex.org/W4391219162",
+    "model": "openai",
+    "question": "How do off-resonant quantum-control schemes that reduce coupling-strength sensitivity compare with other approaches to mitigating positional disorder and interaction inhomogeneity in Rydberg-atom ensembles for enhancing coherent population transfer and many-body entanglement generation?"
+  },
+  {
+    "id": "https://openalex.org/W3195930898",
+    "model": "openai",
+    "question": "How do nanopore edge chemistry, membrane thickness, and biopolymer mechanical heterogeneity collectively govern ssDNA\u20132D material friction and translocation dynamics across h-BN, graphene, and other atomically thin membranes?"
+  },
+  {
+    "id": "https://openalex.org/W3123824292",
+    "model": "openai",
+    "question": "How do spectator-qubit-induced ZZ interactions and frequency-crowding effects limit cross-resonance gate fidelity across different superconducting-qubit architectures, and what mitigation strategies reported in the literature\u2014such as tunable couplers, echo-pulse designs, Hamiltonian calibration, and frequency-allocation optimization\u2014are most effective for scalable fault-tolerant quantum processors?"
+  },
+  {
+    "id": "https://openalex.org/W4411364723",
+    "model": "openai",
+    "question": "How do symmetry-allowed spin-dependent electron\u2013phonon couplings across different lattice systems dynamically generate hidden spin\u2013orbit coupling, and how do the resulting lattice distortions, spin-current orders, charge-density-wave phases, and superconducting instabilities compare with conventional relativistic spin\u2013orbit and electron\u2013phonon mechanisms reported in the broader condensed-matter literature?"
+  },
+  {
+    "id": "https://openalex.org/W3120321111",
+    "model": "openai",
+    "question": "How do experimental and theoretical studies of frictionless and frictional granular flows near jamming collectively support or challenge the interpretation that nonlocal rheology, hysteresis, and boundary-induced stabilization are governed by critical finite-size effects associated with the isostatic length \\(l^{*}\\), rather than by alternative mechanisms such as frictional contacts, cooperativity lengths, or structural heterogeneity?"
+  },
+  {
+    "id": "https://openalex.org/W3041566821",
+    "model": "openai",
+    "question": "How does dimensional confinement in ferroelectric oxide superlattices alter the energetics, symmetry evolution, and topology of domain-wall networks relative to bulk improper ferroelectrics undergoing ferroelectric\u2013paraelectric phase transitions?"
+  },
+  {
+    "id": "https://openalex.org/W3205738223",
+    "model": "openai",
+    "question": "How do the latest COHERENT CsI[Na] CEvNS cross-section and flavor-timing measurements, when synthesized with results from other CEvNS targets and precision electroweak/neutrino-scattering experiments, refine constraints on neutrino nonstandard interactions, lepton flavor universality, and the low-\\(Q^{2}\\) running of the weak mixing angle?"
+  },
+  {
+    "id": "https://openalex.org/W2974540358",
+    "model": "openai",
+    "question": "How do cooperative atom\u2013light interactions in strongly coupled optical cavity-QED systems compare with other quantum-enhanced metrological platforms, such as spin-squeezed atomic ensembles, squeezed-light interferometry, and superconducting circuit-QED, in enabling robust sub-standard-quantum-limit electric-field sensing under realistic photon-loss and decoherence conditions?"
+  },
+  {
+    "id": "https://openalex.org/W3080433904",
+    "model": "openai",
+    "question": "How do residual bulk states and nonchiral edge states respectively contribute to nonzero longitudinal resistance in quantum anomalous Hall topological-insulator heterostructures, and what material, thickness, magnetic-doping, and device-engineering strategies reported across the literature most effectively suppress these dissipative channels to approach truly dissipationless chiral edge transport?"
+  },
+  {
+    "id": "https://openalex.org/W4392451469",
+    "model": "openai",
+    "question": "How do multimessenger constraints from GW170817/GRB 170817A on MeV-scale axion-like particles compare with supernova, laboratory beam-dump, cosmological, and gamma-ray burst bounds, and what do these combined limits imply for models of feebly interacting particles that decay into photons?"
+  },
+  {
+    "id": "https://openalex.org/W4220781149",
+    "model": "openai",
+    "question": "How do spatial trapping, pump intensity and polarization, and environmental noise collectively influence stochastic polarization pinning and high-temperature circular spin polarization in polariton condensates, and what do comparative studies suggest about their suitability for realizing polariton spin lattices in quantum simulation platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4410032803",
+    "model": "openai",
+    "question": "How do theoretical and experimental studies of nonequilibrium work in finite-time first-order phase transitions across mean-field and short-range interacting systems reconcile the reported excess-work scaling regimes, such as the Curie-Weiss crossover from \\(v^{2/3}\\) to \\(v\\), with finite-size effects, metastability, nucleation kinetics, and ergodicity breaking?"
+  },
+  {
+    "id": "https://openalex.org/W2991552201",
+    "model": "openai",
+    "question": "How do existing theoretical and experimental studies of deuteron photodisintegration, nucleon-resonance dynamics, and the proposed \\(d^{*}(2380)\\) hexaquark collectively explain\u2014or fail to explain\u2014the observed narrow enhancement in recoil neutron polarization near \\(E_{\\gamma}\\sim570\\) MeV?"
+  },
+  {
+    "id": "https://openalex.org/W4413344596",
+    "model": "openai",
+    "question": "How do current cosmological constraints favoring concave, nonminimally coupled quintessence potentials reconcile with independent astrophysical, Solar System, and laboratory limits on time-varying gravitational constants and fifth forces across different screening-mechanism frameworks?"
+  },
+  {
+    "id": "https://openalex.org/W4391346659",
+    "model": "openai",
+    "question": "How do metal-cluster termination and plasmonic interactions, as reported across studies of carbyne and related one-dimensional carbon nanostructures, govern chain stabilization, electron doping, photoluminescence scaling, spectral shifts, and polarization-anisotropic optical responses relevant to quantum photonic emitters?"
+  },
+  {
+    "id": "https://openalex.org/W7160186941",
+    "model": "openai",
+    "question": "How do twistor-space index-theoretic derivations of the one-loop QCD \u03b2 function and Weyl anomaly coefficients compare with conventional perturbative, self-dual gauge theory, and anomaly-based approaches to understanding renormalization and scale symmetry breaking in four-dimensional gauge theories?"
+  },
+  {
+    "id": "https://openalex.org/W4407770034",
+    "model": "openai",
+    "question": "How do theoretical and experimental studies of Hund metals, orbital-selective Mott physics, interorbital hybridization, and Doniach-like magnetic competition collectively explain the emergence and limits of rare-earth-free heavy-fermion behavior in hole-doped CsFe\u2082As\u2082 and related transition-metal compounds near half-filling?"
+  },
+  {
+    "id": "https://openalex.org/W4417347330",
+    "model": "openai",
+    "question": "How do covariant formulations of quantum Fisher information in pseudo-Hermitian Hilbert spaces reconcile conflicting claims about exceptional-point-enhanced sensing, and under what theoretical and experimental conditions do pseudo-Hermitian sensors demonstrably outperform dimension-matched Hermitian sensors across the broader non-Hermitian quantum metrology literature?"
+  },
+  {
+    "id": "https://openalex.org/W3119284616",
+    "model": "openai",
+    "question": "How do theoretical predictions and experimental transport studies across ferromagnetic, antiferromagnetic, and canted antiferromagnetic magnetic topological insulators support the use of ferromagnetic-contact resistance switching as a robust probe of hinge-resolved spin polarization in chiral edge modes?"
+  },
+  {
+    "id": "https://openalex.org/W4378799351",
+    "model": "openai",
+    "question": "How do variations in flat-band quantum geometry\u2014particularly the Fubini\u2013Study metric and Wannier-function spatial extent\u2014mediate the competition or coexistence between charge density wave order, superconductivity, and supersolidity across interacting flat-band systems, and what do existing theoretical and numerical studies imply about proposed lower bounds on zero-temperature superfluid stiffness?"
+  },
+  {
+    "id": "https://openalex.org/W2999204473",
+    "model": "openai",
+    "question": "How have theoretical and experimental studies of particle\u2013hole symmetry in the Hubbard model, particularly using ultracold fermionic atoms in optical lattices, clarified the mapping between charge and spin degrees of freedom and its implications for detecting strongly correlated phases such as incompressible magnetization states under attractive interactions?"
+  },
+  {
+    "id": "https://openalex.org/W4410538652",
+    "model": "openai",
+    "question": "How do deviations from Porter\u2013Thomas-distributed partial \u03b3-transition widths observed in ^150Nd nuclear resonance fluorescence experiments compare with evidence from other even-even nuclei and reaction probes, and what do these comparisons imply about the roles of nuclear structure, collectivity, and nonstatistical decay mechanisms in the 5\u20137 MeV excitation region?"
+  },
+  {
+    "id": "https://openalex.org/W4285800903",
+    "model": "openai",
+    "question": "How do all-order results for the topologically twisted index of ABJM theory at fixed Chern\u2013Simons level and in the \u2019t Hooft limit compare with analogous large-\\(N\\) index computations in other M2-brane SCFTs, and what collective evidence do they provide for the microscopic entropy counting of supersymmetric static \\(AdS_4\\) black holes in holography?"
+  },
+  {
+    "id": "https://openalex.org/W4406497212",
+    "model": "openai",
+    "question": "How can the unexpectedly large branching fraction for \\(\\Lambda_c^+ \\to \\Lambda a_0(980)^+\\) observed by BESIII be reconciled with theoretical predictions and with broader experimental and phenomenological evidence on charmed-baryon weak decays, scalar-meson structure, and possible pentaquark contributions in \\(\\Lambda\\pi^+\\eta\\) final states?"
+  },
+  {
+    "id": "https://openalex.org/W4390579938",
+    "model": "openai",
+    "question": "How do higher central charges extracted from partial-rotation expectation values compare with other known edge-gappability criteria\u2014such as anyon condensation, Lagrangian subgroup conditions, modular tensor category invariants, and anomaly indicators\u2014in determining when $(2+1)\\mathrm{D}$ bosonic topological orders with vanishing chiral central charge admit a fully gapped boundary?"
+  },
+  {
+    "id": "https://openalex.org/W2999278972",
+    "model": "openai",
+    "question": "How do integrability, isotropic spin symmetry, and finite-temperature stochastic fluctuations jointly determine whether one-dimensional quantum and classical spin chains exhibit normal diffusion, KPZ superdiffusion, or logarithmically corrected anomalous spin transport across different theoretical, numerical, and experimental studies?"
+  },
+  {
+    "id": "https://openalex.org/W4390347123",
+    "model": "openai",
+    "question": "How do experimentally measured high-pressure Gr\u00fcneisen parameters obtained via rapid isentropic compression compare with theoretical predictions, shock-compression Hugoniot analyses, and other equation-of-state models across NaCl and analogous ionic solids?"
+  },
+  {
+    "id": "https://openalex.org/W4403247026",
+    "model": "openai",
+    "question": "How do strain-gradient-induced inversion-symmetry breaking and spin\u2013orbit-coupled orbital reconstruction in centrosymmetric antiferromagnets such as Sr\u2082IrO\u2084 compare with other routes to emergent polar, magnetic, and magnetoelectric phases in strongly correlated oxide thin films?"
+  },
+  {
+    "id": "https://openalex.org/W4389433690",
+    "model": "openai",
+    "question": "How do continuum active-gel models, vertex/tissue-scale simulations, and experimental studies across embryonic systems collectively explain the roles of mechanochemical feedback, substrate friction, boundary conditions, and internal dissipation in driving convergent extension and associated oscillatory or patterned tissue dynamics?"
+  },
+  {
+    "id": "https://openalex.org/W4324139611",
+    "model": "openai",
+    "question": "How do two-color femtosecond laser fields modify multiphoton ionization pathways across different atomic systems, and to what extent do mechanisms such as Rydberg-state population trapping, angular-momentum redistribution, pulse-phase effects, and wavelength/intensity tuning explain experimentally observed ionization suppression?"
+  },
+  {
+    "id": "https://openalex.org/W4381551274",
+    "model": "openai",
+    "question": "How do experimentally observed intermolecular Coulombic decay\u2013mediated collective energy-transfer processes in pyridine\u2013argon mixtures compare with analogous nonlocal relaxation and energy-funneling mechanisms reported in rare-gas clusters, solvated biomolecules, and artificial light-harvesting assemblies, particularly regarding their dependence on excitation density, intermolecular spacing, and reaction-center composition?"
+  },
+  {
+    "id": "https://openalex.org/W4381743826",
+    "model": "openai",
+    "question": "How do temporal SU(1,1) interferometers based on time-lens 4f configurations compare with conventional spatial SU(1,1) and Mach\u2013Zehnder interferometric schemes in phase sensitivity, temporal/spectral resolution, and applicability to ultrafast quantum-light characterization and temporal-mode encoding?"
+  },
+  {
+    "id": "https://openalex.org/W3093274238",
+    "model": "anthropic",
+    "question": "How do the mechanisms of Bloch-oscillation-induced nonergodicity arising from weak long-range interactions in kinetically constrained systems compare to and interact with other established mechanisms of ergodicity breaking, such as many-body localization and quantum many-body scarring, across different Rydberg and cold-atom platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4387060388",
+    "model": "anthropic",
+    "question": "How do the constraints on the tensor-to-scalar ratio achievable through the cross-correlation of lensed inflationary B-mode polarization with large-scale structure tracers compare to those from established delensing and direct B-mode power spectrum methods when accounting for realistic non-Gaussian foreground contamination and systematic errors across current and next-generation CMB experiments?"
+  },
+  {
+    "id": "https://openalex.org/W3209466116",
+    "model": "anthropic",
+    "question": "How do the timescales and mechanisms of nonthermal electron recombination and dynamic screening in photoexcited warm dense matter compare across different transition metals, and what generalizable principles govern the breakdown of the two-temperature model at femtosecond timescales?"
+  },
+  {
+    "id": "https://openalex.org/W3206102951",
+    "model": "anthropic",
+    "question": "It looks like your message got cut off\u2014the abstract itself wasn't included. You wrote \"Abstract: audience\" but the actual scientific abstract text appears to be missing.\n\nCould you please paste the full abstract you'd like me to work with? Once I have it, I'll generate a one-sentence, literature-review-style scientific question that:\n\n- Is directly grounded in the abstract's topic\n- Requires synthesizing findings across multiple papers to answer\n- Is phrased as scholars in the field would ask it\n\nGo ahead and share the abstract whenever you're ready."
+  },
+  {
+    "id": "https://openalex.org/W3041537843",
+    "model": "anthropic",
+    "question": "How do the metrological advantages of bipartite entangled states demonstrated through copy addition and ancilla extension relate to broader frameworks of entanglement activation and catalysis established across quantum resource theory literature?"
+  },
+  {
+    "id": "https://openalex.org/W3170421275",
+    "model": "anthropic",
+    "question": "How do the mechanisms and magnitudes of photoelastic coupling in exciton-polariton systems compare across different semiconductor nanostructures, and what design principles govern the enhancement of photon-phonon interactions for optimizing high-frequency phonon detection in quantum acoustic devices?"
+  },
+  {
+    "id": "https://openalex.org/W3018084236",
+    "model": "anthropic",
+    "question": "How do the electronic structure and multiband transport properties of infinite-layer nickelate superconductors compare to those of cuprate superconductors, and what do these similarities and differences reveal about the mechanisms underlying the superconducting dome and Fermi surface reconstruction across doping?"
+  },
+  {
+    "id": "https://openalex.org/W4410287810",
+    "model": "anthropic",
+    "question": "How do QED and Coulomb-distortion corrections to parity-violating electron scattering asymmetries compare across different theoretical approaches, and what are their combined implications for reconciling neutron skin thickness measurements with constraints on the nuclear symmetry energy and neutron star equation of state?"
+  },
+  {
+    "id": "https://openalex.org/W4387494562",
+    "model": "anthropic",
+    "question": "How do measurements of the branching fraction of $\\Lambda_b^0 \\rightarrow \\Lambda(1520)\\mu^+\\mu^-$ and related $b \\rightarrow s\\ell^+\\ell^-$ transitions in baryonic systems compare with theoretical predictions across different $q^2$ regions, and what do such comparisons collectively reveal about the potential presence of lepton flavor universality violation or physics beyond the Standard Model?"
+  },
+  {
+    "id": "https://openalex.org/W3207335671",
+    "model": "anthropic",
+    "question": "How do hyperfine-coupled electronuclear excitations across different spin-based quantum Ising materials modify the universality class and critical behavior of quantum phase transitions compared to purely electronic models?"
+  },
+  {
+    "id": "https://openalex.org/W4410825515",
+    "model": "anthropic",
+    "question": "How do the frame-dependent trade-offs between entanglement and subsystem coherence identified in quantum reference frame transformations compare with other proposed resource-theoretic invariants and complementarity relations across the broader literature on quantum coherence, entanglement, and nonlocality?"
+  },
+  {
+    "id": "https://openalex.org/W3199305320",
+    "model": "anthropic",
+    "question": "How do the surface spectroscopic and thermodynamic signatures of a proposed spinon Fermi surface spin liquid on the type-II terminated 1T-TaS\u2082 surface compare with those predicted and observed for other candidate quantum spin liquid systems, and to what extent can these signatures unambiguously distinguish an anomalously realized surface fractionalization from bulk-driven correlated phenomena?"
+  },
+  {
+    "id": "https://openalex.org/W3021288136",
+    "model": "anthropic",
+    "question": "How do the higher-order density correlations observed as Pauli crystals in non-interacting fermionic systems compare to those arising in strongly interacting many-fermion systems, and to what extent can interaction-induced correlations be distinguished from those originating purely from quantum statistics?"
+  },
+  {
+    "id": "https://openalex.org/W3129935988",
+    "model": "anthropic",
+    "question": "How do the differing catalytic properties across quantum resource theories\u2014such as the presence of catalysis in entanglement versus its absence in contextuality and nonlocality\u2014inform a unified structural or axiomatic understanding of when catalytic resource conversions are permitted?"
+  },
+  {
+    "id": "https://openalex.org/W4399530894",
+    "model": "anthropic",
+    "question": "How do problem-informed ansatz designs derived from measurement-based quantum computing compare to conventional hardware-efficient and physically-motivated ans\u00e4tze in terms of trainability, expressibility, and resilience to noise across different classes of many-body Hamiltonians?"
+  },
+  {
+    "id": "https://openalex.org/W4324049366",
+    "model": "anthropic",
+    "question": "How do compressibility-driven instabilities in two-phase displacement compare across different confined geometries and fluid systems, and what unifying dimensionless frameworks govern the transition between quasisteady and burstlike expulsion regimes?"
+  },
+  {
+    "id": "https://openalex.org/W4391471905",
+    "model": "anthropic",
+    "question": "How does the interplay between Coulomb blockade and multiple Andreev reflection in tunable superconducting single-electron transistors compare across varying junction coupling regimes and material platforms, and what unified theoretical framework best captures charge transport signatures both below and above the superconducting gap?"
+  },
+  {
+    "id": "https://openalex.org/W3017524536",
+    "model": "anthropic",
+    "question": "How does the quantized circulation of anomalous shift proposed here compare to established topological probes\u2014such as surface Fermi arc spectroscopy, quantum oscillation measurements, and Josephson interferometry\u2014in terms of its sensitivity and applicability across different classes of Weyl semimetals and unconventional superconductors?"
+  },
+  {
+    "id": "https://openalex.org/W4414083075",
+    "model": "anthropic",
+    "question": "How do medium-induced modifications of the energy-energy correlator in cold nuclear matter compare across different collision systems and theoretical frameworks in disentangling the distinct roles of medium scattering power, path length, and comover interactions?"
+  },
+  {
+    "id": "https://openalex.org/W3021792367",
+    "model": "anthropic",
+    "question": "How do the mechanisms of cavity-modified charge dissociation observed in polaron polariton systems compare to and reconcile with the diverse theoretical frameworks and experimental findings on polariton-modified charge and energy transport across different molecular and material platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4221166766",
+    "model": "anthropic",
+    "question": "How does the machine-learned softness parameter's ability to predict activation energetics and diffusion channels in BKS silica compare with other structural and thermodynamic indicators used across the glass-forming liquid literature to explain the fragile-to-strong transition and its connection to configurational entropy?"
+  },
+  {
+    "id": "https://openalex.org/W4416048541",
+    "model": "anthropic",
+    "question": "How do the mechanisms and symmetry requirements governing Raman optical activity in ferroaxial crystals compare across different classes of materials with broken versus preserved inversion and time-reversal symmetries, and what unifying framework can reconcile these seemingly disparate origins of chiroptical phenomena?"
+  },
+  {
+    "id": "https://openalex.org/W4367840687",
+    "model": "anthropic",
+    "question": "How do the topological constraints on global synchronization of higher-order signals identified in this work compare with synchronization conditions established across other frameworks of higher-order network dynamics, such as diffusion, consensus, and coupled oscillator models on simplicial and cell complexes?"
+  },
+  {
+    "id": "https://openalex.org/W4410495644",
+    "model": "anthropic",
+    "question": "How do the low-temperature thermodynamic corrections beyond the leading conformal field theory prediction in the Lieb-Liniger model compare across different Galilean-invariant integrable systems, and to what extent can the additional dimensionless parameter governing these corrections be understood within a unified framework connecting Bethe ansatz solutions, Luttinger liquid theory, and generalized hydrodynamics?"
+  },
+  {
+    "id": "https://openalex.org/W4386325322",
+    "model": "anthropic",
+    "question": "How do the horizon curvature singularities predicted for extremal rotating black holes under higher-curvature corrections compare across different classes of modified gravity theories, and what do these comparisons reveal about the universality versus theory-dependence of such near-horizon pathologies?"
+  },
+  {
+    "id": "https://openalex.org/W7131889011",
+    "model": "anthropic",
+    "question": "How do the muon\u2013dark matter scattering cross-section constraints derived from cosmic-ray muon tomography compare with, and complement, bounds obtained from accelerator-based muonphilic dark matter searches, direct-detection experiments targeting thermalized terrestrial dark matter populations, and astrophysical limits on strongly interacting dark matter captured within Earth?"
+  },
+  {
+    "id": "https://openalex.org/W3006967304",
+    "model": "anthropic",
+    "question": "How do the multiparticle correlation structures and order-parameter definitions identified in the Vicsek model compare with those found across other active matter and self-propelled particle systems, and to what extent do they inform the general validity of mean-field and limited-order kinetic theories in collective motion?"
+  },
+  {
+    "id": "https://openalex.org/W7155362447",
+    "model": "anthropic",
+    "question": "How does plasmonic heating-induced magnetoelastic switching of antiferromagnetic domains compare to other optical and thermal control mechanisms across hybrid photonic-spintronic systems in terms of energy efficiency, switching speed, and reversibility?"
+  },
+  {
+    "id": "https://openalex.org/W2970143778",
+    "model": "anthropic",
+    "question": "How do the coherence times and gate fidelities of hybrid discrete-continuous variable encodings in trapped-ion systems compare with those achieved in other bosonic quantum computing platforms, such as superconducting cavities and photonic systems, for implementing universal nonlinear operations?"
+  },
+  {
+    "id": "https://openalex.org/W3152685858",
+    "model": "anthropic",
+    "question": "How do the microscopic mechanisms of quantum decoherence in graphene-based Mach-Zehnder interferometers compare to those in conventional semiconductor systems, and what universal physical processes might explain the enhanced coherence robustness observed across these distinct two-dimensional platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4411788399",
+    "model": "anthropic",
+    "question": "How does the Rabi-driven shift of the three-body parameter in Efimov systems compare with the diverse mechanisms\u2014such as finite-range effects, short-range potentials, and van der Waals universality\u2014that have been proposed across the literature to explain and control the three-body parameter in ultracold few-body systems?"
+  },
+  {
+    "id": "https://openalex.org/W4404711842",
+    "model": "anthropic",
+    "question": "How do the isomeric population transfer efficiencies and coherent control strategies enabled by quantum-optical treatments of electronic bridge excitation in \u00b2\u00b2\u2079Th compare with alternative nuclear excitation mechanisms, such as direct laser excitation and nuclear excitation by electron capture, across different atomic charge states and experimental platforms?"
+  },
+  {
+    "id": "https://openalex.org/W3035687248",
+    "model": "anthropic",
+    "question": "How do the technological approaches for mitigating atmospheric turbulence and maintaining phase coherence in free-space quantum communication compare across satellite-based, ground-based, and hybrid QKD architectures, and what trade-offs do they present for achieving scalable global quantum networks?"
+  },
+  {
+    "id": "https://openalex.org/W4417267770",
+    "model": "gemini",
+    "question": "How do the weakly scale-dependent Collins asymmetries measured at high-momentum scales in $p^\\uparrow p$ collisions by the STAR collaboration reconcile with existing transverse-momentum-dependent (TMD) evolution models and global phenomenological fits that utilize data from semi-inclusive deep-inelastic scattering and $e^+ e^-$ annihilation experiments?"
+  },
+  {
+    "id": "https://openalex.org/W4310865054",
+    "model": "gemini",
+    "question": "How have the historical discrepancies between laboratory measurements and theoretical calculations of the Fe XVII 3C-to-3D oscillator strength ratio evolved across different experimental platforms, and what are the broader implications of their recent reconciliation for the accuracy of astrophysical plasma diagnostics?"
+  },
+  {
+    "id": "https://openalex.org/W4387011133",
+    "model": "gemini",
+    "question": "How does the momentum-resolved wave-packet transport method for reconstructing Berry curvature in photonic lattices compare in resolution and applicability to alternative mapping techniques developed across electronic, cold-atom, and acoustic topological platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4404345331",
+    "model": "gemini",
+    "question": "How do the scalability, routing speeds, and error-mitigation capabilities of acoustic-phonon-based quantum random access memory (QRAM) compare to alternative optical and superconducting QRAM platforms documented in recent literature?"
+  },
+  {
+    "id": "https://openalex.org/W7155844225",
+    "model": "gemini",
+    "question": "How does the newly proposed framework of phonon-mediated polar-acoustic coupling in lead titanate compare with existing domain-wall and strain-engineering models in other perovskite oxides, and what are the collective implications of these mechanisms for the design of next-generation piezo-flexoelectric devices?"
+  },
+  {
+    "id": "https://openalex.org/W4401024208",
+    "model": "gemini",
+    "question": "How does the discovery of \"dipole spirals\" and associated dipolar Dzyaloshinskii-Moriya-like interactions in strained free-standing ferroelectric membranes redefine our broader understanding of chiral topological polar states and their dynamic piezoelectric responses compared to established behaviors in conventional bulk and superlattice ferroelectrics?"
+  },
+  {
+    "id": "https://openalex.org/W4409219384",
+    "model": "gemini",
+    "question": "How do various theoretical models of quantum surface responses compare with experimental measurements in explaining the influence of material anisotropy and crystal facets on the scaling and tunability of nanoscale Casimir forces?"
+  },
+  {
+    "id": "https://openalex.org/W4324100373",
+    "model": "gemini",
+    "question": "How does the collective body of computational and experimental literature reconcile the predicted quantum-mechanical preference for proton-induced energy deposition on DNA sugar-phosphate backbones with observed macroscopic yields of single- and double-strand breaks across various radiotherapy modalities?"
+  },
+  {
+    "id": "https://openalex.org/W4402762993",
+    "model": "gemini",
+    "question": "How do the theoretical predictions of pseudogap formation and momentum-selective Fermi surface destruction in the anisotropic triangular Hubbard model compare with experimental spectroscopic observations across different families of quasi-two-dimensional organic superconductors?"
+  },
+  {
+    "id": "https://openalex.org/W2956066593",
+    "model": "gemini",
+    "question": "How do the engineering tolerances, material degradation risks, and plasma confinement properties of permanent-magnet-assisted stellarators compare to those of traditional modular-coil designs across recent computational and experimental feasibility studies?"
+  },
+  {
+    "id": "https://openalex.org/W4404983566",
+    "model": "gemini",
+    "question": "What physical mechanisms\u2014such as spatially dependent cosmic-ray diffusion, unresolved source populations, or alternative interstellar gas distribution models\u2014are proposed across recent theoretical and observational literature to explain the spectral softening and TeV-to-PeV flux excesses observed in the diffuse Galactic gamma-ray emission relative to conventional local-spectrum templates?"
+  },
+  {
+    "id": "https://openalex.org/W3207826257",
+    "model": "gemini",
+    "question": "How do the mechanisms and experimental signatures of interaction-induced higher-order topological transitions in few-particle two-dimensional systems compare across different quantum emulation platforms, such as superconducting qubits, photonic lattices, and ultracold atoms?"
+  },
+  {
+    "id": "https://openalex.org/W4408054615",
+    "model": "gemini",
+    "question": "How do the experimental proton-capture cross sections obtained via storage-ring techniques that suppress Rutherford scattering compare with traditional target-based measurements and statistical Hauser-Feshbach model predictions across the broader landscape of p-process nucleosynthesis research?"
+  },
+  {
+    "id": "https://openalex.org/W3031374581",
+    "model": "gemini",
+    "question": "How do current astrophysical models of nucleosynthesis, supernova acceleration mechanisms, and interstellar propagation reconcile the newly identified division of primary cosmic rays into distinct He-C-O and Ne-Mg-Si spectral classes?"
+  },
+  {
+    "id": "https://openalex.org/W4416113411",
+    "model": "gemini",
+    "question": "How do the underlying nonlinear dynamics, stabilization techniques, and material platform properties compare across different experimental approaches to managing and synchronizing interleaved offset frequencies in integrated, multi-octave frequency combs?"
+  },
+  {
+    "id": "https://openalex.org/W4417035309",
+    "model": "gemini",
+    "question": "How do non-Markovian reservoir dynamics influence the formation, topological classification, and potential quantum-technological applications of higher-order exceptional points across different physical platforms?"
+  },
+  {
+    "id": "https://openalex.org/W3045875470",
+    "model": "gemini",
+    "question": "How does the efficacy of Poisson spot diffraction in probing atom-surface dispersion forces compare with alternative matter-wave interferometry and grating diffraction techniques across various combinations of polarizable atomic species and nanostructured surface materials?"
+  },
+  {
+    "id": "https://openalex.org/W4213028282",
+    "model": "gemini",
+    "question": "How do contemporary numerical simulations and alternative renormalization group treatments reconcile the discrepancy between the classical upper critical dimension of $D_U = 6$ derived from replica field theory and the newly proposed $D_U \\ge 8$ obtained via zero-temperature loop expansions around the Bethe lattice for spin glasses in an external field?"
+  },
+  {
+    "id": "https://openalex.org/W2981545675",
+    "model": "gemini",
+    "question": "How do the mechanisms driving normal-superfluid phase coexistence and the anomalous absence of a critical point in pseudospin-half Bose gases with competing interactions compare to the phase separation dynamics and thermodynamic behaviors observed in other multicomponent quantum degenerate mixtures?"
+  },
+  {
+    "id": "https://openalex.org/W7162508367",
+    "model": "gemini",
+    "question": "How does the performance, resource efficiency, and noise resilience of reservoir-mediated nonreciprocity achieved via squeezing-induced symmetry breaking compare to alternative nonreciprocal mechanisms\u2014such as magnetic-free, coherent-coupling, or topological methods\u2014across various quantum technology platforms, particularly regarding its thermodynamic limits in quantum batteries and signal isolation in optical systems?"
+  },
+  {
+    "id": "https://openalex.org/W3157244206",
+    "model": "gemini",
+    "question": "How do the various theoretical frameworks and approximation methods developed for the central spin model compare in their predictions of nuclear spin squeezing and many-body entanglement in the limit of large spin baths?"
+  },
+  {
+    "id": "https://openalex.org/W4391542601",
+    "model": "gemini",
+    "question": "How does the proposed universal scaling parameter for orbital angular momentum mode coupling in atmospheric turbulence compare to alternative theoretical models of intermodal crosstalk across diverse scattering media, such as underwater channels and biological tissues, in the existing literature?"
+  },
+  {
+    "id": "https://openalex.org/W3135924264",
+    "model": "gemini",
+    "question": "How do the emergent phase transitions and glassy dynamics observed in resource-depleting robotic swarms compare to the collective behaviors and spatial patterning of biological active matter systems, such as foraging bacterial colonies or social insect populations, interacting with dynamic environmental resource gradients?"
+  },
+  {
+    "id": "https://openalex.org/W3039379757",
+    "model": "gemini",
+    "question": "How does the proposed universality of the entanglement entropy growth exponent $\\gamma_c \\approx 0.33$ at the many-body localization transition hold up when compared across different theoretical frameworks, system dimensionalities, and experimental realizations of long-range interacting disordered systems?"
+  },
+  {
+    "id": "https://openalex.org/W4385415324",
+    "model": "gemini",
+    "question": "How do the background-reduction capabilities and signal-detection efficiencies of the newly identified $^{136}\\text{Cs}$ delayed-coincidence tagging technique compare to alternative active vetoing and isotopic tagging strategies utilized across different multi-ton liquid xenon detector architectures for solar neutrino and dark matter spectroscopy?"
+  },
+  {
+    "id": "https://openalex.org/W4404694486",
+    "model": "gemini",
+    "question": "To what extent have various simulation-based forward-modeling frameworks for optical galaxy cluster selection succeeded in reconciling the $\\Omega_m$ and $\\sigma_8$ tensions between cosmic microwave background measurements and large-scale structure surveys?"
+  },
+  {
+    "id": "https://openalex.org/W4414038165",
+    "model": "gemini",
+    "question": "How do the coherence improvements and control-sequence simplifications of the proposed singlet-only always-on gapless exchange (SAGE) qubit compare to other decoherence-free subspace and leakage-mitigated spin qubit architectures across different semiconductor quantum dot platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4416326253",
+    "model": "gemini",
+    "question": "How does the functional balance between intracellular mechanical coupling and extracellular hydrodynamic interactions in eukaryotic ciliary synchronization vary across different species and organizational scales, from single-cell biflagellates to multicellular tissues exhibiting metachronal coordination?"
+  },
+  {
+    "id": "https://openalex.org/W4285029287",
+    "model": "gemini",
+    "question": "How does the experimental performance and logical error suppression of the distance-three surface code demonstrated on superconducting processors compare with alternative quantum error correction codes and physical hardware platforms striving toward fault-tolerant quantum computing?"
+  },
+  {
+    "id": "https://openalex.org/W4405108295",
+    "model": "gemini",
+    "question": "How do emergent strategies in multiorbital band engineering, such as interorbital self-doping and interband pairing, compare with traditional dimensional-crossover and structural-tuning approaches in overcoming quantum fluctuations to stabilize high-temperature superconductivity in quasi-one-dimensional materials?"
+  },
+  {
+    "id": "https://openalex.org/W4376107228",
+    "model": "gemini",
+    "question": "To what extent do recent theoretical models and experimental observations across various graphene-based multilayers support the stabilization of unconventional spin-triplet or exotic charge-4e superconducting phases through the tuning of spin-orbit coupling and magnetic fields?"
+  },
+  {
+    "id": "https://openalex.org/W4319078015",
+    "model": "gemini",
+    "question": "To what extent do empirical studies of transient surface-charge equilibration across diverse solid-liquid interfaces support the theoretical prediction of Coulombic autocatalytic feedback during multi-ion adsorption reactions?"
+  },
+  {
+    "id": "https://openalex.org/W3024514575",
+    "model": "gemini",
+    "question": "How do the coupled thermal and solutal Marangoni propulsion mechanisms of interface-adsorbed Janus particles compare in efficiency, velocity scaling, and controllability across the diverse fluid-fluid boundaries and surfactant chemistries documented in recent active matter literature?"
+  },
+  {
+    "id": "https://openalex.org/W4409479386",
+    "model": "gemini",
+    "question": "How do emerging models of actin-polymerization-driven, motor-independent cell migration reconcile with traditional adhesion- and motor-dependent mechanisms across diverse extracellular environments and cell types in recent literature?"
+  }
+]

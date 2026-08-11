@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W7117741318",
+    "model": "openai",
+    "question": "How do experimentally elicited higher-order risk preferences such as prudence and temperance, compared with conventional risk aversion and survey-based risk tolerance measures, explain adolescents\u2019 real-world prevention, health, addictive, and financial behaviors across the broader literature on decision-making under risk?"
+  },
+  {
+    "id": "https://openalex.org/W3156295346",
+    "model": "openai",
+    "question": "How do spatial-equilibrium models of state corporate tax incidence that incorporate firm mobility, heterogeneous firm productivity, and location-specific amenities alter conclusions about the distribution of tax burdens among workers, landowners, and firm owners relative to empirical estimates in Serrato and Zidar (2016) and subsequent critiques?"
+  },
+  {
+    "id": "https://openalex.org/W7166705293",
+    "model": "openai",
+    "question": "How does the broader empirical literature on agglomeration economies, inventor mobility, and innovation productivity assess whether technology cluster size causally increases patenting, particularly in light of methodological concerns about event-study identification and instrumental-variable validity?"
+  },
+  {
+    "id": "https://openalex.org/W3081646121",
+    "model": "openai",
+    "question": "How do generalized interval and polyhedral hiring constraints in Kelso-Crawford job matching models relate to prior substitute-preserving restrictions in matching with contracts, matroidal choice, and gross substitutes demand, and what do these connections imply for the existence and structure of competitive equilibria in healthcare labor markets?"
+  },
+  {
+    "id": "https://openalex.org/W4405889145",
+    "model": "openai",
+    "question": "How do minimum wage policies in online labor markets affect firm hiring behavior, worker productivity composition, hours worked, and job posting decisions compared with evidence from traditional labor markets and other digital platform settings?"
+  },
+  {
+    "id": "https://openalex.org/W7166679339",
+    "model": "openai",
+    "question": "How does market transparency interact with liquidity supplier composition and strategic complementarities in order flow to influence the emergence, severity, and welfare consequences of liquidity crises such as flash crashes across different market microstructure models and empirical settings?"
+  },
+  {
+    "id": "https://openalex.org/W4413790712",
+    "model": "openai",
+    "question": "How do theoretical results on nested bundling under one-dimensional consumer heterogeneity compare with broader bundling, screening, and nonlinear pricing models in determining when nested menus are optimal and how minimal optimal product menus should be constructed?"
+  },
+  {
+    "id": "https://openalex.org/W4403893140",
+    "model": "openai",
+    "question": "How do government-led payment digitization interventions affect two-sided market coordination, merchant technology adoption, consumer financial inclusion, and distributional outcomes across income groups and firm types in emerging economies?"
+  },
+  {
+    "id": "https://openalex.org/W2952572411",
+    "model": "openai",
+    "question": "How does the magnitude and transmission mechanism of the stock-market-driven consumption wealth effect documented through local nontradable employment and payroll responses compare with evidence from other asset-price wealth shocks, such as housing wealth, across heterogeneous households, regions, and monetary policy environments?"
+  },
+  {
+    "id": "https://openalex.org/W3096991995",
+    "model": "openai",
+    "question": "How do shifts in perceived social norms following salient political events influence individuals\u2019 willingness to publicly express stigmatized attitudes, such as xenophobia, and how do these shifts alter social sanctioning processes across different political and cultural contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4415699634",
+    "model": "openai",
+    "question": "How do theoretical and empirical findings across diffusion models and real-world social networks reconcile the apparent limitations of optimal centrality-based seeding under the independent cascade model with evidence that random or near-random seeding strategies can sometimes produce comparable or greater aggregate diffusion?"
+  },
+  {
+    "id": "https://openalex.org/W4226360662",
+    "model": "openai",
+    "question": "How does incorporating strategic buyer expectations of future surplus capture alter equilibrium selection in dynamic price competition with learning-by-doing, and how do these mechanisms compare across the broader literature on buyer behavior, market tipping, and antitrust policy in dynamic oligopoly models?"
+  },
+  {
+    "id": "https://openalex.org/W4387096937",
+    "model": "openai",
+    "question": "How do theoretical and empirical findings across quantitative trade models with scale economies, markups, and sectoral misallocation explain the relative ineffectiveness of unilateral trade or industrial policies compared with internationally coordinated industrial-policy agreements in improving welfare and correcting misallocation?"
+  },
+  {
+    "id": "https://openalex.org/W4288074152",
+    "model": "openai",
+    "question": "How do ICT-enabled citizen reporting and social media\u2013based election monitoring interventions compare with traditional observer-based monitoring across different political contexts in reducing electoral irregularities, altering candidate behavior, and improving electoral accountability?"
+  },
+  {
+    "id": "https://openalex.org/W7144276671",
+    "model": "openai",
+    "question": "How does the literature on Bayesian learning under model misspecification explain the persistence of simple but incorrect models relative to correctly specified complex models, particularly in terms of asymptotic predictive accuracy, prior tightness or entrenchment, and equilibrium feedback from observed outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4401066709",
+    "model": "openai",
+    "question": "How do learning-by-doing spillovers, grid emissions heterogeneity, and revenue-recycling effects alter comparative welfare assessments of clean energy subsidies, electric vehicle incentives, conservation nudges, fuel taxes, and cap-and-trade policies across the broader climate policy literature?"
+  },
+  {
+    "id": "https://openalex.org/W4413790562",
+    "model": "openai",
+    "question": "How do dynamic returns to effort and job-switching mechanisms identified in administrative tax studies alter estimates of taxable earnings elasticities over the life cycle compared with traditional short-run labor supply models across different institutional and tax-policy contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3123506444",
+    "model": "openai",
+    "question": "How does the literature reconcile evidence on global saving-glut-driven capital flows, sectoral reallocation toward nontradables, and endogenous innovation-led growth to explain the observed slowdown in U.S. and global productivity growth?"
+  },
+  {
+    "id": "https://openalex.org/W7160214867",
+    "model": "openai",
+    "question": "How does the empirical tendency to prioritize avoiding individuals\u2019 least-preferred outcomes over maximizing top-ranked outcomes relate to existing theories and evidence on ordinal social choice, cardinal utility inference, fairness norms, and strategy-proof mechanism design across different political and cultural contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4385367893",
+    "model": "openai",
+    "question": "How does the alignment versus conflict of producer-lobby interests across countries shape the welfare effects of international regulatory cooperation on product and process standards, and how do these theoretical predictions compare with empirical evidence from trade, environmental, and industrial regulation literatures?"
+  },
+  {
+    "id": "https://openalex.org/W4402924231",
+    "model": "openai",
+    "question": "How do studies of worker sorting, industry wage premia, technological change, and low-wage service-sector expansion collectively explain the growing role of between-industry wage dispersion in U.S. earnings inequality since the 1990s?"
+  },
+  {
+    "id": "https://openalex.org/W4408054547",
+    "model": "openai",
+    "question": "How do local ownership policies in weak-state extractive sectors reshape firms\u2019 access to state protection, reduce resource theft, and affect aggregate welfare relative to foreign ownership, particularly through political connections, corruption, and law-enforcement incentives?"
+  },
+  {
+    "id": "https://openalex.org/W3151584765",
+    "model": "openai",
+    "question": "How does the distinction between hidden and transparent instruments in employer-learning models reshape empirical estimates of private versus social returns to education, and how do findings from compulsory-schooling reforms in Norway compare with evidence from other institutional contexts on productivity-enhancing versus signaling components of schooling?"
+  },
+  {
+    "id": "https://openalex.org/W4404760661",
+    "model": "openai",
+    "question": "How did branch banking and internal capital markets influence local credit resilience, property values, labor reallocation, and wage growth during the Great Depression, and how do these mechanisms compare with evidence from other historical banking crises and regional financial systems?"
+  },
+  {
+    "id": "https://openalex.org/W4231254642",
+    "model": "openai",
+    "question": "How do alternative representations of carbon-cycle dynamics and temperature inertia across integrated assessment models influence optimal carbon tax trajectories and abatement costs, and what does the comparison between Lemoine and Rudik (2017), Mattauch et al. (2020), and subsequent climate-modeling evidence imply for the robustness of climate policy recommendations?"
+  },
+  {
+    "id": "https://openalex.org/W7166696648",
+    "model": "openai",
+    "question": "How do countercyclical idiosyncratic risk and endogenous natural-rate fluctuations alter equilibrium determinacy conditions in HANK models relative to representative-agent New Keynesian frameworks, and what does the broader literature imply about the comparative effectiveness of active monetary policy versus fiscal-policy regimes in eliminating self-fulfilling business-cycle fluctuations?"
+  },
+  {
+    "id": "https://openalex.org/W3126008261",
+    "model": "openai",
+    "question": "How do electricity market liberalization and regional market integration affect generation costs, dispatch efficiency, cross-area electricity trade, and reliability outcomes across different regulatory contexts and grid systems?"
+  },
+  {
+    "id": "https://openalex.org/W4312883125",
+    "model": "openai",
+    "question": "How do conflict-induced disruptions and perceived insecurity along transportation networks affect market integration, staple food prices, and downstream welfare outcomes across fragile-state settings, and what does the broader literature suggest about the relative effectiveness of route diversification versus targeted corridor security interventions?"
+  },
+  {
+    "id": "https://openalex.org/W4386265232",
+    "model": "openai",
+    "question": "How do commitment-enhanced pre-play communication institutions compare with nonbinding cheap talk, gradual commitment mechanisms, and other coordination devices across experimental minimum-effort and related coordination games in reducing persistent coordination failure and selecting efficient equilibria?"
+  },
+  {
+    "id": "https://openalex.org/W3039364047",
+    "model": "openai",
+    "question": "How has Esther Duflo\u2019s Nobel Prize Lecture been interpreted in relation to the broader literature on randomized controlled trials, causal inference, and evidence-based policy design in development economics?"
+  },
+  {
+    "id": "https://openalex.org/W3186232651",
+    "model": "openai",
+    "question": "How does noisy mediator-facilitated communication compare with other mechanisms in the reputational bargaining and conflict-resolution literature\u2014such as cheap talk, arbitration, screening, and private offers\u2014in improving efficiency, payoffs, and agreement rates under incomplete information?"
+  },
+  {
+    "id": "https://openalex.org/W2960279029",
+    "model": "openai",
+    "question": "How do different forms of elite social ties\u2014such as shared hometown, college, workplace, factional, or patron-client connections\u2014shape promotion, exclusion, and intra-factional competition within authoritarian political institutions, particularly in China\u2019s Politburo selection process?"
+  },
+  {
+    "id": "https://openalex.org/W4386265217",
+    "model": "openai",
+    "question": "How do cross-national differences and political-ideological variation in second-best fairness preferences\u2014particularly relative tolerance for false positives versus false negatives\u2014shape public support for social insurance and redistributive policy across experimental, behavioral, and political economy literatures?"
+  },
+  {
+    "id": "https://openalex.org/W2973080784",
+    "model": "anthropic",
+    "question": "How do pseudo-market mechanisms with price-internalized pecuniary externalities compare to alternative constrained allocation approaches (such as deferred acceptance and other matching mechanisms) in terms of achieving efficiency, fairness, and incentive compatibility across diverse constrained resource allocation settings?"
+  },
+  {
+    "id": "https://openalex.org/W4408054571",
+    "model": "anthropic",
+    "question": "How do the mechanisms of price discrimination through two-part tariffs in mortgage markets compare across different countries and regulatory regimes, and to what extent do unconventional monetary policies systematically alter these pricing strategies in ways that affect credit access and consumer welfare?"
+  },
+  {
+    "id": "https://openalex.org/W3121979493",
+    "model": "anthropic",
+    "question": "How does the interaction between religious institutions and educational curricula mediate the long-term relationship between religiosity and economic development across different historical and cultural contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3045787610",
+    "model": "anthropic",
+    "question": "How do land use regulations and transit infrastructure interact to shape the spatial form of cities, and what are the resulting welfare implications across different urban contexts and levels of economic development?"
+  },
+  {
+    "id": "https://openalex.org/W3031883595",
+    "model": "anthropic",
+    "question": "How do the deterrence effects of regulatory transparency and public disclosure compare across different domains of corporate misconduct, and what mechanisms explain variation in their effectiveness at inducing compliance?"
+  },
+  {
+    "id": "https://openalex.org/W4415699610",
+    "model": "anthropic",
+    "question": "How do the mechanisms and magnitudes of knowledge spillovers from quid pro quo policies in China's automobile industry compare with those documented for other technology-transfer arrangements and industries across developing economies?"
+  },
+  {
+    "id": "https://openalex.org/W4327632554",
+    "model": "anthropic",
+    "question": "How do the relative magnitudes and welfare implications of distributive versus collateral pecuniary externalities compare across different macro-finance models of firm heterogeneity and financial frictions, and what does this imply for the optimal design of investment subsidies?"
+  },
+  {
+    "id": "https://openalex.org/W4367321241",
+    "model": "anthropic",
+    "question": "How do the mechanisms by which credit-market frictions amplify and propagate economic shocks compare across severe financial crises and ordinary business cycles, and what does this reveal about the generalizability of the financial accelerator framework?"
+  },
+  {
+    "id": "https://openalex.org/W4406965600",
+    "model": "anthropic",
+    "question": "How do start-up costs and other intertemporal operating constraints affect the measurement and interpretation of market power in electricity markets across different studies, and to what extent does the integration of intermittent renewable generation systematically alter the competitive dynamics and profitability of conventional generators?"
+  },
+  {
+    "id": "https://openalex.org/W4411811818",
+    "model": "anthropic",
+    "question": "How do the effects of specialized legal aid interventions like Mi Abogado on foster care duration and child well-being outcomes compare across different institutional and cultural contexts, and what mechanisms explain variation in their cost-effectiveness?"
+  },
+  {
+    "id": "https://openalex.org/W4414662318",
+    "model": "anthropic",
+    "question": "How does the phenomenon of investors' gradual Bayesian learning about structural economic shifts, as observed in the mispricing of software companies, compare with learning dynamics and return anomalies documented across other technological or industrial transformations throughout financial history?"
+  },
+  {
+    "id": "https://openalex.org/W2766190141",
+    "model": "anthropic",
+    "question": "How do the mechanisms linking firm size to business cycle sensitivity\u2014such as industry diversification versus financial frictions\u2014compare across studies using different data sources and firm-size definitions, and what accounts for divergent findings on the role of financial strength?"
+  },
+  {
+    "id": "https://openalex.org/W4405889121",
+    "model": "anthropic",
+    "question": "How do dynamic spatial equilibrium models incorporate the long-term risks of environmental change and sea-level rise when evaluating the optimal geographic allocation of infrastructure investments across coastal and inland regions?"
+  },
+  {
+    "id": "https://openalex.org/W3196983488",
+    "model": "anthropic",
+    "question": "How do different methodological approaches for incorporating risk aversion, uncertainty, and skewness in climate and economic parameters compare in their estimates of the social cost of carbon across the integrated assessment modeling literature?"
+  },
+  {
+    "id": "https://openalex.org/W4400086555",
+    "model": "anthropic",
+    "question": "How do interventions that reveal individuals' implicit biases compare to other debiasing strategies in achieving durable, long-term reductions in discriminatory behavior across educational and organizational settings?"
+  },
+  {
+    "id": "https://openalex.org/W3203280048",
+    "model": "anthropic",
+    "question": "How do firm-specific pay-setting and hiring practices compare across different national labor markets in shaping racial wage gaps, and to what extent are skill-based versus discriminatory sorting mechanisms mediated by institutional and educational contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4399177966",
+    "model": "anthropic",
+    "question": "How does the safety-driven exorbitant privilege and negative dollar risk premium identified in this model compare with alternative theoretical mechanisms and empirical estimates of the dollar's special role across the international finance literature?"
+  },
+  {
+    "id": "https://openalex.org/W4403893207",
+    "model": "anthropic",
+    "question": "How do the mechanisms linking polity size to public goods provision\u2014such as civic engagement, political accountability, and elite capture\u2014vary across different institutional and socioeconomic contexts in the broader decentralization literature?"
+  },
+  {
+    "id": "https://openalex.org/W4416694456",
+    "model": "anthropic",
+    "question": "How do the roles of fixed labor costs versus upward-sloping labor supply curves in mediating the wage effects of trade shocks compare across different institutional and labor market contexts studied in the broader trade and labor economics literature?"
+  },
+  {
+    "id": "https://openalex.org/W4396512492",
+    "model": "anthropic",
+    "question": "How do the dual innovation dimensions of automation and productivity in capital-embodied technological progress reconcile the empirical tensions between micro-level observations of innovation and macro-level balanced growth across different theoretical frameworks in the growth and structural transformation literature?"
+  },
+  {
+    "id": "https://openalex.org/W7126181318",
+    "model": "anthropic",
+    "question": "How do the predictions of supply-function-based models of aggregate supply compare with those of alternative price-setting frameworks\u2014such as menu-cost, rational-inattention, and Calvo-pricing models\u2014in explaining the observed time-varying slope of the Phillips curve across different macroeconomic regimes?"
+  },
+  {
+    "id": "https://openalex.org/W3201688646",
+    "model": "anthropic",
+    "question": "How do the identification strategies and experimental designs for disentangling direct treatment effects from market-equilibrium spillovers in this paper compare to and improve upon alternative approaches\u2014such as cluster-randomized designs, structural equilibrium models, and network-based interference frameworks\u2014developed across the broader literature on interference and general equilibrium effects in field experiments?"
+  },
+  {
+    "id": "https://openalex.org/W4413790833",
+    "model": "anthropic",
+    "question": "How do informational and psychological mechanisms of belief formation interact with electoral accountability to explain the persistence of populist support despite policies that demonstrably harm the very voters who endorse them?"
+  },
+  {
+    "id": "https://openalex.org/W4411811712",
+    "model": "anthropic",
+    "question": "How do rising domestic corporate asset valuations and the resulting cross-border equity ownership patterns affect national welfare and external sustainability across advanced economies, and what mechanisms explain differences from the U.S. experience?"
+  },
+  {
+    "id": "https://openalex.org/W4411811828",
+    "model": "anthropic",
+    "question": "How do the effects of mission-motivation interventions on public sector worker performance compare with those of alternative incentive mechanisms, such as financial rewards or monitoring, across different institutional and cultural contexts in low-income countries?"
+  },
+  {
+    "id": "https://openalex.org/W3191193480",
+    "model": "anthropic",
+    "question": "How does the relationship between the employee share of employment and the expansion of the income tax base compare across different institutional and enforcement contexts, and to what extent do third-party information reporting mechanisms explain variation in tax capacity beyond structural labor market transformation?"
+  },
+  {
+    "id": "https://openalex.org/W4411811755",
+    "model": "anthropic",
+    "question": "How does demographic diversity within academic institutions influence the thematic direction and inclusiveness of scientific research agendas across different disciplines and national contexts?"
+  },
+  {
+    "id": "https://openalex.org/W2922131771",
+    "model": "anthropic",
+    "question": "How does the degree of nominal wage rigidity documented in administrative payroll data compare with estimates derived from survey-based and other data sources across different countries and macroeconomic regimes, and what do these discrepancies imply for the calibration of business cycle models?"
+  },
+  {
+    "id": "https://openalex.org/W4221066757",
+    "model": "anthropic",
+    "question": "How do the welfare and labor-share implications of oligopsonistic labor market power derived from general equilibrium models with concentrated markets compare to estimates from alternative theoretical frameworks and empirical approaches for measuring monopsony power across the literature?"
+  },
+  {
+    "id": "https://openalex.org/W2183349456",
+    "model": "anthropic",
+    "question": "How do endogenous private school entry and exit responses to public education funding reforms compare across different institutional and geographic contexts, and what market structure factors mediate the magnitude of these supply-side effects on enrollment outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4221074652",
+    "model": "anthropic",
+    "question": "How do the relative contributions of contextual (place-based) versus individual factors to voter behavior identified in value-added mobility models compare with findings from studies on neighborhood effects, political socialization, and residential self-selection across different institutional and geographic settings?"
+  },
+  {
+    "id": "https://openalex.org/W4398152315",
+    "model": "anthropic",
+    "question": "How does the influence of ideological alignment between information sources and policymakers on evidence-based policy adoption compare across different political systems, policy domains, and institutional contexts, and what mechanisms beyond selective exposure and belief updating might mediate this relationship?"
+  },
+  {
+    "id": "https://openalex.org/W2560792582",
+    "model": "anthropic",
+    "question": "How do the long-run health and economic returns to childhood Medicaid eligibility documented here compare with those estimated for other early-life public investments\u2014such as nutritional assistance, cash transfers, and educational interventions\u2014and what do these comparisons reveal about the relative cost-effectiveness of investing in children's health versus other domains?"
+  },
+  {
+    "id": "https://openalex.org/W4416694440",
+    "model": "gemini",
+    "question": "How does the broader macroeconomic literature reconcile this model's theoretical prediction that income inequality contracts fiscal space at the zero lower bound with empirical findings on the relationship between wealth distribution, aggregate demand, and sovereign debt sustainability across advanced economies?"
+  },
+  {
+    "id": "https://openalex.org/W4382726429",
+    "model": "gemini",
+    "question": "How does the broader international macroeconomics literature evaluate the optimal design of monetary policy and capital controls under the dominant currency paradigm, particularly regarding the tension between unilateral inflation targeting and coordinated global policy?"
+  },
+  {
+    "id": "https://openalex.org/W4298012915",
+    "model": "gemini",
+    "question": "How do alternative models of information cost in the rational inattention literature compare with the assumption of posterior separability in terms of their theoretical tractability, empirical validity, and capacity to explain behavioral anomalies in experimental decision-making?"
+  },
+  {
+    "id": "https://openalex.org/W4401996807",
+    "model": "gemini",
+    "question": "How does the broader empirical literature on psychometric credit scoring and machine learning-driven underwriting compare to traditional firm-level risk assessments in mitigating the negative impacts of entrepreneurial overoptimism and optimizing credit allocation across diverse developing economies?"
+  },
+  {
+    "id": "https://openalex.org/W2751256296",
+    "model": "gemini",
+    "question": "How does the empirical literature on multidimensional voter preferences and diverse political institutions across democratic regimes validate or limit the generalizability of median voter models when predicting the political feasibility of monotonic income tax reforms?"
+  },
+  {
+    "id": "https://openalex.org/W4226301049",
+    "model": "gemini",
+    "question": "To what extent does the finding that market outcomes remain invariant under different configurations of data broker power challenge or align with prevailing economic literature on vertical integration, information design, and consumer surplus in data-driven markets?"
+  },
+  {
+    "id": "https://openalex.org/W4404760632",
+    "model": "gemini",
+    "question": "How do social image concerns and varying levels of audience sophistication influence the divergence between private beliefs and public discourse across different institutional, cultural, and organizational contexts?"
+  },
+  {
+    "id": "https://openalex.org/W7126193704",
+    "model": "gemini",
+    "question": "How do physician equity holdings in outpatient facilities influence the trade-off between cost-saving efficiencies and potential self-referral biases across different clinical specialties and healthcare systems?"
+  },
+  {
+    "id": "https://openalex.org/W3152373893",
+    "model": "gemini",
+    "question": "To what extent does the broader political economy literature on voter turnout and party competition support the theoretical prediction that dominant parties strategically design redistributive tax policies to demobilize opposition voters rather than to mobilize their own base?"
+  },
+  {
+    "id": "https://openalex.org/W4409963028",
+    "model": "gemini",
+    "question": "How does the empirical evidence across diverse healthcare systems compare regarding the long-term impact of post-emergency psychiatric appointment delays on patient retention and mortality?"
+  },
+  {
+    "id": "https://openalex.org/W4385162000",
+    "model": "gemini",
+    "question": "How does the broader body of empirical literature assess the efficacy of Pigouvian regulatory instruments in mitigating localized ecological and hydrological externalities within decentralized environmental offset markets without undermining their economic viability?"
+  },
+  {
+    "id": "https://openalex.org/W3136638687",
+    "model": "gemini",
+    "question": "To what extent does the broader historical and macroeconomic literature support the consensus that abandoning fixed exchange rate regimes, such as the gold standard, promotes economic recovery primarily by shifting inflationary expectations and lowering real interest rates?"
+  },
+  {
+    "id": "https://openalex.org/W3091274080",
+    "model": "gemini",
+    "question": "How do informational interventions aimed at correcting misperceived social norms influence intra-household bargaining and female labor force participation across different patriarchal economies?"
+  },
+  {
+    "id": "https://openalex.org/W4411811737",
+    "model": "gemini",
+    "question": "To what extent does the broader empirical literature support the thesis that public R&D spending yields a significantly more persistent and positive multiplier effect on long-term productivity and private investment than other categories of public investment and consumption across different macroeconomic contexts and national innovation systems?"
+  },
+  {
+    "id": "https://openalex.org/W2185872490",
+    "model": "gemini",
+    "question": "How do the mechanisms of civilian mobilization identified in this study\u2014namely, the strategic deployment of armed groups and the exploitation of obedience\u2014compare to the mobilization strategies and peer-effect dynamics documented across other historical cases of state-sponsored mass violence?"
+  },
+  {
+    "id": "https://openalex.org/W7117670261",
+    "model": "gemini",
+    "question": "Given that conventional diagnostic tests fail to detect widespread monotonicity violations in judicial panels, how does the broader empirical economics literature reconcile the theoretical necessity of the monotonicity assumption with the observed resilience of judge-instrumental variable estimates to these violations?"
+  },
+  {
+    "id": "https://openalex.org/W4293568569",
+    "model": "gemini",
+    "question": "How do different empirical research designs in the social sciences systematically differ in their susceptibility to p-hacking, and how robust are meta-analytic methods of detecting these publication biases when accounting for statistical artifacts like rounding errors?"
+  },
+  {
+    "id": "https://openalex.org/W3194604013",
+    "model": "gemini",
+    "question": "How does the newly proposed $tF$ standard error adjustment compare to established weak-instrument-robust inference methods, such as the Anderson-Rubin and conditional likelihood ratio tests, in terms of size control, statistical power, and length of confidence intervals across diverse empirical applications in economics?"
+  },
+  {
+    "id": "https://openalex.org/W4392296252",
+    "model": "gemini",
+    "question": "How does empirical evidence across labor and marriage markets support or challenge the theoretical prediction that global increases in match synergy, driven by technological convexity and learning dynamics, systematically lead to greater positive assortative matching?"
+  },
+  {
+    "id": "https://openalex.org/W4409962861",
+    "model": "gemini",
+    "question": "How does the broader literature in urban economics and environmental science reconcile the causal impact of \"place effects\" on household carbon emissions with the confounding factor of residential self-selection across different geographic and institutional contexts?"
+  },
+  {
+    "id": "https://openalex.org/W7126269175",
+    "model": "gemini",
+    "question": "How does the empirical literature across diverse organizational contexts and industries explain the systemic divergence between subjective assessments of employee \"potential\" and objective performance metrics in perpetuating gender disparities in promotion and compensation?"
+  },
+  {
+    "id": "https://openalex.org/W3190305424",
+    "model": "gemini",
+    "question": "How do contemporary theoretical and empirical literatures in financial economics reconcile the microeconomic efficiency of benchmark-based incentive contracts for individual fund managers with the systemic welfare losses and pecuniary externalities, such as crowded trades and asset price distortions, that these contracts collectively generate in equilibrium?"
+  },
+  {
+    "id": "https://openalex.org/W3125075771",
+    "model": "gemini",
+    "question": "How does the broader empirical and theoretical literature on housing search-and-matching models account for the role of buyer heterogeneity and market segmentation in the spatial transmission and mitigation of localized macroeconomic shocks?"
+  },
+  {
+    "id": "https://openalex.org/W7143745190",
+    "model": "gemini",
+    "question": "How does the integration of market power into intermediary asset pricing models alter the broader theoretical and empirical consensus regarding the impact of relaxed financial constraints on asset pricing and market liquidity dynamics across different asset classes?"
+  },
+  {
+    "id": "https://openalex.org/W4361278552",
+    "model": "gemini",
+    "question": "How do the estimated impacts of credit market reforms on aggregate allocative efficiency and total factor productivity differ when analyzed through reduced-form, quasi-experimental aggregation frameworks versus traditional structural general equilibrium models across various empirical settings?"
+  },
+  {
+    "id": "https://openalex.org/W7131826288",
+    "model": "gemini",
+    "question": "How does the empirical literature reconcile the varying macroeconomic mechanisms\u2014such as trade disruptions, capital destruction, and productivity shocks\u2014that drive the international transmission of war-induced stagflation to third-party economies across different historical eras?"
+  },
+  {
+    "id": "https://openalex.org/W4409476181",
+    "model": "gemini",
+    "question": "How does the broader scientific literature on academic peer effects reconcile the mechanisms of homophily and social influence in shaping student political socialization, particularly regarding whether social interactions foster active ideological convergence or merely prevent further opinion divergence?"
+  },
+  {
+    "id": "https://openalex.org/W7160030214",
+    "model": "gemini",
+    "question": "How does the broader empirical literature on the heterogeneity of taxable income elasticities within specific income brackets impact the validity of using sufficient-statistics tests to justify Pareto-efficient tax policies under non-extreme utilitarian welfare functions?"
+  },
+  {
+    "id": "https://openalex.org/W4226150730",
+    "model": "gemini",
+    "question": "How does the empirical literature on regulated insurance markets reconcile the theoretical benefits of consumer choice with findings that vertical choice offers negligible welfare gains in the presence of minimum coverage standards?"
+  },
+  {
+    "id": "https://openalex.org/W3168661866",
+    "model": "gemini",
+    "question": "How does the contemporary macroeconomic literature evaluate the relative efficacy of targeted fiscal transfers versus conventional monetary policy in restoring effective demand during economic crises characterized by sector-specific disruptions to the circular flow of payments?"
+  },
+  {
+    "id": "https://openalex.org/W2596669114",
+    "model": "gemini",
+    "question": "To what extent can network formation models parameterized by Aggregated Relational Data (ARD) reliably substitute for census-level network data when estimating peer effects and diffusion dynamics across diverse social and economic contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4226038371",
+    "model": "gemini",
+    "question": "To what extent does the empirical and theoretical literature support the hypothesis that public redistributive policies crowd out firm-provided wage insurance against worker- and firm-specific productivity shocks across different institutional and macroeconomic contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4298012868",
+    "model": "gemini",
+    "question": "How does the broader political economy literature conceptualize and empirically validate the mitigating role of economic development and capital accumulation in preventing the democratic \"death spirals\" triggered by populist demagoguery?"
+  },
+  {
+    "id": "https://openalex.org/W4409963015",
+    "model": "gemini",
+    "question": "How does the empirical literature across different subscription industries distinguish between consumer inattention and switching costs as drivers of inertia, and what consensus exists regarding the welfare impacts of regulatory policies aimed at reducing these renewal frictions?"
+  }
+]

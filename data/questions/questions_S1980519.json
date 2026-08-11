@@ -418,5 +418,85 @@
     "id": "https://openalex.org/W4402151016",
     "model": "gemini",
     "question": "How consistently do stellar dynamical and gas dynamical modeling techniques agree on supermassive black hole mass determinations across different morphological types of galaxies, and what do these comparison studies reveal about the primary sources of systematic uncertainty inherent to each method?"
+  },
+  {
+    "id": "https://openalex.org/W3080761822",
+    "model": "gemini",
+    "question": "How do the galaxy quenching timescales and delay times inferred from the splashback feature in Sunyaev\u2013Zel\u2019dovich-selected clusters compare across different observational surveys and diverse cosmological hydrodynamical simulations?"
+  },
+  {
+    "id": "https://openalex.org/W4380785160",
+    "model": "gemini",
+    "question": "How do collective multi-wavelength observations of Seyfert 1\u20131.5 active galactic nuclei constrain the relative contributions of disk truncation, thermal Comptonization, and X-ray reprocessing in explaining the observed deviations from standard thin-disk accretion models?"
+  },
+  {
+    "id": "https://openalex.org/W4328089550",
+    "model": "gemini",
+    "question": "How do varying theoretical treatments of composition stratification and relativistic effects in the literature resolve the corotation singularity of stellar r-modes, and what are the collective implications of these different models for predicting gravitational-wave signatures from rapidly rotating neutron stars?"
+  },
+  {
+    "id": "https://openalex.org/W4409464492",
+    "model": "gemini",
+    "question": "To what extent do current observational surveys and cosmological hydrodynamic simulations agree on the physical mechanisms\u2014such as mergers, gas accretion, and environmental quenching\u2014that drive the divergent structural alignment patterns of red and nonred early-type galaxies within the cosmic web?"
+  },
+  {
+    "id": "https://openalex.org/W4397002459",
+    "model": "gemini",
+    "question": "How do varying spectral reconstruction techniques, such as principal component analysis and light-curve-parameterized templates, compare in their capacity to model the near-infrared spectroscopic diversity of peculiar Type Ia supernova subtypes, and what are the resulting implications for the precision of cosmological K-corrections?"
+  },
+  {
+    "id": "https://openalex.org/W4225784363",
+    "model": "gemini",
+    "question": "How do various general relativistic magnetohydrodynamic simulations in the literature compare in their predictions of how mini-disk mass accretion rates, radiative efficiencies, and electromagnetic luminosities scale as supermassive binary black holes evolve from larger separations to the late-stage inspiral regime?"
+  },
+  {
+    "id": "https://openalex.org/W4383101627",
+    "model": "gemini",
+    "question": "How does the proposed framework of coupled magnetospheric variations and internal moment-of-inertia dynamics for PSR B0540\u221269 compare with alternative theoretical models and observational data regarding anomalous braking indices and state transitions across the broader population of young pulsars?"
+  },
+  {
+    "id": "https://openalex.org/W7125514988",
+    "model": "gemini",
+    "question": "How do the spatial scales and energetic transitions between AGN-driven outflows and gravitationally-induced tidal flows in Stephan's Quintet compare to those observed across other compact galaxy groups, and what does this comparison reveal about the impact of dense group environments on the efficiency of AGN feedback?"
+  },
+  {
+    "id": "https://openalex.org/W4416126380",
+    "model": "gemini",
+    "question": "In light of CIBER's detection of a near-infrared background fluctuation excess that disfavors a single-component astrophysical origin, how do current theoretical models of intra-halo light, primordial black holes, and first-generation stars reconcile these multi-wavelength anisotropy measurements across different observational surveys?"
+  },
+  {
+    "id": "https://openalex.org/W4411034099",
+    "model": "gemini",
+    "question": "To what extent does the broader literature support external metal-poor gas accretion as a primary mechanism for driving positive metallicity gradients and triggering central starbursts in non-merging dwarf galaxies across different cosmic environments?"
+  },
+  {
+    "id": "https://openalex.org/W4402243105",
+    "model": "gemini",
+    "question": "How does the newly identified \"streaming torque\" compare with other established mechanisms for halting or reversing the rapid inward migration of low-mass protoplanets, and to what extent is this outward migration robust across the diverse protoplanetary disk environments and dust-to-gas ratios documented in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4405697076",
+    "model": "gemini",
+    "question": "In light of recent observational constraints, how does jet-precession-induced depolarization compare with alternative mechanisms, such as turbulent magnetic fields or relativistic geometric effects, in explaining the unexpectedly low polarization degrees observed in the early optical afterglows of gamma-ray bursts across different astrophysical models?"
+  },
+  {
+    "id": "https://openalex.org/W3194701197",
+    "model": "gemini",
+    "question": "How do the ages of metal-poor stars derived from the Th-U-X nuclear chronometer compare with those obtained from other stellar dating techniques, and what does this synthesis imply for reconciling the current tension in cosmic age measurements between cosmic microwave background and gravitational lensing observations?"
+  },
+  {
+    "id": "https://openalex.org/W3012569800",
+    "model": "gemini",
+    "question": "How do the spectral-type-dependent trends in starspot temperature contrasts, magnetic field strengths, and penumbral dynamics predicted by 3D radiative MHD simulations compare with empirical constraints derived from multi-epoch spectropolarimetric and photometric observations of active late-type stars?"
+  },
+  {
+    "id": "https://openalex.org/W4386212050",
+    "model": "gemini",
+    "question": "How do recent advancements in multi-dimensional core-collapse supernova simulations alter our broader understanding of the role neutrino-driven winds play in driving explosion energetics and weak r-process nucleosynthesis compared to traditional one-dimensional models?"
+  },
+  {
+    "id": "https://openalex.org/W4401372798",
+    "model": "gemini",
+    "question": "How do the various theoretical models of circum-nuclear density profiles and outflow-medium interactions compare in their ability to explain the diverse timing, peak luminosities, and spectral evolutions of radio flares observed across the broader population of tidal disruption events?"
   }
 ]

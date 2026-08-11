@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W3195866665",
+    "model": "openai",
+    "question": "How do modified Black\u2013Litterman portfolio optimization frameworks that formalize expert views from deviations between historical and implied returns compare with traditional mean\u2013variance and standard Black\u2013Litterman approaches in small-asset-universe settings with limited historical data, particularly regarding estimation error, portfolio stability, and out-of-sample performance?"
+  },
+  {
+    "id": "https://openalex.org/W4308194486",
+    "model": "openai",
+    "question": "How do Choquet-integral-based spherical fuzzy MCDM frameworks compare with other fuzzy MCDM approaches in modeling criteria interdependence, uncertainty, and group decision-making robustness for autonomous vehicle selection in logistics applications?"
+  },
+  {
+    "id": "https://openalex.org/W4200328111",
+    "model": "openai",
+    "question": "How do fuzzy-logic-based strength-of-evidence indices, when integrated with Bayesian networks for digital risk visualization, compare with other emerging approaches to incorporating epistemic uncertainty, evidence quality, and ambiguity into probabilistic risk assessment across complex socio-technical systems?"
+  },
+  {
+    "id": "https://openalex.org/W4285810252",
+    "model": "openai",
+    "question": "How do symbolic-primitive knowledge elicitation methods for explainable fault detection and diagnosis compare with black-box machine learning, hybrid neuro-symbolic, and traditional rule-based expert systems across industrial time-series applications in terms of diagnostic accuracy, scalability, expert-effort reduction, adaptability to unseen faults, and trustworthiness in safety-critical energy infrastructure?"
+  },
+  {
+    "id": "https://openalex.org/W4391616941",
+    "model": "openai",
+    "question": "How do disentangled dual-latent reconstruction models such as Y-GAN compare with prior autoencoder-, GAN-, and self-supervised one-class anomaly detection approaches in balancing semantic representation learning, prevention of latent information leakage, and robustness to diverse image anomaly types across benchmark datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4281260602",
+    "model": "openai",
+    "question": "How do candlestick-pattern-based forecasting methods that use sequential pattern mining and sequence similarity compare with machine learning and deep learning approaches across different financial markets in terms of predictive accuracy, interpretability, robustness, and transferability?"
+  },
+  {
+    "id": "https://openalex.org/W4387063421",
+    "model": "openai",
+    "question": "How do model fidelity, offline pretraining strategy, and online adaptation jointly influence the energy savings, thermal comfort, sample efficiency, and deployment cost of reinforcement-learning-based HVAC control compared with model predictive control across diverse building types and climates?"
+  },
+  {
+    "id": "https://openalex.org/W4412430871",
+    "model": "openai",
+    "question": "How do ensemble-based Data Envelopment Analysis approaches for constructing composite indicators compare with traditional Benefit-of-the-Doubt, weighting, and dimensionality-reduction methods in terms of robustness, discriminatory power, benchmarking validity, and policy interpretability when assessing Sustainable Development Goal performance across countries?"
+  },
+  {
+    "id": "https://openalex.org/W4412746268",
+    "model": "openai",
+    "question": "How do constraint-optimization approaches to data quality improvement, such as DMN4DQ+, compare with alternative decision-modeling, cost-sensitive data cleaning, and fitness-for-use frameworks in determining context-dependent target usability thresholds and selecting corrective actions that balance organizational risk, performance, and remediation cost?"
+  },
+  {
+    "id": "https://openalex.org/W4413387610",
+    "model": "openai",
+    "question": "How do vehicle-to-vehicle variability, real-world traffic-condition diversity, and multimodal or score-level fusion strategies jointly affect the generalizability of machine-learning models for predicting truck overtaking manoeuvres from CAN bus data in ADAS and Camera Monitor System applications?"
+  },
+  {
+    "id": "https://openalex.org/W4389279395",
+    "model": "openai",
+    "question": "How can process mining\u2013based analyses of student career trajectories, when integrated with findings from educational data mining, learning analytics, and curriculum design research, identify recurring curricular bottlenecks and institutional factors that contribute to delayed graduation across different higher-education systems?"
+  },
+  {
+    "id": "https://openalex.org/W4408379512",
+    "model": "openai",
+    "question": "How do findings from TD-CCM-based analyses of lagged nonlinear causality among Bitcoin, gold, and equity indices during crises such as COVID-19 compare with evidence from Granger causality, transfer entropy, wavelet coherence, and other nonlinear time-series approaches regarding cryptocurrencies\u2019 evolving role as safe-haven assets, macroeconomic indicators, or transmitters of systemic financial risk?"
+  },
+  {
+    "id": "https://openalex.org/W7162419693",
+    "model": "openai",
+    "question": "How do integrated metaheuristic approaches for joint order batching, assignment, sequencing, and picker routing under due-date or time-window constraints compare across the warehousing literature in terms of service-level performance, computational scalability, and robustness relative to exact MILP formulations and decomposed decision-making strategies?"
+  },
+  {
+    "id": "https://openalex.org/W7167011051",
+    "model": "openai",
+    "question": "How do symbolic time-series representations such as SAX mediate the trade-off between accuracy, interpretability, and computational efficiency when adapting pretrained language models to inertial human activity recognition, compared with deep neural, kernel-based, and other representation-learning approaches across subject-independent benchmark studies?"
+  },
+  {
+    "id": "https://openalex.org/W4407393061",
+    "model": "openai",
+    "question": "How do variations in image resolution, pitch angle, and platform-induced acquisition conditions across drone-based face recognition studies collectively affect the robustness, accuracy, and computational efficiency of lightweight versus large-scale deep learning face recognition models?"
+  },
+  {
+    "id": "https://openalex.org/W4407943866",
+    "model": "openai",
+    "question": "How do region-based feature injection and multi-prompt adapter architectures compare with alternative personalization methods such as DreamBooth, Textual Inversion, Custom Diffusion, and IP-Adapter in preserving concept identity, resolving inter-concept conflicts, and modeling spatial interactions during multi-concept text-to-image diffusion generation?"
+  },
+  {
+    "id": "https://openalex.org/W4379057202",
+    "model": "openai",
+    "question": "How do deep reinforcement learning\u2013based hyper-heuristics that integrate visual state representations and stochastic distributional information compare with traditional analytical, heuristic, and metaheuristic approaches across online packing and related combinatorial optimization problems in terms of generalization, optimality gaps, computational efficiency, and interpretability of learned decision strategies?"
+  },
+  {
+    "id": "https://openalex.org/W4391578783",
+    "model": "openai",
+    "question": "How do fuzzy-logic-inspired GAN loss functions\u2014particularly those based on Sugeno complements\u2014compare with established adversarial objectives across the literature in terms of theoretical divergence minimization, training stability, convergence behavior, and mitigation of mode collapse?"
+  },
+  {
+    "id": "https://openalex.org/W4406107399",
+    "model": "openai",
+    "question": "How do multi-agent, prompt-optimization, and fine-tuning-based frameworks for NL2Code generation compare across the literature in improving functional correctness, code quality, logical robustness, and security of LLM-generated code on benchmarks such as HumanEval, MBPP, and LLMSecEval?"
+  },
+  {
+    "id": "https://openalex.org/W4408653606",
+    "model": "openai",
+    "question": "How do review-enhanced knowledge graph augmentation and contrastive denoising strategies, as exemplified by RCLKG, compare with other KG-based recommender approaches in improving user representation quality, mitigating noisy high-order graph propagation, and enhancing rating or CTR prediction performance across diverse recommendation domains?"
+  },
+  {
+    "id": "https://openalex.org/W7142265713",
+    "model": "openai",
+    "question": "How do machine-learning-enhanced conversational agents such as DigiMoCA compare with established in-person, telephone-based, and digital cognitive screening tools across diverse older-adult populations in terms of diagnostic accuracy, generalizability, usability, and cost-effectiveness for early detection of mild cognitive impairment?"
+  },
+  {
+    "id": "https://openalex.org/W4407834942",
+    "model": "openai",
+    "question": "How do hierarchical Bayesian ARIMA-copula models compare with frequentist ARIMA, VAR, and other multivariate time-series approaches across the transport literature in capturing temporal and spatial dependence, handling small samples or likelihood-estimation difficulties, and improving prediction accuracy for traffic operations, planning, safety, and environmental applications?"
+  },
+  {
+    "id": "https://openalex.org/W4402482207",
+    "model": "openai",
+    "question": "How have multi-objective metaheuristic approaches for distributed hybrid flowshop scheduling integrated lot-sizing, batching, transportation, and assembly constraints across industries such as pharmaceuticals, and what evidence from comparative studies suggests that immune-inspired algorithms offer advantages in solution quality, robustness, and scalability over other evolutionary or swarm-based methods?"
+  },
+  {
+    "id": "https://openalex.org/W4388191485",
+    "model": "openai",
+    "question": "How do labeled property graph\u2013based text representation frameworks compare with alternative semantic representation approaches (e.g., RDF/knowledge graphs, AMR, dependency-based graphs, and transformer-derived embeddings) across information extraction tasks such as entity disambiguation, event enrichment, participant detection, and temporal relation extraction in terms of semantic expressiveness, interoperability, scalability, and empirical performance?"
+  },
+  {
+    "id": "https://openalex.org/W4394875880",
+    "model": "openai",
+    "question": "How do sparse and dynamic dimensionality-reduction methods, including sparse PCA variants, autoencoder-based feature learning, and sensor-selection algorithms, compare in their ability to improve virtual metrology accuracy, interpretability, scalability, and sensor-cost reduction in high-dimensional semiconductor manufacturing data?"
+  },
+  {
+    "id": "https://openalex.org/W4387842112",
+    "model": "openai",
+    "question": "How do analogue-instance demand features, meteorological and calendrical variables, and persistence-based predictors comparatively influence the accuracy and transferability of machine-learning and deep-learning models for forecasting shared green-mobility demand across different urban transport modes and city contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4415039367",
+    "model": "openai",
+    "question": "How do diffusion-based generative models for interest-rate term structure simulation compare with traditional affine, dynamic Nelson\u2013Siegel, and machine-learning yield-curve models in capturing macro-financial conditioning effects\u2014particularly monetary policy regimes, inflation dynamics, and quantitative easing\u2014across different markets and time periods?"
+  },
+  {
+    "id": "https://openalex.org/W4389060537",
+    "model": "openai",
+    "question": "How do on-device, context-rule-based push mechanisms in mobile recommender systems compare with server-side or hybrid architectures across the literature in terms of personalization flexibility, recommendation timing accuracy, scalability, energy consumption, user acceptance, and privacy preservation?"
+  },
+  {
+    "id": "https://openalex.org/W4390465603",
+    "model": "openai",
+    "question": "How do hybrid feature-selection frameworks that integrate redundancy-aware feature grouping (e.g., spectral clustering or Markov blanket\u2013based filtering) with multi-objective evolutionary search compare across the broader gene-expression classification literature in terms of predictive accuracy, feature subset stability, computational scalability, and biological interpretability of selected disease biomarkers?"
+  },
+  {
+    "id": "https://openalex.org/W4224211827",
+    "model": "openai",
+    "question": "How do transformer-based architectures compare with recurrent neural networks such as GRU and LSTM across diverse traffic-flow forecasting studies in their ability to capture long-range temporal dependencies, handle data-scale requirements, and improve prediction accuracy on benchmark datasets such as PeMS?"
+  },
+  {
+    "id": "https://openalex.org/W7160647876",
+    "model": "openai",
+    "question": "How do game-theoretic and agent-based models of multi-level regulatory coordination across crypto asset markets compare in predicting the effects of enforcement intensity, intergovernmental signaling, and adaptive rulemaking on firm compliance, innovation, and consumer protection in decentralized jurisdictions such as Canada?"
+  },
+  {
+    "id": "https://openalex.org/W4385633781",
+    "model": "openai",
+    "question": "How do algorithmically optimized accessibility indices integrating transport, demographic, labor-market, and amenity variables compare with traditional hedonic location measures across different urban housing markets in improving house price prediction accuracy, reducing spatial autocorrelation, and maintaining interpretability for urban planning applications?"
+  },
+  {
+    "id": "https://openalex.org/W4392180077",
+    "model": "openai",
+    "question": "How do radiomic time-series classification approaches applied to DCE-MRI, particularly models using multi-instant feature selection and ROCKET-based algorithms, compare with conventional kinetic-curve modeling, deep learning, and multiparametric MRI strategies in improving benign\u2013malignant breast lesion differentiation and clinical interpretability?"
+  },
+  {
+    "id": "https://openalex.org/W3176710525",
+    "model": "anthropic",
+    "question": "How do the trade-offs between forecasting accuracy and computational efficiency in Long Short-term Cognitive Networks compare to those of other online learning approaches for renewable energy time series prediction across diverse operational and environmental conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4404852008",
+    "model": "anthropic",
+    "question": "How do meta-learning approaches for cross-asset knowledge transfer compare with domain-adaptation and transfer-learning techniques in addressing data scarcity for financial volatility forecasting across different market conditions and asset classes?"
+  },
+  {
+    "id": "https://openalex.org/W4327571420",
+    "model": "anthropic",
+    "question": "How do hybrid CNN-RNN architectures compare to alternative deep learning approaches (such as transformer-based or geometry-driven methods) in terms of accuracy and computational efficiency for monocular 6D vehicle pose estimation in autonomous driving contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4411127061",
+    "model": "anthropic",
+    "question": "How do graph-based structural representations compare with attention-based and other feature extraction mechanisms in their effectiveness at preserving semantic and spatial information for cross-modal remote sensing image-text retrieval across different benchmark datasets?"
+  },
+  {
+    "id": "https://openalex.org/W3014664339",
+    "model": "anthropic",
+    "question": "How do case-based reasoning approaches to knowledge transfer in reinforcement learning compare to other transfer learning paradigms (e.g., policy distillation, meta-learning, and successor features) in terms of their mechanisms for mitigating negative transfer across dissimilar tasks?"
+  },
+  {
+    "id": "https://openalex.org/W4401171110",
+    "model": "anthropic",
+    "question": "How do the deobfuscation and code-comprehension capabilities of large language models compare across different obfuscation techniques and malware families, and what fine-tuning or architectural strategies have proven most effective for improving their accuracy in automated threat intelligence pipelines?"
+  },
+  {
+    "id": "https://openalex.org/W4296903761",
+    "model": "anthropic",
+    "question": "How do computational geometry-based initialization methods, such as the Empty Circles approach, compare with other deterministic and probabilistic center-selection strategies (e.g., k-means++, density-based, and Voronoi-based methods) in terms of clustering accuracy, convergence speed, and robustness across datasets of varying shape and dimensionality?"
+  },
+  {
+    "id": "https://openalex.org/W4388793893",
+    "model": "anthropic",
+    "question": "How do feature pyramid architectures and supervised contrastive learning strategies compare across various single-channel EEG-based automatic sleep scoring frameworks in improving the discrimination of frequently misclassified sleep stages such as N1 and REM?"
+  },
+  {
+    "id": "https://openalex.org/W4409906210",
+    "model": "anthropic",
+    "question": "How do physics-informed fusion mechanisms and diffusion-based generative models compare with other deep learning approaches in balancing anomaly detection accuracy and interpretability for wind turbine condition monitoring across diverse operational datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4401732085",
+    "model": "anthropic",
+    "question": "How do hybrid metaheuristic algorithms that combine multiple bio-inspired optimizers with adaptive mutation operators compare to single-algorithm and adaptive differential evolution variants in balancing exploration-exploitation trade-offs across continuous, constrained, and binary optimization domains?"
+  },
+  {
+    "id": "https://openalex.org/W4400673209",
+    "model": "anthropic",
+    "question": "How do the geometric dilution of precision principles governing optimal anchor placement in UWB-based 3D indoor positioning compare across different localization technologies and algorithmic approaches, and to what extent can the volume-maximization strategy be generalized to configurations involving varying numbers of anchors and non-line-of-sight conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4408254722",
+    "model": "anthropic",
+    "question": "How do Markov chain-based approaches to modeling end-user network behavior as unordered activity collections compare to time-series and other machine learning methods across the literature in terms of detecting diverse anomaly types (e.g., misconfigurations, compromised devices, and cybersecurity threats) within dynamic IP environments?"
+  },
+  {
+    "id": "https://openalex.org/W4388268800",
+    "model": "anthropic",
+    "question": "How do hybrid neural network approaches integrating global and local optimization schemes, such as Gudermannian neural networks with genetic algorithms and interior-point methods, compare to other stochastic and deterministic computational techniques in terms of accuracy and reliability for solving nonlinear epidemiological models like those describing COVID-19 detection in robotic systems?"
+  },
+  {
+    "id": "https://openalex.org/W4400617531",
+    "model": "anthropic",
+    "question": "How do the design principles and search mechanisms distinguishing high-performing metaheuristic algorithms from underperforming ones on PV parameter estimation compare with findings across other high-dimensional, multimodal engineering optimization benchmarks, and what generalizable characteristics predict an algorithm's success in avoiding local optima on such problems?"
+  },
+  {
+    "id": "https://openalex.org/W4393946714",
+    "model": "anthropic",
+    "question": "How do simulated or generated depth modalities from generative models compare to real RGB-D sensor data in terms of diagnostic accuracy and reliability across various computer-aided facial diagnosis applications?"
+  },
+  {
+    "id": "https://openalex.org/W4392263581",
+    "model": "anthropic",
+    "question": "How do the trade-offs between on-device inference efficiency and model accuracy in existing AI-AR integration frameworks compare across different deep learning architectures and mobile hardware constraints?"
+  },
+  {
+    "id": "https://openalex.org/W3152549070",
+    "model": "anthropic",
+    "question": "How do the effectiveness and interpretability of Continued Fraction Regression compare to those of other dimensionality-reduction and regression techniques employed across computational stylistics studies for chronological dating of literary texts in small-sample, high-dimensional settings?"
+  },
+  {
+    "id": "https://openalex.org/W3169297916",
+    "model": "anthropic",
+    "question": "How do multimodal fusion strategies, such as weighted average ensembles versus feature-level or attention-based fusion approaches, compare in their effectiveness for improving detection performance across different deep learning architectures and application domains?"
+  },
+  {
+    "id": "https://openalex.org/W4407834750",
+    "model": "anthropic",
+    "question": "How do graph-theoretic cut-based formulations compare with path-enumeration and other combinatorial optimization approaches across the broader traffic sensor location literature in terms of computational scalability and solution optimality for large-scale networks?"
+  },
+  {
+    "id": "https://openalex.org/W4406518092",
+    "model": "anthropic",
+    "question": "How do different strategies for integrating drug-target interaction information into computational models compare in their ability to improve the prediction accuracy of synergistic drug combinations across diverse cancer types?"
+  },
+  {
+    "id": "https://openalex.org/W4324387462",
+    "model": "anthropic",
+    "question": "How do the four main approaches to fuzzy option pricing\u2014fuzzy-random, distorted risk-neutral probability, fuzzy pay-off, and machine-learning-based methods\u2014compare in terms of their theoretical assumptions, empirical performance, and practical applicability across different classes of financial and real options?"
+  },
+  {
+    "id": "https://openalex.org/W4410774340",
+    "model": "anthropic",
+    "question": "How do the design choices in evaluation functions across metaheuristic approaches to bandwidth minimization problems influence solution quality and convergence behavior relative to using extremal versus aggregate distance measures?"
+  },
+  {
+    "id": "https://openalex.org/W4391850817",
+    "model": "anthropic",
+    "question": "How do memory-based enhancements to metaheuristic algorithms compare across different optimization approaches in terms of their effectiveness at balancing exploration and exploitation for solving multi-objective distribution network reconfiguration problems?"
+  },
+  {
+    "id": "https://openalex.org/W4405337754",
+    "model": "anthropic",
+    "question": "How do the semantic feature extraction and multimodal resource processing techniques employed in mainstream integrated media information organization models compare in effectiveness and scalability with approaches developed across the broader fields of big data management and information retrieval?"
+  },
+  {
+    "id": "https://openalex.org/W7134893266",
+    "model": "anthropic",
+    "question": "How do multi-agent deep reinforcement learning approaches that leverage implicit feedback compare to alternative coordination and reward-modeling strategies in their ability to adapt to dynamic user routines across heterogeneous smart home environments?"
+  },
+  {
+    "id": "https://openalex.org/W4221129481",
+    "model": "anthropic",
+    "question": "How does the integration of hesitant Pythagorean fuzzy sets with outranking methods like ELECTRE-I compare to alternative fuzzy extensions and multi-criteria decision-making approaches in improving the reliability and discriminatory power of risk prioritization in FMEA across diverse application domains?"
+  },
+  {
+    "id": "https://openalex.org/W4399803424",
+    "model": "anthropic",
+    "question": "How do the capabilities and barriers associated with smart industrial product adoption identified in this framework compare with and integrate into existing maturity models for digital transformation and Industry 4.0 across different organisational functions and sectors?"
+  },
+  {
+    "id": "https://openalex.org/W3092882514",
+    "model": "anthropic",
+    "question": "How do PDE-based regularization approaches in RBF-DiffNet compare with other physics-informed and differential equation-inspired neural network architectures in terms of their trade-offs between noise robustness, computational efficiency, and interpretability across diverse sequential modeling tasks?"
+  },
+  {
+    "id": "https://openalex.org/W7154249237",
+    "model": "anthropic",
+    "question": "How do multi-scale temporal feature extraction methods compare to graph neural network-based approaches across different insider threat detection studies in terms of balancing the trade-off between capturing individual behavioral deviations and modeling group-level structural dependencies?"
+  },
+  {
+    "id": "https://openalex.org/W4417178135",
+    "model": "anthropic",
+    "question": "How do partial feature selection and channel attention mechanisms compare across lightweight medical image segmentation architectures in balancing parameter efficiency and segmentation accuracy?"
+  },
+  {
+    "id": "https://openalex.org/W4415064340",
+    "model": "anthropic",
+    "question": "How do multi-head deep learning architectures that jointly perform segmentation and keypoint detection compare to single-task and sequential pipelines across different plant root imaging modalities in terms of trait extraction accuracy and generalizability?"
+  },
+  {
+    "id": "https://openalex.org/W7154482424",
+    "model": "anthropic",
+    "question": "How do the trade-offs between path smoothness, energy efficiency, and computational complexity vary across different coverage path planning strategies and trajectory smoothing techniques when applied to UAV swarms operating in heterogeneous versus homogeneous configurations?"
+  },
+  {
+    "id": "https://openalex.org/W4387911253",
+    "model": "anthropic",
+    "question": "How do different approaches to integrating heterogeneous EHR data modalities\u2014such as medical codes, clinical notes, ontological relationships, and patient demographics\u2014via attention mechanisms compare in their effectiveness for enhancing medical concept embeddings and clinical prediction tasks?"
+  },
+  {
+    "id": "https://openalex.org/W4391074940",
+    "model": "gemini",
+    "question": "How does the prioritization of transparency over human agency and oversight in fuzzy multi-criteria decision-making (MCDM) models for healthcare AI align with the broader empirical literature on clinical safety outcomes and international ethical guidelines?"
+  },
+  {
+    "id": "https://openalex.org/W4362584194",
+    "model": "gemini",
+    "question": "How do different methodological approaches across the scientific literature address target variable measurement uncertainty in machine learning, and what are their comparative advantages in preventing overoptimistic model evaluations and false scientific discoveries?"
+  },
+  {
+    "id": "https://openalex.org/W7155604786",
+    "model": "gemini",
+    "question": "How do different methodological approaches for integrating machine learning-based risk predictions with dynamic traffic micro-simulations, such as Cellular Automata, compare in their ability to accurately model real-time congestion and support proactive traffic safety planning across diverse urban environments?"
+  },
+  {
+    "id": "https://openalex.org/W3204450916",
+    "model": "gemini",
+    "question": "How do multimodal approaches combining Optical Character Recognition (OCR) and Natural Language Processing (NLP) compare to purely vision-based deep learning models in their efficacy and computational efficiency for detecting self-checkout fraud and reducing retail shrinkage?"
+  },
+  {
+    "id": "https://openalex.org/W4389848844",
+    "model": "gemini",
+    "question": "To what extent do horizon-specific feature projection methods, compared to traditional unified latent mapping techniques, improve gradient optimization stability and localized pattern extraction in temporal graph neural networks across various spatial-temporal forecasting domains?"
+  },
+  {
+    "id": "https://openalex.org/W3207124298",
+    "model": "gemini",
+    "question": "How does the integration of crowdsourced social media data with real-time meteorological inputs compare to traditional geostatistical modeling in enhancing situational awareness and victim localization during urban flash floods across diverse global metropolitan environments?"
+  },
+  {
+    "id": "https://openalex.org/W4386376808",
+    "model": "gemini",
+    "question": "How do the representation learning capabilities of contrastive versus generative self-supervised pre-training frameworks compare when transferring to sparse, real-world LiDAR point cloud downstream tasks such as 3D object detection and semantic segmentation?"
+  },
+  {
+    "id": "https://openalex.org/W4410218045",
+    "model": "gemini",
+    "question": "How does the performance of conditional generative adversarial networks (cGANs) compare to alternative deep learning architectures, such as U-Net or Mask R-CNN, when segmenting specialty crops under highly variable and adverse field illumination conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4385597400",
+    "model": "gemini",
+    "question": "How do Euclidean distance-based parameter reduction techniques for interval-valued fuzzy soft sets compare to other distance- and similarity-measure-based reduction frameworks in terms of computational complexity, success rates, and decision-making stability across diverse real-world applications?"
+  },
+  {
+    "id": "https://openalex.org/W4386566926",
+    "model": "gemini",
+    "question": "How do emerging boosting-based, distribution-free probabilistic regression frameworks compare to established non-parametric approaches, such as quantile regression forests and conformal prediction, regarding their predictive accuracy, computational scalability, and robustness when modeling highly skewed or multimodal target distributions?"
+  },
+  {
+    "id": "https://openalex.org/W4387558203",
+    "model": "gemini",
+    "question": "How does the integration of interval-valued multi-fuzzy hypersoft sets for personal protective equipment material selection compare with alternative hybrid fuzzy decision-making frameworks in terms of computational scalability, flexibility, and robustness under varying levels of decision-maker uncertainty?"
+  },
+  {
+    "id": "https://openalex.org/W4416933760",
+    "model": "gemini",
+    "question": "How do various cooperative coevolutionary and divide-and-conquer paradigms in evolutionary feature selection compare in their ability to balance computational complexity and classification accuracy across high-dimensional datasets?"
+  },
+  {
+    "id": "https://openalex.org/W7139972851",
+    "model": "gemini",
+    "question": "How does the performance of human-in-the-loop, multi-agent architectures for dynamic knowledge graph construction and querying compare to fully automated retrieval-augmented generation (RAG) pipelines in maintaining factual accuracy within rapidly evolving scientific domains?"
+  },
+  {
+    "id": "https://openalex.org/W4399786935",
+    "model": "gemini",
+    "question": "How does the integration of real-world geographic and demographic data, as opposed to traditional synthetic benchmarks, influence the comparative performance and scalability of heuristic versus exact optimization methods for the Capacitated Dispersion Problem and related spatial facility location variants?"
+  },
+  {
+    "id": "https://openalex.org/W4388934520",
+    "model": "gemini",
+    "question": "How do hybrid image-processing algorithms utilizing color-space segmentation and geometric feature extraction compare to deep learning-based models in balancing computational efficiency and false-positive reduction for real-time fire detection?"
+  },
+  {
+    "id": "https://openalex.org/W4417092725",
+    "model": "gemini",
+    "question": "How do deep learning-based segmentation architectures, particularly generative adversarial networks and U-Net variations, compare to traditional atlas-based and manual segmentation methods in their capacity to generalize across diverse immunohistochemical staining modalities for the accurate delineation of hippocampal subregions in rodent models of neuropathology?"
+  },
+  {
+    "id": "https://openalex.org/W4220672625",
+    "model": "gemini",
+    "question": "How do various machine learning and deep learning methodologies applied to high-resolution LiDAR data compare in their ability to map artificial drainage networks across diverse wetland ecosystems, and what are their implications for regional greenhouse gas accounting?"
+  },
+  {
+    "id": "https://openalex.org/W4387122045",
+    "model": "gemini",
+    "question": "How do size-adaptive loss functions and feature-retention networks compare with alternative multi-scale feature fusion and attention-based mechanisms in mitigating localization and feature-loss challenges for small object detection in autonomous driving datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4304944821",
+    "model": "gemini",
+    "question": "How have modern deep learning architectures evolved to handle the spatial-temporal complexities of sign language translation across benchmark datasets like RWTH-PHOENIX-2014T, and what systematic challenges must still be addressed to facilitate their practical deployment on resource-constrained portable devices?"
+  },
+  {
+    "id": "https://openalex.org/W4380854485",
+    "model": "gemini",
+    "question": "How do emerging business-oriented and profit-centric evaluation metrics for recommender systems compare to traditional offline machine-learning metrics in their ability to capture long-term user engagement and operational cost-effectiveness across diverse digital platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4406615729",
+    "model": "gemini",
+    "question": "How does the integration of progressive contrastive learning and self-calibrating attention mechanisms in MSD-Net align with, or advance beyond, contemporary methodologies for addressing spatially non-uniform degradations in the broader literature of low-level image restoration?"
+  },
+  {
+    "id": "https://openalex.org/W4406410407",
+    "model": "gemini",
+    "question": "How do deep learning-based approaches utilizing near-infrared periocular imaging compare in their efficacy and robustness when distinguishing between different sources of central nervous system impairment, such as fatigue versus substance-induced intoxication, across diverse environmental and demographic cohorts?"
+  },
+  {
+    "id": "https://openalex.org/W4306180768",
+    "model": "gemini",
+    "question": "How do multimodal deep learning architectures that integrate raw EEG signals with time-frequency representations via gated fusion mechanisms compare to single-modality or traditional machine learning approaches in terms of classification accuracy and generalization across diverse, real-world clinical epilepsy datasets?"
+  },
+  {
+    "id": "https://openalex.org/W7156865305",
+    "model": "gemini",
+    "question": "How does the integration of hybrid swarm intelligence-based feature selection algorithms with semi-supervised learning frameworks compare to deep representation learning approaches in addressing severe class imbalance for rare attack detection in network intrusion detection systems?"
+  },
+  {
+    "id": "https://openalex.org/W3155691794",
+    "model": "gemini",
+    "question": "How do CAD-prior-assisted, sparse-view X-ray inspection frameworks like DynaPose compare to deep-learning-based and traditional iterative reconstruction techniques in balancing computational latency, pose-estimation accuracy, and defect detection sensitivity for real-time inline industrial metrology?"
+  },
+  {
+    "id": "https://openalex.org/W7127304302",
+    "model": "gemini",
+    "question": "How do contemporary multi-agent reinforcement learning frameworks reconcile the differing kinematic and turning constraints of heterogeneous UAV fleets, such as joint multi-rotor and fixed-wing systems, during cooperative exploration of unknown environments?"
+  },
+  {
+    "id": "https://openalex.org/W4409307361",
+    "model": "gemini",
+    "question": "How do manifold-learning-based feature fusion techniques compare to transformer-based attention mechanisms in their ability to mitigate non-verbal noise and preserve sentiment-salient features across standard multimodal sentiment analysis benchmarks?"
+  },
+  {
+    "id": "https://openalex.org/W4386783344",
+    "model": "gemini",
+    "question": "How do hybrid recommendation frameworks that combine bi-clustering techniques with reinforcement learning compare to deep sequential models (such as recurrent- or transformer-based architectures) in their ability to dynamically adapt to shifting user preferences while preserving localized user-item correlations?"
+  },
+  {
+    "id": "https://openalex.org/W3138666984",
+    "model": "gemini",
+    "question": "How do custom-designed convolutional neural networks compare to transfer learning and feature extraction methodologies in balancing localization accuracy, computational efficiency, and robustness to signal noise across diverse WiFi-based indoor positioning environments?"
+  },
+  {
+    "id": "https://openalex.org/W4367396513",
+    "model": "gemini",
+    "question": "How does the performance and computational efficiency of deep learning-based, per-segment encoding parameter estimation models utilizing low-resolution feature extraction compare to alternative machine learning and heuristic approaches for rate-distortion optimization across different video codecs in HTTP Adaptive Streaming?"
+  },
+  {
+    "id": "https://openalex.org/W4413045265",
+    "model": "gemini",
+    "question": "How do contemporary multi-method explainable AI (XAI) frameworks quantitatively validate that deep learning models are utilizing clinically relevant pathological features, rather than confounding factors, across diverse retinal imaging datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4409328480",
+    "model": "gemini",
+    "question": "How do deep learning-based vibration classification techniques compare to traditional strain-gauge and empirical threshold-based methodologies in terms of accuracy, scalability, and computational overhead for real-time vibration-induced fatigue (VIF) assessment in industrial piping networks?"
+  },
+  {
+    "id": "https://openalex.org/W3072859496",
+    "model": "gemini",
+    "question": "How do adversarial-based unsupervised network alignment frameworks, such as NAWAL, compare to optimal transport and contrastive representation learning approaches in their theoretical and empirical capacity to handle severe graph size imbalance and structural noise?"
+  },
+  {
+    "id": "https://openalex.org/W4410990687",
+    "model": "anthropic",
+    "question": "How do bottom-up, entity-specific fusion strategies compare to top-down or joint fusion approaches across different multimodal human-object interaction recognition methods in terms of preserving modality-specific strengths and handling complex real-world scenarios like concurrent actions and mutual occlusions?"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W4230103879",
+    "model": "openai",
+    "question": "How do global and country-level estimates from the GBD 2019 and related epidemiological studies explain the dominance of low back pain and musculoskeletal disorders in rehabilitation need, and what evidence-based health-system strategies have been proposed to address this burden across different income settings?"
+  },
+  {
+    "id": "https://openalex.org/W3037016500",
+    "model": "openai",
+    "question": "How do longitudinal trajectories of amyloid, tau, neurodegeneration, and cognitive biomarkers in adults with Down syndrome compare with those observed in sporadic and autosomal dominant Alzheimer\u2019s disease, and what do these similarities and differences imply for the timing and design of preventive interventions?"
+  },
+  {
+    "id": "https://openalex.org/W7128540436",
+    "model": "openai",
+    "question": "How do the immunometabolic, cardiopulmonary, and healthcare-access mechanisms linking adult obesity to severe infection outcomes vary across pathogen classes and global regions, and to what extent do existing cohort, mechanistic, and burden-of-disease studies support a causal interpretation of obesity-attributable infectious mortality?"
+  },
+  {
+    "id": "https://openalex.org/W3014093774",
+    "model": "openai",
+    "question": "How can a planetary health framework integrating evidence from zoonotic disease ecology, wildlife surveillance, agricultural and food-system practices, socioeconomic inequality, and governance resilience inform strategies to prevent and mitigate future pandemic events in the context of the Sustainable Development Goals?"
+  },
+  {
+    "id": "https://openalex.org/W3132521651",
+    "model": "openai",
+    "question": "How do reactive, targeted indoor residual spraying strategies compare with universal IRS and other focal vector-control approaches in terms of epidemiological effectiveness, cost-effectiveness, operational feasibility, and sustainability across varying malaria transmission intensities and health-system contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4211136945",
+    "model": "openai",
+    "question": "How do plant-dominant low-protein/low-salt dietary interventions, intrarenal haemodynamic pharmacotherapies such as RAAS inhibitors and SGLT2 inhibitors, and newer antifibrotic or anti-inflammatory agents interact across different chronic kidney disease etiologies to preserve residual kidney function, reduce cardiovascular and infectious complications, and improve quality of life compared with standard kidney-preserving or supportive care strategies?"
+  },
+  {
+    "id": "https://openalex.org/W4391872854",
+    "model": "openai",
+    "question": "How does the clinical utility and cost-effectiveness of repeat PlGF-based testing for suspected preterm pre-eclampsia vary across healthcare settings, baseline perinatal risk profiles, testing intervals, and management algorithms compared with single-test strategies or standard clinical assessment?"
+  },
+  {
+    "id": "https://openalex.org/W3088746471",
+    "model": "openai",
+    "question": "How do the efficacy, safety, and mechanistic rationale for gabapentin compare with alternative pharmacological, psychological, and multidisciplinary interventions for women with chronic pelvic pain without identifiable pelvic pathology across randomized trials and systematic reviews?"
+  },
+  {
+    "id": "https://openalex.org/W3009826854",
+    "model": "openai",
+    "question": "How do the distinct genomic, clinical, and prognostic features of upper tract urothelial carcinoma relative to bladder urothelial carcinoma influence the evidence base and therapeutic rationale for adjuvant platinum-based chemotherapy after nephroureterectomy?"
+  },
+  {
+    "id": "https://openalex.org/W4360603378",
+    "model": "openai",
+    "question": "How do structural social inequities, political polarization, public health capacity, and state-level mitigation policies interact to explain variation in COVID-19 morbidity, mortality, and socioeconomic outcomes across U.S. states, and what evidence from comparative pandemic-response literature can inform more equitable and effective policy design for future health crises?"
+  },
+  {
+    "id": "https://openalex.org/W4407931197",
+    "model": "openai",
+    "question": "How do routinely available clinical-feature\u2013based precision medicine models for selecting glucose-lowering therapies in type 2 diabetes compare with biomarker-, genotype-, and comorbidity-driven treatment-stratification approaches in predicting glycaemic response and long-term cardiovascular, renal, and microvascular outcomes across diverse real-world and trial populations?"
+  },
+  {
+    "id": "https://openalex.org/W3080219561",
+    "model": "openai",
+    "question": "How do different methodological approaches to measuring universal health coverage\u2014particularly effective coverage indices, service coverage indicators, financial protection metrics, and disease-specific quality-of-care measures\u2014alter conclusions about health-system performance, equity, and progress toward UHC in countries facing rising non-communicable disease burdens?"
+  },
+  {
+    "id": "https://openalex.org/W4417091922",
+    "model": "openai",
+    "question": "How does the efficacy, durability, and safety profile of epcoritamab plus lenalidomide-rituximab compare with other chemotherapy-free and immunotherapy-based regimens for relapsed or refractory follicular lymphoma across prior clinical trials, and what patient or disease characteristics should guide its placement in second-line and later treatment sequencing?"
+  },
+  {
+    "id": "https://openalex.org/W4255508358",
+    "model": "openai",
+    "question": "How have Global Burden of Disease analyses and other multinational cohort or systematic review studies converged or diverged in estimating the contribution of specific dietary risks to morbidity and mortality across countries from 1990 onward?"
+  },
+  {
+    "id": "https://openalex.org/W4293451328",
+    "model": "openai",
+    "question": "How should evidence from randomized statin trials, observational studies of statin-associated muscle symptoms, nocebo-controlled rechallenge studies, and cardiovascular outcomes meta-analyses be integrated to optimize clinical management of patients reporting muscle pain during statin therapy while preserving cardiovascular risk reduction?"
+  },
+  {
+    "id": "https://openalex.org/W7140416655",
+    "model": "openai",
+    "question": "How does neurotrophin-3 inhibition via p75NTR fusion proteins such as LEVI-04 compare mechanistically, clinically, and structurally with NGF-targeting biologics and other disease-modifying or analgesic osteoarthritis therapies in reducing knee osteoarthritis pain while avoiding adverse joint outcomes such as rapidly progressive osteoarthritis?"
+  },
+  {
+    "id": "https://openalex.org/W4319337537",
+    "model": "openai",
+    "question": "How do multilevel interventions addressing health-system practices, parental perceptions of infant behaviour and milk insufficiency, commercial milk formula marketing, and gender-related social determinants interact to improve early breastfeeding initiation and exclusivity across low- and middle-income countries?"
+  },
+  {
+    "id": "https://openalex.org/W4410206237",
+    "model": "openai",
+    "question": "How does the efficacy, safety, adherence, and cost-effectiveness of shortened or simplified direct-acting antiviral treatment strategies for chronic hepatitis C\u2014particularly in genotype 6 and resource-limited settings\u2014compare across clinical trials and real-world studies with standard 8\u201312 week sofosbuvir-based regimens?"
+  },
+  {
+    "id": "https://openalex.org/W4253680941",
+    "model": "openai",
+    "question": "How have global, regional, and sex-specific trends in mean blood pressure and hypertension prevalence since 1975 been shaped by changes in socioeconomic development, obesity, diet, antihypertensive treatment access, and health-system performance across population-based studies?"
+  },
+  {
+    "id": "https://openalex.org/W4399840908",
+    "model": "openai",
+    "question": "How do patterns of COVID-19 undervaccination across demographic, clinical, and socioeconomic groups influence severe outcomes across national cohort studies, and how do these findings compare with international evidence on vaccine effectiveness, access barriers, and public health interventions to reduce vaccination inequities?"
+  },
+  {
+    "id": "https://openalex.org/W4411405438",
+    "model": "openai",
+    "question": "How do randomized trials and long-term observational studies collectively refine risk stratification criteria for safely omitting postoperative radioiodine ablation in patients with low-risk differentiated thyroid cancer, particularly across variations in tumor stage, nodal status, thyroglobulin surveillance, recurrence outcomes, adverse effects, and health-care cost-effectiveness?"
+  },
+  {
+    "id": "https://openalex.org/W4392663706",
+    "model": "openai",
+    "question": "How do methodological differences across global demographic studies in estimating COVID-19 excess mortality, life expectancy changes, and age-specific mortality trends affect interpretations of the pandemic\u2019s impact on long-term population health trajectories across regions and income groups?"
+  },
+  {
+    "id": "https://openalex.org/W3199493325",
+    "model": "openai",
+    "question": "How did the allocation, timing, and composition of COVID-19 development assistance for health across low- and middle-income regions align with disease burden, pre-pandemic health-financing dependence, and health-system capacity, and what does the broader literature suggest about the consequences of any mismatches for pandemic response effectiveness and health equity?"
+  },
+  {
+    "id": "https://openalex.org/W4415092555",
+    "model": "openai",
+    "question": "How have improvements in cause-of-death estimation methods, health-system capacity, and epidemiological-transition dynamics jointly shaped observed regional and sex-specific changes in premature mortality, mean age at death, and years of life lost from communicable diseases, non-communicable diseases, COVID-19, drug use disorders, and conflict-related causes since 1990?"
+  },
+  {
+    "id": "https://openalex.org/W7154604577",
+    "model": "openai",
+    "question": "How do biomarker-guided combination strategies involving MEK inhibitors\u2014particularly with immune checkpoint blockade or PI3K\u2013mTOR pathway inhibition\u2014alter efficacy, resistance mechanisms, and toxicity profiles across BRAF-driven, RAS-mutant, and non-oncological diseases compared with MEK inhibitor monotherapy?"
+  },
+  {
+    "id": "https://openalex.org/W7152021888",
+    "model": "openai",
+    "question": "How do age-dependent fracture remodeling capacity, short-term functional outcomes, complication profiles, cosmetic results, family preferences, and health-economic evidence collectively inform the optimal threshold for choosing cast-first management versus surgical reduction in children with severely displaced or completely off-ended distal radial fractures?"
+  },
+  {
+    "id": "https://openalex.org/W4401598368",
+    "model": "openai",
+    "question": "How does emodepside\u2019s superior hookworm cure rate but higher frequency of transient adverse events compare with existing and emerging anthelmintic regimens across clinical trials, and what do these data imply for optimizing mass drug administration strategies while minimizing resistance and safety concerns in endemic populations?"
+  },
+  {
+    "id": "https://openalex.org/W4212796598",
+    "model": "openai",
+    "question": "How do cross-national differences in socioeconomic inequality, gender norms, legal protections, and multisectoral prevention interventions explain the observed regional variation in lifetime and past-year intimate partner violence prevalence among women, and what evidence-based policy strategies are most likely to accelerate progress toward SDG target 5.2?"
+  },
+  {
+    "id": "https://openalex.org/W3197645511",
+    "model": "openai",
+    "question": "How do recent clinical trials and evolving pathobiological concepts inform the comparative effectiveness, optimal timing, and integration of antifibrotic, immunomodulatory, and non-pharmacological interventions across different progressive fibrotic interstitial lung diseases?"
+  },
+  {
+    "id": "https://openalex.org/W4280488326",
+    "model": "openai",
+    "question": "How does motion-corrected slice-volume registration in prenatal MRI compare with advanced fetal echocardiography and other emerging fetal cardiac imaging modalities in diagnostic accuracy, clinical feasibility, and impact on prenatal management of congenital heart disease?"
+  },
+  {
+    "id": "https://openalex.org/W4409191670",
+    "model": "openai",
+    "question": "How do major etiologic pathways and strongly associated risk factors for postpartum haemorrhage\u2014such as uterine atony, abnormal placentation, anaemia, prior postpartum haemorrhage, caesarean birth, multiple pregnancy, sepsis, and assisted reproductive technology\u2014interact across diverse obstetric populations to inform risk-stratified prophylaxis, treatment bundles, and health-system interventions?"
+  },
+  {
+    "id": "https://openalex.org/W4281387590",
+    "model": "openai",
+    "question": "How do variations in health workforce density, skill mix, financing, training capacity, migration, and retention policies across low- and middle-income countries interact to influence progress toward universal health coverage effective coverage targets?"
+  },
+  {
+    "id": "https://openalex.org/W4415531246",
+    "model": "openai",
+    "question": "How does neonatal Fc receptor blockade with nipocalimab compare mechanistically and clinically with other emerging B-cell, plasma-cell, complement, and cytokine-targeted therapies for Sj\u00f6gren\u2019s disease in reducing pathogenic IgG autoantibodies, systemic disease activity, mucosal symptoms, fatigue, and long-term organ involvement?"
+  },
+  {
+    "id": "https://openalex.org/W4394978195",
+    "model": "anthropic",
+    "question": "How do methodological differences in cause-of-death attribution and life expectancy decomposition across successive Global Burden of Disease iterations affect the comparability and interpretation of long-term mortality trends reported in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4200392517",
+    "model": "anthropic",
+    "question": "I notice that the text you've provided is actually a **correction notice** (erratum) rather than a scientific abstract. It simply states that an author's name spelling was corrected in a published article\u2014it does not contain any scientific content, findings, methods, or results about asthma or any other topic.\n\nBecause there is no substantive scientific abstract here, I'm unable to generate a meaningful literature-review-style question grounded in the paper's actual content.\n\nIf you can provide the **actual abstract** of the paper (e.g., the Global Asthma Network Phase I study on worldwide trends in asthma symptom burden in school-aged children), I would be happy to generate a synthesis-requiring, one-sentence scientific question. For example, a well-formed question based on that study's likely content might resemble:\n\n*\"How do worldwide geographic and temporal trends in childhood asthma symptom prevalence relate to variations in environmental exposures, urbanization, and healthcare access across different national income levels?\"*\n\nPlease share the full abstract, and I'll tailor a precise question accordingly."
+  },
+  {
+    "id": "https://openalex.org/W4380877813",
+    "model": "anthropic",
+    "question": "How does the efficacy and safety profile of intranasal etripamil for self-administered, on-demand conversion of paroxysmal supraventricular tachycardia compare with established pharmacological and vagal-maneuver-based approaches across the broader body of acute-termination literature?"
+  },
+  {
+    "id": "https://openalex.org/W4223443877",
+    "model": "anthropic",
+    "question": "How do different methodological approaches for correcting biases in SARS-CoV-2 surveillance data\u2014such as adjustments for under-reporting of deaths, waning antibody sensitivity in seroprevalence surveys, and reporting lags\u2014compare in their impact on estimates of cumulative infection burden and the existence of a herd immunity threshold across diverse epidemiological contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3147714437",
+    "model": "anthropic",
+    "question": "How do the comparative clinical effectiveness and cost-effectiveness profiles of lamotrigine, levetiracetam, and zonisamide as first-line monotherapies for newly diagnosed focal epilepsy align with findings across other randomized controlled trials and real-world observational studies of anti-seizure medications?"
+  },
+  {
+    "id": "https://openalex.org/W4413813164",
+    "model": "anthropic",
+    "question": "How do the interacting effects of epidemiological improvements and demographic ageing on crude death rates and cause-specific mortality trends across global regions inform the design of health-system interventions capable of addressing both the rising burden of diabetes and the mortality reversals observed among middle-aged populations in high-income countries?"
+  },
+  {
+    "id": "https://openalex.org/W3120606332",
+    "model": "anthropic",
+    "question": "How do the long-term multi-organ sequelae of COVID-19 compare across different coronavirus outbreaks (SARS, MERS, and SARS-CoV-2) in terms of persistence, severity, and their association with acute-phase disease severity?"
+  },
+  {
+    "id": "https://openalex.org/W3038142743",
+    "model": "anthropic",
+    "question": "**Question:** How do the comparative safety profiles, cost-effectiveness, and patient-centered outcomes of ambulatory device management, conservative watchful waiting, and conventional needle aspiration or tube thoracostomy vary across different subpopulations of patients with primary spontaneous pneumothorax, and what evidence gaps remain in reconciling the divergent findings of existing randomized trials?"
+  },
+  {
+    "id": "https://openalex.org/W4401160843",
+    "model": "anthropic",
+    "question": "How do the progression-free survival benefits and molecular targeting strategies observed in the CUPISCO trial compare with other genomically-guided therapy trials across different tumour types, and what factors determine the clinical utility of comprehensive genomic profiling in cancers of unknown primary versus other poor-prognosis malignancies?"
+  },
+  {
+    "id": "https://openalex.org/W4307909401",
+    "model": "anthropic",
+    "question": "How do the indicators and validation approaches of the surgical preparedness index compare with those of other health-system resilience and preparedness frameworks across different types of system shocks, and to what extent can such composite indices reliably predict maintenance of elective surgical capacity across heterogeneous income settings?"
+  },
+  {
+    "id": "https://openalex.org/W4404837689",
+    "model": "anthropic",
+    "question": "How do the effectiveness and methodological challenges of using controlled interrupted time series and other natural experiment approaches to evaluate public health communication campaigns on vaccine uptake compare across different populations, vaccine types, and healthcare delivery contexts?"
+  },
+  {
+    "id": "https://openalex.org/W3193849134",
+    "model": "anthropic",
+    "question": "How do the cause-specific temperature-mortality relationships and theoretical minimum risk exposure levels derived from this multi-country burden assessment compare with those reported across other regional and global epidemiological studies, and to what extent do differences in modelling frameworks, temperature exposure datasets, and cause-of-death classifications account for divergent estimates of heat- and cold-attributable mortality?"
+  },
+  {
+    "id": "https://openalex.org/W3022007015",
+    "model": "anthropic",
+    "question": "How have testing strategies, resource allocation policies, and international cooperation mechanisms during past and current pandemics influenced epidemic outcomes in low-income and middle-income countries, particularly across Africa?"
+  },
+  {
+    "id": "https://openalex.org/W4214561105",
+    "model": "anthropic",
+    "question": "**Question:** Beyond population age structure and health-care system capacity, to what extent do variations in comorbidity prevalence, care-home outbreak dynamics, and socioeconomic determinants collectively explain the more-than-30-fold cross-national heterogeneity observed in age-standardised COVID-19 infection-fatality ratios during the pre-vaccine period?"
+  },
+  {
+    "id": "https://openalex.org/W4396850822",
+    "model": "anthropic",
+    "question": "How do the effects of pre-stabilisation kangaroo mother care on neonatal mortality vary across different healthcare infrastructure contexts and levels of concurrent neonatal care investment in low- and middle-income settings?"
+  },
+  {
+    "id": "https://openalex.org/W4297985357",
+    "model": "anthropic",
+    "question": "How does baricitinib compare with other immunomodulatory therapies (such as tocilizumab and corticosteroids) in reducing mortality among hospitalized COVID-19 patients across randomized controlled trials?"
+  },
+  {
+    "id": "https://openalex.org/W4404030539",
+    "model": "anthropic",
+    "question": "What methodological approaches and interventions have been most effective across low- and middle-income countries in improving the completeness and quality of stillbirth data systems to enable accurate monitoring at the 20-week gestational threshold?"
+  },
+  {
+    "id": "https://openalex.org/W4402101154",
+    "model": "anthropic",
+    "question": "What underlying pathophysiological and pharmacological mechanisms might explain the differential efficacy of mineralocorticoid receptor antagonists on cardiovascular mortality across the spectrum of heart failure ejection fraction phenotypes?"
+  },
+  {
+    "id": "https://openalex.org/W4210677265",
+    "model": "anthropic",
+    "question": "How do social determinants such as interpersonal and governmental trust compare with formal pandemic-preparedness indices and health-care capacity indicators in explaining cross-national variation in COVID-19 infection and fatality outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4206396480",
+    "model": "anthropic",
+    "question": "How do the mortality benefits of tocilizumab observed in the RECOVERY trial compare with those reported across other randomized controlled trials of IL-6 receptor antagonists in hospitalized COVID-19 patients, and to what extent do differences in patient inflammatory profiles, timing of administration, and concomitant corticosteroid use explain the heterogeneity in treatment effects?"
+  },
+  {
+    "id": "https://openalex.org/W7140790432",
+    "model": "anthropic",
+    "question": "What health-system, socioeconomic, and treatment-related factors explain the persistent disparities in childhood cancer survival between high-income and low- and middle-income countries, and how might these determinants be addressed to establish more ambitious yet equitable global survival targets beyond the current WHO GICC benchmark?"
+  },
+  {
+    "id": "https://openalex.org/W4379932401",
+    "model": "anthropic",
+    "question": "How do simultaneous integrated boost techniques compare with sequential boost approaches across randomized trials in terms of local control, toxicity profiles, and treatment efficiency for breast cancer patients undergoing adjuvant radiotherapy after breast-conserving surgery?"
+  },
+  {
+    "id": "https://openalex.org/W7131426953",
+    "model": "anthropic",
+    "question": "How does the long-term durability and resistance barrier of the bictegravir-lenacapavir single-tablet regimen compare to other integrase inhibitor- and capsid inhibitor-based regimens across diverse treatment-experienced populations with varying resistance profiles?"
+  },
+  {
+    "id": "https://openalex.org/W3123481858",
+    "model": "anthropic",
+    "question": "How do model-based estimates of vaccination-averted mortality in low-income and middle-income countries compare across different pathogens and modelling approaches, and what methodological factors account for variations in the reported health impact of childhood immunization programmes?"
+  },
+  {
+    "id": "https://openalex.org/W4220955872",
+    "model": "anthropic",
+    "question": "I appreciate your request, but I'm unable to generate a meaningful literature-review question from this particular abstract.\n\nThe text you've provided is a **correction notice** (an erratum), not a scientific abstract. It simply states that a misspelled name (\"Gerard Jansen\") in a previously published World Report was corrected in the online version. It contains:\n\n- No research findings\n- No methodology\n- No scientific claims or data\n- No substantive content about the \"mystery brain disease\" itself\n\nBecause there is no scientific substance to synthesize or interrogate, any question I generated would be fabricated rather than grounded in the actual content of the text.\n\n**To help you effectively, I would need one of the following:**\n\n1. The abstract of the **original World Report** (\"P. Report finds no common cause for mystery brain disease,\" Lancet 2022), or\n2. The abstract of the underlying **research paper** on the New Brunswick \"mystery brain disease\" cluster that the report discusses.\n\nIf you can provide either of these, I'll gladly generate a rigorous, one-sentence, literature-review-style scientific question that requires synthesizing multiple sources to answer."
+  },
+  {
+    "id": "https://openalex.org/W4401936541",
+    "model": "anthropic",
+    "question": "How do the interactions between genetic predisposition, environmental triggers, and gut microbiome dysbiosis converge to initiate and perpetuate the immune-mediated destruction of biliary epithelial cells across the spectrum of autoimmune cholestatic diseases?"
+  },
+  {
+    "id": "https://openalex.org/W3157857666",
+    "model": "anthropic",
+    "question": "**Question:** How do the cardiovascular benefits of pharmacological blood pressure lowering at normal or high-normal blood pressure levels compare against the potential harms, adverse events, and long-term risks of overtreatment across diverse patient populations and blood pressure thresholds reported in the broader clinical trial literature?"
+  },
+  {
+    "id": "https://openalex.org/W4378714438",
+    "model": "anthropic",
+    "question": "How do the intersecting mechanisms of racism, xenophobia, and colonial legacies mediate the disproportionate health impacts of climate change on minoritised and Indigenous communities across both the Global North and Global South, and what evidence-based structural interventions have been proposed to address these inequities?"
+  },
+  {
+    "id": "https://openalex.org/W3197124878",
+    "model": "anthropic",
+    "question": "How do structural barriers such as stigma, unstable housing, transportation, and employment instability interact to influence the adoption and scale-up of medications for opioid use disorder across diverse healthcare and criminal justice settings, and which integrated care strategies have proven most effective in overcoming them?"
+  },
+  {
+    "id": "https://openalex.org/W3043365850",
+    "model": "anthropic",
+    "question": "How do the methodological choices in modeling fertility\u2014specifically the use of completed cohort fertility versus period total fertility rate as functions of educational attainment and contraceptive met need\u2014account for the divergences in global population projections across major forecasting institutions such as the UN, IIASA, and IHME?"
+  },
+  {
+    "id": "https://openalex.org/W3005957464",
+    "model": "anthropic",
+    "question": "How do the socioeconomic, environmental, and healthcare-access determinants of chronic kidney disease burden vary across regions with lower-than-expected versus higher-than-expected disease burden relative to their Socio-demographic Index, and what modifiable factors explain these deviations?"
+  },
+  {
+    "id": "https://openalex.org/W4396571240",
+    "model": "anthropic",
+    "question": "Given the increased hematological toxicity and infection risk observed when combining ibrutinib maintenance with autologous stem-cell transplantation, how do the long-term efficacy and safety trade-offs of Bruton tyrosine kinase inhibitor\u2013containing regimens compare across trials in younger mantle cell lymphoma patients, and what evidence supports the potential omission of transplantation in the era of targeted first-line therapy?"
+  },
+  {
+    "id": "https://openalex.org/W4389425981",
+    "model": "anthropic",
+    "question": "How do the efficacy and safety outcomes of inhaled corticosteroid tapering in benralizumab-controlled severe eosinophilic asthma compare with those observed for other biologic therapies, and what patient-level biomarkers or clinical characteristics predict successful dose reduction across these agents?"
+  },
+  {
+    "id": "https://openalex.org/W4403289055",
+    "model": "gemini",
+    "question": "How does the long-term efficacy of culturally adapted, task-shifted psychological interventions for postpartum depression among ethnic minority women compare across different global healthcare contexts, and what mechanisms are associated with sustaining their therapeutic benefits beyond the immediate post-intervention period?"
+  },
+  {
+    "id": "https://openalex.org/W4408688828",
+    "model": "gemini",
+    "question": "What does the cumulative body of clinical evidence from recent randomized controlled trials reveal regarding the comparative efficacy, safety, and long-term functional recovery of early versus delayed weight-bearing rehabilitation protocols following the surgical fixation of unstable ankle fractures?"
+  },
+  {
+    "id": "https://openalex.org/W7167786983",
+    "model": "gemini",
+    "question": "How do the long-term progression-free survival outcomes, tolerability, and resistance profiles of fixed-duration triplet regimens combining non-covalent BTK inhibitors with venetoclax and rituximab compare to those of continuous non-covalent BTK inhibitor monotherapies in patients with relapsed or refractory chronic lymphocytic leukemia?"
+  },
+  {
+    "id": "https://openalex.org/W7166811378",
+    "model": "gemini",
+    "question": "To what extent has the historical gap in long-term cardiovascular mortality between individuals with obesity and those with normal weight been mitigated by rising global trends in preventive pharmacotherapy, and how does this impact vary across different age cohorts and national healthcare systems?"
+  },
+  {
+    "id": "https://openalex.org/W4393098476",
+    "model": "gemini",
+    "question": "In light of the large-scale UK cohort findings on post-vaccination breakthrough events, what does the collective global literature indicate regarding the comparative long-term effectiveness of primary and booster COVID-19 vaccination schedules in preventing severe clinical outcomes across diverse demographic populations?"
+  },
+  {
+    "id": "https://openalex.org/W4407203446",
+    "model": "gemini",
+    "question": "To what extent does the collective evidence from global phase 3 trials, including the GCIG INTERLACE study, support the integration of induction chemotherapy prior to standard chemoradiotherapy as the new standard of care for locally advanced cervical cancer, and what clinical or trial-design factors account for the discrepant outcomes observed across the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4405042842",
+    "model": "gemini",
+    "question": "How do state-level variations in public health policies, healthcare access, and socioeconomic determinants explain the divergent trajectories of life expectancy and disability-adjusted life-years (DALYs) observed across different US states over the past three decades?"
+  },
+  {
+    "id": "https://openalex.org/W4411545047",
+    "model": "gemini",
+    "question": "How does the clinical efficacy, cost-effectiveness, and patient acceptability of non-endoscopic capsule-sponge biomarker triage systems compare to traditional endoscopic surveillance for the long-term management of patients with non-dysplastic Barrett's esophagus?"
+  },
+  {
+    "id": "https://openalex.org/W4241513522",
+    "model": "gemini",
+    "question": "How do global disparities in hospital resources, surgical capacity, and perioperative care quality account for the variations in postoperative mortality and complication rates for gastric cancer patients across different country income groups?"
+  },
+  {
+    "id": "https://openalex.org/W4221080920",
+    "model": "gemini",
+    "question": "What systemic policy interventions and socioeconomic factors have been shown across sub-Saharan Africa to mitigate the widening subnational health disparities in life expectancy and maternal-child health outcomes characterized in the GBD 2019 Ethiopia subnational analysis?"
+  },
+  {
+    "id": "https://openalex.org/W4401982664",
+    "model": "gemini",
+    "question": "How do the physiological and genetic mechanisms underlying ethnic-specific variations in body fat distribution affect the comparative efficacy of general adiposity measures versus abdominal obesity indices in predicting cardiovascular risks across diverse global cohorts?"
+  },
+  {
+    "id": "https://openalex.org/W7125963968",
+    "model": "gemini",
+    "question": "What systemic and clinician-level implementation barriers determine whether the deployment of AI-enabled point-of-care diagnostic tools in primary care translates into measurable improvements in population-level cardiovascular detection rates?"
+  },
+  {
+    "id": "https://openalex.org/W3093136258",
+    "model": "gemini",
+    "question": "How do historical shifts in national agricultural policies, socioeconomic development, and dietary transitions account for the highly divergent global trajectories of height and BMI in school-aged children and adolescents observed over the past 35 years?"
+  },
+  {
+    "id": "https://openalex.org/W4206593378",
+    "model": "gemini",
+    "question": "How do the collective findings of recent randomized controlled trials and pharmacoeconomic evaluations compare the long-term clinical efficacy, tolerability, and cost-effectiveness of valproate versus levetiracetam for patients with newly diagnosed generalized or unclassifiable epilepsy?"
+  },
+  {
+    "id": "https://openalex.org/W4378219880",
+    "model": "gemini",
+    "question": "To what extent do multi-component care bundles, compared to isolated intensive blood pressure lowering protocols, improve functional outcomes and reduce complications in patients with acute spontaneous intracerebral hemorrhage across diverse global healthcare settings?"
+  },
+  {
+    "id": "https://openalex.org/W3194290079",
+    "model": "gemini",
+    "question": "To what extent does the collective evidence from diverse clinical trials and observational studies support the elimination of age-related and baseline blood-pressure thresholds for pharmacological intervention when balancing cardiovascular risk reduction against the potential for treatment-related adverse events, such as orthostatic hypotension and acute kidney injury, in the very elderly?"
+  },
+  {
+    "id": "https://openalex.org/W4220739924",
+    "model": "gemini",
+    "question": "How does the six-month waning of primary-series COVID-19 vaccine effectiveness against severe disease, as documented in pre-Omicron studies, compare to the durability of protection conferred by homologous versus heterologous booster regimens against subsequent SARS-CoV-2 variants of concern?"
+  },
+  {
+    "id": "https://openalex.org/W3119576608",
+    "model": "gemini",
+    "question": "What are the consensus ultrastructural criteria and complementary validation methodologies required to definitively distinguish SARS-CoV-2 and other coronaviruses from endogenous cellular artifacts in electron microscopy studies of patient tissues?"
+  },
+  {
+    "id": "https://openalex.org/W4396571207",
+    "model": "gemini",
+    "question": "How do comparative epidemiological studies and global health literature synthesize the relative impact of the Expanded Programme on Immunization (EPI) versus improvements in water, sanitation, hygiene (WASH), nutrition, and maternal-child healthcare in driving the decline of global under-five mortality over the past fifty years?"
+  },
+  {
+    "id": "https://openalex.org/W3080222846",
+    "model": "gemini",
+    "question": "How do differing definitions of treatment success across clinical trials\u2014such as expulsion within specific timeframes, endometrial thickness thresholds, or the avoidance of surgical intervention\u2014impact the synthesized comparative efficacy and clinical guidelines for mifepristone pretreatment versus misoprostol alone in the medical management of early pregnancy loss?"
+  },
+  {
+    "id": "https://openalex.org/W3193823764",
+    "model": "gemini",
+    "question": "What specific healthcare infrastructure models and public health policies have enabled select middle-income countries to achieve hypertension control rates that surpass those of high-income nations, and how can these strategies be successfully adapted to low-resource settings with lagging progress?"
+  },
+  {
+    "id": "https://openalex.org/W3121929194",
+    "model": "gemini",
+    "question": "How does the predictive accuracy of synovial transcriptomic profiling compare to traditional histopathological stratification for determining therapeutic response to biologic therapies in rheumatoid arthritis across different clinical trials and patient cohorts?"
+  },
+  {
+    "id": "https://openalex.org/W4400310245",
+    "model": "gemini",
+    "question": "How does the scientific literature evaluate the efficacy of Germany's post-pandemic global health strategy and leadership role compared to the strategies of other major sovereign donors operating within the shifting landscape of contemporary global health governance?"
+  },
+  {
+    "id": "https://openalex.org/W4205830145",
+    "model": "gemini",
+    "question": "What does the existing body of literature reveal about how different peer-review models and rapid publication pipelines affect public and political trust in scientific research during global public health crises?"
+  },
+  {
+    "id": "https://openalex.org/W4200105669",
+    "model": "gemini",
+    "question": "How do the immunogenicity and safety profiles of heterologous COVID-19 booster regimens compare to homologous strategies across diverse global clinical trials, and what consensus exists regarding their comparative long-term efficacy against emerging variants of concern?"
+  },
+  {
+    "id": "https://openalex.org/W4409469463",
+    "model": "gemini",
+    "question": "How does the therapeutic efficacy and cost-effectiveness of negative pressure wound therapy (NPWT) for surgical wounds healing by secondary intention vary across different anatomical locations and patient comorbidities, such as diabetes, when synthesizing current randomized controlled trial evidence?"
+  },
+  {
+    "id": "https://openalex.org/W3090929175",
+    "model": "gemini",
+    "question": "What pharmacological and clinical factors explain the discrepancy between the in vitro potency of lopinavir-ritonavir against SARS-CoV-2 and its lack of clinical efficacy in hospitalized COVID-19 patients across major randomized controlled trials?"
+  },
+  {
+    "id": "https://openalex.org/W4285498479",
+    "model": "gemini",
+    "question": "What is the consensus in scholarly literature regarding how the transition from volunteer-based peer review to financial compensation models impacts review quality, publication turnaround times, and the demographic diversity of the reviewer pool?"
+  },
+  {
+    "id": "https://openalex.org/W4223424071",
+    "model": "gemini",
+    "question": "How does the shifting burden of disease from premature mortality (YLLs) to chronic disability (YLDs) in Iran compare with epidemiological transitions in other middle-income or economically sanctioned nations, and what healthcare infrastructure reforms have successfully addressed this rising demand for morbidity and rehabilitation management?"
+  },
+  {
+    "id": "https://openalex.org/W4403714830",
+    "model": "gemini",
+    "question": "How does the cumulative body of clinical evidence compare the safety, efficacy, and optimal timing of intravenous tranexamic acid to other uterotonic and antifibrinolytic regimens in reducing postpartum hemorrhage-related mortality across diverse global obstetric settings?"
+  },
+  {
+    "id": "https://openalex.org/W4411545175",
+    "model": "gemini",
+    "question": "What does the broader clinical and observational literature reveal about how variations in stroke severity, infarct volume, and patient age modulate the safety and efficacy of early (\u22644 days) versus delayed direct oral anticoagulant initiation in patients with atrial fibrillation?"
+  },
+  {
+    "id": "https://openalex.org/W4387381473",
+    "model": "gemini",
+    "question": "What does the collective body of global literature reveal about the implementation barriers, cost-effectiveness, and long-term clinical efficacy of integrating non-communicable disease management into established vertical HIV care platforms in low- and middle-income countries?"
+  },
+  {
+    "id": "https://openalex.org/W4406973734",
+    "model": "gemini",
+    "question": "To what extent do retrospective evaluations of health technology assessment (HTA) decisions globally align with the long-term population-health impacts observed in England's NICE recommendations, and what are the primary methodological challenges in synthesizing these outcomes across different international healthcare systems?"
+  },
+  {
+    "id": "https://openalex.org/W4229617910",
+    "model": "gemini",
+    "question": "How do the long-term efficacy and tolerability profiles of aromatase inhibitors, such as anastrozole, compare with selective estrogen receptor modulators for the primary prevention of breast cancer in high-risk postmenopausal women across major clinical trials?"
+  }
+]
