@@ -10,7 +10,11 @@ Takes questions generated from abstracts and prompts the various LLMS for answer
     "question": question,
     "response": {
         "answer": xxx,
-        "references": xxx
+        "references": {
+            xxx,
+            xxx,
+            ...,
+        }
     }
 }
 '''
@@ -59,14 +63,14 @@ REFERENCES:
 )
 
 # does not require that the answer be fully written out.
-prompt_base_v2 = """Given a provided scientific question, provide a concise answer (less than 100 words) supported by at least 5 scientific references. Do not include any reasoning, commentary, or explanation for why you selected the references. 
+prompt_base_v2 = """Given a provided scientific question, provide a concise answer (less than 100 words) supported by at least 5 academic references. Do not include any reasoning, commentary, or explanation for why you selected the references. 
 
 References must include: Author name(s), article title, journal, year of publication, and a DOI.
 References should follow the format: Last, Firstname Middlename. (Year). Title of article. Title of Journal, Volume(Issue), Page-Range. DOI: doi.org/xxxxx. 
 
 You must format your response EXACTLY as follows, with no other text before or after:
 ANSWER:
-<your concise answer here, less than 100 words>
+<your concise answer here, must be less than 100 words>
 REFERENCES:
 <your references here, strictly one reference per line with no commentary>
 """ 
