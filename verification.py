@@ -503,3 +503,28 @@ if __name__ == "__main__":
         input_file="data/responses/anthropic/responses_anthropic_physics_astrophys.json",
         output_file="data/verification/anthropic_physics_astrophys.json"
     )
+    
+    
+    
+#### note:
+# This currently is failing to identify some. For example:
+                # {
+                #     "citation": "K\u00f6rding, Elmar G.; Jester, Sebastian; Fender, Rob. (2006). Accretion states and radio loudness in active galactic nuclei. Monthly Notices of the Royal Astronomical Society, 372(3), 1366-1378. DOI: doi.org/10.1111/j.1365-2966.2006.10954.x",
+                #     "parsed": {
+                #         "first_author_lastname": "K\u00f6rding",
+                #         "first_author_firstname": "Elmar G",
+                #         "title": "Accretion states and radio loudness in active galactic nuclei",
+                #         "doi": "10.1111/j.1365-2966.2006.10954.x",
+                #         "doi_provided": true,
+                #         "name_complete": true
+                #     },
+                #     "verification": {
+                #         "status": "hallucinated",
+                #         "title_found": false,
+                #         "doi_matched": false,
+                #         "author_matched": false,
+                #         "lookup_method": "none",
+                #         "openalex_id": null,
+                #         "openalex_first_author": null
+                #     }
+                # },

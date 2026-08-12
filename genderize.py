@@ -1,13 +1,6 @@
 """
 Given the names of authors, verifies whether the names are male or female. Uses genderize.io API to determine the gender 
-of authors based on first and last names. Returns a dictionary with the author's name and their gender, alongside probabilty.
-"""
-
-"""
-Given author names, determines likely gender using the genderize.io API.
-Per genderize.io's docs, full names are sent when available for best
-accuracy (not just first names) — the API extracts signal from the
-whole name, not just the first token.
+of authors based on first and last names. Returns a dictionary with the author's name, gender, and probability.
 """
 
 import os
@@ -24,9 +17,8 @@ BULK_BATCH_SIZE = 10  # genderize.io max per request
 
 def normalize_name(full_name):
     """
-    Converts citation-style 'Last, First Middle' into 'First Middle Last'
-    (genderize.io expects a natural name order, not comma-separated).
-    Leaves 'First Last' format untouched.
+    Converts a full name in citation style (Last, First) to the normal order (First Last). If already normal,
+    leaves it the same.
     """
     name = full_name.strip()
     if "," in name:
@@ -96,6 +88,9 @@ def process_authors(author_names):
 
 
 if __name__ == "__main__":
+    # currently just tests how it verifies. 
     test_authors = ["Smith, John A.", "Chen, Wei", "Garcia, Maria", "Alex Taylor"]
     for r in process_authors(test_authors):
-        print(r)
+        print(r) 
+        
+# For an operational definition, we are going to only want to focus on authors whose genders are predicted with a probability of 0.8 or higher?
