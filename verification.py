@@ -58,14 +58,14 @@ def parse_single_citation(citation):
     if year_match:
         year = int(year_match.group(1))
     else:
-        None
+        year = None
 
     # Find DOI
     doi_match = re.search(r'10\.\d{4,9}/[-._;()/:a-zA-Z0-9]+', citation)
     if doi_match:
         doi = doi_match.group(0).rstrip(".,")
     else:
-        None
+        doi = None
     if doi is not None:
         doi_provided = True
     else:
@@ -155,7 +155,7 @@ def openalex_by_title(title):
         )
         if r.status_code != 200:
             print(f"OpenAlex error {r.status_code}: {r.text}")
-            return None
+            return None, True
 
         results = r.json().get("results", [])
         best, best_score = None, 0
@@ -168,11 +168,12 @@ def openalex_by_title(title):
                 best = work
 
         if best_score >= 0.85:
-            return best
-        return None
+            return best, False
+        return None, False
 
-    except Exception:
-        return None
+    except Exception as e:
+        print(f"OpenAlex lookup failed: {e}")
+        return None, True
 
 
 # Get first author's name from OpenAlex, if possible
@@ -183,6 +184,22 @@ def extract_first_author_from_record(record):
     first = authorships[0]
     author = first.get("author", {})
     return author.get("display_name", None)
+
+
+# To handle "check rseponse b/c it didn't follow the expected format"
+def is_check_reference(citation):
+    if not isinstance(citation, str):
+        return True
+
+    text = citation.strip().lower()
+
+    check_patterns = [
+        "check response",
+        "check reference",
+        "check citation"
+    ]
+
+    return any(pattern in text for pattern in check_patterns)
 
 
 # Citation verification 
@@ -208,8 +225,26 @@ def verify_citation(parsed):
     parsed_lastname = parsed.get("first_author_lastname", "").lower()
 
     # Check title
-    record = openalex_by_title(title) if title else None
+    # Check title
+    if title:
+        record, lookup_error = openalex_by_title(title)
+    else:
+        record = None
+        lookup_error = False
+
     lookup_method = "title_search" if record else "none"
+
+    # OpenAlex/API problem -- flag for manual check
+    if lookup_error:
+        return {
+            "status": "CHECK",
+            "title_found": None,
+            "doi_matched": None,
+            "author_matched": None,
+            "lookup_method": "error",
+            "openalex_id": None,
+            "openalex_first_author": None
+        }
 
     # Title not found
     if record is None:
@@ -279,15 +314,108 @@ def verify_citation(parsed):
 # Looks at each citation in input_file, verifies information in OpenAlex, returns verdict in output_file
 def verify_all(input_file, output_file):
     data = load_response(input_file)
-    results = []
+
+    # Load previously completed results if they exist
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, "r") as f:
+                existing_results = json.load(f)
+
+            if not isinstance(existing_results, list):
+                existing_results = []
+
+        except (json.JSONDecodeError, OSError):
+            print("Warning: Could not load existing output file. Starting fresh.")
+            existing_results = []
+    else:
+        existing_results = []
+
+    # IDs of records that have already been completely processed
+    completed_ids = {
+        r["id"]
+        for r in existing_results
+        if isinstance(r, dict) and "id" in r
+    }
+
+    results = existing_results.copy()
+
+    print(f"Found {len(completed_ids)} already-completed records.")
 
     for record in data:
+
+        # Skip records that were already saved
+        if record["id"] in completed_ids:
+            print(f"\nSkipping already completed: {record['id']}")
+            continue
+
         print(f"\nProcessing: {record['id']}")
+
         verified_references = []
 
         for raw_citation in record["response"]["references"]:
-            parsed = parse_single_citation(raw_citation)
-            verification = verify_citation(parsed)
+
+            # Model explicitly flagged this reference for manual checking
+            if is_check_reference(raw_citation):
+                verification = {
+                    "status": "CHECK",
+                    "title_found": None,
+                    "doi_matched": None,
+                    "author_matched": None,
+                    "lookup_method": "model_flagged",
+                    "openalex_id": None,
+                    "openalex_first_author": None
+                }
+
+                verified_references.append({
+                    "citation": raw_citation,
+                    "parsed": None,
+                    "verification": verification
+                })
+
+                print(f"  [CHECK] Model flagged reference: {raw_citation}")
+                continue
+
+            # Try to parse the citation
+            try:
+                parsed = parse_single_citation(raw_citation)
+
+            except Exception as e:
+                print(f"  [CHECK] Citation parsing failed: {e}")
+
+                verified_references.append({
+                    "citation": raw_citation,
+                    "parsed": None,
+                    "verification": {
+                        "status": "CHECK",
+                        "title_found": None,
+                        "doi_matched": None,
+                        "author_matched": None,
+                        "lookup_method": "parse_error",
+                        "openalex_id": None,
+                        "openalex_first_author": None,
+                        "error": str(e)
+                    }
+                })
+
+                continue
+
+            # Try to verify citation
+            try:
+                verification = verify_citation(parsed)
+
+            except Exception as e:
+                print(f"  [CHECK] Verification failed: {e}")
+
+                verification = {
+                    "status": "CHECK",
+                    "title_found": None,
+                    "doi_matched": None,
+                    "author_matched": None,
+                    "lookup_method": "verification_error",
+                    "openalex_id": None,
+                    "openalex_first_author": None,
+                    "error": str(e)
+                }
 
             verified_references.append({
                 "citation": raw_citation,
@@ -306,6 +434,7 @@ def verify_all(input_file, output_file):
             title = parsed["title"][:60] if parsed["title"] else "(no title)"
             print(f"  [{status}] {title}")
 
+        # Add the completed record to results
         results.append({
             "id": record["id"],
             "model": record["model"],
@@ -316,30 +445,61 @@ def verify_all(input_file, output_file):
             }
         })
 
-    with open(output_file, "w") as f:
-        json.dump(results, f, indent=4)
+        # Mark this record as completed
+        completed_ids.add(record["id"])
 
-    # print summary
+        # SAVE IMMEDIATELY after each completed record
+        temp_output_file = output_file + ".tmp"
+
+        with open(temp_output_file, "w") as f:
+            json.dump(results, f, indent=4)
+
+        os.replace(temp_output_file, output_file)
+
+        print(f"  Saved checkpoint: {record['id']}")
+
+    # Print final summary
     all_refs = [
         ref
         for r in results
         for ref in r["response"]["references"]
     ]
+
     total = len(all_refs)
-    verified = sum(1 for r in all_refs if r["verification"]["status"] == "verified")
-    partial = sum(1 for r in all_refs if r["verification"]["status"] == "partial")
-    hallucinated = sum(1 for r in all_refs if r["verification"]["status"] == "hallucinated")
+    verified = sum(
+        1 for r in all_refs
+        if r["verification"]["status"] == "verified"
+    )
+    partial = sum(
+        1 for r in all_refs
+        if r["verification"]["status"] == "partial"
+    )
+    hallucinated = sum(
+        1 for r in all_refs
+        if r["verification"]["status"] == "hallucinated"
+    )
+    check = sum(
+        1 for r in all_refs
+        if r["verification"]["status"] == "CHECK"
+    )
 
     print(f"\n{'='*40}")
     print(f"Total citations:  {total}")
-    print(f"Verified:         {verified} ({verified/total*100:.1f}%)")
-    print(f"Partial:          {partial} ({partial/total*100:.1f}%)")
-    print(f"Hallucinated:     {hallucinated} ({hallucinated/total*100:.1f}%)")
+
+    if total > 0:
+        print(f"Verified:         {verified} ({verified/total*100:.1f}%)")
+        print(f"Partial:          {partial} ({partial/total*100:.1f}%)")
+        print(f"Hallucinated:     {hallucinated} ({hallucinated/total*100:.1f}%)")
+        print(f"CHECK:            {check} ({check/total*100:.1f}%)")
+    else:
+        print("No citations found.")
+
+    print(f"Completed records: {len(results)}")
     print(f"Saved to {output_file}")
 
 
 if __name__ == "__main__":
     verify_all(
-        input_file="data/test_responses_task2.json",
-        output_file="data/test_responses_task2_verified.json"
+        input_file="data/responses/anthropic/responses_anthropic_physics_astrophys.json",
+        output_file="data/verification/anthropic_physics_astrophys.json"
     )

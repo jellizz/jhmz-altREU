@@ -244,8 +244,8 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 if __name__ == "__main__":
     # calling on anthropic and test_questions.json
     generate_responses(
-        questions_file="test_questions.json",
-        output_file="data/test_responses_task2.json",
+        questions_file="data/questions/questions_S1980519.json",
+        output_file="data/responses/anthropic/responses_anthropic_physics_astrophys.json",
         llm="anthropic",
         prompt_base=prompt_base_v2
     )
