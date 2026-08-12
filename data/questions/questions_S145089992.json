@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W4405035178",
+    "model": "openai",
+    "question": "How do iron-oxide nanoparticles reshape innate immune cell\u2013microbiota crosstalk across invertebrate and vertebrate models, particularly through tolerogenic transcriptional programs, extracellular vesicle signaling, and selective enrichment of Gram-positive bacterial taxa that may contribute to immune homeostasis?"
+  },
+  {
+    "id": "https://openalex.org/W3195688936",
+    "model": "openai",
+    "question": "How do current empirical findings across ecotoxicology, environmental monitoring, risk assessment, and policy studies converge or diverge in evaluating the relative severity of plastic pollution compared with other environmental stressors, and what evidence-based mitigation strategies appear most effective across sectors and ecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W4387910185",
+    "model": "openai",
+    "question": "How do plastic-degrading Pseudomonas probiotics introduced via earthworm gut microbiota influence earthworm survival, microbiome structure, and polyethylene or polystyrene bioremediation efficiency across different soil mesocosm and field conditions compared with naturally occurring earthworm-associated microbial communities?"
+  },
+  {
+    "id": "https://openalex.org/W4377246809",
+    "model": "openai",
+    "question": "How do microplastic particle properties (e.g., size, polymer type, concentration, and surface chemistry) and plant anatomical traits jointly influence microplastic uptake, xylem transport, hydraulic conductivity, photosynthetic pigment dynamics, and oxidative stress responses across crop species?"
+  },
+  {
+    "id": "https://openalex.org/W4407641709",
+    "model": "openai",
+    "question": "How do polymer type, environmental weathering, and contaminant adsorption\u2013desorption dynamics interact to determine the bioavailability, trophic transfer, and toxicological impacts of pharmaceutical-loaded microplastics such as fluoxetine in freshwater food webs?"
+  },
+  {
+    "id": "https://openalex.org/W4409744109",
+    "model": "openai",
+    "question": "How do HRMS-based target and suspect screening studies across marine regions compare in identifying, prioritizing, and assessing ecological risks from complex mixtures of legacy pollutants, emerging contaminants, metabolites, and transformation products in relation to current marine monitoring and regulatory frameworks?"
+  },
+  {
+    "id": "https://openalex.org/W4416822427",
+    "model": "openai",
+    "question": "How do methodological differences in microplastic extraction, identification, and quantification across food categories influence estimates of dietary microplastic exposure, and what does the broader literature suggest about the relative contribution of seafood versus plant-based foods and beverages to human intake risk?"
+  },
+  {
+    "id": "https://openalex.org/W4400111847",
+    "model": "openai",
+    "question": "How do the chemical profiles and environmental toxicities of tire wear particles from \u201cgreen\u201d versus conventional tires vary across manufacturers, rubber formulations, and use conditions, and what evidence exists that sustainability-oriented tire technologies reduce or shift ecological risks associated with additives such as 6PPD, metals, and other organic compounds?"
+  },
+  {
+    "id": "https://openalex.org/W4376868974",
+    "model": "openai",
+    "question": "How do water treatment technologies, source-water characteristics, and biofilm microbial community composition jointly influence the persistence, abundance, and dissemination of key antibiotic resistance genes such as intI1, sul1, sul2, tetA, blaOXA, and blaTEM across drinking water treatment systems?"
+  },
+  {
+    "id": "https://openalex.org/W4411435895",
+    "model": "openai",
+    "question": "How do cis/trans isomer-specific reductive dehalogenation mechanisms of 1,3-dichloropropene differ among Dehalococcoides mccartyi strains, Sulfurospirillum multivorans, and other organohalide-respiring microorganisms, and what do these differences imply for predicting environmental fate and designing bioaugmentation strategies for fumigant-contaminated anoxic soils?"
+  },
+  {
+    "id": "https://openalex.org/W4409546904",
+    "model": "openai",
+    "question": "How do packaging material composition, food matrix properties, and thermal processing conditions collectively influence the migration, dietary exposure, and health risk profiles of phthalate and non-phthalate plasticizers such as DEHP, ATBC, and DEHA across vulnerable populations, particularly infants and toddlers?"
+  },
+  {
+    "id": "https://openalex.org/W4322506048",
+    "model": "openai",
+    "question": "How do industrial wastewater-derived N-nitrosamines such as NDMA, NDEA, NDPA, and NMOR vary across industrial sectors and seasons, and what do existing studies indicate about their environmental fate, mitigation mechanisms, and chronic ecological risks in receiving surface waters?"
+  },
+  {
+    "id": "https://openalex.org/W4404566541",
+    "model": "openai",
+    "question": "How do dust-suppression water chemistry, gangue and machinery-derived mineral inputs, Fe-bearing phases, and alkaline mine-drainage processes interact to control arsenic enrichment, speciation, leachability, and health risk in deposited coal mine dust across different coal-mining regions?"
+  },
+  {
+    "id": "https://openalex.org/W4411488358",
+    "model": "openai",
+    "question": "How do wildfire-derived PM\u2082.\u2085 exposures influence influenza susceptibility, transmission, and disease severity across diverse populations, and what biological mechanisms and public health interventions\u2014such as vaccination, exposure reduction, and early healthcare access\u2014are supported by the broader epidemiological and mechanistic literature?"
+  },
+  {
+    "id": "https://openalex.org/W4404512823",
+    "model": "openai",
+    "question": "How do global occurrence patterns, regulatory frameworks, toxicological evidence, and treatment efficiencies for emerging contaminants such as endocrine-disrupting compounds, pharmaceuticals, antibiotics, and personal care products collectively inform the development of risk-based water quality standards and advanced wastewater treatment strategies across different regions?"
+  },
+  {
+    "id": "https://openalex.org/W4323275963",
+    "model": "openai",
+    "question": "How do ensemble-meteorology footprint-based source localization methods for unannounced atmospheric radionuclide releases compare with alternative inverse modeling approaches across cases such as Chernobyl, ETEX, Fukushima, and the 2017 Ru-106 event in terms of accuracy, uncertainty quantification, robustness to sparse monitoring data, and operational usefulness for emergency response?"
+  },
+  {
+    "id": "https://openalex.org/W7163517239",
+    "model": "openai",
+    "question": "How do nitrate- versus ammonium-dominated nitrogen regimes mechanistically influence arsenic uptake, speciation, translocation, and detoxification in *Pteris vittata* and other arsenic-hyperaccumulating or tolerant plants across studies, particularly through interactions among nitrogen assimilation pathways, phosphate transporters, arsenate reductases, and arsenite antiporters?"
+  },
+  {
+    "id": "https://openalex.org/W3112212626",
+    "model": "openai",
+    "question": "How do nitrogen speciation, mesopore architecture, and synthesis-template strategies collectively govern high-pressure CO\u2082 adsorption capacity and selectivity in graphitic nanoporous carbon nitride materials compared with activated carbons, carbon nanotubes, and other nitrogen-doped porous adsorbents across the broader literature?"
+  },
+  {
+    "id": "https://openalex.org/W3006240054",
+    "model": "openai",
+    "question": "How do molecular structure, aggregation behavior, and biodegradation kinetics of conventional versus gemini cationic surfactants collectively influence their comparative ecotoxicity across marine microalgae, diatoms, and crustaceans, and what evidence supports their potential substitution with more environmentally benign alternatives?"
+  },
+  {
+    "id": "https://openalex.org/W4399203465",
+    "model": "openai",
+    "question": "How do the quantities, physicochemical properties, detection methodologies, and potential biological effects of solid and liquid PDMS micro(nano)plastics released from plastic syringes compare with micro(nano)plastic contamination reported from other medical devices and pharmaceutical delivery systems?"
+  },
+  {
+    "id": "https://openalex.org/W4408733619",
+    "model": "openai",
+    "question": "How do gas stove\u2013derived benzene emissions interact with housing characteristics, ventilation effectiveness, stove-use behaviors, and age-specific susceptibility to shape cumulative cancer risk across populations, and how do these risks compare with those from other indoor combustion-related pollutant sources reported in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4392768297",
+    "model": "openai",
+    "question": "How do inhaled micro- and nanoplastics of varying size, shape, polymer composition, and biofilm colonization status translocate to the central nervous system and contribute to oxidative stress, cytotoxicity, and neurodegeneration across different neuronal populations, according to current in vivo, in vitro, and epidemiological evidence?"
+  },
+  {
+    "id": "https://openalex.org/W4220691630",
+    "model": "openai",
+    "question": "How do trophic structure, mercury methylation dynamics, and species-specific feeding ecology interact across estuarine and coastal marine ecosystems to determine THg and MeHg biomagnification patterns and associated seafood-consumption risks for vulnerable human populations such as children?"
+  },
+  {
+    "id": "https://openalex.org/W4313830670",
+    "model": "openai",
+    "question": "How do earthworm gut physiology, soil-mediated mechanical abrasion, polymer physicochemical properties, and gut microbiome activity interact to drive the fragmentation and depolymerization of different soil microplastics such as LDPE, PLA, and PBAT, and what do existing studies imply about the feasibility and ecological risks of using earthworms for microplastic bioremediation?"
+  },
+  {
+    "id": "https://openalex.org/W4404918167",
+    "model": "openai",
+    "question": "How do CO-activated near-infrared fluorescent probes based on allyl formate chemistry compare with other reported CO-sensing strategies in terms of selectivity, biocompatibility, in vivo imaging performance, and utility for evaluating the efficacy and mechanisms of hyperbaric oxygen therapy in acute carbon monoxide poisoning?"
+  },
+  {
+    "id": "https://openalex.org/W3179267569",
+    "model": "openai",
+    "question": "How do nitric oxide\u2013mediated posttranslational modifications, particularly S-nitrosation of aquaporins, aquaglyceroporins, phosphate transporters, and sulfate transporters, regulate plant uptake and toxicity responses to different metalloids such as boron, silicon, selenium, arsenic, and antimony across diverse species and environmental contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4378190671",
+    "model": "openai",
+    "question": "How do tourism-derived inputs, long-range atmospheric transport, UV-driven weathering, and climate-change-enhanced glacier melt collectively influence the sources, fate, export fluxes, and ecological risks of microplastics across Tibetan Plateau ecosystems compared with other remote cryospheric and high-altitude regions?"
+  },
+  {
+    "id": "https://openalex.org/W4404635579",
+    "model": "openai",
+    "question": "How do wettability engineering, surface roughness, and hydration-layer-mediated anti-fouling mechanisms in granular filtration media compare with membrane-based, coalescence, and advanced oxidation approaches in determining the efficiency, flux, stability, scalability, and environmental sustainability of oil-in-water nanoemulsion separation?"
+  },
+  {
+    "id": "https://openalex.org/W4324107167",
+    "model": "openai",
+    "question": "How does chicory\u2019s cadmium accumulation capacity, stress-tolerance physiology, seasonal biomass production, and field-scale remediation efficiency compare with other candidate Cd-accumulator or hyperaccumulator crops across different soil pH, contamination levels, and agronomic conditions?"
+  },
+  {
+    "id": "https://openalex.org/W7161860415",
+    "model": "openai",
+    "question": "How can mobile robotic platforms integrating stand-off LIBS, Raman spectroscopy, gamma spectrometry, 3D imaging, and digital-twin data architectures improve the accuracy, safety, and auditability of in situ material characterisation and contamination mapping for nuclear decommissioning compared with conventional benchtop, manual, or single-sensor survey approaches?"
+  },
+  {
+    "id": "https://openalex.org/W4402912640",
+    "model": "openai",
+    "question": "How do species-specific feeding strategies, habitat preferences, trophic positions inferred from stable isotopes, and microplastic characteristics such as size, shape, color, and polymer type interact to influence microplastic bioaccumulation and biomagnification in marine fish across different coastal ecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W3013359662",
+    "model": "openai",
+    "question": "How do furnace-injected dolomitic sorbents compare with alternative primary and secondary acid-gas abatement strategies across waste-to-energy plants in terms of HCl/SO\u2082 removal efficiency, operational cost, reagent consumption, residue generation, and compliance with emerging European BAT requirements under varying flue-gas compositions?"
+  },
+  {
+    "id": "https://openalex.org/W4409726851",
+    "model": "openai",
+    "question": "How do microplastic sources, polymer-specific transport pathways, and trophic transfer mechanisms interact across soil, water, atmospheric, plant, herbivore, and apex-predator compartments in forest ecosystems, and what evidence-based mitigation strategies could reduce exposure risks for endangered carnivores such as the Amur tiger?"
+  },
+  {
+    "id": "https://openalex.org/W3095951503",
+    "model": "anthropic",
+    "question": "How do DNMT inhibitor-mediated epigenetic mechanisms and their associated Adverse Outcome Pathways for transgenerational effects compare across diverse aquatic and terrestrial organisms, and what conserved molecular initiating events might enable the generalization of these pathways for ecological hazard assessment of epigenetic modulating chemicals?"
+  },
+  {
+    "id": "https://openalex.org/W4388452000",
+    "model": "anthropic",
+    "question": "How do the mechanisms and efficiencies of chalcopyrite-activated advanced oxidation processes compare to other transition-metal-based catalytic systems in simultaneously achieving micropollutant degradation and sludge dewaterability across varying sludge compositions and operational conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4410552274",
+    "model": "anthropic",
+    "question": "How do the co-selective mechanisms of plastic additives and leachates for antimicrobial resistance compare across different environmental compartments and stages of the plastic life cycle, and what standardized methodologies are needed to quantify their relative contributions to AMR development?"
+  },
+  {
+    "id": "https://openalex.org/W7165646157",
+    "model": "anthropic",
+    "question": "How do the fluorescence lifetimes and spectral characteristics of U(VI) phases identified by Cryo-TRLFS across different studies compare with those obtained from complementary spectroscopic and computational speciation methods, and to what extent can these combined datasets improve predictive models of uranium alteration and mobility in repository and nuclear accident environments?"
+  },
+  {
+    "id": "https://openalex.org/W7155001840",
+    "model": "anthropic",
+    "question": "**Scientific Question:**\n\nHow do the relative contributions of pore structure engineering versus nitrogen configuration (pyridinic, graphitic, and pyrrolic N) govern the shift between radical and non-radical (\u00b9O\u2082 versus O\u2082\u2022\u207b) pathways in nitrogen-doped biochar systems for peroxymonosulfate activation across diverse biomass precursors?"
+  },
+  {
+    "id": "https://openalex.org/W4380048452",
+    "model": "anthropic",
+    "question": "How do variations in dissolved organic matter composition and associated trace metal speciation collectively modulate the photochemical attenuation of organic contaminants across estuarine and coastal salinity gradients?"
+  },
+  {
+    "id": "https://openalex.org/W4408072061",
+    "model": "anthropic",
+    "question": "How do the marine PHB-degrading taxa identified via DNA-SIP in this study compare with the bacterial communities implicated in the biodegradation of other biodegradable and conventional plastics across diverse marine environments, and to what extent do shared taxonomic and functional signatures point to a core plastic-degrading microbiome?"
+  },
+  {
+    "id": "https://openalex.org/W4205407869",
+    "model": "anthropic",
+    "question": "How do the toxicity contributions of salinity versus organic, inorganic, and radionuclide constituents in shale gas flowback wastewater compare across different shale formations and geographic regions, and what mechanisms explain the variability in observed interactive effects on freshwater biota?"
+  },
+  {
+    "id": "https://openalex.org/W4311986992",
+    "model": "anthropic",
+    "question": "How do the mechanisms governing metal(loid) leaching and immobilization in Fe-rich alkali-activated materials compare across different industrial slag precursors and activator formulations, and what structural features of the reaction products explain the divergent mobility behavior of oxyanion-forming elements versus cationic heavy metals?"
+  },
+  {
+    "id": "https://openalex.org/W4408020922",
+    "model": "openai",
+    "question": "How do CFD/LES simulations, experimental flow-visualization studies, and epidemiological risk models collectively characterize the dependence of indoor respiratory droplet transmission distance and infection risk on droplet size, expiratory activity, ventilation, viral load, mask use, and exposure duration?"
+  },
+  {
+    "id": "https://openalex.org/W3126657805",
+    "model": "anthropic",
+    "question": "How do the physicochemical properties and speciation of chromium and manganese in welding fume particles influence their solubility and toxicological effects across different welding processes and electrode compositions?"
+  },
+  {
+    "id": "https://openalex.org/W4200160927",
+    "model": "anthropic",
+    "question": "How do soil chemical parameters such as pH, dissolved organic carbon, and mineral associations comparatively govern the weathering kinetics and toxicity attenuation of chrysotile versus other asbestiform and non-asbestiform silicate minerals across different terrestrial environments?"
+  },
+  {
+    "id": "https://openalex.org/W4385496221",
+    "model": "anthropic",
+    "question": "How do the soil-air exchange dynamics and volatilization patterns of legacy organochlorine pesticides in arid coastal regions compare across different global monitoring studies, and what environmental and climatic factors most consistently govern their secondary emission and re-emission behavior?"
+  },
+  {
+    "id": "https://openalex.org/W4412650612",
+    "model": "anthropic",
+    "question": "How do the environmental persistence and disinfection resistance profiles of crAss-like phages compare with those of other proposed viral, bacterial, and molecular indicators of antibiotic resistance genes across diverse water matrices and treatment systems?"
+  },
+  {
+    "id": "https://openalex.org/W4415015331",
+    "model": "anthropic",
+    "question": "How do the regulatory mechanisms and effectiveness of transcription factors like deoR in modulating the 4S desulfurization pathway compare across different desulfurizing microbial species and substrate types (e.g., fossil fuels versus waste tire rubber)?"
+  },
+  {
+    "id": "https://openalex.org/W7134163094",
+    "model": "anthropic",
+    "question": "How do freeze\u2013thaw cycles mechanistically influence the vertical redistribution and bioavailability of cadmium in agricultural soils, and to what extent can integrated soil health frameworks disentangle these cryogenic processes from anthropogenic and lithogenic controls across seasonally frozen croplands?"
+  },
+  {
+    "id": "https://openalex.org/W4416957606",
+    "model": "anthropic",
+    "question": "How do data-driven dye-selection strategies and multi-modal illumination approaches compare across colorimetric and fluorescent sensor array studies in their ability to enhance discrimination accuracy for"
+  },
+  {
+    "id": "https://openalex.org/W4403281715",
+    "model": "anthropic",
+    "question": "How do the immunomodulatory mechanisms of triclocarban on CD8+ T cell activation and vitamin D receptor signaling compare with those of other environmental endocrine-disrupting chemicals across different mammalian immune cell populations?"
+  },
+  {
+    "id": "https://openalex.org/W3039994918",
+    "model": "anthropic",
+    "question": "How do market-data-driven suspect screening approaches for identifying novel organohalogen contaminants compare with other non-target and suspect screening strategies in terms of detection efficiency and the environmental relevance of the compounds they reveal across different aquatic systems?"
+  },
+  {
+    "id": "https://openalex.org/W4282016945",
+    "model": "anthropic",
+    "question": "How do the morphogenic and physiological effects of polypropylene microplastic contamination on plant root development compare across different plant species, soil types, and plastic sources, and what common mechanisms underlie these plant-microplastic stress responses?"
+  },
+  {
+    "id": "https://openalex.org/W4388715006",
+    "model": "anthropic",
+    "question": "How do guest transformation strategies compare with traditional host-design approaches in overcoming the selectivity and adaptability limitations of macrocycle-based supramolecular sensing across diverse analyte classes?"
+  },
+  {
+    "id": "https://openalex.org/W4319072911",
+    "model": "anthropic",
+    "question": "How do the biochar physicochemical properties (e.g., feedstock type, pyrolysis temperature, pH, and cation exchange capacity) interact with soil characteristics and cropping-system-specific conditions to govern the mechanisms and longevity of cadmium immobilization across paddy and dryland agricultural systems?"
+  },
+  {
+    "id": "https://openalex.org/W4285405011",
+    "model": "anthropic",
+    "question": "How do the epigenetic silencing of Mig-6 and subsequent EGFR/ERK signaling dysregulation compare with other DNA methylation-dependent pathways implicated in arsenite-induced hepatic fibrosis across different cell types and experimental models?"
+  },
+  {
+    "id": "https://openalex.org/W7134190739",
+    "model": "anthropic",
+    "question": "How do the selectivity mechanisms and regeneration efficiencies of strong base ion exchange resins for arsenic and co-occurring oxyanions compare across different water matrices, and what factors govern the trade-offs between partial and conventional regeneration strategies in optimizing simultaneous trace element removal?"
+  },
+  {
+    "id": "https://openalex.org/W4391427337",
+    "model": "anthropic",
+    "question": "How do the sources, distribution patterns, and ecological impacts of paraffin wax pollution documented in the Pelagos Sanctuary compare with those reported across other marine ecosystems, and what harmonized monitoring frameworks could reconcile the methodological inconsistencies that currently hinder cross-study assessment of this emerging pollutant?"
+  },
+  {
+    "id": "https://openalex.org/W3012022153",
+    "model": "anthropic",
+    "question": "How do the geochemical fractionation and speciation of metal(loid)s in river sediments influence their bioavailability, mobility during resuspension, and toxicity relative to total concentration-based regulatory frameworks across different aquatic systems?"
+  },
+  {
+    "id": "https://openalex.org/W7128387777",
+    "model": "anthropic",
+    "question": "What are the shared and tissue-specific molecular mechanisms\u2014such as oxidative stress, DNA damage, and chronic inflammation\u2014through which micro- and nano-plastics may drive carcinogenesis across primary contact sites and secondary target organs, and how consistently are these mechanisms supported across clinical and experimental studies?"
+  },
+  {
+    "id": "https://openalex.org/W4396888235",
+    "model": "anthropic",
+    "question": "How do the physicochemical properties of different iron materials (e.g., species, size, and concentration) comparatively influence the competing mechanisms of adsorption, degradation, and biological uptake of PBDEs across diverse environmental matrices?"
+  },
+  {
+    "id": "https://openalex.org/W4404136330",
+    "model": "anthropic",
+    "question": "How do the roles of surface metal redox cycling, oxygen vacancies, and reactive species (such as carbon-centered radicals and singlet oxygen) in spent-battery-derived catalysts compare across different peracetic acid activation systems for degrading chlorinated organic pollutants?"
+  },
+  {
+    "id": "https://openalex.org/W7130371269",
+    "model": "anthropic",
+    "question": "How do cadmium-induced disruptions of trehalose and carbohydrate metabolism in beneficial insects compare with the toxicological and metabolic responses observed across other heavy metals and insect taxa, and to what extent do these shared metabolic vulnerabilities translate into measurable impairments of biological pest control within contaminated agroecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W4372203427",
+    "model": "anthropic",
+    "question": "How do the microbial community composition and degradation dynamics of the surgical mask plastisphere compare across different marine environments and polymer types reported in the broader literature, and what do these patterns collectively reveal about the ecological drivers governing plastic-specific biodegradation in seawater?"
+  },
+  {
+    "id": "https://openalex.org/W7133135879",
+    "model": "anthropic",
+    "question": "How do congener-specific physicochemical properties of PFAS (e.g., chain length and functional headgroup) determine their differential partitioning into distinct metabolic pathways to produce subtype-specific effects on gestational glucose homeostasis across human cohort, animal, and in vitro studies?"
+  },
+  {
+    "id": "https://openalex.org/W4394566882",
+    "model": "openai",
+    "question": "How do structural determinants of organophosphate neurotoxicity\u2014particularly phosphate surface accessibility and 3D conformational features identified through NAM/QSAR approaches\u2014align with evidence from environmental fate, bioaccumulation, and toxicological studies to guide the design and regulatory prioritization of safer organophosphate flame retardants, plasticizers, lubricants, and pesticides?"
+  },
+  {
+    "id": "https://openalex.org/W4410735819",
+    "model": "gemini",
+    "question": "How do the geochemical mechanisms and mobilization rates of tungsten from various tungstate minerals under suboxic and alkaline conditions compare across diverse global mining environments, and what are the implications of these variations for synthesizing unified, sustainable mine waste management frameworks?"
+  },
+  {
+    "id": "https://openalex.org/W4375946152",
+    "model": "gemini",
+    "question": "How does the integration of microbial fuel cells with various slow-release electron acceptors compare to traditional biostimulation methods in mitigating nutrient migration and enhancing the simultaneous removal of co-existing organic and inorganic contaminants in benthic sediments?"
+  },
+  {
+    "id": "https://openalex.org/W4394757367",
+    "model": "gemini",
+    "question": "How does the collective body of global wastewater-based epidemiology literature compare the impacts of varying COVID-19 lockdown intensities and durations on the consumption dynamics of illicit substances, legal stimulants, and prescription pharmaceuticals across diverse demographic and geographic regions?"
+  },
+  {
+    "id": "https://openalex.org/W7166344519",
+    "model": "gemini",
+    "question": "How do environmental pollutants, particularly fine particulate matter, synergistically interact with metabolic diseases to accelerate stem cell senescence and alter lineage commitment within the bone marrow microenvironment, and what therapeutic strategies exist to mitigate these effects?"
+  },
+  {
+    "id": "https://openalex.org/W4403707668",
+    "model": "gemini",
+    "question": "How does the integration of geographically weighted regression with deep learning architectures, such as Geographically Weighted Neural Networks (GWNN), compare to other hybrid spatial-machine learning frameworks in mitigating spatial autocorrelation and reducing predictive uncertainty across diverse digital soil mapping applications?"
+  },
+  {
+    "id": "https://openalex.org/W3121656225",
+    "model": "gemini",
+    "question": "What are the comparative degradation efficiencies, reaction mechanisms, and material-recycling challenges associated with utilizing visible-light photocatalysis versus integrated electrochemical-membrane systems for the remediation of both legacy PFAS and emerging substitutes like GenX in groundwater?"
+  },
+  {
+    "id": "https://openalex.org/W4360604056",
+    "model": "gemini",
+    "question": "How do emerging electrokinetic in-situ chemical oxidation (EK-ISCO) systems utilizing waste-derived catalysts and electromagnetic enhancement compare to conventional remediation technologies in terms of their mechanisms, efficiency, and environmental sustainability when simultaneously treating soils co-contaminated with heavy metals and per- and polyfluoroalkyl substances (PFASs)?"
+  },
+  {
+    "id": "https://openalex.org/W4417091112",
+    "model": "gemini",
+    "question": "How do microalgae-based wastewater treatment systems compare to membrane-assisted activated sludge bioreactors regarding the long-term removal efficiency, underlying degradation pathways, and operational sustainability for mitigating diverse classes of emerging organic contaminants?"
+  },
+  {
+    "id": "https://openalex.org/W4405025217",
+    "model": "gemini",
+    "question": "How do multitrophic interactions, specifically protist-bacteria predator-prey dynamics, influence the persistence, horizontal transfer, and environmental dissemination of high-risk antibiotic resistance genes across different wastewater treatment configurations and receiving natural aquatic ecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W7160148161",
+    "model": "gemini",
+    "question": "How do the removal efficiencies and aquatic ecotoxicological outcomes of advanced multi-barrier treatment trains for oil and gas produced water compare globally, particularly regarding the mitigation of persistent hydrophilic organic contaminants and volatile fatty acids?"
+  },
+  {
+    "id": "https://openalex.org/W4409627601",
+    "model": "gemini",
+    "question": "What does the existing body of literature reveal about the synergistic molecular mechanisms by which co-exposure to nanoplastics and inhaled environmental chemical toxicants alters transcriptomic regulation and accelerates cellular transformation in human pulmonary systems?"
+  },
+  {
+    "id": "https://openalex.org/W4205969168",
+    "model": "gemini",
+    "question": "How do the source profiles and relative mass contributions of local versus long-range transported inorganic PM2.5 aerosols vary across diverse global urban-industrial regions, and to what extent do hybrid receptor models successfully resolve the tracer-based limitations inherent in making these distinctions?"
+  },
+  {
+    "id": "https://openalex.org/W3152911498",
+    "model": "gemini",
+    "question": "How do the adsorption-desorption dynamics of heavy metals on weathered cigarette filters, and their subsequent bioaccumulation and toxicological impacts, vary across different marine taxa and environmental conditions globally?"
+  },
+  {
+    "id": "https://openalex.org/W4384297403",
+    "model": "gemini",
+    "question": "How do different biochar feedstock properties and engineering modification strategies influence the simultaneous immobilization of cationic copper and anionic arsenic in chromated copper arsenate (CCA) contaminated soils under varying environmental conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4394803423",
+    "model": "gemini",
+    "question": "How do nitrification inhibitors influence the simultaneous mitigation of greenhouse gas emissions and the biodegradation of co-applied pesticides through the reshaping of soil microbial communities and functional gene profiles across diverse agricultural soils?"
+  },
+  {
+    "id": "https://openalex.org/W3015857393",
+    "model": "gemini",
+    "question": "How do the formation pathways and plasma temperature dynamics of CN and C2 radicals generated during the femtosecond laser ablation of nitromethane in different buffer gases compare to those observed in other nitrogen-rich energetic materials across the broader literature?"
+  },
+  {
+    "id": "https://openalex.org/W4384818241",
+    "model": "gemini",
+    "question": "How do the environmental persistence, bioaccumulation pathways, and toxicological profiles of emerging oligomeric organophosphate esters, such as bisphenol A diphenyl phosphate, compare with those of established legacy organophosphate flame retardants across different trophic levels and environmental compartments?"
+  },
+  {
+    "id": "https://openalex.org/W4319339281",
+    "model": "gemini",
+    "question": "How do the mineralogical mechanisms controlling the environmental mobility and human oral bioaccessibility of potentially toxic elements in alkaline cyanide heap leaching wastes compare to those documented for acidic sulfide mine tailings across different climatic and geological regions?"
+  },
+  {
+    "id": "https://openalex.org/W3212206569",
+    "model": "gemini",
+    "question": "To what extent do variations in sample pre-treatment and spectroscopic characterization methodologies explain the divergent concentration and polymer-type data reported for atmospheric microplastics across different global environments?"
+  },
+  {
+    "id": "https://openalex.org/W3118447140",
+    "model": "gemini",
+    "question": "How do Bayesian network models compare to other machine learning and deep learning architectures in terms of their predictive accuracy, interpretability, and ability to generalize the risk of atmospheric-deposition-driven PFAS contamination in groundwater across different hydrogeological regions?"
+  },
+  {
+    "id": "https://openalex.org/W4379013984",
+    "model": "gemini",
+    "question": "To what extent is the MDM2-mediated Mic60 ubiquitination and mitochondrial dysfunction pathway a conserved mechanism of developmental neurotoxicity across various metal oxide nanoparticles during prenatal exposure?"
+  },
+  {
+    "id": "https://openalex.org/W4412013230",
+    "model": "gemini",
+    "question": "How do the morphological variations among different macroalgal species globally influence their capacity to trap microplastics relative to ambient waters, and what are the systemic ecological trade-offs of harvesting these macroalgae for coastal plastic bioremediation?"
+  },
+  {
+    "id": "https://openalex.org/W7167901854",
+    "model": "gemini",
+    "question": "What are the conserved physiological, molecular, and ecological mechanisms by which symbiotic arbuscular mycorrhizal fungi simultaneously restrict toxic metalloid accumulation in harvestable tissues and stimulate the biosynthesis of high-value secondary metabolites across different medicinal plant taxa?"
+  },
+  {
+    "id": "https://openalex.org/W4398146537",
+    "model": "gemini",
+    "question": "How do the synergistic mechanisms of rhizosphere metabolic reprogramming and carbon mineralization mediated by plant growth-promoting rhizobacteria (PGPR) vary across different submerged macrophyte species and heavy metal contaminants in aquatic ecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W4407903458",
+    "model": "gemini",
+    "question": "How do the uptake kinetics and innate immunotoxicological impacts of nanoplastics\u2014specifically regarding the downregulation of interferon-stimulated pathways\u2014differ between healthy and compromised intestinal barriers across diverse in vitro biomimetic and in vivo models?"
+  },
+  {
+    "id": "https://openalex.org/W4382051664",
+    "model": "gemini",
+    "question": "How do the genomic structures and auxiliary metabolic gene profiles of groundwater viral communities compare across globally diverse oligotrophic aquifers, and what does this reveal about their evolutionary adaptations to nutrient-limited subsurface ecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W4405284304",
+    "model": "gemini",
+    "question": "How do host intrinsic factors, such as sex and body condition, interact with pesticide exposure to shape the gut microbiota of wild birds, and what are the implications of these dynamics for utilizing avian species as biosentinels of ecosystem health?"
+  },
+  {
+    "id": "https://openalex.org/W4401838322",
+    "model": "gemini",
+    "question": "How does the efficiency and mechanistic pathway of heterogeneous electro-Fenton-activated persulfate systems utilizing iron-sulfide-modified cathodes compare to other advanced oxidation processes in the degradation and complete mineralization of various microplastic and nanoplastic polymers in aqueous environments?"
+  },
+  {
+    "id": "https://openalex.org/W4392977640",
+    "model": "gemini",
+    "question": "How do the taxonomic shifts and metabolic pathway disruptions induced by sulfate-radical-based advanced oxidation processes compare across various membrane-based resource recovery systems in mitigating extracellular polymeric substance (EPS)-mediated biofouling?"
+  },
+  {
+    "id": "https://openalex.org/W4388784568",
+    "model": "gemini",
+    "question": "How do the morphological characteristics and release dynamics of microplastics generated by the rapid, high-energy rupture of elastomeric materials like balloons compare to those produced via the long-term environmental weathering of rigid polymers, and what are the consensus analytical frameworks in current literature for scaling up their localized quantification?"
+  },
+  {
+    "id": "https://openalex.org/W4390700326",
+    "model": "gemini",
+    "question": "How does the integration of silane counterions in quaternary ammonium compounds (Si-QACs) compare to other structural modification strategies in balancing broad-spectrum antimicrobial efficacy with reduced eukaryotic toxicity and environmental persistence?"
+  },
+  {
+    "id": "https://openalex.org/W4394719467",
+    "model": "gemini",
+    "question": "How do varying thermal treatment parameters\u2014such as temperature, residence time, and reactor technology\u2014affect the trade-off between the destruction efficiencies of persistent organic pollutants like PFAS and the environmental partitioning of heavy metals during sewage sludge valorization?"
+  },
+  {
+    "id": "https://openalex.org/W7135174909",
+    "model": "gemini",
+    "question": "How do the predictive accuracies and parameter sensitivities of different numerical models for radon transport in multi-layered porous covers compare across various industrial waste repositories, such as phosphogypsum and uranium tailings, in contemporary literature?"
+  },
+  {
+    "id": "https://openalex.org/W7128997066",
+    "model": "gemini",
+    "question": "How do transcriptomic-based points of departure (PoDs) derived from in vitro-to-in vivo extrapolation (IVIVE) methodologies compare to traditional in vivo apical endpoints in terms of sensitivity, biological relevance, and predictive accuracy for human health risk assessments across the broader class of per- and polyfluoroalkyl substances (PFAS)?"
+  }
+]

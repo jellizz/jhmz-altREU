@@ -303,5 +303,200 @@
     "id": "https://openalex.org/W4410827634",
     "model": "anthropic",
     "question": "How do the trade-offs between dewatering efficiency and storage methane emissions in digestate pyrolysis systems compare across different feedstock types and process configurations reported in the biochar and bioenergy life-cycle assessment literature?"
+  },
+  {
+    "id": "https://openalex.org/W4224505404",
+    "model": "anthropic",
+    "question": "How do the trade-offs between albedo-induced cooling and greenhouse gas-driven warming vary across different crop types, management practices, and biogeographic regions, and what methodological frameworks best integrate these biophysical and biogeochemical effects into comprehensive life cycle assessments of agricultural systems?"
+  },
+  {
+    "id": "https://openalex.org/W4410909879",
+    "model": "anthropic",
+    "question": "How do variations in suspended particulate matter composition, size distribution, and optical properties across different estuarine systems inform the development and refinement of bio-optical algorithms for accurate satellite-based water quality retrieval in optically complex coastal waters?"
+  },
+  {
+    "id": "https://openalex.org/W4407679709",
+    "model": "anthropic",
+    "question": "How do the mechanisms and outcomes of nanoplastic-induced microglial pro-inflammatory activation and compensatory adult neurogenesis observed in the olfactory system compare across different neurotoxic environmental pollutants and exposure routes, and to what extent do these shared or distinct pathways predict long-term neurological impairment?"
+  },
+  {
+    "id": "https://openalex.org/W3008638836",
+    "model": "anthropic",
+    "question": "How do multi-criteria decision analysis approaches for evaluating end-of-life management of plastic waste compare across different regional and material contexts in terms of their integration of environmental, economic, and social sustainability criteria, and what methodological factors explain divergences in the ranking of recycling versus incineration and landfilling options?"
+  },
+  {
+    "id": "https://openalex.org/W4405853913",
+    "model": "gemini",
+    "question": "How do the tissue-specific transcriptomic responses of insect pollinators to sublethal pesticide exposure vary across different chemical classes and pollinator species, and to what extent can these localized molecular profiles predict broader organismal- and colony-level fitness declines?"
+  },
+  {
+    "id": "https://openalex.org/W4411633683",
+    "model": "gemini",
+    "question": "How do climate-induced shifts in the migratory phenology and residency patterns of coastal apex predators influence trophic cascades and human-wildlife conflict in warming temperate marine ecosystems globally?"
+  },
+  {
+    "id": "https://openalex.org/W4285045901",
+    "model": "gemini",
+    "question": "To what extent can current Life Cycle Assessment (LCA) methodologies be systematically adapted to integrate socioeconomic indicators alongside carbon-centric metrics to evaluate the holistic sustainability of digitalized and eco-labeled tourism experiences?"
+  },
+  {
+    "id": "https://openalex.org/W7125631924",
+    "model": "gemini",
+    "question": "How do the interactions between watershed retention of legacy heavy metals, regional geological buffering capacities, and historical emission profiles determine the long-term chemical and ecological recovery trajectories of lake ecosystems following the reduction or cessation of major point-source industrial emissions?"
+  },
+  {
+    "id": "https://openalex.org/W4385638725",
+    "model": "gemini",
+    "question": "How do atmospheric-derived reactive oxygen species in precipitation systematically alter soil microbial ecology to regulate the coupled biogeochemical cycling of metalloids and greenhouse gas emissions across diverse wetland and agricultural systems?"
+  },
+  {
+    "id": "https://openalex.org/W4286510422",
+    "model": "gemini",
+    "question": "To what extent does the efficacy of mean travel time (MTT) relative to local groundwater levels as a predictor of riparian dissolved organic carbon (DOC) export hold true across diverse global biomes, soil profiles, and catchment scales?"
+  },
+  {
+    "id": "https://openalex.org/W4384157343",
+    "model": "gemini",
+    "question": "What does the global body of scientific literature indicate regarding the biogeochemical pathways, methylation rates, and environmental transport of mercury-cyanide complexes compared to elemental mercury in areas affected by artisanal and small-scale gold mining?"
+  },
+  {
+    "id": "https://openalex.org/W7131125870",
+    "model": "gemini",
+    "question": "How do the long-term phytostabilisation efficacy and rhizosphere microbial dynamics of native tussock grasses, such as *Poa labillardieri*, compare with other globally utilized metallophyte species when remediating arsenic-contaminated gold mine tailings under semi-arid conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4401355892",
+    "model": "gemini",
+    "question": "To what extent do the non-target ecotoxicological impacts of *Melia azedarach* extracts, particularly regarding aquatic toxicity and phytotoxicity, compare to other Meliaceae-derived biopesticides, and what agricultural management strategies can minimize these ecological risks without compromising pest control efficacy?"
+  },
+  {
+    "id": "https://openalex.org/W4400301281",
+    "model": "gemini",
+    "question": "To what extent does micro-topographical heterogeneity in semi-natural and natural grasslands globally buffer plant communities against climate change by promoting functional trait diversity and alternative ecological strategies?"
+  },
+  {
+    "id": "https://openalex.org/W4392350721",
+    "model": "gemini",
+    "question": "How do varying types of blue-green infrastructure and modes of human interaction synergistically influence diverse physical and psychological health outcomes, and how does this relationship vary across different socio-cultural populations?"
+  },
+  {
+    "id": "https://openalex.org/W4390116320",
+    "model": "gemini",
+    "question": "To what extent do spatial resolution limits and vertical transport biases in atmospheric inverse models account for the historical discrepancy between top-down and bottom-up estimates of regional terrestrial carbon sinks in the Northern Hemisphere?"
+  },
+  {
+    "id": "https://openalex.org/W4389482926",
+    "model": "gemini",
+    "question": "How do the structural and chemical differences between conventional and biodegradable microplastics alter the bioavailability, translocation, and phytotoxic mechanisms of co-existing heavy metals and metalloids in agricultural soil-crop systems?"
+  },
+  {
+    "id": "https://openalex.org/W3010159137",
+    "model": "gemini",
+    "question": "How do the socioeconomic trade-offs between travel-time losses and environmental health benefits of Environmental Speed Limits (ESLs) vary across global metropolitan areas, and to what extent does driver compliance dictate the net economic viability of these interventions?"
+  },
+  {
+    "id": "https://openalex.org/W4389208436",
+    "model": "gemini",
+    "question": "How do the biochemical and ecological mechanisms of combining micro-nanobubbles with microbial inoculants compare to traditional physical and chemical amendments in reclaiming saline-alkali soils across different global climates and crop species?"
+  },
+  {
+    "id": "https://openalex.org/W4395701207",
+    "model": "gemini",
+    "question": "To what extent have global water-energy-food-environment (WEFE) nexus modeling frameworks successfully integrated stakeholder-defined water quality and aquatic ecosystem health indicators to evaluate climate change trade-offs in vulnerable river basins?"
+  },
+  {
+    "id": "https://openalex.org/W4391470286",
+    "model": "gemini",
+    "question": "How do institutional barriers and the discrepancy between practitioner-led grey literature and peer-reviewed science affect the global standardization, monitoring, and scaling of living shoreline implementations for coastal hazard mitigation?"
+  },
+  {
+    "id": "https://openalex.org/W4213259902",
+    "model": "gemini",
+    "question": "How do the co-applications of biochar and alkaline industrial byproducts like steel slag systematically influence the coupling between soil microbial community dynamics, carbon-use efficiency, and long-term organic carbon stabilization across diverse agroecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W4376602492",
+    "model": "gemini",
+    "question": "How do geographical variations, differences in local water quality, and host confounding factors explain the conflicting evidence in global literature regarding whether recreational water exposure increases or decreases the risk of gut colonization with extended-spectrum beta-lactamase-producing Enterobacterales (ESBL-PE)?"
+  },
+  {
+    "id": "https://openalex.org/W4392302697",
+    "model": "gemini",
+    "question": "How does maternal exposure to mixtures of endocrine-disrupting chemicals, such as plasticizers and ultraviolet filters, alter immune cell dynamics at the feto-maternal interface and subsequent placental development across different mammalian models?"
+  },
+  {
+    "id": "https://openalex.org/W4417184128",
+    "model": "gemini",
+    "question": "How do the genetic heritability and physiological trade-offs of intra-annual density fluctuations (IADFs) vary across different tree taxa and forest biomes, and what does this collective evidence imply for the global selection of climate-resilient forest species?"
+  },
+  {
+    "id": "https://openalex.org/W4405806126",
+    "model": "gemini",
+    "question": "How do the optimal intervention sequences and size-fractionated sediment-trapping efficiencies observed in large-scale physical models of road dust wash-off compare with empirical performance data from diverse urban stormwater management assets globally?"
+  },
+  {
+    "id": "https://openalex.org/W4387431534",
+    "model": "gemini",
+    "question": "How do current environmental transport models and risk assessment frameworks synthesize the temporal dynamics of BTEX degradation with climate-induced soil variations to project multi-pathway human health risks from hydraulic fracturing wastewater spills?"
+  },
+  {
+    "id": "https://openalex.org/W4409027829",
+    "model": "gemini",
+    "question": "What are the comparative mechanisms of uptake, bioaccumulation, and toxicity of bismuth across different trophic levels in aquatic ecosystems, and how does its genotoxic potential in invertebrates compare to its physiological impacts on primary producers?"
+  },
+  {
+    "id": "https://openalex.org/W4405741758",
+    "model": "gemini",
+    "question": "How can wastewater-based epidemiology models be standardized to maintain quantitative predictive accuracy across diverse catchments despite the confounding effects of emerging pathogen variants and varying sewer system infrastructures?"
+  },
+  {
+    "id": "https://openalex.org/W3069336784",
+    "model": "gemini",
+    "question": "To what extent do synthetic pesticide applications systematically alter the taxonomic structure and functional capacity of the non-target plant phyllosphere microbiome, and what are the broader implications of these microbial shifts for host plant fitness and disease resistance across different agricultural ecosystems?"
+  },
+  {
+    "id": "https://openalex.org/W4416239542",
+    "model": "gemini",
+    "question": "How effective are spatial optimization and localized regression frameworks, such as geographically weighted regression, compared to machine learning and traditional bio-optical modeling approaches for improving the accuracy of satellite-derived chlorophyll-a retrievals in optically complex coastal waters globally?"
+  },
+  {
+    "id": "https://openalex.org/W4397031812",
+    "model": "gemini",
+    "question": "How do the performance, uncertainty, and transferability of staged hydrological calibration frameworks using bias-corrected satellite precipitation products compare across different highly regulated and data-scarce river basins globally?"
+  },
+  {
+    "id": "https://openalex.org/W4407096445",
+    "model": "gemini",
+    "question": "How do the clinical efficacy, implementation feasibility, and cost-effectiveness of residential air filtration systems compare to personal protective equipment and public clean air shelters in mitigating the adverse health impacts of prolonged landscape fire smoke exposure, particularly in low- and middle-income countries?"
+  },
+  {
+    "id": "https://openalex.org/W4411210580",
+    "model": "gemini",
+    "question": "How do the projected increases in riverine heatwave frequency and duration in cold-water habitats, such as those predicted for northeastern North America, interact with other anthropogenic stressors to influence the physiological resilience and long-term population viability of Atlantic salmon across their global range?"
+  },
+  {
+    "id": "https://openalex.org/W4315645287",
+    "model": "gemini",
+    "question": "To what extent do the key surrogate variables identified for machine learning-based algal cell density estimation\u2014such as dissolved oxygen, chlorophyll-a, and meteorological factors\u2014remain robust and transferable across different trophic states and geographical regions in global lake systems?"
+  },
+  {
+    "id": "https://openalex.org/W4387709486",
+    "model": "gemini",
+    "question": "How do the life-cycle environmental impacts of repurposing various configurations of decommissioned and semi-operational hydrocarbon wells for geothermal power compare to conventional greenfield geothermal developments across different global geological provinces?"
+  },
+  {
+    "id": "https://openalex.org/W3082232279",
+    "model": "gemini",
+    "question": "How do the interactive effects of chronic nitrogen deposition and precipitation variability shape long-term patterns of above- and below-ground biomass allocation and species composition shifts in Mediterranean-type shrublands globally?"
+  },
+  {
+    "id": "https://openalex.org/W4387872039",
+    "model": "openai",
+    "question": "How do local textile waste collection, sorting, reuse, and recycling systems compare across regions in terms of life-cycle greenhouse gas emissions, export dependency, technological barriers, and consumer participation, and what policy or infrastructural interventions most effectively reduce the carbon footprint of municipal textile waste management?"
+  },
+  {
+    "id": "https://openalex.org/W4414400210",
+    "model": "openai",
+    "question": "How do genome expansion mechanisms such as repeat proliferation and horizontal gene transfer, together with nutrient-regulated expression of polyketide synthase gene families, shape prymnesin biosynthesis, toxicity variation, and bloom ecology across *Prymnesium parvum* strains and other toxin-producing haptophytes?"
   }
 ]

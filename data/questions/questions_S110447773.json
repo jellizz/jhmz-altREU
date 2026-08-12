@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W4225248781",
+    "model": "openai",
+    "question": "How do long-range GABAergic projections from the prefrontal cortex to hippocampal interneuron subtypes integrate with other known prefrontal\u2013hippocampal pathways to regulate disinhibition, signal-to-noise optimization, spatial encoding, and exploratory behavior across cognitive and behavioral contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4313557898",
+    "model": "openai",
+    "question": "How do neural population dynamics and attractor-like coding schemes across hypothalamic and broader social-behavior circuits differ in their representation of scalable motivational states such as aggression versus discrete action-specific components of mating, and what evidence across studies supports distinct circuit mechanisms for these innate behaviors?"
+  },
+  {
+    "id": "https://openalex.org/W4394998531",
+    "model": "openai",
+    "question": "How do hypoxia-driven spatial architectures and state-specific cellular neighborhoods in gliomas compare across molecular subtypes and grades, and what mechanisms reported across spatial transcriptomic, proteomic, and functional studies explain their roles in tumor progression, invasion, and therapy resistance?"
+  },
+  {
+    "id": "https://openalex.org/W4401459440",
+    "model": "openai",
+    "question": "How do species-specific variations in nuclear basket architecture and Mlp/Tpr nucleoporin organization influence conserved functions of the nuclear pore complex in mRNA surveillance, chromatin organization, and nucleocytoplasmic transport across fungi, mammals, and protozoa?"
+  },
+  {
+    "id": "https://openalex.org/W4399107394",
+    "model": "openai",
+    "question": "How have conserved vertebrate paralogs, lineage-specific regulatory element remodeling, and transcriptional regulators such as REST/NRSF and FOXO collectively contributed to the evolution of diapause or other suspended-animation states across killifish and other organisms?"
+  },
+  {
+    "id": "https://openalex.org/W4398203683",
+    "model": "openai",
+    "question": "How do WED-domain-mediated mechanisms of target DNA unwinding across diverse Cas9 orthologs influence genome-editing efficiency under mammalian intracellular conditions, and how have structural, biochemical, and directed-evolution studies informed generalizable strategies for engineering more active CRISPR-Cas nucleases?"
+  },
+  {
+    "id": "https://openalex.org/W4225266546",
+    "model": "openai",
+    "question": "How do differences in spike-mediated transmissibility, antigenic escape, cellular tropism, and pathogenicity among SARS-CoV-2 Omicron sublineages such as BA.1 and BA.2 compare across epidemiological, immunological, in vitro, and animal-model studies, and what do these differences imply for variant risk assessment and vaccine strategy?"
+  },
+  {
+    "id": "https://openalex.org/W7126099653",
+    "model": "openai",
+    "question": "How do converging findings from intracranial recordings, neuroimaging, lesion studies, and deep brain stimulation trials support a causal role for orbitofrontal cortex\u2013basal ganglia circuit gamma activity in the moment-to-moment generation and therapeutic modulation of obsessive-compulsive disorder symptoms?"
+  },
+  {
+    "id": "https://openalex.org/W4404395545",
+    "model": "openai",
+    "question": "How do histone chaperone\u2013mediated nucleosome assembly pathways, replication-coupled chromatin accessibility dynamics, and locus-specific transcription factor\u2013nucleosome competition collectively shape the restoration or reprogramming of epigenetic states on newly replicated chromatin across different genomic regulatory elements?"
+  },
+  {
+    "id": "https://openalex.org/W7126111491",
+    "model": "openai",
+    "question": "How have refinements of the \u201challmarks of cancer\u201d framework over the past 25 years reshaped mechanistic models of tumor initiation, microenvironmental adaptation, systemic interactions, and therapeutic co-targeting strategies across diverse cancer types?"
+  },
+  {
+    "id": "https://openalex.org/W3008383377",
+    "model": "openai",
+    "question": "How do de novo-designed single-nucleotide-specific riboregulators such as SNIPRs compare with established nucleic acid discrimination platforms\u2014including CRISPR-based diagnostics, allele-specific PCR, molecular beacons, and toehold-switch sensors\u2014in terms of mechanistic specificity, programmability, sensitivity in complex biological samples, and suitability for point-of-care detection of clinically relevant mutations and viral variants?"
+  },
+  {
+    "id": "https://openalex.org/W3015560610",
+    "model": "openai",
+    "question": "How do structural features of MtrAB\u2013MtrC and homologous multiheme cytochrome complexes across diverse electroactive microorganisms determine the efficiency, substrate specificity, and ecological roles of extracellular electron transfer to minerals, metals, and electrodes?"
+  },
+  {
+    "id": "https://openalex.org/W4409252512",
+    "model": "openai",
+    "question": "How do mass-spectrometry-derived tissue-of-origin plasma proteome atlases compare with transcriptomic/protein reference atlases and other biomarker discovery approaches in resolving organ-specific contributions to circulating protein changes across inflammatory, ischemic, and organ-injury diseases?"
+  },
+  {
+    "id": "https://openalex.org/W7151471415",
+    "model": "openai",
+    "question": "How can integration of epidemiologic birth-cohort studies, mechanistic research on tissue ecosystems, and biological state-based risk models improve the identification of causal factors and prevention strategies for rising early-onset cancers?"
+  },
+  {
+    "id": "https://openalex.org/W4406760403",
+    "model": "openai",
+    "question": "How do spatial organization strategies for multienzyme systems\u2014such as enzyme fusion, scaffold-based colocalization, compartmentalization, and computationally guided architecture design\u2014comparatively influence catalytic efficiency, metabolic flux, and scalability across diverse applications in synthetic biology, green chemistry, and biomanufacturing?"
+  },
+  {
+    "id": "https://openalex.org/W4327575309",
+    "model": "openai",
+    "question": "How do coupled ribosomes mechanistically modulate bacterial RNA polymerase elongation dynamics, pausing, termination, and transcriptional fidelity, and how do these effects integrate with known models of transcription\u2013translation coupling, RNAP backtracking, and cellular fitness under conditions that promote prolonged transcriptional arrest?"
+  },
+  {
+    "id": "https://openalex.org/W3168349393",
+    "model": "openai",
+    "question": "How do receptor-binding domain mutations across SARS-CoV-2 variants such as P.1 and B.1.351 mechanistically contribute to escape from mRNA vaccine-induced humoral immunity, and how do these neutralization deficits compare across studies evaluating different vaccine platforms, booster strategies, and immune correlates of protection?"
+  },
+  {
+    "id": "https://openalex.org/W4399538493",
+    "model": "openai",
+    "question": "How do newly discovered archaeal [FeFe] hydrogenases\u2014including ultraminimal DPANN enzymes and hybrid [FeFe]\u2013[NiFe] complexes\u2014reshape current models of hydrogenase evolution, H\u2082 metabolism in anoxic ecosystems, and the evolutionary relationships among archaea, bacteria, and eukaryotes?"
+  },
+  {
+    "id": "https://openalex.org/W4405531879",
+    "model": "openai",
+    "question": "How do structural features and intermolecular interactions within the CCHFV GP38\u2013Gn\u2013Gc glycoprotein complex, including glycan-mediated stabilization of prefusion Gc, compare with entry-glycoprotein architectures, immune epitopes, and vaccine-antigen design principles reported for other bunyaviruses and hemorrhagic fever viruses?"
+  },
+  {
+    "id": "https://openalex.org/W4317708751",
+    "model": "openai",
+    "question": "How do p53-dependent cell-cycle checkpoints and senescence programs interact with cyclin E1\u2013driven replication stress, ATR/Chk1 signaling, Wee1 activity, and APC/C-Cdh1 activation across different tumor contexts to either suppress or promote whole-genome duplication and subsequent aneuploid cancer evolution?"
+  },
+  {
+    "id": "https://openalex.org/W4401420229",
+    "model": "openai",
+    "question": "How can the MICSE guidelines be integrated with evidence from diverse in vivo senescence models, tissue contexts, and disease states to establish a reliable, context-specific framework for identifying and functionally validating senescent cells across species?"
+  },
+  {
+    "id": "https://openalex.org/W3138631549",
+    "model": "openai",
+    "question": "How do ternary or higher-order receptor\u2013ligand complexes, such as the NEO1\u2013NET1\u2013RGM super-assembly, compare with other axon guidance and cell migration signaling systems in their ability to integrate opposing extracellular cues by modulating receptor clustering, downstream pathway activation, and cellular outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W7147156458",
+    "model": "openai",
+    "question": "How do mechanisms and ecological consequences of arbitrium-mediated cross-communication among bacteriophages compare with other phage and bacterial quorum-sensing systems in shaping lysis\u2013lysogeny decisions, prophage induction, and microbial community dynamics?"
+  },
+  {
+    "id": "https://openalex.org/W4399670685",
+    "model": "openai",
+    "question": "How do NLRC5-mediated PANoptosome formation and heme/cytokine-triggered inflammatory cell death integrate with established NLRP3, NLRP12, AIM2, and ZBP1 inflammasome/PANoptosis pathways across infectious, hemolytic, and sterile inflammatory disease models, and what does the comparative literature suggest about NLRC5 as a therapeutic target?"
+  },
+  {
+    "id": "https://openalex.org/W4416702178",
+    "model": "openai",
+    "question": "How do empirical field-trial outcomes from photosynthetic protein overexpression and photorespiratory bypass engineering compare with model-based projections for carbon-concentrating mechanism installation in C3 crops, and what combined strategy is most likely to maximize sustainable yield gains across diverse environments?"
+  },
+  {
+    "id": "https://openalex.org/W4402843138",
+    "model": "openai",
+    "question": "How have ancient human migration, dairying practices, and microbial domestication processes jointly shaped the dispersal routes, genomic adaptation, and functional evolution of kefir-associated Lactobacillus strains across Eurasia from the Bronze Age to the present?"
+  },
+  {
+    "id": "https://openalex.org/W4206898072",
+    "model": "openai",
+    "question": "How do Omicron spike mutations that stabilize ACE2-recognizing conformations while impairing fusion efficiency compare with structural and immunological constraints observed across other SARS-CoV-2 variants and sarbecoviruses, and how can these conserved vulnerable regions inform the design of broadly protective vaccines and therapeutics?"
+  },
+  {
+    "id": "https://openalex.org/W4405531367",
+    "model": "openai",
+    "question": "How do pan-cancer and lineage-specific patterns of monoallelic versus biallelic tumor suppressor gene inactivation, particularly for genes such as KEAP1, integrate with existing functional genomics and clinical-response studies to refine the identification of driver variants and predict therapeutic sensitivity across cancer types?"
+  },
+  {
+    "id": "https://openalex.org/W4389478089",
+    "model": "openai",
+    "question": "How do basal forebrain cholinergic modulation and sleep-state-dependent recruitment of distinct cortical GABAergic interneuron subtypes interact to regulate cortical ignition and conscious sensory perception across NREM sleep, wakefulness, and related states in rodents, non-human primates, and humans?"
+  },
+  {
+    "id": "https://openalex.org/W7118203733",
+    "model": "openai",
+    "question": "How do injury-induced differences in pentose phosphate pathway activation between peripheral and central sensory axons integrate with known redox, nucleotide-biosynthesis, and metabolic-reprogramming mechanisms to determine regenerative competence after nervous system injury?"
+  },
+  {
+    "id": "https://openalex.org/W4307114720",
+    "model": "openai",
+    "question": "How do spatially resolved single-cell epigenomic maps of histone modifications, when integrated with spatial transcriptomics and 3D genome architecture studies, refine our understanding of promoter\u2013enhancer interactions and enhancer hub regulation during mouse brain development and cellular differentiation?"
+  },
+  {
+    "id": "https://openalex.org/W4414230536",
+    "model": "openai",
+    "question": "How do LEC2\u2013SPCH-mediated auxin biosynthesis circuits in stomatal-lineage progenitors compare with other known transcriptional and hormonal pathways that induce somatic embryogenesis or totipotency across plant tissues and species?"
+  },
+  {
+    "id": "https://openalex.org/W7164811381",
+    "model": "openai",
+    "question": "How do endogenous immune cell populations\u2014particularly cytotoxic natural killer cells, regulatory T cells, and immunosuppressive myeloid subsets\u2014shape clinical responses and resistance to CAR T cell therapies across glioblastoma and other solid tumors, and what combination immunomodulatory strategies have shown evidence for improving efficacy?"
+  },
+  {
+    "id": "https://openalex.org/W4399430096",
+    "model": "anthropic",
+    "question": "How do inner mitochondrial membrane quality control mechanisms coordinate with mitochondrial fission-fusion dynamics to regulate mtDNA copy number and nucleoid distribution across different cellular contexts and disease states?"
+  },
+  {
+    "id": "https://openalex.org/W4412570628",
+    "model": "anthropic",
+    "question": "How do multiplexed RNA-protein interaction mapping approaches like SPIDR compare with established single-protein methods (e.g., CLIP-based techniques) in terms of binding-site resolution, sensitivity, and biological insight, and what collective advances in mTOR-mediated translational control do these combined technologies reveal?"
+  },
+  {
+    "id": "https://openalex.org/W4414564053",
+    "model": "anthropic",
+    "question": "How do the structural and functional properties of astrocyte leaflet Ca\u00b2\u207a signaling compare across different brain regions and species, and what mechanisms determine whether these microdomain events remain localized or integrate into larger-scale astrocytic computations that influence distinct neural circuits?"
+  },
+  {
+    "id": "https://openalex.org/W4388520190",
+    "model": "anthropic",
+    "question": "How do cell-type-specific differences in proteostatic capacity and the unfolded protein response contribute to differential vulnerability to environmental stress across developmental stages and species?"
+  },
+  {
+    "id": "https://openalex.org/W4408896223",
+    "model": "anthropic",
+    "question": "How do the distinct tumor immune microenvironment subtypes and specific cell populations (such as FGFBP2+ NK/NK-like T cells, CCR8+ Tregs, and precursor exhausted T cells) identified in NSCLC neoadjuvant chemo-immunotherapy responders align with or diverge from immune signatures reported across other solid tumor types and treatment modalities in predicting therapeutic response and recurrence risk?"
+  },
+  {
+    "id": "https://openalex.org/W4403860647",
+    "model": "anthropic",
+    "question": "How do archaically-derived immunogenetic variants, such as KIR3DL1*114, shape population-specific NK cell responses and infectious disease susceptibility across geographically and ancestrally distinct human populations?"
+  },
+  {
+    "id": "https://openalex.org/W7117130201",
+    "model": "anthropic",
+    "question": "How do the metabolic adaptation mechanisms that enable regulatory T cells to survive and function in ammonia-rich, glutaminolysis-driven tumor microenvironments compare across different cancer types, and to what extent do these shared or divergent pathways represent generalizable therapeutic targets for overcoming immunotherapy resistance?"
+  },
+  {
+    "id": "https://openalex.org/W4414579243",
+    "model": "anthropic",
+    "question": "How do cell-type-specific variations in ciliary proteome composition, as revealed by spatial proteomics, correlate with the tissue-specific phenotypic heterogeneity observed across different ciliopathies?"
+  },
+  {
+    "id": "https://openalex.org/W7140315114",
+    "model": "anthropic",
+    "question": "How do developmental changes in entorhinal grid-cell-like codes for non-spatial conceptual spaces relate to the broader maturation of hippocampal-prefrontal circuits that support schema formation and inferential reasoning across childhood and adolescence?"
+  },
+  {
+    "id": "https://openalex.org/W4411412377",
+    "model": "anthropic",
+    "question": "How does the morphological and genetic evidence linking Denisovans to the Harbin cranium reshape the taxonomic classification and phylogenetic relationships among East Asian Middle Pleistocene hominin fossils?"
+  },
+  {
+    "id": "https://openalex.org/W4293658735",
+    "model": "anthropic",
+    "question": "How do the photophysical trade-offs between brightness, photostability, and voltage sensitivity in genetically encoded voltage indicators optimized for two-photon microscopy compare across different protein engineering strategies and screening platforms developed for both fluorescent proteins and rhodopsin-based sensors?"
+  },
+  {
+    "id": "https://openalex.org/W3094860119",
+    "model": "anthropic",
+    "question": "How do the immunogenicity and protective efficacy of self-assembling protein nanoparticle platforms displaying receptor-binding domains compare across different viral pathogens and antigen display strategies, and what structural and immunological factors determine their relative success in eliciting broadly neutralizing, escape-resistant antibody responses?"
+  },
+  {
+    "id": "https://openalex.org/W4372336992",
+    "model": "anthropic",
+    "question": "**Question:** How does the lipid composition of the plasma membrane modulate \u03b2-arrestin preassociation and its subsequent interactions with GPCRs across different receptor subtypes and cellular contexts?"
+  },
+  {
+    "id": "https://openalex.org/W4390739389",
+    "model": "anthropic",
+    "question": "How do accessory subunits across different organisms modulate the catalytic core function and oxygen sensitivity of mitochondrial complex I, and what conserved structural mechanisms link ubiquinone binding pocket dynamics to the rescue of complex I deficiency under varying oxygen conditions?"
+  },
+  {
+    "id": "https://openalex.org/W3097788036",
+    "model": "anthropic",
+    "question": "How do type I and type II interferon signaling pathways differentially regulate hematopoietic stem cell reprogramming and myelopoiesis across distinct chronic infections and inflammatory contexts, and what determines whether their engagement results in protective or detrimental trained immunity?"
+  },
+  {
+    "id": "https://openalex.org/W4317436091",
+    "model": "anthropic",
+    "question": "How do the synaptic potentiation mechanisms underlying behavioral timescale plasticity in CA1 neurons compare with those governing other forms of hippocampal plasticity, such as classical Hebbian long-term potentiation, across different learning contexts and neural circuits?"
+  },
+  {
+    "id": "https://openalex.org/W4382241824",
+    "model": "anthropic",
+    "question": "How did the diversification of nucleotide second messengers (e.g., cGAMP isomers, c-UMP-AMP, and c-di-AMP) synthesized by cGLRs co-evolve with downstream STING signaling specificity across metazoan phyla to establish discrete innate immune pathways?"
+  },
+  {
+    "id": "https://openalex.org/W4253933889",
+    "model": "anthropic",
+    "question": "How do the spatial organization patterns of cellular neighborhoods within the tumor microenvironment, as revealed by multiplexed tissue imaging across different cancer types, correlate with antitumoral immune function and patient clinical outcomes?"
+  },
+  {
+    "id": "https://openalex.org/W4406510165",
+    "model": "anthropic",
+    "question": "How do the structural adaptations and mechanical resilience of the nuclear pore complex observed during HIV-1 capsid passage compare across different viral and cellular cargoes, and what do these commonalities and differences reveal about the general biophysical limits of nucleocytoplasmic transport?"
+  },
+  {
+    "id": "https://openalex.org/W4417497881",
+    "model": "anthropic",
+    "question": "How do the type I interferon signaling pathways and lipid nanoparticle-mediated dendritic cell modulation identified in mRNA vaccines compare with the adjuvant mechanisms of conventional vaccine platforms in balancing the trade-off between robust T follicular helper cell-driven humoral immunity and potential interferon-associated immunopathology?"
+  },
+  {
+    "id": "https://openalex.org/W4402515518",
+    "model": "anthropic",
+    "question": "How does the RING-Bait strategy's mechanism of clustering-induced E3 ligase dimerization for selective aggregate degradation compare in efficacy, specificity, and translational potential to other proximity-based targeted protein degradation approaches, such as PROTACs, molecular glues, and autophagy-targeting chimeras, across diverse neurodegenerative proteinopathies?"
+  },
+  {
+    "id": "https://openalex.org/W4412826966",
+    "model": "anthropic",
+    "question": "How do the cell-type-specific epigenomic erosion signatures identified in Alzheimer's disease compare to epigenomic dysregulation patterns observed across other neurodegenerative disorders and normal aging, and to what extent do they represent disease-specific versus shared mechanisms of neurodegeneration?"
+  },
+  {
+    "id": "https://openalex.org/W4311359167",
+    "model": "anthropic",
+    "question": "How do the antibody evasion mechanisms of BQ and XBB Omicron subvariants compare across different vaccine platforms and prior infection histories, and what implications do these convergent spike mutations have for the design of next-generation broadly protective COVID-19 vaccines and therapeutic antibodies?"
+  },
+  {
+    "id": "https://openalex.org/W4411412223",
+    "model": "anthropic",
+    "question": "How do the spatiotemporal signaling networks and regionalized gene expression patterns identified during early organogenesis compare across vertebrate species and integrate with established gene regulatory network models to explain the conserved versus divergent mechanisms underlying cardiac primordium specification and developmental defect susceptibility?"
+  },
+  {
+    "id": "https://openalex.org/W4403405969",
+    "model": "anthropic",
+    "question": "How do current AI and omics-based approaches to multi-scale cellular modeling compare in their capacity to integrate heterogeneous molecular, cellular, and tissue-level data into unified predictive frameworks, and what methodological and infrastructural challenges must be collectively addressed to realize a fully functional AI virtual cell?"
+  },
+  {
+    "id": "https://openalex.org/W4397002620",
+    "model": "anthropic",
+    "question": "How do the mechanisms of vaccine-driven selection of improbable somatic hypermutations in MPER-targeting bnAb lineages compare across different HIV-1 immunogen design strategies, and what B cell ontogeny principles govern their reproducible induction in humans?"
+  },
+  {
+    "id": "https://openalex.org/W3175735655",
+    "model": "anthropic",
+    "question": "How do endogenous retroviruses function as intermediaries in host-microbiota communication across different tissue barriers, and to what extent do dietary and environmental factors modulate this cGAS/STING-dependent immune dialog in both homeostatic and pathological contexts?"
+  },
+  {
+    "id": "https://openalex.org/W7166732033",
+    "model": "anthropic",
+    "question": "How do mechanotransduction, chromatin accessibility, and Notch-mediated lateral inhibition interact across species and tissue types to convert transient cellular heterogeneity into stable, self-organized spatial patterns during regeneration?"
+  },
+  {
+    "id": "https://openalex.org/W4310071929",
+    "model": "anthropic",
+    "question": "How do the evolutionary dynamics and functional consequences of HAQERs compare to those of other rapidly evolving human genomic regions, such as human accelerated regions (HARs), in terms of their contributions to human-specific neurodevelopmental traits and disease susceptibility?"
+  },
+  {
+    "id": "https://openalex.org/W4382247824",
+    "model": "anthropic",
+    "question": "How does structure-based clustering using AlphaFold2 predictions compare to traditional sequence-based methods in its ability to reveal functional diversity and uncover novel enzymatic properties across protein families?"
+  },
+  {
+    "id": "https://openalex.org/W4394603687",
+    "model": "anthropic",
+    "question": "How do the mechanisms by which *Fusobacterium* confers resistance to immune checkpoint blockade compare across different cancer types and metastatic sites, and to what extent are these mechanisms mediated by tumor hypoxia, neutrophil infiltration, or microbial community dynamics?"
+  },
+  {
+    "id": "https://openalex.org/W4225287557",
+    "model": "anthropic",
+    "question": "How do the recently identified contributions of clonal hematopoiesis, cellular senescence, and gut microbiome interactions converge on common inflammatory pathways to influence atherosclerotic plaque progression across different cellular subpopulations?"
+  },
+  {
+    "id": "https://openalex.org/W4385956066",
+    "model": "anthropic",
+    "question": "How do legal definitions and ethical frameworks governing human embryo models vary across different jurisdictions, and what regulatory approaches have been proposed to reconcile these differences with the rapidly evolving capabilities of stem cell-based embryo models?"
+  },
+  {
+    "id": "https://openalex.org/W4416955275",
+    "model": "gemini",
+    "question": "How do recent discoveries of fertilization-induced proteomic asymmetry in mammalian embryos challenge the long-held paradigm of early blastomere equivalence, and what conserved molecular mechanisms govern this symmetry-breaking event across different mammalian and non-mammalian species?"
+  },
+  {
+    "id": "https://openalex.org/W4409108775",
+    "model": "gemini",
+    "question": "How does the integration of single-cell protein turnover dynamics with single-cell transcriptomic and epigenomic profiles reshape our understanding of post-transcriptional regulation and protein-to-cell-size scaling during mammalian stem cell differentiation?"
+  },
+  {
+    "id": "https://openalex.org/W4404299477",
+    "model": "gemini",
+    "question": "How does the newly discovered CNDP2-dependent BHB-amino acid pathway integrate with established Lac-Phe and classical ketone signaling mechanisms to collectively regulate appetite and energy homeostasis under different metabolic states?"
+  },
+  {
+    "id": "https://openalex.org/W4401699332",
+    "model": "gemini",
+    "question": "How do the structural properties, mechanisms of membrane-disrupting action, and therapeutic indices of newly identified human metagenome-derived smORF-encoded peptides (SEPs) compare to those of classical bacteriocins and eukaryotic host-defense peptides currently documented in the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4406366504",
+    "model": "gemini",
+    "question": "How do the molecular and microenvironmental mechanisms of loss-translocation-amplification (LTA) chromothripsis in osteosarcoma compare with patterns of punctuated genomic evolution in other TP53-deficient malignancies, and what are the implications of these distinct mutational processes for therapeutic targeting and clinical prognosis?"
+  },
+  {
+    "id": "https://openalex.org/W4386887353",
+    "model": "gemini",
+    "question": "How well do the route-dependent clinical pathologies and transcriptomic immune signatures observed in this rhesus macaque model of mpox align with the diverse clinical presentations and mucosal immune responses documented in human patients during the 2022\u20132023 global outbreak?"
+  },
+  {
+    "id": "https://openalex.org/W7116953306",
+    "model": "gemini",
+    "question": "How do emerging multi-compartment in vitro endometrial platforms compare to traditional two-dimensional co-cultures and animal models in their capacity to recapitulate the complex molecular crosstalk and trophoblast invasion dynamics characteristic of early human embryo implantation?"
+  },
+  {
+    "id": "https://openalex.org/W4317898754",
+    "model": "gemini",
+    "question": "How does the discovery of diverse, potentially prokaryote-infecting viroid-like covalently closed circular (ccc) RNAs challenge and expand current evolutionary models regarding the transition between protein-free RNA replicators and capsid-encoding viruses across different domains of life?"
+  },
+  {
+    "id": "https://openalex.org/W3006211741",
+    "model": "gemini",
+    "question": "How do proteogenomic and epigenetic alterations in the Wnt/\u03b2-catenin and p53 pathways shape the tumor immune microenvironment of endometrial cancer subtypes, and how can these multi-omic insights be synthesized to optimize personalized immunotherapy strategies?"
+  },
+  {
+    "id": "https://openalex.org/W4389614233",
+    "model": "gemini",
+    "question": "How do host immunogenetic variations and co-infections with distinct herpesvirus variants, such as EBV and HCMV, synergistically regulate the natural killer and T-cell-mediated clearance of molecular mimicry-derived autoreactive cells in multiple sclerosis and related neuroinflammatory disorders?"
+  },
+  {
+    "id": "https://openalex.org/W3007245269",
+    "model": "gemini",
+    "question": "How do recent genomic and evolutionary studies across diverse cancer types support or refine the model that the cumulative, additive effect of low-to-medium-impact passenger mutations significantly contributes to tumor progression and phenotypic heterogeneity?"
+  },
+  {
+    "id": "https://openalex.org/W4401173845",
+    "model": "gemini",
+    "question": "How do the structural mechanisms of non-canonical transducer coupling and superficial ligand binding observed in the Duffy antigen receptor compare across the broader class of atypical chemokine receptors (ACKRs) to explain their distinct pharmacological phenotypes and roles in host defense?"
+  },
+  {
+    "id": "https://openalex.org/W4403729668",
+    "model": "gemini",
+    "question": "How do emerging scalable computational tools like Memento compare with traditional differential expression frameworks in their ability to accurately decouple biological heterogeneity from technical noise in multi-million-cell single-cell RNA-sequencing datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4381682244",
+    "model": "gemini",
+    "question": "How does the cooperative activation of the ZBP1-cGAS pathway by unstable mitochondrial DNA drive sterile inflammation across different tissue-specific pathologies, and what are the therapeutic prospects of targeting this axis in chronic interferon-related disorders?"
+  },
+  {
+    "id": "https://openalex.org/W3044545672",
+    "model": "gemini",
+    "question": "How do the positively selected somatic mutations and millimeter-scale clonal expansions observed in the inflamed colonic mucosa of patients with inflammatory bowel disease functionally alter epithelial barrier integrity, and what role do they play in the evolutionary transition from chronic colitis to colitis-associated colorectal cancer?"
+  },
+  {
+    "id": "https://openalex.org/W4400415826",
+    "model": "gemini",
+    "question": "How do non-canonical interactions between small nucleolar RNAs (snoRNAs) and ribosomal proteins modulate ribosome biogenesis stress and p53-dependent signaling pathways across different cellular senescence models and human pathologies?"
+  },
+  {
+    "id": "https://openalex.org/W4399367032",
+    "model": "gemini",
+    "question": "How do machine-learning-driven discovery pipelines for metagenomic antimicrobial peptides compare to traditional rational design methodologies regarding their success rates, structural diversity, and translational challenges in overcoming antibiotic resistance?"
+  },
+  {
+    "id": "https://openalex.org/W4322767187",
+    "model": "gemini",
+    "question": "How do the genomic mechanisms of adaptation to extreme cold and photoperiod seasonality in the Antarctic krill (*Euphausia superba*)\u2014specifically regarding transposable element-driven genome expansion, circadian clock architecture, and metabolic gene family expansions\u2014compare to the evolutionary strategies observed in other polar marine invertebrates?"
+  },
+  {
+    "id": "https://openalex.org/W7138376535",
+    "model": "gemini",
+    "question": "How does the mismatch between demographic recovery and the restoration of ancestral genetic fitness in historically exploited marine mammal species affect their long-term adaptive capacity in the face of contemporary climate change?"
+  },
+  {
+    "id": "https://openalex.org/W7161624394",
+    "model": "gemini",
+    "question": "How does nanotube-mediated intercellular transfer of cytoplasmic DNA compare to other horizontal gene transfer mechanisms, such as extracellular vesicle-mediated transport, in driving genomic heterogeneity and clonal evolution within the mammalian microenvironment?"
+  },
+  {
+    "id": "https://openalex.org/W4413813906",
+    "model": "gemini",
+    "question": "How do random-priming-based spatial transcriptomics platforms compare to traditional poly(A)-capture methods in their ability to simultaneously profile host-pathogen dual transcriptomes and immune receptor repertoires within archived clinical FFPE tissues?"
+  },
+  {
+    "id": "https://openalex.org/W3127277789",
+    "model": "gemini",
+    "question": "How does the trade-off between enhanced receptor-binding affinity and antibody evasion demonstrated by the N439K mutation compare to other key receptor-binding motif variants, and what does this suggest about the global evolutionary trajectory of SARS-CoV-2 resistance against current vaccine and therapeutic platforms?"
+  },
+  {
+    "id": "https://openalex.org/W4409877626",
+    "model": "gemini",
+    "question": "How do the spatial priming and architectural memory of subcapsular sinus macrophages in draining lymph nodes dictate memory B cell reactivation kinetics across diverse vaccine platforms and anatomical immunization routes?"
+  },
+  {
+    "id": "https://openalex.org/W4405987069",
+    "model": "gemini",
+    "question": "How do emerging single-cell base-editing technologies, such as D&D-seq, compare to established endonuclease- and methyltransferase-based profiling methods (like scCUT&Tag and scDamID) in their capability to resolve weak or transient transcription factor-DNA interactions within heterochromatic genomic regions?"
+  },
+  {
+    "id": "https://openalex.org/W4408789657",
+    "model": "gemini",
+    "question": "How do the mutational constraints and antibody escape pathways mapped for the Nipah virus receptor-binding protein compare with those of other emerging henipaviruses, and how can these combined insights guide the development of broadly neutralizing, escape-resistant vaccines and therapies?"
+  },
+  {
+    "id": "https://openalex.org/W3095668735",
+    "model": "gemini",
+    "question": "How does the targeted optogenetic activation of sparse hippocampal place cell ensembles, as demonstrated in virtual reality paradigms, integrate with broader network-level dynamics across the entorhinal-hippocampal circuit to guide goal-directed navigation in physical environments?"
+  },
+  {
+    "id": "https://openalex.org/W4380049276",
+    "model": "gemini",
+    "question": "What are the precise molecular pathways through which insulin resistance impairs myocardial mitochondrial energetics, and how does this metabolic dysfunction ultimately drive the progression of diabetic cardiomyopathy?"
+  },
+  {
+    "id": "https://openalex.org/W4394998558",
+    "model": "gemini",
+    "question": "What are the precise molecular mechanisms by which brown adipose tissue-derived branched-chain amino acid metabolites regulate inter-organ communication and systemic insulin sensitivity independently of thermogenic energy expenditure?"
+  },
+  {
+    "id": "https://openalex.org/W4281780442",
+    "model": "gemini",
+    "question": "How do the structural and physiological differences between bacterial protease machinery (such as ClpC:ClpP) and the eukaryotic ubiquitin-proteasome system dictate the design principles, selectivity, and resistance profiles of targeted protein degraders across diverse pathogenic species?"
+  },
+  {
+    "id": "https://openalex.org/W7164126234",
+    "model": "gemini",
+    "question": "How does the interplay between nucleotide excision repair activity and dNTP pool homeostasis dictate the susceptibility of diverse post-mitotic tissues to various classes of DNA-damaging chemotherapeutic agents?"
+  },
+  {
+    "id": "https://openalex.org/W4379615702",
+    "model": "gemini",
+    "question": "How do the interactions between global air transportation networks, localized public health interventions, and intrinsic viral transmissibility shape the phylogeographic source-sink dynamics of emerging respiratory pathogens during pandemic events?"
+  },
+  {
+    "id": "https://openalex.org/W4385077788",
+    "model": "gemini",
+    "question": "How does the HERC2-ZNRD2-mediated recognition of orphan CCT subunits compare structurally and mechanistically to the quality control pathways responsible for identifying and degrading unassembled subunits of other major cytosolic multi-protein complexes?"
+  },
+  {
+    "id": "https://openalex.org/W4411555666",
+    "model": "gemini",
+    "question": "How does the therapeutic efficacy and safety profile of GPCR kinase (GRK)-biased $\\beta_2$-adrenergic receptor agonists compare to those of established incretin mimetics and traditional GPCR-targeted therapies in the long-term management of type 2 diabetes and obesity?"
+  },
+  {
+    "id": "https://openalex.org/W7166023512",
+    "model": "anthropic",
+    "question": "How do IL-6-dependent PIEZO1 upregulation and system Xc\u207b-mediated glutamate release compare with other cytokine- and channel-driven mechanisms of epithelial-to-neuronal signaling across different chronic visceral pain syndromes and organ systems?"
+  }
+]

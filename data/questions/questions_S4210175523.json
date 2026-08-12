@@ -1,0 +1,502 @@
+[
+  {
+    "id": "https://openalex.org/W3177428785",
+    "model": "openai",
+    "question": "How do retraining-free adversarial defense strategies that combine decision-boundary modification, hash-based compression, and gradient obfuscation compare with adversarial training, certified robustness methods, and input-transformation defenses across white-box, adaptive, and black-box attack settings in terms of robustness, computational cost, and susceptibility to adaptive circumvention?"
+  },
+  {
+    "id": "https://openalex.org/W3163734244",
+    "model": "openai",
+    "question": "How have adaptive neural-network-based backstepping boundary control methods been developed and validated across the literature to address vibration suppression, attitude tracking, input nonlinearities, asymmetric output constraints, and parametric uncertainties in flexible spacecraft systems?"
+  },
+  {
+    "id": "https://openalex.org/W4210984939",
+    "model": "openai",
+    "question": "How do delay-free saturation-based control strategies for finite-time and fixed-time bipartite synchronization in signed memristive neural networks with multiple delays compare with sign-function, adaptive, impulsive, and event-triggered controllers reported in the broader synchronization literature in terms of convergence guarantees, chattering reduction, robustness to cooperative\u2013competitive topology, and optimization of control parameters?"
+  },
+  {
+    "id": "https://openalex.org/W3014238038",
+    "model": "openai",
+    "question": "How do random sketching and dimensionality-leveraging approaches for shallow ReLU neural networks compare with related sketching methods in kernel learning and randomized numerical linear algebra in terms of approximation guarantees, statistical learning rates, and computational trade-offs for nonconvex neural network training?"
+  },
+  {
+    "id": "https://openalex.org/W4205355081",
+    "model": "openai",
+    "question": "How do feature-level adaptation strategies such as SFA-Net compare with image-restoration-first pipelines, domain adaptation methods, and adverse-weather data augmentation approaches across synthetic and real rainy driving datasets for improving object detection robustness under rain-induced visibility degradation?"
+  },
+  {
+    "id": "https://openalex.org/W4414856635",
+    "model": "openai",
+    "question": "How do preprocessing-based counterfactual fair representation methods such as CRVAE compare with in-processing fairness-constrained models and domain-adversarial adaptation approaches in preserving individual-level counterfactual fairness, predictive accuracy, and robustness under covariate shift across different causal-graph assumptions?"
+  },
+  {
+    "id": "https://openalex.org/W3135642434",
+    "model": "openai",
+    "question": "How do inverse dynamics modeling, multigoal co-learning, and self-supervised auxiliary objectives compare across recent reinforcement-learning approaches in improving sample efficiency, sparse-reward learning, and scene generalization for multigoal visual navigation in embodied AI environments such as AI2-THOR?"
+  },
+  {
+    "id": "https://openalex.org/W4386825288",
+    "model": "openai",
+    "question": "How do node-aware gradient communication optimization schemes in distributed data-parallel deep neural network training compare with established approaches such as gradient compression, sparsification, asynchronous updates, local SGD, and hierarchical all-reduce in terms of communication latency reduction, convergence behavior, scalability, and model accuracy across heterogeneous architectures and application domains?"
+  },
+  {
+    "id": "https://openalex.org/W3211583675",
+    "model": "openai",
+    "question": "How do different reinforcement learning formulations and algorithmic choices for single- and multi-robot exploration compare in addressing exploration\u2013exploitation trade-offs, reward shaping, scalability, and sim-to-real transfer across diverse unknown-environment scenarios?"
+  },
+  {
+    "id": "https://openalex.org/W4385267381",
+    "model": "openai",
+    "question": "How do fractal-dimension-based feature priors compare with other inductive biases and embedding regularization strategies in few-shot learning for improving cross-domain robustness under limited-sample and distribution-shift conditions?"
+  },
+  {
+    "id": "https://openalex.org/W3198713693",
+    "model": "openai",
+    "question": "How do pixel-level spectrum transformations (e.g., grayscale-spectrum substitution or GAN-based modality translation), feature-level modality-sharing architectures, and ranking/identity losses collectively affect the preservation of structural identity cues and reduction of visible\u2013infrared modality discrepancy in VI-ReID across benchmark datasets such as SYSU-MM01 and RegDB?"
+  },
+  {
+    "id": "https://openalex.org/W3207380642",
+    "model": "openai",
+    "question": "How do bioinspired proprioceptive neuroendocrine control architectures that combine CPGs, artificial hormone networks, and correlation-based short-term memory compare with model-based, reinforcement-learning, and exteroceptive-feedback locomotion controllers in enabling energy-efficient, adaptive, and proactive obstacle negotiation across diverse legged robots and unstructured terrains?"
+  },
+  {
+    "id": "https://openalex.org/W4410115271",
+    "model": "openai",
+    "question": "How do different quantum federated learning architectures and taxonomies reported across the literature compare in terms of privacy preservation, communication efficiency, computational advantage, scalability on near-term quantum hardware, and suitability for real-world distributed learning applications?"
+  },
+  {
+    "id": "https://openalex.org/W4402302050",
+    "model": "openai",
+    "question": "How do maximization-based graph convolutions compare theoretically and empirically with residual, attention-based, rewiring, and multi-hop aggregation approaches in mitigating over-smoothing and over-squashing while preserving scalability on large-scale graph learning tasks?"
+  },
+  {
+    "id": "https://openalex.org/W4388966583",
+    "model": "openai",
+    "question": "How do cross-domain ECG classification architectures that integrate time- and frequency-domain representations, such as SCDNN with soft-adaptive spectral thresholding, compare with prior feature-engineering, CNN/RNN/Transformer, and hybrid spectral\u2013temporal approaches in terms of interpretability, computational efficiency, robustness across datasets, and ability to detect complex arrhythmia or morphology patterns?"
+  },
+  {
+    "id": "https://openalex.org/W3093499421",
+    "model": "openai",
+    "question": "How do orthogonal-projection-based repetitive motion generation schemes and recurrent neural network controllers compare with prior redundancy-resolution approaches across the literature in theoretically eliminating Cartesian position error and joint drift while maintaining stability, feasibility, and joint-constraint satisfaction in fixed-base, mobile, and multi-robot redundant manipulators?"
+  },
+  {
+    "id": "https://openalex.org/W4282929859",
+    "model": "openai",
+    "question": "How do multiscale temporal modeling strategies, attention-based two-stream fusion mechanisms, and multitask learning frameworks compare across recent human activity recognition and anticipation studies in their ability to improve real-time recognition of midterm versus long-term human behaviors across diverse application domains?"
+  },
+  {
+    "id": "https://openalex.org/W3207900347",
+    "model": "openai",
+    "question": "How do theoretical guarantees for eliminating steady-state tracking error and ensuring local asymptotic stability in neural-network controllers augmented with error-integral inputs compare across the broader literature on neural adaptive control, PI/PID-inspired neural control, and nonlinear system linearization methods, particularly for renewable-energy integration applications?"
+  },
+  {
+    "id": "https://openalex.org/W3153686193",
+    "model": "openai",
+    "question": "How do generalized likelihood ratio test\u2013based adaptive anomaly detectors for hyperspectral imagery with unknown covariance and multi-pixel anomaly structure compare across the broader literature with alternative CFAR, subspace, sparsity-based, and deep-learning anomaly detection methods in terms of theoretical assumptions, false-alarm control, computational complexity, and empirical performance on real hyperspectral datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4285192862",
+    "model": "openai",
+    "question": "How do fixed-time pinning and adaptive pinning synchronization strategies for quaternion-valued neural networks with time-varying delays compare with existing finite-time, event-triggered, and full-node control approaches in terms of convergence-time guarantees, communication burden, robustness to delays, and scalability across complex-valued or real-valued neural network models?"
+  },
+  {
+    "id": "https://openalex.org/W4410115157",
+    "model": "openai",
+    "question": "How do spectral feature extraction, prompt-based adaptation of RGB tracking architectures, and occlusion-aware distractor modeling compare across recent hyperspectral object tracking studies in addressing dataset bias, camouflage, and spectral\u2013spatial ambiguity in challenging tracking scenarios?"
+  },
+  {
+    "id": "https://openalex.org/W4388469956",
+    "model": "openai",
+    "question": "How do physics-informed neural network approaches based on equivalent circuit models compare with traditional data-driven neural networks and model-based electrochemical or ECM methods across the literature in terms of interpretability, data efficiency, parameter identifiability, computational cost, and end-of-discharge prediction accuracy for lithium-ion battery prognosis under variable loading conditions?"
+  },
+  {
+    "id": "https://openalex.org/W4402475181",
+    "model": "openai",
+    "question": "How do multilabel machine-learning frameworks that incorporate disease\u2013microbe semantic similarity, feature-selection priors, and imbalance-aware loss functions compare with single-label microbiome-based classifiers across diverse studies in their ability to identify robust, generalizable gut microbial biomarkers for complex human diseases?"
+  },
+  {
+    "id": "https://openalex.org/W3154705048",
+    "model": "openai",
+    "question": "How do neuromodulator-inspired gain modulation and cerebellar-like error-based correction mechanisms in recurrent neural networks compare with alternative biologically inspired and conventional control strategies in enabling stable, efficient, and generalizable control of highly redundant musculoskeletal robots?"
+  },
+  {
+    "id": "https://openalex.org/W4205314539",
+    "model": "openai",
+    "question": "How do continuous- and discrete-time recurrent neural network approaches for linearly constrained \\(l_1\\)-norm optimization compare with classical convex optimization algorithms and alternative neural-dynamic methods in terms of convergence guarantees, computational complexity, robustness, sparsity preservation, and scalability across LAD regression and related sparse estimation problems?"
+  },
+  {
+    "id": "https://openalex.org/W4388505329",
+    "model": "openai",
+    "question": "How do spatial-temporal graph-based deep learning approaches\u2014particularly those combining slow feature analysis, metric learning, prior process knowledge, variational inference, and graph attention mechanisms\u2014compare with traditional multivariate statistical monitoring and unit-level fault detection models in capturing dynamic coupling and improving fault detection performance across interconnected industrial processes?"
+  },
+  {
+    "id": "https://openalex.org/W7164316858",
+    "model": "openai",
+    "question": "How do constraint-based memory stability mechanisms and gradient-similarity-driven selective rehearsal strategies compare with other continual learning approaches in mitigating catastrophic forgetting while preserving adaptation capacity in online motion forecasting and related autonomous driving tasks?"
+  },
+  {
+    "id": "https://openalex.org/W4378804891",
+    "model": "openai",
+    "question": "How have semisupervised constraints such as must-link/cannot-link regularization and self-paced or curriculum learning strategies been integrated across prior deep multiview clustering studies to improve representation learning, view complementarity exploitation, and clustering performance on heterogeneous image datasets?"
+  },
+  {
+    "id": "https://openalex.org/W3148874463",
+    "model": "openai",
+    "question": "How do feedback- and attention-based mechanisms in deep learning segmentation models, such as FANet\u2019s use of previous-epoch prediction masks, compare with other iterative refinement, temporal ensembling, self-training, and attention-gating strategies across biomedical image segmentation tasks in terms of accuracy, generalizability, computational cost, and robustness to dataset heterogeneity?"
+  },
+  {
+    "id": "https://openalex.org/W4390075009",
+    "model": "openai",
+    "question": "How do layer-adaptive parameter sharing, locality-enhanced transformer modules, and evolutionary architecture search jointly affect performance\u2013storage trade-offs in multi-task vision transformers compared with prior CNN-based, hierarchical-transformer-based, and task-specific backbone approaches across diverse visual recognition tasks?"
+  },
+  {
+    "id": "https://openalex.org/W4403674934",
+    "model": "openai",
+    "question": "How do recent advances in Lyapunov\u2013Krasovskii functional construction, integral inequality techniques such as Legendre- and Wirtinger-based bounds, and delay-dependent matrix relaxation methods collectively reduce conservatism in stability criteria for memristor-based neural networks with time-varying delays?"
+  },
+  {
+    "id": "https://openalex.org/W4283824376",
+    "model": "openai",
+    "question": "How do internal-consistency approaches such as knowledge-graph embeddings and logical inference compare and complement external-consistency methods based on source agreement or validation against reference knowledge bases in improving the robustness of knowledge-quality evaluation for noisy multisource knowledge graphs?"
+  },
+  {
+    "id": "https://openalex.org/W3184382748",
+    "model": "openai",
+    "question": "How do blockwise indirect convolution approaches such as ECBC compare with direct convolution, im2col/GEMM, Winograd, FFT-based, and hardware-specific tensor-layout optimization methods across diverse neural network architectures and computing platforms in terms of memory overhead, data-movement cost, cache efficiency, and end-to-end inference/training performance?"
+  },
+  {
+    "id": "https://openalex.org/W4294310675",
+    "model": "anthropic",
+    "question": "How do weakly supervised segmentation approaches using bounding-box annotations compare across different pseudo-label generation and noise-mitigation strategies in terms of balancing annotation cost, mask quality, and inference efficiency?"
+  },
+  {
+    "id": "https://openalex.org/W4410809484",
+    "model": "anthropic",
+    "question": "How do fuzzy self-adjusted and time-varying parameter mechanisms in neural networks compare to other adaptive strategies across the broader literature on zeroing neural networks in terms of their trade-offs between convergence speed, robustness, and computational complexity when solving time-varying quadratic programming problems?"
+  },
+  {
+    "id": "https://openalex.org/W4285505540",
+    "model": "anthropic",
+    "question": "How do information-theoretic disentanglement approaches based on mutual information and attribute factorization compare with alternative latent disentanglement strategies, such as adversarial or contrastive methods, in achieving unpaired domain mapping for face reenactment across diverse generative frameworks?"
+  },
+  {
+    "id": "https://openalex.org/W3002638499",
+    "model": "anthropic",
+    "question": "How do the incremental learning strategies employed in oblique random forests compare to those developed for other tree-based and neural network ensemble methods in terms of their ability to mitigate catastrophic forgetting while accommodating both new samples and unseen classes?"
+  },
+  {
+    "id": "https://openalex.org/W3127377180",
+    "model": "anthropic",
+    "question": "How do geometric structure-preserving regularization techniques in variational autoencoders compare across different manifold learning approaches in terms of their ability to preserve local neighborhood relationships while addressing the problem of discontinuities in latent space?"
+  },
+  {
+    "id": "https://openalex.org/W4360993714",
+    "model": "anthropic",
+    "question": "How do pinball loss-based classification methods compare to hinge loss and other loss function approaches across various supervised learning tasks in terms of the trade-offs between noise insensitivity, re-sampling stability, and computational complexity?"
+  },
+  {
+    "id": "https://openalex.org/W7117253459",
+    "model": "anthropic",
+    "question": "How do space-frequency and cross-attention mechanisms for node feature optimization in graph-based neural operators compare with alternative multiscale and spectral representation strategies employed across neural operator architectures in terms of improving solution accuracy and data efficiency for solving PDEs?"
+  },
+  {
+    "id": "https://openalex.org/W4226185702",
+    "model": "anthropic",
+    "question": "How do model-order reduction techniques such as proper orthogonal decomposition and discrete empirical interpolation compare, in terms of accuracy-efficiency trade-offs and stability preservation, when applied across different recurrent and reservoir computing architectures?"
+  },
+  {
+    "id": "https://openalex.org/W4392796768",
+    "model": "anthropic",
+    "question": "How do different multiscale and spectral graph neural network approaches, such as graph framelet-based methods, compare in their theoretical properties and empirical effectiveness at capturing long-range dependencies for node classification on heterophilous graphs?"
+  },
+  {
+    "id": "https://openalex.org/W4410226722",
+    "model": "anthropic",
+    "question": "How do weighted policy iteration approaches compare to other neural network-based adaptive dynamic programming methods in balancing the trade-off between approximation accuracy, control policy admissibility, and computational efficiency across nonlinear optimal control problems?"
+  },
+  {
+    "id": "https://openalex.org/W4213080446",
+    "model": "anthropic",
+    "question": "How do interpretability-guided channel pruning approaches, such as those leveraging class-wise contribution analysis, compare with other explainability-based and importance-based pruning criteria across different network architectures and datasets in balancing model compression with performance preservation?"
+  },
+  {
+    "id": "https://openalex.org/W4413967112",
+    "model": "anthropic",
+    "question": "How do the theoretical guarantees and empirical convergence rates of Nesterov-accelerated adaptive moment estimation methods in distributed online optimization compare to those of alternative acceleration and gradient-tracking techniques across varying network topologies and degrees of problem time-variation?"
+  },
+  {
+    "id": "https://openalex.org/W7127582909",
+    "model": "anthropic",
+    "question": "How do causal graph structure learning approaches that leverage the causal invariance principle compare to correlation-based and attention-driven graph learning methods across different industrial process monitoring applications in terms of fault detection reliability and interpretability?"
+  },
+  {
+    "id": "https://openalex.org/W3118560429",
+    "model": "anthropic",
+    "question": "How do event-triggered model-free adaptive control strategies compare with model-based resilient control approaches in terms of communication efficiency and tracking performance for nonlinear cyber-physical systems subjected to consecutive jamming attacks?"
+  },
+  {
+    "id": "https://openalex.org/W4294311193",
+    "model": "anthropic",
+    "question": "How do the accuracy and quality of facial priors extracted from low-resolution versus high-resolution face images comparatively influence the reconstruction performance across different prior-guided face super-resolution methods?"
+  },
+  {
+    "id": "https://openalex.org/W3208365477",
+    "model": "anthropic",
+    "question": "How do adaptive iterative learning control strategies for distributed parameter systems compare with alternative boundary control and vibration suppression approaches in terms of convergence guarantees and robustness to boundary disturbances across flexible structural systems?"
+  },
+  {
+    "id": "https://openalex.org/W4390075392",
+    "model": "anthropic",
+    "question": "How do augmentation-based active sample selection strategies compare to other uncertainty- and diversity-based query criteria across active domain adaptation and source-free adaptation settings in terms of their effectiveness at identifying informative target samples under domain shift?"
+  },
+  {
+    "id": "https://openalex.org/W3170350855",
+    "model": "anthropic",
+    "question": "How does the Poisson-process-based spiking adaptive dynamic programming method compare to other event-triggered and impulsive control frameworks in terms of convergence guarantees and computational efficiency across the broader literature on optimal control of stochastic and hybrid systems?"
+  },
+  {
+    "id": "https://openalex.org/W4405022882",
+    "model": "anthropic",
+    "question": "How do the algorithmic strategies and approximation guarantees developed for different variants of the vertex cover problem (weighted, \u2113-path, and connected) compare in terms of their theoretical trade-offs and practical performance across diverse graph structures?"
+  },
+  {
+    "id": "https://openalex.org/W7155416822",
+    "model": "anthropic",
+    "question": "How do network-free, mixture-model-based approaches to approximating intractable high-dimensional distributions compare to neural-network-dependent generative methods in terms of scalability, sample quality, and computational trade-offs across different data modalities?"
+  },
+  {
+    "id": "https://openalex.org/W4282942756",
+    "model": "anthropic",
+    "question": "How do topological Hawkes process approaches compare with other spatiotemporal causal discovery methods in terms of their assumptions about network structure and their robustness to unobserved confounding across event sequences?"
+  },
+  {
+    "id": "https://openalex.org/W3156784825",
+    "model": "anthropic",
+    "question": "How do dynamic architecture adaptation methods compare to weight-only transfer learning approaches across different domain shifts, and what theoretical principles govern the joint optimization of network architecture and weights during cross-domain transfer?"
+  },
+  {
+    "id": "https://openalex.org/W7166828262",
+    "model": "anthropic",
+    "question": "How do tuning-free, patch-based diffusion editing strategies for ultrahigh-resolution images compare with fine-tuning and cascaded super-resolution approaches in terms of computational efficiency, boundary consistency, and fine-detail preservation across the broader landscape of high-resolution latent diffusion methods?"
+  },
+  {
+    "id": "https://openalex.org/W2971525724",
+    "model": "anthropic",
+    "question": "How do disentangled representation learning approaches in recurrent neural networks compare to other analytical redundancy methods in mitigating the smearing-out effect for sensor fault detection and isolation across diverse industrial processing systems?"
+  },
+  {
+    "id": "https://openalex.org/W4237308957",
+    "model": "anthropic",
+    "question": "How do the theoretical foundations, design methodologies, and application domains of neural networks and related learning systems reported across the literature converge or diverge in shaping the field's contribution to advancing artificial intelligence?"
+  },
+  {
+    "id": "https://openalex.org/W4283764477",
+    "model": "anthropic",
+    "question": "How do different visual-semantic alignment strategies, such as metric learning on semantic vocabularies versus generative embedding synthesis, compare in their effectiveness at mitigating the hubness problem and improving discrimination between seen, unseen, and background objects across zero-shot object detection frameworks?"
+  },
+  {
+    "id": "https://openalex.org/W4225725240",
+    "model": "anthropic",
+    "question": "How do cross-modal fusion strategies for road extraction compare in their effectiveness at handling occlusions and unconstrained road conditions across different combinations of remote-sensing modalities (e.g., aerial imagery, crowdsourced trajectories, and LiDAR)?"
+  },
+  {
+    "id": "https://openalex.org/W4313887285",
+    "model": "anthropic",
+    "question": "How do stochastic latent-variable recurrent architectures compare to other deep generative approaches (such as normalizing flows, GANs, and diffusion models) in balancing sharpness, reliability, and computational tractability for multistep probabilistic renewable energy forecasting?"
+  },
+  {
+    "id": "https://openalex.org/W4319990490",
+    "model": "anthropic",
+    "question": "How do the convergence guarantees and feasibility conditions of the proposed value iteration with constrained cost method compare to those of alternative adaptive dynamic programming approaches\u2014such as policy iteration and other value iteration variants\u2014for solving constrained optimal control problems in discrete-time nonlinear systems?"
+  },
+  {
+    "id": "https://openalex.org/W3203166992",
+    "model": "anthropic",
+    "question": "How do different domain adaptation strategies for cross-domain graph anomaly detection compare in their ability to reconcile the tension between learning domain-invariant representations and preserving domain-specific anomaly signals across heterogeneous attributed graphs?"
+  },
+  {
+    "id": "https://openalex.org/W3190259856",
+    "model": "anthropic",
+    "question": "Here is a literature-review style scientific question based on the abstract:\n\n**How do the integration strategies of artificial intelligence, computational intelligence, and data science techniques vary across different process manufacturing sectors (e.g., oil, gas, chemicals, and steel) in terms of their effectiveness for optimization and autonomous control, and what common architectural frameworks emerge from the collective body of research?**\n\nThis question requires synthesizing multiple papers because it:\n- Demands comparison across different industrial domains\n- Requires aggregating findings on distinct methodological approaches (AI, CI, data science)\n- Calls for identifying patterns and common frameworks that would only emerge from reviewing a breadth of literature rather than a single study"
+  },
+  {
+    "id": "https://openalex.org/W3114522307",
+    "model": "anthropic",
+    "question": "How do deep neural network-based estimators of information-theoretic measures compare with traditional and other machine learning approaches in terms of consistency guarantees, sample efficiency, and robustness across large-alphabet entropy, mutual information, conditional mutual information, and transfer entropy estimation tasks?"
+  },
+  {
+    "id": "https://openalex.org/W3186962187",
+    "model": "anthropic",
+    "question": "How do weight-sharing and ANN-assisted training approaches compare to surrogate gradient and ANN-to-SNN conversion methods in balancing the trade-offs between inference latency, energy efficiency, and recognition accuracy across deep spiking neural network architectures?"
+  },
+  {
+    "id": "https://openalex.org/W7164340036",
+    "model": "gemini",
+    "question": "How do diverse hardware-software co-design and error-mitigation methodologies in neural-network-based model predictive control compare in balancing computational latency and tracking precision for real-time, safety-critical aerospace applications?"
+  },
+  {
+    "id": "https://openalex.org/W3014641619",
+    "model": "gemini",
+    "question": "How does the paradigm of dynamic, early-stage channel pruning using direct accuracy-based criteria compare to alternative \"pruning-at-initialization\" and sparse-to-sparse training methodologies in terms of computational trade-offs, optimization dynamics, and generalization performance across diverse deep learning architectures?"
+  },
+  {
+    "id": "https://openalex.org/W4212901299",
+    "model": "gemini",
+    "question": "How do quality-driven regularization techniques in deep-learning-based soft sensors compare with alternative semi-supervised and supervised feature extraction methods in terms of balancing process data reconstruction and target quality prediction accuracy across diverse industrial manufacturing processes?"
+  },
+  {
+    "id": "https://openalex.org/W4200266697",
+    "model": "gemini",
+    "question": "How do contemporary event-triggered adaptive control methodologies for uncertain nonlinear systems under actuator failures balance the trade-offs between guaranteeing prescribed-time convergence and optimizing communication resource utilization compared to traditional backstepping approaches?"
+  },
+  {
+    "id": "https://openalex.org/W4395056521",
+    "model": "gemini",
+    "question": "How do contemporary heterogeneous graph-based architectures in multimodal question answering balance the preservation of local intramodal semantics with the integration of cross-modal relational features across text and diagrammatic data?"
+  },
+  {
+    "id": "https://openalex.org/W4408935428",
+    "model": "gemini",
+    "question": "How do contemporary open-set semi-supervised learning frameworks balance the trade-off between computational efficiency and outlier detection robustness when transitioning from single-model uncertainty estimation to multi-model consensus paradigms?"
+  },
+  {
+    "id": "https://openalex.org/W4399381410",
+    "model": "gemini",
+    "question": "How do periodic-detection event-triggered impulsive control schemes compare to continuous-detection methods across contemporary literature in terms of their efficacy in guaranteeing hyper-exponential stabilization in neural networks subject to actuation delays while successfully avoiding Zeno behavior?"
+  },
+  {
+    "id": "https://openalex.org/W4321195885",
+    "model": "gemini",
+    "question": "How do contemporary sensorless impedance learning control strategies in physical human-robot interaction compare in their mechanisms for mitigating non-periodic, iteration-dependent human impedance disturbances while achieving uniform convergence rather than mere ultimate boundedness?"
+  },
+  {
+    "id": "https://openalex.org/W4408710149",
+    "model": "gemini",
+    "question": "How do contemporary self-supervised graph contrastive learning methodologies reconcile the trade-offs and low mutual information between node attribute representations and multi-scale structural views to optimize downstream task performance?"
+  },
+  {
+    "id": "https://openalex.org/W4361801401",
+    "model": "gemini",
+    "question": "How do contemporary deep learning frameworks reconcile the dual challenges of missing views and incomplete labels in multi-view multi-label learning, and what are the comparative trade-offs between reconstruction-based generative approaches and weighted fusion-based discriminative approaches across the literature?"
+  },
+  {
+    "id": "https://openalex.org/W4308637970",
+    "model": "gemini",
+    "question": "How do hybrid quadrotor trajectory generation frameworks that integrate reinforcement and imitation learning with classical optimization techniques compare to purely model-based or end-to-end learning approaches in terms of real-time computational efficiency, safety guarantees, and generalization to complex, unknown environments?"
+  },
+  {
+    "id": "https://openalex.org/W4210366739",
+    "model": "gemini",
+    "question": "How do the theoretical stochastic gradient complexity bounds established for adaptive-learning-rate optimization algorithms (ALROAs) in constrained nonconvex settings compare to those of alternative projection-based and projection-free stochastic optimization methods across diverse deep learning architectures?"
+  },
+  {
+    "id": "https://openalex.org/W7128809524",
+    "model": "gemini",
+    "question": "How do current class-incremental learning paradigms for cloud-device collaborative systems balance the trade-offs between catastrophic forgetting and overfitting when transferring generalization capabilities from massive cloud models to resource-constrained edge devices?"
+  },
+  {
+    "id": "https://openalex.org/W4313044804",
+    "model": "gemini",
+    "question": "How do various event-triggered boundary control methodologies, particularly those utilizing backstepping, compare in their effectiveness at balancing exponential stabilization and Zeno-behavior exclusion for coupled semilinear reaction-diffusion systems with spatially varying parameters?"
+  },
+  {
+    "id": "https://openalex.org/W3208963421",
+    "model": "gemini",
+    "question": "How do current adaptive event-triggered control strategies in the literature compare in balancing communication efficiency and stabilization performance for neural networks characterized by reaction-diffusion dynamics and Markovian switching with incomplete transition probabilities?"
+  },
+  {
+    "id": "https://openalex.org/W4383752690",
+    "model": "gemini",
+    "question": "How does the integration of linearized physical models into graph convolutional network architectures compare to alternative physics-informed and data-driven paradigms in terms of maintaining robustness, interpretability, and scalability during power flow calculations under dynamic grid topologies and uncertain power injections?"
+  },
+  {
+    "id": "https://openalex.org/W3097642927",
+    "model": "gemini",
+    "question": "How do emerging single-stage frameworks that jointly perform low-rank decomposition and channel pruning compare to traditional multi-stage iterative pipelines regarding training overhead, hardware-level inference acceleration, and model accuracy across diverse deep neural network architectures?"
+  },
+  {
+    "id": "https://openalex.org/W7138871207",
+    "model": "gemini",
+    "question": "How do contemporary weakly supervised learning frameworks integrate structured candidate label preferences\u2014such as ranked or preferred labels\u2014to address non-uniform annotation noise, and what are the comparative theoretical trade-offs between their identifiability guarantees and empirical risk minimization stability?"
+  },
+  {
+    "id": "https://openalex.org/W4282919728",
+    "model": "gemini",
+    "question": "How do various neural network-based dynamic surface control frameworks in the literature balance the trade-off between communication resource conservation via event-triggered strategies and the attainment of asymptotic tracking in nonlinear, nonstrict-feedback multi-agent systems?"
+  },
+  {
+    "id": "https://openalex.org/W4388544022",
+    "model": "gemini",
+    "question": "How do deep learning-based underwater image quality assessment frameworks that integrate saliency-guided features compare to traditional physical degradation models in terms of computational efficiency and generalization across diverse, real-world marine environments?"
+  },
+  {
+    "id": "https://openalex.org/W3022209239",
+    "model": "gemini",
+    "question": "How does the integration of analog-value representations with temporal spike-latency coding in spiking neural networks impact the trade-off between computational accuracy and energy efficiency across various neuromorphic hardware architectures compared to traditional binary-spiking paradigms?"
+  },
+  {
+    "id": "https://openalex.org/W4309660743",
+    "model": "gemini",
+    "question": "How does the integration of lossless spacewise resolution manipulation techniques, such as the neighbor decoupling and coupling proposed in NDNet, compare to traditional multiscale feature-fusion and channel-reduction strategies in resolving the trade-off between computational latency and boundary accuracy in real-time semantic segmentation networks?"
+  },
+  {
+    "id": "https://openalex.org/W4377235424",
+    "model": "gemini",
+    "question": "How do current state-of-the-art approaches in audio-driven talking face generation integrate emotional representations to address the inherent trade-offs between cross-modal temporal synchronization, facial landmark accuracy, and high-fidelity visual synthesis?"
+  },
+  {
+    "id": "https://openalex.org/W4406891925",
+    "model": "gemini",
+    "question": "How do the theoretical approximation guarantees and convergence bounds of Bayesian recurrent neural networks trained via variational inference compare to those of alternative probabilistic frameworks, such as deep state-space models and Gaussian processes, when addressing cumulative dependencies in stochastic time series forecasting?"
+  },
+  {
+    "id": "https://openalex.org/W4396909915",
+    "model": "gemini",
+    "question": "How do contrastive learning paradigms designed to bridge temporal observation gaps compare with alternative approaches, such as knowledge distillation and generative sequence completion, in improving the accuracy of 3-D skeleton-based early action prediction on partially observed sequences?"
+  },
+  {
+    "id": "https://openalex.org/W4282926165",
+    "model": "gemini",
+    "question": "How do contemporary adaptive control strategies in the literature synthesize neural network approximation and finite-time backstepping techniques to mitigate the joint challenges of non-symmetrical input dead-zones and non-strict feedback structures in complex nonlinear systems?"
+  },
+  {
+    "id": "https://openalex.org/W4283739673",
+    "model": "gemini",
+    "question": "How does the integration of adaptive computational depth and auxiliary past-reconstruction tasks, as exemplified by the Bi-STAT framework, compare to other state-of-the-art regularization and optimization techniques in addressing spatial-temporal non-stationarity across the broader traffic forecasting literature?"
+  },
+  {
+    "id": "https://openalex.org/W4223988585",
+    "model": "gemini",
+    "question": "How does the performance of Uniform Barrier Function (UBF) approaches compare to alternative methods, such as Barrier Lyapunov Functions (BLFs), in ensuring singularity-free, finite-time tracking control for uncertain nonlinear systems subject to asymmetric time-varying state constraints and actuator failures?"
+  },
+  {
+    "id": "https://openalex.org/W4406094355",
+    "model": "gemini",
+    "question": "How do the various integration mechanisms for embedding topological descriptors, such as persistence diagrams, into graph neural networks compare in their ability to preserve global structural information while managing the computational complexity of large-scale and dynamic graph datasets?"
+  },
+  {
+    "id": "https://openalex.org/W4411867064",
+    "model": "gemini",
+    "question": "How does the integration of diffusion-based generative models for contrastive representation learning compare to alternative self-supervised and graph-based paradigms in mitigating noise, semantic misalignment, and data sparsity within multimodal recommendation systems?"
+  },
+  {
+    "id": "https://openalex.org/W3032786328",
+    "model": "gemini",
+    "question": "How does the efficacy of hybrid adaptive control strategies compare to alternative control methodologies, such as impulsive or sliding mode control, in achieving Mittag-Leffler synchronization for fractional-order memristive neural networks subjected to leakage and other time-varying delays across the current literature?"
+  },
+  {
+    "id": "https://openalex.org/W4380303853",
+    "model": "gemini",
+    "question": "How do contemporary unsupervised domain adaptation methods for person re-identification balance the mitigation of camera-style bias with the retention of hard samples during pseudo-label generation?"
+  },
+  {
+    "id": "https://openalex.org/W3112050848",
+    "model": "gemini",
+    "question": "How does the integration of the Darboux-Lie theorem in Poisson Neural Networks (PNNs) compare to other geometric deep learning frameworks, such as Hamiltonian and Symplectic Neural Networks, regarding their ability to preserve physical invariants and generalize across diverse non-canonical dynamical systems?"
+  },
+  {
+    "id": "https://openalex.org/W4301393358",
+    "model": "gemini",
+    "question": "How do contemporary model-free reinforcement learning algorithms for heterogeneous multi-agent systems balance the trade-offs between optimal tracking performance, computational complexity, and communication savings when combined with various event-triggered distributed observer paradigms?"
+  }
+]
