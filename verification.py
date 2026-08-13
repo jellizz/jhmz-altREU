@@ -113,10 +113,10 @@ def parse_single_citation(citation):
 
 # Parse citation string list
 def parse_references(citations):
-    citations = []
+    parsed_citations = []
     for citation in citations:
-        citations.append(parse_single_citation(citation))
-    return citations
+        parsed_citations.append(parse_single_citation(citation))
+    return parsed_citations
 
 
 # Search OpenAlex for DOI

@@ -9,7 +9,6 @@ Takes questions generated from abstracts and prompts the various LLMS for answer
     "model": llm,
     "question": question,
     "response": {
-        "answer": xxx,
         "references": xxx
     }
 }
@@ -71,6 +70,52 @@ REFERENCES:
 <your references here, strictly one reference per line with no commentary>
 """ 
 
+# no answer, only max 5 references.
+prompt_base_v3 = """For EACH scientific question provided, return at most 5 scientific references that are relevant to answering the question.
+
+Do not provide an answer, reasoning, commentary, or explanation for why references were selected.
+
+References must include: Author name(s), article title, journal, year of publication, and a DOI.
+
+References should follow this format:
+Last, Firstname Middlename. (Year). Title of article. Title of Journal, Volume(Issue), Page-Range. DOI: doi.org/xxxxx.
+
+Return one result for every question provided.
+Preserve each question's id exactly.
+"""
+
+ANTHROPIC_RESPONSE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "results": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "references": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "required": [
+                    "id",
+                    "references"
+                ],
+                "additionalProperties": False
+            }
+        }
+    },
+    "required": [
+        "results"
+    ],
+    "additionalProperties": False
+}
+
 
 # 1a. Load current JSON, if it exists. Build off of this.
 # (Safeguard for if it crashes in the middle, can pick up where it left off)
@@ -96,10 +141,19 @@ def completed_questions(filename):
 
 
 # 2. Inject the question into the prompt base
-
+'''
 def build_prompt(question, prompt_base=prompt_base_v1):
     return f"{prompt_base}. Answer this specific question: {question}"
+'''
 
+def batch_build_prompt(questions, prompt_base=prompt_base_v2):
+    return f"""
+{prompt_base}
+
+Here are the questions:
+
+{json.dumps(questions, indent=2)}
+"""
 
 # 3. Make call to LLM API to prompt
     # determine which LLM is being prompted
@@ -117,7 +171,7 @@ def build_prompt(question, prompt_base=prompt_base_v1):
         # Gemini
             # https://ai.google.dev/gemini-api/docs/get-started 
         #response.output_text
-
+'''
 def prompt_llm(prompt, llm):
 
     if llm == "openai":
@@ -151,7 +205,38 @@ def prompt_llm(prompt, llm):
         return response.output_text
     else: # for testing purposes, if you want to see what the rest of the code does without actually calling an LLM
         return "QUESTION:\nWhat is a pineapple?\nANSWER:\nA fruit.\nREFERENCES:\n[1] Doe, John. (2026). Pineapple. Pineapple Journal, 1(23), 45-67. DOI: pineapple.com.\n[2] Doe, Jane. (1234). Original Pineapple. Pineapple Origins, 1(23), 45-67. DOI: pineapple.og.com."
-        
+     '''   
+
+def batch_prompt_llm(prompt, llm):
+    if llm == "anthropic":
+        client = anthropic_client
+        response = client.messages.create(
+            model="claude-opus-4-8",
+            max_tokens=15000,
+            messages=[
+                {
+                    "role": "user",
+                    "content": prompt,
+                }
+            ],
+            output_config={
+                "format": {
+                    "type": "json_schema",
+                    "schema": ANTHROPIC_RESPONSE_SCHEMA,
+                }
+            },
+        )
+        print(
+            f"Input tokens: {response.usage.input_tokens:,} | "
+            f"Output tokens: {response.usage.output_tokens:,} | "
+            f"Stop reason: {response.stop_reason}"
+        )
+
+        return json.loads(response.content[0].text)
+
+    else:
+        return "QUESTION:\nWhat is a pineapple?\nANSWER:\nA fruit.\nREFERENCES:\n[1] Doe, John. (2026). Pineapple. Pineapple Journal, 1(23), 45-67. DOI: pineapple.com.\n[2] Doe, Jane. (1234). Original Pineapple. Pineapple Origins, 1(23), 45-67. DOI: pineapple.og.com."
+
 
 # 4. Store response, along with other info, into new JSON
 # breaks the response into 'question', 'answer', 'references'
@@ -185,9 +270,6 @@ def parse_response(raw_response):
         references.append(line)
 
     return answer, references # a string, a list of strings.
-    
-
-
 
 
 def build_json(filename, abstract_id, llm, question, answer, references):
@@ -207,6 +289,7 @@ def build_json(filename, abstract_id, llm, question, answer, references):
     with open(filename, "w") as f:
         json.dump(output_file, f, indent = 4)
 
+'''
 def generate_responses(questions_file, output_file, llm="testing", prompt_base=prompt_base_v2):
     """
     Reads lit-review questions from questions_file, prompts the given llm for a
@@ -217,7 +300,7 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
     Has an optional prompt_base parameter (for testing or for different prompt styles, defaults to
     one without full response to limit tokens used).
     """
-    questions = load_file(questions_file)
+    questions = load_file(questions_file)[:5]
     done_ids = set(completed_questions(output_file))
 
     for q in questions:
@@ -238,16 +321,124 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 
     print(f"Done. Responses saved to {output_file}")
 
+'''
+
+def batch_generate_responses(
+    questions_file,
+    output_file,
+    llm="anthropic",
+    prompt_base=prompt_base_v3,
+    batch_size=10
+):
+    """
+    Reads lit-review questions from questions_file, sends them to the LLM
+    in batches, and saves each completed batch immediately.
+
+    Skips question ids that are already present in output_file.
+    """
+
+    questions = load_file(questions_file)
+    done_ids = set(completed_questions(output_file))
+
+    # Only send unfinished questions to the API
+    remaining_questions = [
+        q for q in questions
+        if q["id"] not in done_ids
+    ]
+
+    if not remaining_questions:
+        print("All questions already completed.")
+        return
+
+    print(f"{len(remaining_questions)} questions remaining.")
+
+    # Split remaining questions into smaller batches
+    for batch_start in range(0, len(remaining_questions), batch_size):
+
+        batch = remaining_questions[
+            batch_start:batch_start + batch_size
+        ]
+
+        print(
+            f"\nSending batch "
+            f"{batch_start + 1}-{batch_start + len(batch)} "
+            f"of {len(remaining_questions)}..."
+        )
+
+        prompt = batch_build_prompt(
+            batch,
+            prompt_base=prompt_base
+        )
+
+        try:
+            raw_response = batch_prompt_llm(prompt, llm)
+        except Exception as e:
+            print(f"ERROR calling {llm} for this batch: {e}")
+            print("Moving to the next batch.")
+            continue
+
+        # Structured output should already be a Python dictionary
+        results = raw_response["results"]
+
+        # Make lookup by id so we can match Claude's references
+        # to the original questions
+        results_by_id = {
+            result["id"]: result
+            for result in results
+        }
+
+        # Load the file again immediately before saving.
+        # This makes sure we preserve everything already saved.
+        output_data = load_file(output_file)
+
+        saved_count = 0
+
+        for q in batch:
+
+            qid = q["id"]
+
+            if qid not in results_by_id:
+                print(f"  [{qid}] MISSING FROM CLAUDE RESPONSE")
+                continue
+
+            result = results_by_id[qid]
+
+            new_entry = {
+                "id": qid,
+                "model": llm,
+                "question": q["question"],
+                "response": {
+                    "references": result["references"]
+                }
+            }
+
+            output_data.append(new_entry)
+            saved_count += 1
+
+            print(f"  [{qid}] done")
+
+        # SAVE THIS BATCH IMMEDIATELY
+        with open(output_file, "w") as f:
+            json.dump(output_data, f, indent=4)
+
+        print(
+            f"Saved {saved_count} responses "
+            f"from this batch to {output_file}"
+        )
+
+    print(f"\nDone. Responses saved to {output_file}")
+
+
 # 5. Repeat
 # write main loop in here, later combine everything outside in main.py?
 
 if __name__ == "__main__":
-    # calling on anthropic and test_questions.json
-    generate_responses(
-        questions_file="data/questions/questions_S1980519.json",
-        output_file="data/responses/anthropic/responses_anthropic_physics_astrophys.json",
+    batch_generate_responses(
+        questions_file="data/questions/questions_S9692511.json",
+        output_file="data/responses/anthropic/responses_anthr_S9692511_frontierspsych.json",
         llm="anthropic",
-        prompt_base=prompt_base_v2
+        prompt_base=prompt_base_v3,
+        batch_size=20
     )
 
     # # calling on anthropic and abstracts_S24807848.json (Physical Review Letters)
