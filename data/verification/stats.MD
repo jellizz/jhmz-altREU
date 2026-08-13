@@ -1,12 +1,93 @@
 ### ANTHROPIC ###
+
+checked_anthr_S1980519_astrophys.json
+========================================
+Total citations:  500  
+Verified:         249 (49.8%)  
+Not found:        236 (47.2%)  
+Author mismatch:  11 (2.2%)  
+CHECK:            4 (0.8%)  
+
+
+checked_anthr_S9692511_frontierspsych.json
+========================================
+Total citations:  500  
+Verified:         341 (68.2%)  
+Not found:        128 (25.6%)  
+Author mismatch:  31 (6.2%)  
+CHECK:            0 (0.0%)  
+
+
 checked_anthr_S13144211_expertsysappe.json:
 ========================================
-Total citations:  500
-Verified:         463 (92.6%)
-Not found:        24 (4.8%)
-Author mismatch:  12 (2.4%)
-CHECK:            1 (0.2%)
+Total citations:  500  
+Verified:         463 (92.6%)  
+Not found:        24 (4.8%)  
+Author mismatch:  12 (2.4%)  
+CHECK:            1 (0.2%)  
 
+
+checked_anthr_S23254222_americaneconomic.json:  
+=========================================
+Total citations:  500  
+Verified:         400 (80.0%)  
+Not found:        88 (17.6%)  
+Author mismatch:  12 (2.4%)  
+CHECK:            0 (0.0%)  
+
+
+checked_anthr_S24807848_physreview.json
+========================================
+Total citations:  500  
+Verified:         340 (68.0%)  
+Not found:        108 (21.6%)  
+Author mismatch:  52 (10.4%)  
+CHECK:            0 (0.0%)  
+
+
+checked_anthr_S49861241_lancet.json
+========================================
+Total citations:  500  
+Verified:         260 (52.0%)  
+Not found:        134 (26.8%)  
+Author mismatch:  77 (15.4%)  
+CHECK:            29 (5.8%)  
+
+
+checked_anthr_s86852077_totalenv.json
+========================================
+Total citations:  500  
+Verified:         206 (41.2%)  
+Not found:        251 (50.2%)  
+Author mismatch:  40 (8.0%)  
+CHECK:            3 (0.6%)  
+
+
+checked_anthr_S110447773_cell.json 
+========================================
+Total citations:  490
+Verified:         261 (53.3%)
+Not found:        137 (28.0%)
+Author mismatch:  92 (18.8%)
+CHECK:            0 (0.0%)
+
+
+checked_anthr_S145089992_hazardous.json
+========================================
+Total citations:  500  
+Verified:         134 (26.8%)  
+Not found:        321 (64.2%)  
+Author mismatch:  44 (8.8%)  
+CHECK:            1 (0.2%)  
+
+
+checked_anthr_S4210175523_IEEEneuralnet.json
+========================================
+Total citations:  500  
+Verified:         404 (80.8%)  
+Not found:        79 (15.8%)  
+Author mismatch:  17 (3.4%)  
+CHECK:            0 (0.0%)  
 
 
 ### CHATGPT ###
