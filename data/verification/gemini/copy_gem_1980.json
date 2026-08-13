@@ -16,9 +16,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.92
+        "doi_valid": false
       },
       {
         "citation": "A. Albert | Search for Multimessenger Sources of Gravitational Waves and High-energy Neutrinos with IceCube, ANTARES, and LIGO/Virgo | 10.3847/1538-4357/ab3c53",
@@ -32,9 +30,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Shigeo S. Kimura | High-energy Neutrino Emission from Short Gamma-Ray Bursts: Prospects for IceCube and KM3NeT | 10.3847/1538-4357/aa97d5",
@@ -48,9 +44,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "K. Fang | High-energy Neutrinos from Millisecond Magnetars Formed in Neutron Star Mergers | 10.1088/2041-8205/789/2/L40",
@@ -64,9 +58,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.73
+        "doi_valid": false
       },
       {
         "citation": "I. Bartos | Rapid automatic search for high-energy neutrino counterparts of gravitational-wave transients with the IceCube Observatory | 10.1103/PhysRevD.90.102002",
@@ -80,9 +72,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.72
+        "doi_valid": false
       }
     ]
   },
@@ -103,9 +93,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.95
+        "doi_valid": false
       },
       {
         "citation": "Nina Dresing | The 2013 April 11 Multi-Spacecraft Solar Energetic Particle Event | 10.1051/0004-6361/201424128",
@@ -119,9 +107,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "A. Kouloumvakos | Multi-spacecraft Observations of Solar Energetic Particle Events: The Role of CME-driven Shocks | 10.3847/1538-4357/aa8303",
@@ -135,9 +121,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "D. Lario | Long-period solar energetic particle events: Heliocentric radial gradients and multi-spacecraft observations | 10.1051/0004-6361/201629853",
@@ -151,9 +135,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.87
+        "doi_valid": false
       },
       {
         "citation": "I. G. Richardson | Solar Energetic Particles and Coronal Mass Ejections | 10.1007/s11214-007-9242-4",
@@ -167,9 +149,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -190,9 +170,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Megan Bedell | The Chemical Composition of Solar Twins in the Solar Neighborhood | 10.3847/1538-4357/aad508",
@@ -206,9 +184,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Lorenzo Spina | The Gaia-ESO Survey: Chemical signatures of planet engulfment events in solar-type stars | 10.1038/s41550-021-01451-y",
@@ -224,9 +200,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Fan Liu | The chemical composition of solar twins and the planet-stellar connection | 10.1093/mnras/stv2032",
@@ -242,9 +216,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.77
+        "doi_valid": false
       },
       {
         "citation": "A. Recio-Blanco | Gaia Data Release 3: Chemical cartography of the Milky Way | 10.1051/0004-6361/202243750",
@@ -259,9 +231,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "A. Recio-Blanco",
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       }
     ]
   },
@@ -282,9 +252,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.78
+        "doi_valid": false
       },
       {
         "citation": "J.-P. Macquart | A census of baryons in the Universe from localized fast radio bursts | 10.1038/s41586-020-2300-2",
@@ -299,9 +267,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Jean\u2010Pierre Macquart",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "Clancy W. James | The cosmic population of fast radio bursts | 10.1093/mnras/stac224",
@@ -315,9 +281,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Clancy W. James | The high-latitude fast radio burst population: constraints on the cosmic rate and luminosity function | 10.1093/mnras/stz1555",
@@ -331,9 +295,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Zheng-Xiang Li | Constraints on the cosmic star formation history from fast radio bursts | 10.3847/1538-4357/ab698a",
@@ -347,9 +309,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.64
+        "doi_valid": false
       }
     ]
   },
@@ -370,9 +330,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "J. J. Nimmo | Simultaneous high-time-resolution optical and radio observations of the repeating fast radio burst FRB 20180916B | 10.1093/mnras/stab123",
@@ -386,9 +344,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.59
+        "doi_valid": false
       },
       {
         "citation": "K. De | A simultaneous optical and radio search for prompt emission from the repeating FRB 20180916B | 10.3847/1538-4357/abf646",
@@ -404,9 +360,7 @@
           "Open Library"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.65
+        "doi_valid": false
       },
       {
         "citation": "Brian D. Metzger | Fast radio bursts from active magnetars in young supernova remnants | 10.1093/mnras/stz700",
@@ -420,9 +374,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Yuri Lyubarsky | A model for fast radio bursts | 10.1088/2041-8205/785/2/L26",
@@ -436,9 +388,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.66
+        "doi_valid": false
       }
     ]
   },
@@ -459,9 +409,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "Sebastian Heinz | The scale invariance of jets from compact objects | 10.1111/j.1365-2966.2003.06812.x",
@@ -477,9 +425,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Elina Lindfors | Heterogeneous synchrotron emission in the blazar OT 081 | 10.1051/0004-6361:20054323",
@@ -493,9 +439,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "St\u00e9phane Corbel | The coupling of accretion and ejection in the black hole candidate GX 339-4 | 10.1051/0004-6361:20021438",
@@ -509,9 +453,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Sera Markoff | A jet-disks-coronae partnership: from black hole binaries to active galactic nuclei | 10.1007/s11214-010-9721-6",
@@ -525,9 +467,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.83
+        "doi_valid": false
       }
     ]
   },
@@ -548,9 +488,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Tibor T\u00f6r\u00f6k | Confined and ejective eruptions due to coronal kink instability | 10.1051/0004-6361:20042584",
@@ -564,9 +502,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Bernhard Kliem | Torus Instability | 10.1103/PhysRevLett.96.115002",
@@ -583,9 +519,7 @@
         ],
         "retracted": false,
         "matched_database_author": "B. Kliem",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Yang Guo | Reconstruct magnetic flux rope in solar active regions | 10.1088/1674-4527/17/11/107",
@@ -599,9 +533,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.55
+        "doi_valid": false
       },
       {
         "citation": "Yuhong Fan | The Emergence of a Twisted Magnetic Flux Tube into a Magnetized Coronal Atmosphere | 10.1086/313385",
@@ -615,9 +547,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -640,9 +570,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Susmita Adhikari | The Splashback Radius as a Physical Halo Boundary and Its Dependence on Accretion Rate | 10.1088/0004-637X/789/1/2",
@@ -658,9 +586,7 @@
           "Open Library"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "Surhud More | The Splashback Radius as a Physical Halo Boundary: Halo Definition and Co-evolution with the Lensing Signal | 10.1088/0004-637X/810/1/36",
@@ -674,9 +600,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.59
+        "doi_valid": false
       },
       {
         "citation": "Neal Dalal | The profile of dark matter haloes: splashback and the halo boundary | 10.1088/1475-7516/2017/11/022",
@@ -690,9 +614,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Eric Baxter | The Splashback Feature around DES Y1 Galaxy Clusters | 10.1093/mnras/sty112",
@@ -706,9 +628,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -730,9 +650,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Kazunori Akiyama",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Kazunori Akiyama | First M87 Event Horizon Telescope Results. VIII. Magnetic Field Structure near The Event Horizon | 10.3847/2041-8213/abe4de",
@@ -747,9 +665,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Kazunori Akiyama",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "Monika Mo\u015bcibrodzka | Polarized radiative transfer in GRMHD simulations of M87 | 10.1051/0004-6361/201628120",
@@ -763,9 +679,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Daniel C. M. Palumbo | Measuring Spiral Magnetic Fields from Polarized Images of Active Galactic Nuclei | 10.3847/1538-4357/abf118",
@@ -779,9 +693,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Michael D. Johnson | Universal interferometric signatures of a black hole\u2019s photon ring | 10.1126/science.aaz1310",
@@ -796,9 +708,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Michael D. Johnson",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -819,9 +729,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "Ciro Pinto | Super-Eddington winds from ultraluminous X-ray sources | 10.1038/nature17417",
@@ -835,9 +743,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "D. J. Walton | The Broadband X-ray Spectrum of the Ultraluminous X-ray Source NGC 1313 X-1 | 10.3847/1538-4357/aa8409",
@@ -851,9 +757,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Matthew J. Middleton | The role of winds in the spectral and timing properties of ULXs | 10.1093/mnras/stv2022",
@@ -867,9 +771,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "K. Wiersema | Optical spectroscopy of the ultraluminous X-ray source NGC 4395 ULX1 | 10.1111/j.1745-3933.2009.00696.x",
@@ -883,9 +785,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.75
+        "doi_valid": false
       }
     ]
   },
@@ -907,9 +807,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Justin Khoury",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Philippe Brax | Physical properties of chameleon dark energy models | 10.1103/PhysRevD.70.123518",
@@ -923,9 +821,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "David F. Mota | Constraining chameleon dark energy with solar system tests | 10.1051/0004-6361:20031408",
@@ -939,9 +835,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Eleonora Di Valentino | Cosmological tensions and the \u039bCDM model | 10.1016/j.astropartphys.2021.102605",
@@ -955,9 +849,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Sunny Vagnozzi | Constraints on chameleon dark energy from future cosmological surveys | 10.1103/PhysRevD.98.083543",
@@ -971,9 +863,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.79
+        "doi_valid": false
       }
     ]
   },
@@ -994,9 +884,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Tyler D. Robinson | Characterizing Environmental Diversity and Biosignatures on Exoplanets | 10.1089/ast.2017.1737",
@@ -1010,9 +898,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Yuka Fujii | Colors of a Second Earth: Estimating Cosmic Color Shifts of an Exoplanet | 10.1088/0004-637X/715/2/866",
@@ -1026,9 +912,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Nicolas B. Cowan | Mapping Exoplanets | 10.1016/j.ascom.2015.05.001",
@@ -1043,9 +927,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Nicolas B. Cowan",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Edward W. Schwieterman | Identifying Biosignatures on Rocky Exoplanets: Earth as a Proxy | 10.1089/ast.2017.1729",
@@ -1061,9 +943,7 @@
           "ACL Anthology"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -1084,9 +964,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Alexei G. Kritsuk | The statistics of supersonic isothermal turbulence | 10.1086/521015",
@@ -1101,9 +979,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Alexei G. Kritsuk",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Paolo Padoan | The Power Spectrum of Supersonic MHD Turbulence | 10.1086/425567",
@@ -1117,9 +993,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Blakesley Burkhart | The role of plasma beta and Mach number in MHD turbulence | 10.1088/0004-637X/705/1/285",
@@ -1133,9 +1007,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.91
+        "doi_valid": false
       },
       {
         "citation": "Siyao Xu | Turbulence dissipation and heating in the interstellar medium | 10.3847/1538-4357/aa9c46",
@@ -1149,9 +1021,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.8
+        "doi_valid": false
       }
     ]
   },
@@ -1174,9 +1044,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Eric Priest | Magnetic Reconnection: MHD Theory and Applications | 10.1017/CBO9780511525087",
@@ -1191,9 +1059,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Eric Priest",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "Louise K. Harra | Outflows from active regions: the source of the slow wind | 10.1086/592383",
@@ -1207,9 +1073,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "G. Baumann | Particle acceleration during 3D magnetic reconnection in a coronal null point | 10.1051/0004-6361/201219616",
@@ -1223,9 +1087,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.69
+        "doi_valid": false
       },
       {
         "citation": "S. Masson | Particle acceleration in a coronal jet model | 10.1051/0004-6361/201321453",
@@ -1241,9 +1103,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.83
+        "doi_valid": false
       }
     ]
   },
@@ -1264,9 +1124,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Edward F. Schlafly | The Decam Plane Survey (DECaPS) | 10.3847/1538-4365/aa9622",
@@ -1280,9 +1138,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Catherine Zucker | Mapping the 3D Dust Structure of the Milky Way | 10.3847/1538-4357/abf0a2",
@@ -1296,9 +1152,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Rosine Lallement | Gaia-DR2 3D maps of Galactic dust | 10.1051/0004-6361/201834020",
@@ -1314,9 +1168,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "David J. Schlegel | Maps of Dust Infrared Emission for Cosmic Background Radiation Foregrounds | 10.1086/305772",
@@ -1330,9 +1182,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -1353,9 +1203,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.92
+        "doi_valid": false
       },
       {
         "citation": "Jaewon Yoo | Detection of the spin of cosmic web filaments from the Sloan Digital Sky Survey III | 10.1093/mnras/stab3414",
@@ -1369,9 +1217,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.95
+        "doi_valid": false
       },
       {
         "citation": "Stephane Codis | Spin alignment of galaxies in cosmic web filaments | 10.1093/mnras/stw1002",
@@ -1385,9 +1231,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Mark Neyrinck | Cosmic-web filaments spin | 10.1093/mnrasl/slaa094",
@@ -1403,9 +1247,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Noam I. Libeskind | The angular momentum of cosmic web filaments | 10.1093/mnras/staa2014",
@@ -1421,9 +1263,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.8
+        "doi_valid": false
       }
     ]
   },
@@ -1444,9 +1284,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "P. Weltevrede | Profile and polarization changes in the mode-switching pulsar PSR J0614+2229 | 10.1111/j.1365-2966.2006.10427.x",
@@ -1460,9 +1298,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "D. Mitra | Simultaneous multi-frequency observations of the mode-switching pulsar PSR B0329+54 | 10.1111/j.1365-2966.2011.18247.x",
@@ -1476,9 +1312,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.83
+        "doi_valid": false
       },
       {
         "citation": "Joanna M. Rankin | Toward an empirical theory of pulsar emission. VI. The phenomenon of mode switching | 10.1086/164344",
@@ -1493,9 +1327,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Joanna M. Rankin",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "S. J. Johnston | Emission height of pulsars: a comparative study | 10.1111/j.1365-2966.2008.13123.x",
@@ -1509,9 +1341,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -1532,9 +1362,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "B. De Pontieu | Chromospheric Alfv\u00e9nic waves strong enough to power the solar wind | 10.1126/science.1148574",
@@ -1548,9 +1376,7 @@
         "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['B. De Pontieu'], database had 14 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.52
+        "doi_valid": false
       },
       {
         "citation": "J. A. McLaughlin | Alfv\u00e9n wave dissipation in the solar atmosphere | 10.1007/s11214-010-9654-y",
@@ -1566,9 +1392,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.57
+        "doi_valid": false
       },
       {
         "citation": "M. S. Ruderman | Damping of torsional Alfv\u00e9n waves in the solar corona | 10.1051/0004-6361:200810543",
@@ -1584,9 +1408,7 @@
           "Open Library"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "S. Vasheghani Farahani | Torsional Alfv\u00e9n waves in solar coronal loops | 10.1051/0004-6361/201117180",
@@ -1602,9 +1424,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.75
+        "doi_valid": false
       }
     ]
   },
@@ -1625,9 +1445,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.81
+        "doi_valid": false
       },
       {
         "citation": "Marilyn N. Vasquez | Quiescent galaxies in the core of the BOSS1244 protocluster at z = 2.24 | 10.3847/1538-4357/ac9bf0",
@@ -1643,9 +1461,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Roderik A. Overzier | The genealogy of galaxies in the most massive protoclusters | 10.1007/s11214-016-0245-5",
@@ -1659,9 +1475,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Allison R. Hill | Environmental quenching in high-redshift protoclusters | 10.3847/1538-4357/ab7c6a",
@@ -1677,9 +1491,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Chiara D'Eugenio | The assembly of brightest cluster galaxies in the early Universe | 10.1093/mnras/stac2243",
@@ -1695,9 +1507,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -1720,9 +1530,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "N. Ghesqui\u00e8re | Methanol formation in interstellar conditions: a laboratory study | 10.1051/0004-6361/201424614",
@@ -1736,9 +1544,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.56
+        "doi_valid": false
       },
       {
         "citation": "D. Q. Wang | Methanol abundance variations across the Galactic disk | 10.1093/mnras/sty1234",
@@ -1752,9 +1558,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.9
+        "doi_valid": false
       },
       {
         "citation": "V. M. Rivilla | The prebiotic molecular repertoire of the Galactic Centre | 10.1051/0004-6361/201936104",
@@ -1770,9 +1574,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "S. Bovino | Chemical modeling of complex organic molecules in the Galactic Habitable Zone | 10.1093/mnras/sty3202",
@@ -1788,9 +1590,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.78
+        "doi_valid": false
       }
     ]
   },
@@ -1814,9 +1614,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.9
+        "doi_valid": false
       },
       {
         "citation": "J. A. Sellwood | Disk heating by spiral structure and giant molecular clouds | 10.1093/mnras/stt1242",
@@ -1832,9 +1630,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "Ivan Minchev | Inside-out and upside-down formation of galactic disks | 10.1051/0004-6361/201220456",
@@ -1850,9 +1646,7 @@
           "Open Library"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Robert J. J. Grand | Radial migration and disk heating in cosmological simulations | 10.1093/mnras/stw1002",
@@ -1866,9 +1660,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S. A. R. Ruzicka | Sagittarius perturbations on the Galactic disk velocity dispersion | 10.1093/mnras/staa2014",
@@ -1882,9 +1674,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.59
+        "doi_valid": false
       }
     ]
   },
@@ -1905,9 +1695,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Mattia Melosso | Laboratory rotational spectroscopy of sulfur-bearing alkynyl molecules | 10.3847/1538-4357/ac78ab",
@@ -1921,9 +1709,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "V\u00edctor M. Rivilla | Interstellar detection of sulfur- and nitrogen-bearing molecules in G+0.693-0.027 | 10.1051/0004-6361/202244221",
@@ -1939,9 +1725,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jean-Claude Guillemin | Synthesis and millimeter-wave spectroscopy of HCCSCN | 10.1021/acs.jpca.1c03456",
@@ -1955,9 +1739,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Brett A. McGuire | 2021 Census of Interstellar, Circumstellar, Extragalactic, Protoplanetary Disk, and Exoplanetary Molecules | 10.3847/1538-4365/aba193",
@@ -1972,9 +1754,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Brett A. McGuire",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -1995,9 +1775,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.83
+        "doi_valid": false
       },
       {
         "citation": "Taylor J. Bell | Increased power from H2 recombination on ultra-hot Jupiters | 10.1038/s41550-018-0415-y",
@@ -2011,9 +1789,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.62
+        "doi_valid": false
       },
       {
         "citation": "Michael T. Roman | Constraining hot Jupiter atmospheric structure with phase-curve retrievals | 10.3847/1538-4357/ab7c6a",
@@ -2027,9 +1803,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Xianyu Tan | Atmospheric circulation of irradiated brown dwarfs and hot Jupiters | 10.3847/1538-4357/ac78ab",
@@ -2043,9 +1817,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.51
+        "doi_valid": false
       },
       {
         "citation": "Michael R. Line | Atmospheric retrievals of irradiated brown dwarfs | 10.3847/1538-4357/ac9bf0",
@@ -2059,9 +1831,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -2082,9 +1852,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Keiichi Maeda | Multiwavelength signatures of Type Ia supernovae interacting with circumstellar media | 10.1093/mnras/stz3202",
@@ -2098,9 +1866,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Laura Chomiuk | Radio constraints on recurrent-nova progenitor channels for Type Ia supernovae | 10.1088/0004-637X/750/2/164",
@@ -2114,9 +1880,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Shing-Chi Leung | Hydrodynamic and radiative-transfer simulations of Type Ia supernova CSM interaction | 10.3847/1538-4365/ab7c6a",
@@ -2132,9 +1896,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.54
+        "doi_valid": false
       },
       {
         "citation": "S. Margutti | X-ray and radio constraints on Type Ia supernova progenitors | 10.1088/0004-637X/790/1/52",
@@ -2148,9 +1910,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -2173,9 +1933,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.93
+        "doi_valid": false
       },
       {
         "citation": "Perry A. Gerakines | Temperature-dependent radiolysis of CO2 ices | 10.1021/acsearthspacechem.1c00223",
@@ -2191,9 +1949,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.86
+        "doi_valid": false
       },
       {
         "citation": "Christopher J. Bennett | Laboratory studies of the irradiation of carbon dioxide ices | 10.1086/503456",
@@ -2209,9 +1965,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Will M. Grundy | Carbon dioxide ice on trans-Neptunian objects | 10.1016/j.icarus.2020.113745",
@@ -2227,9 +1981,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "S. I. Ipatov | Radiolysis of carbon dioxide ice by cosmic rays in the outer solar system | 10.1051/0004-6361/201936104",
@@ -2245,9 +1997,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.71
+        "doi_valid": false
       }
     ]
   },
@@ -2270,9 +2020,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Benjamin V. Rackham | The Transit Light Source Effect: Stellar contamination in exoplanet transmission spectroscopy | 10.3847/1538-4357/aaa08c",
@@ -2288,9 +2036,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Elsa Ducrot | Secondary eclipse spectroscopy of terrestrial exoplanets with JWST | 10.1051/0004-6361/202141521",
@@ -2306,9 +2052,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Thomas P. Greene | Probing terrestrial exoplanet atmospheres and surfaces with JWST | 10.3847/1538-4357/ac9bf0",
@@ -2324,9 +2068,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ryan C. Macdonald | Stellar atmosphere model uncertainties in exoplanet retrievals | 10.1093/mnras/stz3202",
@@ -2342,9 +2084,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -2367,9 +2107,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Hamish A. S. Reid | Solar flare electron transport, turbulence scattering, and type III bursts | 10.1007/s11214-014-0034-7",
@@ -2386,9 +2124,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Nicole Vilmer | Radio signatures of coronal electron beams and solar flares | 10.1007/s11207-011-9721-6",
@@ -2404,9 +2140,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Gordon D. Holman | Coulomb collisional diffusion in solar flare loops | 10.1086/303456",
@@ -2422,9 +2156,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "V. V. Mel'nik | The propagation of electron beams in the solar corona | 10.1007/s11207-011-9121-6",
@@ -2440,9 +2172,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       }
     ]
   },
@@ -2465,9 +2195,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.57
+        "doi_valid": false
       },
       {
         "citation": "D. I. Pontin | Three-dimensional magnetic reconnection at null points | 10.1007/s11207-011-9721-6",
@@ -2483,9 +2211,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.83
+        "doi_valid": false
       },
       {
         "citation": "C. E. Parnell | 3D magnetic null points: structure and reconnection | 10.1007/s11207-009-9310-4",
@@ -2501,9 +2227,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.9
+        "doi_valid": false
       },
       {
         "citation": "I. De Moortel | Observational signatures of oscillatory reconnection | 10.1007/s11214-010-9654-y",
@@ -2519,9 +2243,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.65
+        "doi_valid": false
       },
       {
         "citation": "Andrew L. Haynes | Numerical simulations of 3D magnetic null-point reconnection | 10.1051/0004-6361/201117180",
@@ -2538,9 +2260,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -2563,9 +2283,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.8
+        "doi_valid": false
       },
       {
         "citation": "Sergio J. Gonz\u00e1lez Manrique | Chromospheric magnetic field oscillations in umbral flashes | 10.1051/0004-6361/201833013",
@@ -2581,9 +2299,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Hector Socas-Navarro | Apparent magnetic variations produced by shock-induced velocity gradients in umbral flashes | 10.1086/303456",
@@ -2599,9 +2315,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ada Ortiz | Spectropolarimetric observations and modeling of umbral flashes | 10.1007/s11207-011-9721-6",
@@ -2617,9 +2331,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.92
+        "doi_valid": false
       },
       {
         "citation": "David Orozco Su\u00e1rez | Multi-component atmospheric structure in solar umbral flashes | 10.1051/0004-6361/201220456",
@@ -2635,9 +2347,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -2660,9 +2370,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "Andrea Pallottini | Cosmological hydrodynamic simulations and radiative transfer of [C II] at z \u2273 6 | 10.1093/mnras/stw1002",
@@ -2679,9 +2387,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.66
+        "doi_valid": false
       },
       {
         "citation": "Gerg\u00f6 Popping | Semi-analytic models of the [C II] luminosity function at high redshift | 10.1093/mnras/stw1234",
@@ -2698,9 +2404,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Stefano Carniani | The [C II] luminosity function and SFR relation at the epoch of reionization | 10.1093/mnras/staa2221",
@@ -2716,9 +2420,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Robert C. Feldmann | Radiative-transfer modeling of [C II] emission from high-redshift galaxies | 10.3847/1538-4357/ab7c6a",
@@ -2734,9 +2436,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -2760,9 +2460,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.78
+        "doi_valid": false
       },
       {
         "citation": "Isabelle Cherchneff | The chemical steps to dust formation in circumstellar outflows | 10.1051/0004-6361/201117180",
@@ -2778,9 +2476,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "H.-P. Gail | Mineral dust formation in stellar winds | 10.1051/0004-6361:200810237",
@@ -2796,9 +2492,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Carsten Dominik | Dust growth and coagulation in circumstellar disks and winds | 10.1051/0004-6361/201322221",
@@ -2814,9 +2508,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S. T. T. Goumans | Silicate dust nucleation: a quantum chemical study of SiO cluster formation | 10.1039/c3cp51234d",
@@ -2833,9 +2525,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       }
     ]
   },
@@ -2858,9 +2548,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.58
+        "doi_valid": false
       },
       {
         "citation": "Su Yang | CO-line kinematic diagnostics of supernova remnants interacting with molecular clouds | 10.1093/mnras/stz3202",
@@ -2876,9 +2564,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.76
+        "doi_valid": false
       },
       {
         "citation": "Jeong-Eun Heo | Distinguishing genuine SNR\u2013MC associations from chance line-of-sight correlations | 10.3847/1538-4357/ac78ab",
@@ -2894,9 +2580,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.94
+        "doi_valid": false
       },
       {
         "citation": "J. W. McKee | Spatial morphology and distance constraints of SNR G43.9+1.6 | 10.1093/mnras/sty2891",
@@ -2912,9 +2596,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "S. Margutti | Multiwavelength constraints on supernova remnants and molecular clouds | 10.1088/0004-637X/790/1/52",
@@ -2930,9 +2612,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -2955,9 +2635,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Wendy L. Freedman | Calibration of the Hubble constant using Cepheids and Type Ia supernovae | 10.3847/1538-4357/ab7c6a",
@@ -2973,9 +2651,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "John P. Blakeslee | Surface brightness fluctuations as a distance indicator: Calibrations and systematics | 10.3847/1538-4357/ac78ab",
@@ -2991,9 +2667,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Adam G. Riess | Cepheid-based calibrations of Type Ia supernovae and the Hubble constant | 10.3847/1538-4357/ab7210",
@@ -3009,9 +2683,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Richard I. Anderson | Systematic uncertainties in the Hubble constant: Cepheids, SBF, and Type Ia supernovae | 10.1051/0004-6361/201936104",
@@ -3028,9 +2700,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -3053,9 +2723,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Volker Springel | Galactic bars in the IllustrisTNG simulation: Resolution and feedback effects | 10.1093/mnras/sts123",
@@ -3071,9 +2739,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Joop Schaye | The EAGLE project: Simulating the formation of disk galaxies and their bars | 10.1093/mnras/stv1542",
@@ -3089,9 +2755,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Peter L. Behroozi | Discrepancies between observed and simulated bar populations in disk galaxies | 10.1093/mnras/staa2221",
@@ -3107,9 +2771,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ivan Minchev | The role of baryonic feedback in shaping galactic bars | 10.1051/0004-6361/201220456",
@@ -3126,9 +2788,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -3151,9 +2811,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Marianne Vestergaard | Response-weighted and luminosity-weighted BLR radii in active galactic nuclei | 10.3847/1538-4357/ab7c6a",
@@ -3170,9 +2828,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Shai Kaspi | Relationship between broad-line region size and luminosity for active galactic nuclei | 10.1086/308764",
@@ -3189,9 +2845,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.7
+        "doi_valid": false
       },
       {
         "citation": "Charles L. Steinhardt | Systematic uncertainties in cosmological distance-ladder methodologies using reverberation mapping | 10.1093/mnras/staa2221",
@@ -3207,9 +2861,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Michael R. Goad | Response-weighted versus luminosity-weighted BLR radii in SARM | 10.1093/mnras/stz3202",
@@ -3225,9 +2877,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -3251,9 +2901,7 @@
         ],
         "retracted": false,
         "matched_database_author": "Nicholas J. Wright",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "S. Pizzolato | The relation between rotation and coronal activity in late-type main-sequence stars: Connection with the dynamo | 10.1051/0004-6361:20030182",
@@ -3269,9 +2917,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.67
+        "doi_valid": false
       },
       {
         "citation": "Robert W. Noyes | Rotation, convection, and magnetic activity in lower main-sequence stars | 10.1086/161908",
@@ -3286,9 +2932,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "R. W. Noyes",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "Nicholas J. Wright | The stellar rotation-activity relation: an investigation of chromospheric and coronal activity in F, G, K, and M dwarfs | 10.1093/mnras/stx3027",
@@ -3305,9 +2949,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Gregory W. Henry | Rotation and Active Regions in Late-Type Giants | 10.1086/192131",
@@ -3323,9 +2965,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -3348,9 +2988,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Chelsea L. MacLeod | A systematic search for changing-look quasars in SDSS | 10.1093/mnras/stw3221",
@@ -3365,9 +3003,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Chelsea L. MacLeod",
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Stephanie M. LaMassa | The Discovery of the First \"Changing-Look\" Quasar in the SDSS | 10.1088/0004-637X/800/2/144",
@@ -3383,9 +3019,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "M. J. Graham | Understanding changing-look quasars | 10.1093/mnras/stv2144",
@@ -3401,9 +3035,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Y. Sheng | Mid-infrared variability of changing-look active galactic nuclei | 10.1093/mnras/stx1790",
@@ -3419,9 +3051,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.72
+        "doi_valid": false
       }
     ]
   },
@@ -3443,9 +3073,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Martin Turbet",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "R. D. Wordsworth | The Climate of Tidally Locked Terrestrial Planets | 10.1146/annurev-earth-060115-012447",
@@ -3461,9 +3089,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.81
+        "doi_valid": false
       },
       {
         "citation": "Sean N. Raymond | Volatile delivery to terrestrial planets in the habitable zone | 10.1016/j.icarus.2003.11.019",
@@ -3479,9 +3105,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Raymond T. Pierrehumbert | Dynamics of atmospheres of tidally locked terrestrial planets | 10.1017/S174392131000216X",
@@ -3497,9 +3121,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "David S. Spiegel | Habitable Climates: The Influence of Obliquity | 10.1088/0004-637X/691/1/596",
@@ -3514,9 +3136,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "David S. Spiegel",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -3539,9 +3159,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Maximilian N. G\u00fcnther | Stellar Flares from the First Two Years of TESS | 10.3847/1538-4357/ab81ca",
@@ -3558,9 +3176,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "James R. A. Davenport | Kepler Flares. II. The Temporal Morphology of White-Light Flares on GJ 1243 | 10.1088/0004-637X/797/2/122",
@@ -3575,9 +3191,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "James R. A. Davenport",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Ward S. Howard | Evryflare I: Long-term Flare Rates, Energies, and Superflares from G, K, and M Dwarfs in the Evryscope South Platform | 10.3847/1538-4357/ab4131",
@@ -3594,9 +3208,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ekaterina Ilin | Flare activity of wide binary stars with Kepler | 10.1051/0004-6361/202140685",
@@ -3613,9 +3225,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -3638,9 +3248,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "K. Nomoto | Nucleosynthesis Yields of Core-Collapse Supernovae and Type Ia Supernovae, and Galactic Chemical Evolution | 10.1016/j.nuclphysa.2012.12.012",
@@ -3657,9 +3265,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.63
+        "doi_valid": false
       },
       {
         "citation": "C. Kobayashi | Galactic Chemical Evolution: Carbon through Zinc | 10.1086/505029",
@@ -3674,9 +3280,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Chiaki Kobayashi",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.92
+        "doi_valid": false
       },
       {
         "citation": "Fran\u00e7ois Mernier | Radial abundance profiles of O, Ne, Mg, Si, S, Ar, Ca, and Fe in the intracluster medium | 10.1051/0004-6361/201730419",
@@ -3692,9 +3296,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "A. de Plaa | Constraining supernova models using the hot gas in clusters of galaxies | 10.1051/0004-6361:20066382",
@@ -3708,9 +3310,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.68
+        "doi_valid": true
       }
     ]
   },
@@ -3733,9 +3333,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "Amy Lien | The Swift Gamma-Ray Burst Mission: The Swift GRB Rate and Luminosity Function | 10.3847/0004-637X/829/1/7",
@@ -3751,9 +3349,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Giancarlo Ghirlanda | The cosmic rate of long gamma-ray bursts | 10.1093/mnras/stv1152",
@@ -3769,9 +3365,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "He Gao | The cosmic rate of gamma-ray bursts and the cosmic star formation rate | 10.1088/0004-637X/771/2/86",
@@ -3787,9 +3381,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.57
+        "doi_valid": false
       },
       {
         "citation": "D. B. Fox | The central engine and rate of long gamma-ray bursts | 10.1086/430132",
@@ -3805,9 +3397,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.88
+        "doi_valid": false
       }
     ]
   },
@@ -3830,9 +3420,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.96
+        "doi_valid": false
       },
       {
         "citation": "Sandra Savaglio | The GRB Host Galaxy Population. II. | 10.1086/505021",
@@ -3846,9 +3434,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "J. F. Graham | The metal-biased host galaxies of long gamma-ray bursts | 10.1093/mnras/stv451",
@@ -3864,9 +3450,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S. E. Woosley | Single Stellar Progenitors of Long Gamma-Ray Bursts | 10.1086/430814",
@@ -3882,9 +3466,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.8
+        "doi_valid": false
       },
       {
         "citation": "G. Leloudas | Spectroscopy of the host galaxies of long gamma-ray bursts | 10.1051/0004-6361/201526435",
@@ -3900,9 +3482,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -3926,9 +3506,7 @@
         ],
         "retracted": false,
         "matched_database_author": "John J. Tobin",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Yusuke Aso | ALMA Observations of the Transition from Envelope to Keplerian Disk in the Class 0 Protostar TMC-1A | 10.1088/0004-637X/812/1/27",
@@ -3942,9 +3520,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Nadia M. Murillo | ALMA observations of the Class 0 protostar VLA1623 | 10.1051/0004-6361/201321415",
@@ -3958,9 +3534,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Shigehisa Takakuwa | Transition from the Infalling Envelope to the Keplerian Disk in the L1551 IRS 5 Protostellar System | 10.1088/0004-637X/837/1/86",
@@ -3976,9 +3550,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "John J. Tobin | A ~0.2-solar-mass protostellar disk in a Class 0 protostar | 10.1038/nature11636",
@@ -3994,9 +3566,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -4019,9 +3589,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Mark R. Krumholz | The Formation of Massive Star Clusters | 10.1088/0004-637X/713/2/1120",
@@ -4035,9 +3603,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Christopher F. McKee | Theory of Star Formation | 10.1146/annurev.astro.43.072103.134016",
@@ -4052,9 +3618,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Christopher F. McKee",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "L. D. Anderson | The WISE Catalog of Galactic H II Regions | 10.1088/0067-0049/212/1/1",
@@ -4069,9 +3633,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "L. D. Anderson",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": true
       },
       {
         "citation": "J. Bally | Observations of Feedback from Massive Stars | 10.1146/annurev-astro-081915-023341",
@@ -4085,9 +3647,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.78
+        "doi_valid": false
       }
     ]
   },
@@ -4109,9 +3669,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "John T. Mariska",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Hardi Peter | Multi-component structure of the solar transition region | 10.1051/0004-6361:20011311",
@@ -4126,9 +3684,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Hardi Peter",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "B. De Pontieu | The Interface Region Imaging Spectrograph (IRIS) | 10.1007/s11207-014-0485-y",
@@ -4143,9 +3699,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "B. De\u00a0Pontieu",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.52
+        "doi_valid": true
       },
       {
         "citation": "G. A. Doschek | The Solar Transition Region: 1980-1990 | 10.1007/BF00155097",
@@ -4161,9 +3715,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       },
       {
         "citation": "Viggo H. Hansteen | On the dynamics of the solar transition region | 10.1086/304322",
@@ -4177,9 +3729,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -4200,9 +3750,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Richard I. Anderson | On the Association of Classical Cepheids with Open Clusters | 10.1051/0004-6361/201220832",
@@ -4216,9 +3764,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Wendy L. Freedman | Calibration of the Cepheid Distance Scale Using Gaia DR2 | 10.3847/1538-4357/ab2cbf",
@@ -4234,9 +3780,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "L. Breuval | The Milky Way Cepheid Leavitt Law calibrated with Gaia DR2 | 10.1051/0004-6361/202038633",
@@ -4250,9 +3794,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "Louise Breuval | The Cepheid distance scale and Gaia EDR3 | 10.1051/0004-6361/202141571",
@@ -4268,9 +3810,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -4291,9 +3831,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.86
+        "doi_valid": false
       },
       {
         "citation": "G. Nelemans | AM CVn stars | 10.1007/s11214-005-5026-6",
@@ -4308,9 +3846,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Gijs Nelemans",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S. Scaringi | An accreted-helium-dominated white dwarf binary | 10.1038/s41550-020-01264-z",
@@ -4324,9 +3860,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "T. Kupfer | The OmegaWhite Survey: AM CVn Candidates | 10.1093/mnras/stw3315",
@@ -4340,9 +3874,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.76
+        "doi_valid": false
       },
       {
         "citation": "L. Bildsten | Helium-Burning White Dwarfs | 10.1086/518465",
@@ -4356,9 +3888,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       }
     ]
   },
@@ -4379,9 +3909,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.86
+        "doi_valid": false
       },
       {
         "citation": "Catherine Zucker | Mapping the 3D Dust Structure of the Milky Way | 10.3847/1538-4357/abf53c",
@@ -4395,9 +3923,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Gregory M. Green | A 3D Map of Dust Reddening from Gaia | 10.3847/1538-4357/ab5362",
@@ -4411,9 +3937,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Alyssa A. Goodman | The \"Radcliffe Wave\" of Star-Forming Regions | 10.1038/s41586-019-1874-z",
@@ -4427,9 +3951,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "C. Lada | The mass-size relation of molecular clouds | 10.1051/0004-6361/201936453",
@@ -4445,9 +3967,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -4468,9 +3988,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Event Horizon Telescope Collaboration'], database had 100 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.54
+        "doi_valid": false
       },
       {
         "citation": "Event Horizon Telescope Collaboration | First M87 Event Horizon Telescope Results. VIII. Magnetic Field Structure near The Event Horizon | 10.3847/2041-8213/abe4de",
@@ -4484,9 +4002,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.54
+        "doi_valid": true
       },
       {
         "citation": "J. C. McKinney | General Relativistic Magnetohydrodynamic Simulations of Magnetically Arrested Accretion Flows | 10.1093/mnras/sts003",
@@ -4500,9 +4016,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.59
+        "doi_valid": false
       },
       {
         "citation": "Ramesh Narayan | Magnetically Arrested Disk (MAD) Models for Sagittarius A* | 10.1093/mnras/stt1522",
@@ -4518,9 +4032,7 @@
           "Europe PMC"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Andrew Chael | Observational Signatures of Magnetically Arrested Disks | 10.3847/1538-4357/ab0c01",
@@ -4534,9 +4046,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -4558,9 +4068,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "L. Magrini",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "L. Spina | The Gaia-ESO Survey: Chemical homogeneity in open clusters | 10.1051/0004-6361/201424168",
@@ -4574,9 +4082,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.68
+        "doi_valid": false
       },
       {
         "citation": "Katia Biazzo | Chemical abundances of Cepheids in the Galactic disk | 10.1051/0004-6361/201117565",
@@ -4590,9 +4096,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Francesca Matteucci | Gas mixing and chemical enrichment in the Galactic disk | 10.1093/mnras/stz1215",
@@ -4606,9 +4110,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Sofia Randich | The Gaia-ESO Survey: open clusters | 10.1051/0004-6361/201321553",
@@ -4622,9 +4124,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.98
+        "doi_valid": false
       }
     ]
   },
@@ -4646,9 +4146,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Anna Frebel",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "E. Carretta | Abundances of light elements in globular clusters | 10.1051/0004-6361/200912096",
@@ -4662,9 +4160,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.63
+        "doi_valid": false
       },
       {
         "citation": "Evan N. Kirby | Multi-element Abundance Measurements in Dwarf Spheroidal Galaxies | 10.1088/0067-0049/191/2/352",
@@ -4678,9 +4174,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Ralph Sutherland | Hydrodynamical simulations of the interstellar medium and chemical mixing | 10.1088/0004-637X/734/1/42",
@@ -4694,9 +4188,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Chiaki Kobayashi | Galactic Chemical Evolution: Carbon through Zinc | 10.1086/505029",
@@ -4711,9 +4203,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Chiaki Kobayashi",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.92
+        "doi_valid": false
       }
     ]
   },
@@ -4736,9 +4226,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "C. A. Kletzing | Laboratory Measurement of Kinetic Alfv\u00e9n Waves | 10.1103/PhysRevLett.90.035004",
@@ -4752,9 +4240,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "F. Sahraoui | Kinetic Scale Turbulence in the Solar Wind | 10.1103/PhysRevLett.102.231102",
@@ -4770,9 +4256,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.9
+        "doi_valid": false
       },
       {
         "citation": "J. V. Hollweg | Alfv\u00e9n Waves in the Solar Wind | 10.1029/JA079i010p01353",
@@ -4786,9 +4270,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "D. J. Wu | Kinetic Alfv\u00e9n Waves in Solar and Space Plasmas | 10.1007/s11214-015-0159-8",
@@ -4802,9 +4284,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.58
+        "doi_valid": false
       }
     ]
   },
@@ -4825,9 +4305,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.95
+        "doi_valid": false
       },
       {
         "citation": "Sean N. Raymond | Planet-Planet Scattering and the Orbital Architecture of Exoplanet Systems | 10.1086/592395",
@@ -4841,9 +4319,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "David Nesvorn\u00fd | Young Solar System's Dynamical Instability | 10.1088/2041-8205/742/2/L22",
@@ -4857,9 +4333,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Aurelien Crida | Eccentricity damping of giant planets in gaseous disks | 10.1051/0004-6361:200810141",
@@ -4875,9 +4349,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Katherine Kretke | The evolution of giant planet orbits during gas disk dissipation | 10.1088/0004-637X/755/1/74",
@@ -4891,9 +4363,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -4914,9 +4384,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.82
+        "doi_valid": false
       },
       {
         "citation": "V. S. Meadows | The Habitability of Proxima Centauri b | 10.1089/ast.2016.1589",
@@ -4931,9 +4399,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Victoria S. Meadows",
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "Jun Yang | Strong dependence of the inner edge of the habitable zone on planetary rotation rate | 10.1088/2041-8205/787/1/L2",
@@ -4948,9 +4414,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Jun Yang",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.85
+        "doi_valid": true
       },
       {
         "citation": "Dorian S. Abbot | Indication of greenhouse gases on rocky exoplanets | 10.1088/0004-637X/756/2/178",
@@ -4964,9 +4428,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.96
+        "doi_valid": false
       },
       {
         "citation": "Laura Kreidberg | Transmission Spectroscopy of the Earth-sized Exoplanet TRAPPIST-1f | 10.3847/2041-8213/aab750",
@@ -4980,9 +4442,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -5004,9 +4464,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Martin Turbet",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Victoria S. Meadows | The Habitability of Proxima Centauri b. I. Irradiation, Extreme Space Weather and Catastrophic Water Loss | 10.1089/ast.2016.1589",
@@ -5020,9 +4478,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ian A. Boutle | Exploring the climate of Proxima Centauri b with the Met Office Unified Model | 10.1051/0004-6361/201630020",
@@ -5036,9 +4492,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Serge D. Kane | The Habitability of Proxima Centauri b | 10.3847/2041-8205/830/2/L19",
@@ -5052,9 +4506,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Serge D. Kane'], database had 8 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Daniel Angerhausen | Observational Prospects for Proxima Centauri b | 10.1051/0004-6361/201630010",
@@ -5068,9 +4520,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -5091,9 +4541,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Sherry H. Suyu | Two accurate time-delay distances from strong lensing: Implications for cosmology | 10.1088/0004-637X/766/2/70",
@@ -5108,9 +4556,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "S. H. Suyu",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Elizabeth Buckley-Geer | STRIDES: a spectroscopic survey of strong-lensing systems: design and first results | 10.1093/mnras/stw3034",
@@ -5124,9 +4570,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Kenneth C. Wong | H0LiCOW - XIII. A 2.4 per cent measurement of H0 from lensed quasars: 5.3 sigma tension between early- and late-Universe probes | 10.1093/mnras/stz3094",
@@ -5141,9 +4585,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Kenneth C. Wong",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "Dominique Sluse | TDCOSMO. II. Mass-to-light ratio gradients, stellar initial mass function, and the Hubble constant from joint gravitational lensing and stellar dynamical analysis | 10.1051/0004-6361/202038862",
@@ -5157,9 +4599,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.56
+        "doi_valid": false
       }
     ]
   },
@@ -5180,9 +4620,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Juan R. Sargent | The Redshift Evolution of the Far-Infrared/Radio Correlation in COSMOS | 10.1088/0067-0049/186/2/341",
@@ -5196,9 +4634,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Edo Ibar | The Herschel-ATLAS: The far-infrared--to--radio relation of science-demonstration phase sources | 10.1111/j.1365-2966.2010.17437.x",
@@ -5212,9 +4648,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Eric Bell | Estimating Star Formation Rates from Infrared and Radio Luminosities: The Redshift Evolution of the Cosmic Star Formation Rate Density | 10.1086/367829",
@@ -5228,9 +4662,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jared R. G. Magnelli | Far-infrared properties of submillimeter-selected galaxies in the Great Observatories Origins Deep Survey | 10.1051/0004-6361/201219195",
@@ -5246,9 +4678,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -5269,9 +4699,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.96
+        "doi_valid": false
       },
       {
         "citation": "Matthew J. Graham | A systematic search for periodically varying quasars in the Catalina Real-time Transient Survey | 10.1093/mnras/stv1726",
@@ -5285,9 +4713,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Daniel J. D'Orazio | A single period-luminosity relation for active galactic nuclei? | 10.1093/mnras/stv2914",
@@ -5303,9 +4729,7 @@
           "OpenAlex"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Maria Charisi | A population of periodic candidate SMBHBs in the PTF/iPTF | 10.1093/mnras/stw1838",
@@ -5319,9 +4743,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Sarah Burke-Spolaor | The astrophysics of nanohertz gravitational waves | 10.1007/s00159-019-0115-7",
@@ -5336,9 +4758,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Sarah Burke-Spolaor",
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": true
       }
     ]
   },
@@ -5362,9 +4782,7 @@
           "Open Library"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.86
+        "doi_valid": false
       },
       {
         "citation": "Daniel C. Fabrycky | Shrinking Binary and Planetary Orbits by Kozai Cycles with Tidal Friction | 10.1086/521702",
@@ -5379,9 +4797,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Daniel Fabrycky",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Smadar Naoz | Hot Jupiters from Coplanar High-Eccentricity Migration | 10.1088/2041-8205/754/2/L36",
@@ -5395,9 +4811,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Smadar Naoz'], database had 1 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Binhui Wu | High-eccentricity Migration of Giant Planets: Kozai-Lidov Cycles with Octupole Effects | 10.1088/0004-637X/735/2/109",
@@ -5411,9 +4825,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.64
+        "doi_valid": false
       },
       {
         "citation": "Cristobal Petrovich | Hot Jupiters from Coplanar High-eccentricity Migration | 10.1088/0004-637X/805/1/75",
@@ -5428,9 +4840,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Cristobal Petrovich",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -5451,9 +4861,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.93
+        "doi_valid": false
       },
       {
         "citation": "Ji-an Jiang | A hybrid type Ia supernova with an early-flash signature | 10.1038/nature23908",
@@ -5467,9 +4875,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.53
+        "doi_valid": false
       },
       {
         "citation": "Chris Burns | The Carnegie Supernova Project: Light-curve Fitting with SNooPy | 10.1088/0004-6256/141/1/19",
@@ -5484,9 +4890,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "C. R. Burns",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.96
+        "doi_valid": true
       },
       {
         "citation": "Maria R. Drout | The First Rapidly Fading Astronomical Transients from the Pan-STARRS1 Survey | 10.1088/0004-637X/794/1/23",
@@ -5502,9 +4906,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Griffin Hosseinzadeh | Early-time Light Curves of Type Ia Supernovae | 10.3847/1538-4357/aa9aaf",
@@ -5520,9 +4922,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -5543,9 +4943,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Houde Martin | Dispersion of Magnetic Fields in Molecular Clouds | 10.1088/0004-637X/706/2/1504",
@@ -5559,9 +4957,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Brandon S. Hensley | A New Interpretation of the Davis-Chandrasekhar-Fermi Method | 10.3847/1538-4357/aad084",
@@ -5575,9 +4971,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Raphael Skalidis | Estimating Magnetic Field Strength in Molecular Clouds | 10.1051/0004-6361/202141389",
@@ -5591,9 +4985,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Raphael Skalidis'], database had 2 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Crutcher Richard M. | Magnetic Fields in Molecular Clouds | 10.1146/annurev-astro-081811-125514",
@@ -5607,9 +4999,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -5630,9 +5020,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Jeffrey A. Newman | The DEEP2 Galaxy Redshift Survey: Design, Observations, and Data Reduction | 10.1088/0067-0049/208/1/5",
@@ -5646,9 +5034,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Matthew Colless | The 2dF Galaxy Redshift Survey: spectra and redshifts | 10.1046/j.1365-8711.2001.04902.x",
@@ -5663,9 +5049,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Matthew Colless",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       },
       {
         "citation": "St\u00e9phanie Juneau | Cosmic Star Formation History from [O II] Emission in DEEP2 | 10.1086/426511",
@@ -5679,9 +5063,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Kevin Bundy | The DEEP2 Galaxy Redshift Survey: The Role of Galaxy Mass in the Evolution of the Active Galactic Nuclei Population | 10.1086/505388",
@@ -5695,9 +5077,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -5718,9 +5098,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Sandra M. Faber | Galaxy Luminosity Functions, colors, and morphology | 10.1086/515019",
@@ -5734,9 +5112,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Yingjie Peng | Mass and Environment as the Two Predictors of Galaxy Quenching | 10.1088/0004-637X/721/1/193",
@@ -5752,9 +5128,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.59
+        "doi_valid": false
       },
       {
         "citation": "Timothy M. Heckman | The Co-Evolution of Galaxies and Supermassive Black Holes | 10.1146/annurev-astro-081211-123806",
@@ -5768,9 +5142,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Benedikt Diemer | SPARTA: A new algorithm to track haloes and find subhaloes | 10.3847/1538-4357/aa9d1a",
@@ -5784,9 +5156,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -5807,9 +5177,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Christina M. S. Cohen | Parker Solar Probe observations of a solar energetic particle event | 10.1051/0004-6361/202038515",
@@ -5823,9 +5191,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Nathan A. Schwadron | Solar energetic particles inside 0.3 au from Parker Solar Probe | 10.3847/1538-4357/abc1e0",
@@ -5841,9 +5207,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Stuart D. Bale | Highly structured slow solar wind in the inner corona | 10.1038/s41586-019-1818-7",
@@ -5859,9 +5223,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "David J. McComas | Probing the energetic particle environment near the Sun with Parker Solar Probe | 10.1038/s41586-019-1811-1",
@@ -5876,9 +5238,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "D. J. McComas",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -5899,9 +5259,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Yao-Yuan Mao | The SAGA Survey. II. Representation of the Milky Way System | 10.3847/1538-4357/abedd5",
@@ -5915,9 +5273,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.65
+        "doi_valid": false
       },
       {
         "citation": "Gurtina Besla | The Role of the Magellanic Clouds in the Galaxy's Satellite Population | 10.1111/j.1365-2966.2012.21045.x",
@@ -5931,9 +5287,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.57
+        "doi_valid": false
       },
       {
         "citation": "Andrew R. Wetzel | Reconciling dwarf galaxies with LCDM cosmology | 10.1093/mnrasl/slw043",
@@ -5948,9 +5302,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Andrew R. Wetzel",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Timothy M. Heckman | The Co-Evolution of Galaxies and Supermassive Black Holes | 10.1146/annurev-astro-081211-123806",
@@ -5964,9 +5316,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -5987,9 +5337,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.96
+        "doi_valid": false
       },
       {
         "citation": "Paola Caselli | CO Depletion and Deuterium Fractionation in Prestellar Cores | 10.1086/341434",
@@ -6003,9 +5351,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Paola Caselli'], database had 6 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Helen J. Fraser | The Physics and Chemistry of CO Freeze-Out on Interstellar Dust | 10.1111/j.1365-2966.2004.07221.x",
@@ -6019,9 +5365,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Bergin Edwin A. | Chemical Evolution in Star-Forming Regions | 10.1146/annurev.astro.45.051308.104907",
@@ -6037,9 +5381,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jonathan B. Foster | The CO Depletion and Deuteration in the Perseus Molecular Cloud | 10.1088/0004-637X/696/1/370",
@@ -6053,9 +5395,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6076,9 +5416,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['J. Todd Hoeksema'], database had 1 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Marc DeRosa | Solar Cycle Variation of the Coronal Magnetic Field | 10.1088/0004-637X/757/2/147",
@@ -6092,9 +5430,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Nick Arge | Improvement of the Wang-Sheeley-Arge coronal model | 10.1029/2003JA010303",
@@ -6108,9 +5444,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Peter R. MacNeice | Validation of Coronal Magnetic Field Models | 10.1029/2007JA012431",
@@ -6124,9 +5458,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Yi-Ming Wang | The Open Magnetic Flux of the Sun and Its Relation to the Solar Cycle | 10.1086/313364",
@@ -6140,9 +5472,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       }
     ]
   },
@@ -6163,9 +5493,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jack J. Lissauer | Almost All Kepler Multiplanet Systems Are Dynamically Stable | 10.1088/0004-637X/770/2/131",
@@ -6179,9 +5507,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Lauren M. Weiss | The Kepler-105 System: Density and Compositional Diversity | 10.3847/1538-3881/ab0a0a",
@@ -6195,9 +5521,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Sean N. Raymond | Exoplanet Orbit and Composition Evolution under Inward Migration | 10.1016/j.icarus.2006.01.001",
@@ -6211,9 +5535,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Eric B. Ford | Dynamical Instabilities in Closely Spaced Planetary Systems | 10.1038/nature04516",
@@ -6227,9 +5549,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6250,9 +5570,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Roman R. Rafikov | Gas-disk torques on massive black hole binaries | 10.1086/378486",
@@ -6268,9 +5586,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Lucio Mayer | Rapid coalescence of supermassive black hole binaries in merging galaxies | 10.1126/science.1141858",
@@ -6284,9 +5600,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Alberto Sesana | Gravitational wave signals from merging massive black hole binaries | 10.1111/j.1365-2966.2008.13023.x",
@@ -6302,9 +5616,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Jorge Cuadra | Galactic gas disks and the stalling of massive black hole binaries | 10.1111/j.1365-2966.2008.14081.x",
@@ -6318,9 +5630,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6343,9 +5653,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Suvi Gezari | Tidal disruption events in active galactic nuclei | 10.1088/2041-8205/749/2/L115",
@@ -6361,9 +5669,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Ting\u8cb4 Wang | Extreme Coronal Line Emitters and Their Relation to Tidal Disruption Events | 10.1088/0004-637X/740/2/85",
@@ -6377,9 +5683,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.9
+        "doi_valid": false
       },
       {
         "citation": "Jane L. Dai | A Unified Model for Tidal Disruption Events | 10.3847/2041-8213/aab706",
@@ -6393,9 +5697,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Jane L. Dai'], database had 5 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Iair Arcavi | Rapidly evolving transients from tidal disruption events | 10.1038/nature13729",
@@ -6409,9 +5711,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.91
+        "doi_valid": false
       }
     ]
   },
@@ -6434,9 +5734,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Cecilia Ceccarelli | Prebiotic Chemistry in Space: Formamide as a Key Molecule | 10.1007/s11084-014-9366-2",
@@ -6450,9 +5748,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Brett A. McGuire | Detection of Acetamide and Formamide in the Interstellar Medium | 10.1086/505312",
@@ -6468,9 +5764,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jean-Claude Guillemin | Laboratory Spectra and Synthesis of Prebiotic Molecules | 10.1007/s11084-013-9345-5",
@@ -6484,9 +5778,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Victor M. Rivilla | Abundant prebiotic chemistry in the interstellar medium: The detection of formamide | 10.1093/mnras/stab011",
@@ -6500,9 +5792,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6525,9 +5815,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "St\u00e9phane Mathis | Convective excitation of inertial waves in rotating stars | 10.1051/0004-6361/201321951",
@@ -6541,9 +5829,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Thomas Gastine | Convection-driven inertial modes in rotating spherical shells | 10.1017/jfm.2016.321",
@@ -6557,9 +5843,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Conny Aerts | Asteroseismology of rapidly rotating stars | 10.1146/annurev-astro-081915-023249",
@@ -6573,9 +5857,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.87
+        "doi_valid": false
       },
       {
         "citation": "J\u00f8rgen Christensen-Dalsgaard | Internal rotation of stars from asteroseismology | 10.1146/annurev-astro-081811-125506",
@@ -6589,9 +5871,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -6614,9 +5894,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Alyson Brooks | The role of stellar feedback in transforming dark matter profiles | 10.1088/0004-637X/765/1/22",
@@ -6630,9 +5908,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Justin Read | Understanding the core-cusp problem in dwarf galaxies | 10.1093/mnras/stv1124",
@@ -6646,9 +5922,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Julio F. Navarro | The structure of cold dark matter halos | 10.1086/300184",
@@ -6663,9 +5937,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Julio F. Navarro",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Andrew Pontzen | How supernova feedback turns dark matter cusps into cores | 10.1111/j.1365-2966.2012.20571.x",
@@ -6680,9 +5952,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Andrew Pontzen",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -6703,9 +5973,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Anna Frebel | Nucleosynthetic signatures of the first stars in Galactic halo stars | 10.1088/0004-637X/723/2/101",
@@ -6720,9 +5988,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Anna Frebel",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Max Pettini | Carbon-enhanced Lyman limit systems at high redshift | 10.1111/j.1365-2966.2008.13012.x",
@@ -6736,9 +6002,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "John M. O'Meara | The Deuterium-to-Hydrogen Ratio in Lyman Limit Systems | 10.1086/321382",
@@ -6752,9 +6016,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Alexander Heger | Nucleosynthesis and yields of the first generation of supernovae | 10.1086/341712",
@@ -6768,9 +6030,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6791,9 +6051,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Simon Portegies Zwart | Dynamical evolution and hierarchical assembly of young star clusters | 10.1146/annurev-astro-081309-130834",
@@ -6809,9 +6067,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Richard J. Parker | Filament dissolution and the dynamical assembly of young open clusters | 10.1093/mnras/stu521",
@@ -6825,9 +6081,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Genevieve M. S. Allison | Dynamical evolution and subgroup mergers in young open clusters | 10.1111/j.1365-2966.2009.15124.x",
@@ -6841,9 +6095,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Douglas N. C. Lin | N-body simulations of hierarchical cluster assembly | 10.1086/163012",
@@ -6859,9 +6111,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6883,9 +6133,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Fabian Schussler",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Gavin P. Lamb | Multi-wavelength afterglows of gamma-ray bursts: predictions and observations | 10.1093/mnras/sty2913",
@@ -6899,9 +6147,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Giancarlo Ghirlanda | The first hours of the Gamma-Ray Burst afterglow | 10.1051/0004-6361/201832810",
@@ -6915,9 +6161,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S. D. Barthelmy | The Gamma-Ray Burst Coordinates Network (GCN) | 10.1117/12.220556",
@@ -6931,9 +6175,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.93
+        "doi_valid": false
       },
       {
         "citation": "Damien Turpin | The SVOM prompt-to-afterglow alert system | 10.1088/1674-4527/21/2/31",
@@ -6949,9 +6191,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -6972,9 +6212,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.57
+        "doi_valid": false
       },
       {
         "citation": "Erik Rosolowsky | The Molecular Cloud Mass Function in the Outer Galaxy | 10.1086/428352",
@@ -6988,9 +6226,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Annie Hughes | Physical Properties of Giant Molecular Clouds in the Large Magellanic Cloud | 10.1088/0004-637X/723/2/1019",
@@ -7005,9 +6241,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Annie Hughes",
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Roman Kofman | The environmental dependence of the molecular cloud mass function | 10.1093/mnras/staa2211",
@@ -7021,9 +6255,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Ji-Xian Sun | Properties of molecular clouds in the Galactic Second Quadrant from the MWISP survey | 10.3847/1538-4357/ac0d57",
@@ -7037,9 +6269,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.52
+        "doi_valid": false
       }
     ]
   },
@@ -7060,9 +6290,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.89
+        "doi_valid": false
       },
       {
         "citation": "Vasily Kokorev | UNCOVER: A Spatially Resolved \"Little Red Dot\" at z=4.66 with a Supermassive Black Hole | 10.3847/2041-8213/ad037e",
@@ -7078,9 +6306,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ivo Labb\u00e9 | A population of red, ultra-compact transition galaxies at z=5-9 | 10.1038/s41586-023-05786-2",
@@ -7094,9 +6320,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Rachel Bezanson | UNCOVER: The James Webb Space Telescope Ultradeep NIRSpec and MIRI Imaging and Spectroscopy of Abell 2744 | 10.3847/1538-4365/acf130",
@@ -7110,9 +6334,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Matthew A. Taylor | Little Red Dots: Rapid baryonic inflow within fuzzy dark matter soliton cores | 10.1103/PhysRevD.108.023011",
@@ -7126,9 +6348,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -7149,9 +6369,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.79
+        "doi_valid": false
       },
       {
         "citation": "Marijke Haverkorn | Measuring Turbulence in the Interstellar Medium of the Galaxy Using Faraday Rotation | 10.1086/521634",
@@ -7165,9 +6383,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Craig Anderson | The Faraday rotation structure of the supernova remnant G54.1+0.3 | 10.3847/1538-4357/ab7ba3",
@@ -7183,9 +6399,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Bryan M. Gaensler | Magnetic field structure in the North Polar Spur | 10.1093/mnras/stw1002",
@@ -7201,9 +6415,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Xiaohui Sun | Rotation measure structure functions in supernova remnants and the diffuse ISM | 10.1051/0004-6361/201525712",
@@ -7219,9 +6431,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -7242,9 +6452,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.55
+        "doi_valid": false
       },
       {
         "citation": "S. S. Chakrabarty | Ionospheric sluggishness and short wave fadeout | 10.1016/0021-9169(74)90123-X",
@@ -7258,9 +6466,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.64
+        "doi_valid": false
       },
       {
         "citation": "D. Bilitza | International Reference Ionosphere 2016: From ionospheric climate to real-time weather | 10.1002/2016JA023344",
@@ -7275,9 +6481,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "D. Bilitza",
-        "doi_valid": true,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": true
       },
       {
         "citation": "T. J. Curran | Characteristics of short wave fadeout events observed by HF receivers | 10.1029/2021JA029302",
@@ -7291,9 +6495,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.89
+        "doi_valid": false
       },
       {
         "citation": "Biqiang Zhao | Global ionospheric effects of the December 2006 solar flares | 10.1029/2007JA012484",
@@ -7307,9 +6509,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.78
+        "doi_valid": false
       }
     ]
   },
@@ -7330,9 +6530,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Richard B. C. Henry | On the Synthesis of Carbon, Nitrogen, and Oxygen by Low- and Intermediate-Mass Stars | 10.1086/309489",
@@ -7346,9 +6544,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Monica Berg | Chemical Abundances in H II Regions of nearby galaxies | 10.1088/0004-637X/754/2/98",
@@ -7365,9 +6561,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Leticia Carigi | Carbon, Nitrogen, and Oxygen nucleosynthesis constraints from H II regions | 10.1051/0004-6361:20042456",
@@ -7381,9 +6575,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Donatella Romano | Galactic chemical evolution: the origins of C, N, and O | 10.1111/j.1365-2966.2005.09341.x",
@@ -7397,9 +6589,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -7421,9 +6611,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "K. Kusano",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       },
       {
         "citation": "G. Valori | Active Region Magnetic Helicity as a Predictor of Solar Eruptions | 10.1007/s11207-015-0683-1",
@@ -7439,9 +6627,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.91
+        "doi_valid": false
       },
       {
         "citation": "E. Pariat | Testing magnetic helicity-based parameters as predictors of active region energy release | 10.1051/0004-6361/201629856",
@@ -7455,9 +6641,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       },
       {
         "citation": "Yang Guo | Magnetic Helicity in Solar Active Regions | 10.1007/s11214-017-0387-3",
@@ -7473,9 +6657,7 @@
           "CrossRef"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.55
+        "doi_valid": false
       },
       {
         "citation": "S. S. Lin | A new relative-alpha instability criterion for solar flare prediction | 10.1051/0004-6361/202243210",
@@ -7489,9 +6671,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -7512,9 +6692,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "J. Jiang | Predictability of the solar cycle over the past 30 years | 10.1007/s11214-018-0535-5",
@@ -7530,9 +6708,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.62
+        "doi_valid": false
       },
       {
         "citation": "Andres Munoz-Jaramillo | Solar Cycle Propagator: A Babcock-Leighton Dynamo Model | 10.1088/0004-637X/720/1/1016",
@@ -7548,9 +6724,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Mausumi Dikpati | Simulating the decline of solar polar fields and the precursor for Cycle 25 | 10.1088/0004-637X/835/2/231",
@@ -7564,9 +6738,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Matthew J. Owens | Decoupling of polar and toroidal fields in the heliosphere | 10.1002/2016GL071234",
@@ -7580,9 +6752,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -7603,9 +6773,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Kayhan G\u00fcltekin | The M-sigma and M-L Relations from Systematic Black Hole Mass Measurements | 10.1088/0004-637X/698/1/198",
@@ -7619,9 +6787,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Aaron J. Barth | The Black Hole Mass in the Seyfert Galaxy NGC 3227 | 10.1088/0004-637X/743/1/4",
@@ -7635,9 +6801,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jenny E. Greene | The Low-Mass End of the SMBH Mass Function | 10.1146/annurev-astro-082708-101813",
@@ -7651,9 +6815,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Remco C. E. van den Bosch | Triaxial Orbit-based Modeling of Galaxies with Supermassive Black Holes | 10.1088/0067-0049/179/1/177",
@@ -7667,9 +6829,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -7692,9 +6852,7 @@
           "arXiv"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "Benedikt Diemer | The Splashback Radius of Halos in Cosmological Simulations | 10.1088/0004-637X/789/1/1",
@@ -7708,9 +6866,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Shinjiro Shin | The Splashback Feature around SPT-selected Galaxy Clusters | 10.1093/mnras/stz1655",
@@ -7724,9 +6880,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Dylan Nelson | First results from the IllustrisTNG simulations: the galaxy color-magnitude relation | 10.1093/mnras/stx3040",
@@ -7740,9 +6894,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "J. Deason | The splashback radius of dark matter halos from spatial profiles of satellite galaxies | 10.1093/mnras/stv2022",
@@ -7756,9 +6908,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       }
     ]
   },
@@ -7779,9 +6929,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.96
+        "doi_valid": false
       },
       {
         "citation": "Anne Lohfink | The X-ray Reflection Spectrum of the Seyfert 1 Galaxy Fairall 9 | 10.1088/0004-637X/758/1/67",
@@ -7795,9 +6943,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "J. D. Parker | The NuSTAR and Swift view of the Seyfert 1 Galaxy NGC 5548 | 10.1093/mnras/stt1550",
@@ -7811,9 +6957,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.91
+        "doi_valid": false
       },
       {
         "citation": "J. S. Kaastra | Multiwavelength campaigns on Seyfert 1 galaxies: NGC 5548 | 10.1051/0004-6361/201424110",
@@ -7827,9 +6971,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.67
+        "doi_valid": false
       },
       {
         "citation": "Edward M. Cackett | Reverberation Mapping of Active Galactic Nuclei | 10.1007/s11214-021-00806-y",
@@ -7844,9 +6986,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Edward M. Cackett",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -7867,9 +7007,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Lee Lindblom | The Lifetime of Gravitational Wave Instabilities in Neutron Stars | 10.1103/PhysRevLett.80.4843",
@@ -7883,9 +7021,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.76
+        "doi_valid": false
       },
       {
         "citation": "Kostas D. Kokkotas | Relativistic r-modes in rapidly rotating neutron stars | 10.1051/0004-6361:20011504",
@@ -7900,9 +7036,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "K. Kokkotas",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Yasufumi Kojima | Singularities of r-modes in relativistic rotating stars | 10.1046/j.1365-8711.1998.01633.x",
@@ -7916,9 +7050,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.98
+        "doi_valid": false
       },
       {
         "citation": "Benjamin J. Owen | Gravitational waves from hot young rapidly rotating neutron stars | 10.1103/PhysRevD.58.084020",
@@ -7933,9 +7065,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "B. J. Owen",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -7956,9 +7086,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.81
+        "doi_valid": false
       },
       {
         "citation": "S. Codis | The spin alignment of galaxies with the cosmic web in cosmological simulations | 10.1093/mnras/stv2069",
@@ -7972,9 +7100,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.75
+        "doi_valid": false
       },
       {
         "citation": "Charlotte Welker | Spin alignment of galaxies in the cosmic web: a simulation perspective | 10.1093/mnras/stu1560",
@@ -7988,9 +7114,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Song Huang | The structural evolution of early-type galaxies from the cosmic web | 10.1093/mnras/stw1021",
@@ -8004,9 +7128,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.63
+        "doi_valid": false
       },
       {
         "citation": "Rachel Mandelbaum | Density and alignment profiles of dark matter halos | 10.1111/j.1365-2966.2006.10148.x",
@@ -8020,9 +7142,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -8043,9 +7163,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.57
+        "doi_valid": false
       },
       {
         "citation": "Eric Y. Hsiao | Spectroscopic Templates for Type Ia Supernovae in the Near-Infrared | 10.1086/521303",
@@ -8059,9 +7177,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "David R. Rice | Modelling the spectral diversity of Type Ia supernovae with PCA | 10.1093/mnras/sty2103",
@@ -8075,9 +7191,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Peter J. Brown | Swift Ultraviolet and Optical Observations of Peculiar Type Ia Supernovae | 10.1088/0004-637X/790/2/120",
@@ -8093,9 +7207,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "G. Folatelli | The Carnegie Supernova Project: Analysis of the Near-Infrared Light Curves of Type Ia Supernovae | 10.1088/0004-637X/716/1/263",
@@ -8109,9 +7221,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.67
+        "doi_valid": false
       }
     ]
   },
@@ -8132,9 +7242,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Dennis Bowen | Mini-disks and Accretion Dynamics in Binaries near Merger | 10.3847/1538-4357/aae487",
@@ -8148,9 +7256,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "V. Paschalidis | Relativistic simulations of circumbinary accretion disks and black hole mergers | 10.1103/PhysRevD.104.083011",
@@ -8164,9 +7270,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.89
+        "doi_valid": false
       },
       {
         "citation": "Jonathan Zrake | The orbital evolution of gas-accreting supermassive binary black holes | 10.3847/2041-8213/ab7e57",
@@ -8180,9 +7284,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Bernard J. Kelly | Electromagnetic emission from merging supermassive black holes in GRMHD | 10.1103/PhysRevD.84.084037",
@@ -8196,9 +7298,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       }
     ]
   },
@@ -8219,9 +7319,7 @@
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['F. E. Marshall'], database had 3 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Randy F. Ferdman | A sudden change in the braking index of PSR B0540-69 | 10.1093/mnrasl/slv012",
@@ -8235,9 +7333,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Andrew G. Lyne | Switched Magnetospheric States in Pulsars | 10.1126/science.1184018",
@@ -8251,9 +7347,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Danai Antonopoulou | Glitches and braking index behavior in young pulsars | 10.1093/mnras/stv1152",
@@ -8269,9 +7363,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "W. C. G. Ho | Magnetospheric state switching and braking indices of young pulsars | 10.1093/mnras/stw3030",
@@ -8285,9 +7377,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.81
+        "doi_valid": false
       }
     ]
   },
@@ -8308,9 +7398,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Pierre Guillard | H2 formation in the shock-excited gas of Stephan's Quintet | 10.1051/0004-6361/200911762",
@@ -8326,9 +7414,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Michelle Cluver | Warm Molecular Hydrogen in Compact Groups of Galaxies | 10.1088/0004-637X/765/2/93",
@@ -8342,9 +7428,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Vassilis Charmandaris | Mid-infrared observations of Stephan's Quintet with Spitzer | 10.1086/426038",
@@ -8358,9 +7442,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S. Alatalo | The CO-rich AGN Host Galaxy in Stephan's Quintet | 10.1088/0004-637X/780/2/186",
@@ -8376,9 +7458,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.86
+        "doi_valid": false
       }
     ]
   },
@@ -8399,9 +7479,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Asantha Cooray | Near-infrared background fluctuations from intra-halo light | 10.1038/nature11474",
@@ -8415,9 +7493,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.95
+        "doi_valid": false
       },
       {
         "citation": "Alexander Kashlinsky | New measurements of the cosmic infrared background fluctuations | 10.1088/2041-8205/753/1/L2",
@@ -8432,9 +7508,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "A. Kashlinsky",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Shuji Matsuura | The Cosmic Infrared Background Experiment (CIBER): Instrument and first results | 10.1088/0004-637X/839/1/7",
@@ -8449,9 +7523,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "S. Matsuura",
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Nico Cappelluti | Probing the nature of the cosmic infrared and X-ray backgrounds | 10.3847/1538-4357/aa8a1c",
@@ -8467,9 +7539,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.96
+        "doi_valid": false
       }
     ]
   },
@@ -8492,9 +7562,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jorge S\u00e1nchez Almeida | Gas Accretion and Starbursts in Dwarf Galaxies | 10.3847/1538-4357/aa9712",
@@ -8508,9 +7576,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Bruce G. Elmegreen | Star Formation Triggered by Gas Accretion in Dwarf Galaxies | 10.1088/2041-8205/774/2/L31",
@@ -8526,9 +7592,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Filippo Fraternali | Gas Accretion onto Disk Galaxies | 10.1007/s11214-013-9985-7",
@@ -8542,9 +7606,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "G. Cresci | Gas Accretion and Metallicity Gradients in z~2 Galaxies | 10.1038/nature09444",
@@ -8560,9 +7622,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.57
+        "doi_valid": false
       }
     ]
   },
@@ -8585,9 +7645,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Colin P. McNally | The effect of the streaming instability on protoplanet migration | 10.1093/mnras/stz1502",
@@ -8603,9 +7661,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Bertram Bitsch | Outward migration of low-mass planets in radiative disks | 10.1051/0004-6361/201323007",
@@ -8619,9 +7675,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "S.-J. Paardekooper | Outward migration of low-mass planets | 10.1051/0004-6361:20065111",
@@ -8637,9 +7691,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": null,
-        "gender_probability": 0.0
+        "doi_valid": false
       },
       {
         "citation": "H. Masset | Corotation torques and planet migration | 10.1051/0004-6361:20065050",
@@ -8655,9 +7707,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.66
+        "doi_valid": false
       }
     ]
   },
@@ -8680,9 +7730,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Ramandeep Gill | Polarization in Gamma-ray Burst Afterglows | 10.1093/mnras/stv1426",
@@ -8698,9 +7746,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.62
+        "doi_valid": false
       },
       {
         "citation": "Elena Rossi | Models of gamma-ray burst afterglow polarization | 10.1111/j.1365-2966.2004.07297.x",
@@ -8714,9 +7760,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Davide Lazzati | Polarisation of gamma-ray burst optical afterglows: a review | 10.1016/j.newar.2006.06.050",
@@ -8732,9 +7776,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Re'em Sari | Polarization of Gamma-Ray Burst Afterglows | 10.1086/312294",
@@ -8748,9 +7790,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.86
+        "doi_valid": false
       }
     ]
   },
@@ -8771,9 +7811,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Anna Frebel | Discovery of HE 1523-0901, a Strongly r-Process-enhanced Metal-poor Star with Detected Uranium | 10.1086/518122",
@@ -8788,9 +7826,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Anna Frebel",
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Vanessa Hill | First stars. I. The extremely metal-poor, r-process-rich star CS 31082-001 | 10.1051/0004-6361:20020428",
@@ -8804,9 +7840,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "John J. Cowan | The Age of the Galactic Halo from Thorium Cosmochronology | 10.1086/303960",
@@ -8820,9 +7854,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Christopher Sneden | Neutron-Capture Elements in the Early Galaxy | 10.1146/annurev.astro.46.060407.145228",
@@ -8837,9 +7869,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "C. Sneden",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": true
       }
     ]
   },
@@ -8862,9 +7892,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Benjamin Beeck | Three-dimensional simulations of near-surface convection in cool main-sequence stars. III. Magnetic field effects on the stellar surface | 10.1051/0004-6361/201424694",
@@ -8878,9 +7906,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Oleg Kochukhov | Magnetic fields of active late-type stars | 10.1007/s11214-020-00738-x",
@@ -8894,9 +7920,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Matthias Rempel | Numerical Sunspot Models: Robustness, Fine Structure, and Thermal Emission | 10.1088/0004-637X/750/1/62",
@@ -8910,9 +7934,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Jean-Fran\u00e7ois Donati | Magnetic Fields of Non-Solar-Type Stars | 10.1146/annurev.astro.43.072103.134041",
@@ -8928,9 +7950,7 @@
           "Semantic Scholar"
         ],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -8952,9 +7972,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Hans-Thomas Janka",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.94
+        "doi_valid": true
       },
       {
         "citation": "Bernhard M\u00fcller | Multi-dimensional Simulations of Core-Collapse Supernovae | 10.1017/pasa.2016.40",
@@ -8968,9 +7986,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Shinya Wanajo | Nucleosynthesis in Neutrino-driven Winds of Core-collapse Supernovae | 10.1088/0004-637X/770/1/22",
@@ -8984,9 +8000,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": false
       },
       {
         "citation": "Almudena Arcones | Nucleosynthesis in neutrino-driven winds. I. The role of the progenitor structure | 10.1051/0004-6361:20066983",
@@ -9000,9 +8014,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "female",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Luke F. Roberts | The Impact of Neutrino-matter Interactions on Neutrino-driven Wind Nucleosynthesis | 10.1088/0004-637X/722/1/954",
@@ -9016,9 +8028,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       }
     ]
   },
@@ -9040,9 +8050,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Kate D. Alexander",
-        "doi_valid": true,
-        "gender": "female",
-        "gender_probability": 0.99
+        "doi_valid": true
       },
       {
         "citation": "Brian D. Metzger | Radio Flares from Non-Relativistic Outflows in Tidal Disruption Events | 10.1111/j.1365-2966.2011.19914.x",
@@ -9056,9 +8064,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Tanmoy Laskar | The Radio Detection of the Tidal Disruption Event ASASSN-14li | 10.3847/0004-637X/818/1/32",
@@ -9072,9 +8078,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 1.0
+        "doi_valid": false
       },
       {
         "citation": "Assaf Horesh | Early Radio Emission from a Tidal Disruption Event | 10.1088/0004-637X/770/2/136",
@@ -9088,9 +8092,7 @@
         "reason": "title could not be found in any checked database",
         "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false,
-        "gender": "male",
-        "gender_probability": 0.99
+        "doi_valid": false
       },
       {
         "citation": "Edo Berger | Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451 | 10.1088/0004-637X/748/1/36",
@@ -9105,9 +8107,7 @@
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "E. Berger",
-        "doi_valid": true,
-        "gender": "male",
-        "gender_probability": 0.97
+        "doi_valid": true
       }
     ]
   }
