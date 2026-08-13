@@ -1,3 +1,4 @@
+### ANTHROPIC ###
 checked_anthr_S13144211_expertsysappe.json:
 ========================================
 Total citations:  500
@@ -5,17 +6,6 @@ Verified:         463 (92.6%)
 Not found:        24 (4.8%)
 Author mismatch:  12 (2.4%)
 CHECK:            1 (0.2%)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -76,7 +66,7 @@ Verified:         36 (7.2%)
 Not found:        429 (85.8%)
 Author mismatch:  35 (7.0%)
 CHECK:            0 (0.0%)
-Saved to data/verification/checkedgem_S110447773_cell.json
+Saved to data/verification/checked_gem_S110447773_cell.json
 
 
 Total citations:  500

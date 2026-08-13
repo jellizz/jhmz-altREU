@@ -695,12 +695,8 @@ def validate_references(input_file, output_file):
 
 if __name__ == "__main__":
 
-    # validate_references(
-    #     input_file="data/responses/anthropic/test_verify.py",
-    #     output_file="data/verification/test_verify_done.json"
-    # )
-
+    
     validate_references(
-        input_file="data/responses/gemini/responses_gem_S4210175523_IEEEneuralnet.json",
-        output_file="data/verification/checked_gem_S4210175523_IEEEneuralnet.json"
+        input_file="data/responses/gpt/responses_gpt_S4210175523.json",
+        output_file="data/verification/gpt/checked_gpt_S4210175523.json"
     )
