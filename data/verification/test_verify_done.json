@@ -29,7 +29,9 @@
         ],
         "found_authors_count": 100,
         "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['R. Abbasi'], database match: Rasha Abbasi",
-        "failed_dbs": [],
+        "failed_dbs": [
+          "Semantic Scholar"
+        ],
         "retracted": false,
         "matched_database_author": "Rasha Abbasi",
         "doi_valid": false
@@ -43,13 +45,11 @@
           "Shigeo S. Kimura"
         ],
         "found_authors_count": 4,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Shigeo S. Kimura'], database match: Shigeo S. Kimura",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Shigeo S. Kimura",
-        "doi_valid": false
+        "doi_valid": true
       },
       {
         "citation": "Fang, Ke; Metzger, Brian D. (2017). High-energy Neutrinos from Millisecond Magnetars Formed from the Merger of Binary Neutron Stars. The Astrophysical Journal, 849(2), 153. DOI: doi.org/10.3847/1538-4357/aa8b6a.",
@@ -76,7 +76,9 @@
         ],
         "found_authors_count": 3,
         "reason": "title and author both matched a database record",
-        "failed_dbs": [],
+        "failed_dbs": [
+          "arXiv"
+        ],
         "retracted": false,
         "matched_database_author": "Daniel Biehl",
         "doi_valid": true
@@ -97,11 +99,11 @@
           "Donald V. Reames"
         ],
         "found_authors_count": 1,
-        "reason": "title and author both matched a database record",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Donald V. Reames'], database match: D. V. Reames",
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "D. V. Reames",
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "Gopalswamy, Nat; Yashiro, Seiji; Krucker, S\u00e4m; Stenborg, Guillermo; Howard, Russell A. (2004). Intensity variation of large solar energetic particle events associated with coronal mass ejections. Journal of Geophysical Research, 109(A12), A12105. DOI: doi.org/10.1029/2004JA010602",
@@ -112,11 +114,11 @@
           "Nat Gopalswamy"
         ],
         "found_authors_count": 5,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Nat Gopalswamy'], database match: N. Gopalswamy",
+        "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "N. Gopalswamy",
-        "doi_valid": false
+        "doi_valid": true
       },
       {
         "citation": "Kahler, Stephen W. (2001). The correlation between solar energetic particle peak intensities and speeds of coronal mass ejections: Effects of ambient particle intensities and energy spectra. Journal of Geophysical Research, 106(A10), 20947-20955. DOI: doi.org/10.1029/2000JA002231",
@@ -157,13 +159,11 @@
           "Allan J. Tylka"
         ],
         "found_authors_count": 8,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [
-          "DBLP"
-        ],
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Allan J. Tylka'], database match: A. J. Tylka",
+        "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "A. J. Tylka",
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "Lario, David; Kwon, Ryun-Young; Vourlidas, Angelos; Raouafi, Nour E.; Haggerty, Dennis K.; Ho, George C.; et al. (2016). Longitudinal Properties of a Widespread Solar Energetic Particle Event on 2014 February 25. The Astrophysical Journal, 819(1), 72. DOI: doi.org/10.3847/0004-637X/819/1/72",
@@ -197,10 +197,7 @@
         ],
         "found_authors_count": 4,
         "reason": "title and author both matched a database record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "J. Mel\u00e9ndez",
         "doi_valid": true
@@ -245,10 +242,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       },
@@ -262,10 +256,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       },
@@ -280,7 +271,6 @@
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
         "failed_dbs": [
-          "DBLP",
           "Semantic Scholar"
         ],
         "retracted": false,
@@ -303,10 +293,7 @@
         ],
         "found_authors_count": 16,
         "reason": "title was found (source: arXiv), but author did not match. cited author(s): ['Jean-Pierre, Macquart'], database had 16 author(s) on record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": true
       },
@@ -319,12 +306,10 @@
           "CHIME/FRB Collaboration"
         ],
         "found_authors_count": 74,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['CHIME/FRB Collaboration'], database had 74 author(s) on record",
-        "failed_dbs": [
-          "DBLP"
-        ],
+        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['CHIME/FRB Collaboration'], database had 74 author(s) on record",
+        "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "James, Clancy W., et al. (2022). The z\u2013DM distribution of fast radio bursts. Monthly Notices of the Royal Astronomical Society, 509(4), 4775-4802. DOI: doi.org/10.1093/mnras/stab3051",
@@ -335,11 +320,8 @@
           "Clancy W., James"
         ],
         "found_authors_count": 6,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Clancy W., James'], database had 6 author(s) on record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Clancy W., James'], database had 6 author(s) on record",
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": true
       },
@@ -352,13 +334,10 @@
           "Kaitlyn, Shin"
         ],
         "found_authors_count": 21,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Kaitlyn, Shin'], database had 21 author(s) on record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Kaitlyn, Shin'], database had 21 author(s) on record",
+        "failed_dbs": [],
         "retracted": false,
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "Zhang, Rui Chen, and Zhang, Bing. (2022). Constraints on the Fast Radio Burst Volumetric Rates. The Astrophysical Journal Letters, 924(1), L14. DOI: doi.org/10.3847/2041-8213/ac46ad",
@@ -370,10 +349,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       },
@@ -387,10 +363,7 @@
         ],
         "found_authors_count": 12,
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Tetsuya, Hashimoto'], database had 12 author(s) on record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       }
@@ -411,9 +384,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       },
@@ -429,7 +400,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "L. K. Hardy",
+        "matched_database_author": "Liam K Hardy",
         "doi_valid": true
       },
       {
@@ -441,13 +412,11 @@
           "Brian D. Metzger"
         ],
         "found_authors_count": 3,
-        "reason": "title was found (source: arXiv), and author matched after name normalization. cited author(s): ['Brian D. Metzger'], database match: Brian D. Metzger",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Brian D. Metzger",
-        "doi_valid": false
+        "doi_valid": true
       },
       {
         "citation": "Kumar, Pawan. (2020). Radio emission from fast radio bursts and the physics of the magnetosphere. Monthly Notices of the Royal Astronomical Society, 494(2), 2385-2395. DOI: doi.org/10.1093/mnras/staa774",
@@ -459,9 +428,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       },
@@ -475,9 +442,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": false
       },
@@ -490,11 +455,11 @@
           "Chenhui Niu"
         ],
         "found_authors_count": 35,
-        "reason": "title and author both matched a database record",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Chenhui Niu'], database match: C.-H. Niu",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "C. -H. Niu",
-        "doi_valid": true
+        "matched_database_author": "C.-H. Niu",
+        "doi_valid": false
       }
     ]
   },
@@ -512,13 +477,11 @@
           "Andrea Merloni"
         ],
         "found_authors_count": 3,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Andrea Merloni'], database match: A. Merloni",
+        "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "A. Merloni",
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "Falcke, Heino; K\u00f6rding, Elmar; Markoff, Sera. (2004). A scheme to unify low-power accreting black holes. Astronomy & Astrophysics, 414(3), 895-903. DOI: doi.org/10.1051/0004-6361:20031683",
@@ -530,7 +493,9 @@
         ],
         "found_authors_count": 3,
         "reason": "title and author both matched a database record",
-        "failed_dbs": [],
+        "failed_dbs": [
+          "arXiv"
+        ],
         "retracted": false,
         "matched_database_author": "H. Falcke",
         "doi_valid": true
@@ -612,9 +577,7 @@
         ],
         "found_authors_count": 4,
         "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Ronald L., Sterling, Alphonse C., Hudson, Hugh S., Lemen, James R. Moore'], database had 4 author(s) on record",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": true
       },
@@ -628,9 +591,11 @@
         ],
         "found_authors_count": 2,
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Tibor, Kliem, Bernhard T\u00f6r\u00f6k'], database had 2 author(s) on record",
-        "failed_dbs": [],
+        "failed_dbs": [
+          "Semantic Scholar"
+        ],
         "retracted": false,
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "Fan, Yuhong, Gibson, Sarah E. (2007). Onset of Coronal Mass Ejections Due to Loss of Confinement of Coronal Flux Ropes. The Astrophysical Journal, 668(2), 1232-1245. DOI: doi.org/10.1086/521335",
@@ -642,9 +607,7 @@
         ],
         "found_authors_count": 2,
         "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Yuhong, Gibson, Sarah E. Fan'], database had 2 author(s) on record",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": true
       },
@@ -658,11 +621,7 @@
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "CrossRef",
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": true
       },
@@ -675,13 +634,10 @@
           "Guillaume, T\u00f6r\u00f6k, Tibor, D\u00e9moulin, Pascal, DeLuca, Edward E. Aulanier"
         ],
         "found_authors_count": 4,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Guillaume, T\u00f6r\u00f6k, Tibor, D\u00e9moulin, Pascal, DeLuca, Edward E. Aulanier'], database had 4 author(s) on record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Guillaume, T\u00f6r\u00f6k, Tibor, D\u00e9moulin, Pascal, DeLuca, Edward E. Aulanier'], database had 4 author(s) on record",
+        "failed_dbs": [],
         "retracted": false,
-        "doi_valid": false
+        "doi_valid": true
       },
       {
         "citation": "Amari, Tahar, Canou, Aur\u00e9lien, Aly, Jean-Jacques (2014). Characterizing and predicting the magnetic environment leading to solar eruptions. Nature, 514(7523), 465-469. DOI: doi.org/10.1038/nature13815",
@@ -693,10 +649,7 @@
         ],
         "found_authors_count": 3,
         "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Tahar, Canou, Aur\u00e9lien, Aly, Jean-Jacques Amari'], database had 3 author(s) on record",
-        "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "doi_valid": true
       }
@@ -716,11 +669,13 @@
           "Benedikt Diemer"
         ],
         "found_authors_count": 2,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
+        "reason": "title was found (source: arXiv), and author matched after name normalization. cited author(s): ['Benedikt Diemer'], database match: Benedikt Diemer",
+        "failed_dbs": [
+          "Semantic Scholar"
+        ],
         "retracted": false,
         "matched_database_author": "Benedikt Diemer",
-        "doi_valid": true
+        "doi_valid": false
       },
       {
         "citation": "More, Surhud; Diemer, Benedikt; Kravtsov, Andrey V. (2015). The Splashback Radius as a Physical Halo Boundary and the Growth of Halo Mass. The Astrophysical Journal, 810(1), 36. DOI: doi.org/10.1088/0004-637X/810/1/36",
@@ -746,10 +701,9 @@
           "Susmita Adhikari"
         ],
         "found_authors_count": 3,
-        "reason": "title was found (source: arXiv), and author matched after name normalization. cited author(s): ['Susmita Adhikari'], database match: Susmita Adhikari",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Susmita Adhikari'], database match: Susmita Adhikari",
         "failed_dbs": [
-          "DBLP",
-          "Semantic Scholar"
+          "arXiv"
         ],
         "retracted": false,
         "matched_database_author": "Susmita Adhikari",
@@ -780,9 +734,7 @@
         ],
         "found_authors_count": 1,
         "reason": "title and author both matched a database record",
-        "failed_dbs": [
-          "DBLP"
-        ],
+        "failed_dbs": [],
         "retracted": false,
         "matched_database_author": "Xun Shi",
         "doi_valid": true
