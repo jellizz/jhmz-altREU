@@ -948,4 +948,24 @@ Not found:        66 (13.2%)
 Author mismatch:  163 (32.6%)
 CHECK:            0 (0.0%)
 Saved to data/verification/gpt/checked_gpt_S110447773.json
-(base) marlazacks@Marlas-MacBook-Air jhmz-altREU % 
+
+
+=== Record: https://openalex.org/W4301393358 ===
+  [1/5] Checking: Reinforcement learning: An introduction
+  [3/5] Checking: Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem
+  [2/5] Checking: A comprehensive survey of multiagent reinforcement learning
+  [4/5] Checking: Event-triggered control for multi-agent systems
+  [5/5] Checking: Distributed consensus in multi-vehicle cooperative control
+  [+] Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem (OpenAlex)
+  [+] Event-triggered control for multi-agent systems (CrossRef)
+  [~] Reinforcement learning: An introduction (OpenAlex)
+  [+] A comprehensive survey of multiagent reinforcement learning (OpenAlex)
+  [~] Distributed consensus in multi-vehicle cooperative control (OpenAlex)
+  Saved checkpoint: https://openalex.org/W4301393358
+
+========================================
+Total citations:  500
+Verified:         394 (78.8%)
+Not found:        80 (16.0%)
+Author mismatch:  26 (5.2%)
+CHECK:            0 (0.0%)

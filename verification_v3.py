@@ -695,39 +695,11 @@ def validate_references(input_file, output_file):
 
 if __name__ == "__main__":
 
-    validate_references(
-        input_file="data/responses/gpt/responses_gpt_S9692511.json",
-        output_file="data/verification/gpt/checked_gpt_S9692511.json"
-    )
     
     validate_references(
-        input_file="data/responses/gpt/responses_gpt_S13144211.json",
-        output_file="data/verification/gpt/checked_gpt_S13144211.json"
+        input_file="data/responses/gpt/responses_gpt_S4210175523.json",
+        output_file="data/verification/gpt/checked_gpt_S4210175523.json"
     )
 
-    validate_references(
-        input_file="data/responses/gpt/responses_gpt_S23254222.json",
-        output_file="data/verification/gpt/checked_gpt_S23254222.json"
-    )
-
-    validate_references(
-        input_file="data/responses/gpt/responses_gpt_S24807848.json",
-        output_file="data/verification/gpt/checked_gpt_S24807848.json"
-    )
-
-    validate_references(
-        input_file="data/responses/gpt/responses_gpt_S49861241.json",
-        output_file="data/verification/gpt/checked_gpt_S49861241.json"
-    )
-    
-    validate_references(
-        input_file="data/responses/gpt/responses_gpt_s86852077.json",
-        output_file="data/verification/gpt/checked_gpt_s86852077.json"
-    )
-    
-    validate_references(
-        input_file="data/responses/gpt/responses_gpt_S110447773.json",
-        output_file="data/verification/gpt/checked_gpt_S110447773.json"
-    )
     
 
