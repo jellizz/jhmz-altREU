@@ -699,7 +699,8 @@ if __name__ == "__main__":
     #     input_file="data/responses/anthropic/test_verify.py",
     #     output_file="data/verification/test_verify_done.json"
     # )
+
     validate_references(
-        input_file="data/responses/anthropic/responses_anthr_S13144211_expertsysapp.json",
-        output_file="data/verification/checked_anthr_S13144211_expertsysappe.json"
+        input_file="data/responses/gemini/responses_gem_S4210175523_IEEEneuralnet.json",
+        output_file="data/verification/checked_gem_S4210175523_IEEEneuralnet.json"
     )
