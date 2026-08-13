@@ -17,8 +17,9 @@ load_dotenv()
 config = ValidatorConfig()
 config.check_openalex_authors = True
 config.openalex_key = os.getenv("API_KEY")
+config.s2_api_key = os.getenv("S2_API_KEY") # helps with Semantic Scholar queries, 1 per sec.
 config.crossref_mailto = os.getenv("EMAIL")
-# config.disabled_dbs = ["DBLP"] # optional list of databases to skip (e.g., ["crossref", "openalex"])
+config.disabled_dbs = ["dblp","acl","neurips","ssrn","pubmed"] # optional list of databases to skip (DBLP is really really slow)
 
 # limiting the number of seconds to wait for a response from the database before timing out
 config.db_timeout_secs = 5
@@ -448,6 +449,12 @@ def validate_references(input_file, output_file):
 
         for raw_citation in raw_citations:
 
+            # Some input files contain citation dictionaries
+            # instead of plain citation strings.
+            if isinstance(raw_citation, dict):
+
+                raw_citation = raw_citation.get("citation")
+
             if not isinstance(raw_citation, str):
 
                 skipped_citations.append({
@@ -663,6 +670,10 @@ if __name__ == "__main__":
 
     validate_references(
         input_file="data/responses/anthropic/test_verify.py",
-        output_file="data/verification/short_verified_responses.json"
+        output_file="data/verification/test_verify_done.json"
     )
+    # validate_references(
+    #     input_file="data/responses/anthropic/responses_anthropic_physics_astrophys.json",
+    #     output_file="data/verification/anthropic_physics_astrophys.json"
+    # )
     
