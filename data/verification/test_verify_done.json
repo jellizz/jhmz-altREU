@@ -1,757 +1,414 @@
 [
   {
-    "id": "https://openalex.org/W4320896688",
+    "id": "https://openalex.org/W3195866665",
     "model": "anthropic",
-    "question": "How do current multimessenger constraints from IceCube follow-ups of LIGO\u2013Virgo gravitational-wave events, together with theoretical models of compact-object merger outflows and previous neutrino non-detections, shape our understanding of the conditions under which neutron-star and black-hole mergers can produce detectable high-energy neutrino emission?",
+    "question": "How do modified Black\u2013Litterman portfolio optimization frameworks that formalize expert views from deviations between historical and implied returns compare with traditional mean\u2013variance and standard Black\u2013Litterman approaches in small-asset-universe settings with limited historical data, particularly regarding estimation error, portfolio stability, and out-of-sample performance?",
     "references": [
       {
-        "citation": "Albert, A. et al. (2017). Search for High-energy Neutrinos from Binary Neutron Star Merger GW170817 with ANTARES, IceCube, and the Pierre Auger Observatory. The Astrophysical Journal Letters, 850(2), L35. DOI: doi.org/10.3847/2041-8213/aa9aed.",
+        "citation": "Fischer Black | Global Portfolio Optimization | 10.2469/faj.v48.n5.28",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "A. Albert"
-        ],
-        "found_authors_count": 100,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "A. Albert",
-        "doi_valid": true
-      },
-      {
-        "citation": "Abbasi, R. et al. (2023). IceCube Search for Neutrinos Coincident with Gravitational Wave Events from LIGO/Virgo Run O3. The Astrophysical Journal, 944(1), 80. DOI: doi.org/10.3847/1538-4357/aca5fc.",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "R. Abbasi"
-        ],
-        "found_authors_count": 100,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['R. Abbasi'], database match: Rasha Abbasi",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
-        "retracted": false,
-        "matched_database_author": "Rasha Abbasi",
-        "doi_valid": false
-      },
-      {
-        "citation": "Kimura, Shigeo S. et al. (2018). High-energy Neutrino Emission from Short Gamma-Ray Bursts: Prospects for Coincident Detection with Gravitational Waves. The Astrophysical Journal Letters, 848(1), L4. DOI: doi.org/10.3847/2041-8213/aa8d14.",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Shigeo S. Kimura"
-        ],
-        "found_authors_count": 4,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "Shigeo S. Kimura",
-        "doi_valid": true
-      },
-      {
-        "citation": "Fang, Ke; Metzger, Brian D. (2017). High-energy Neutrinos from Millisecond Magnetars Formed from the Merger of Binary Neutron Stars. The Astrophysical Journal, 849(2), 153. DOI: doi.org/10.3847/1538-4357/aa8b6a.",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Ke Fang"
+          "Fischer Black"
         ],
         "found_authors_count": 2,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Ke Fang",
+        "matched_database_author": "Fischer Black",
         "doi_valid": true
       },
       {
-        "citation": "Biehl, Daniel; Heinze, Jonas; Winter, Walter. (2018). Expected neutrino fluence from short Gamma-Ray Burst 170817A and off-axis angle constraints. Monthly Notices of the Royal Astronomical Society, 476(1), 1191-1197. DOI: doi.org/10.1093/mnras/sty285.",
+        "citation": "Harry Markowitz | Portfolio Selection | 10.1111/j.1540-6261.1952.tb01525.x",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Daniel Biehl"
+          "Harry Markowitz"
+        ],
+        "found_authors_count": 1,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Harry Markowitz",
+        "doi_valid": true
+      },
+      {
+        "citation": "Thomas M. Idzorek | A Step-by-Step Guide to the Black-Litterman Model: Incorporating User-Specified Confidence Levels | 10.1016/B978-0-7506-8321-0.50003-0",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Thomas M. Idzorek"
+        ],
+        "found_authors_count": 1,
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Thomas M. Idzorek'], database match: Thomas M. Idzorek",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Thomas M. Idzorek",
+        "doi_valid": false
+      },
+      {
+        "citation": "Guangliang He | The Intuition Behind Black-Litterman Model Portfolios | 10.2139/ssrn.334304",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Guangliang He"
+        ],
+        "found_authors_count": 2,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Guangliang He",
+        "doi_valid": true
+      },
+      {
+        "citation": "Victor DeMiguel | Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? | 10.1093/rfs/hhm075",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Victor DeMiguel"
         ],
         "found_authors_count": 3,
         "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Victor DeMiguel",
+        "doi_valid": true
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4308194486",
+    "model": "anthropic",
+    "question": "How do Choquet-integral-based spherical fuzzy MCDM frameworks compare with other fuzzy MCDM approaches in modeling criteria interdependence, uncertainty, and group decision-making robustness for autonomous vehicle selection in logistics applications?",
+    "references": [
+      {
+        "citation": "Fatih Kutlu G\u00fcndo\u011fdu | Spherical fuzzy sets and spherical fuzzy TOPSIS method | 10.3233/JIFS-181401",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Fatih Kutlu G\u00fcndo\u011fdu"
+        ],
+        "found_authors_count": 2,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Fatma Kutlu G\u00fcndo\u011fdu",
+        "doi_valid": true
+      },
+      {
+        "citation": "Gustave Choquet | Theory of capacities | 10.5802/aif.53",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Gustave Choquet"
+        ],
+        "found_authors_count": 1,
+        "reason": "title and author both matched a database record",
         "failed_dbs": [
-          "arXiv"
+          "Semantic Scholar"
         ],
         "retracted": false,
-        "matched_database_author": "Daniel Biehl",
+        "matched_database_author": "Gustave Choquet",
         "doi_valid": true
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W3003715657",
-    "model": "anthropic",
-    "question": "How do CME kinematics and geometry, shock Mach number evolution, magnetic connectivity, and flare/eruption-associated seed particle release collectively determine whether fast and wide CMEs produce observable >20 MeV SEP events across multi-spacecraft heliospheric observations?",
-    "references": [
+      },
       {
-        "citation": "Reames, Donald V. (2013). The Two Sources of Solar Energetic Particles. Space Science Reviews, 175(1-4), 53-92. DOI: doi.org/10.1007/s11214-013-9958-9",
+        "citation": "Krassimir T. Atanassov | Intuitionistic fuzzy sets | 10.1016/S0165-0114(86)80034-3",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Donald V. Reames"
+          "Krassimir T. Atanassov"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Donald V. Reames'], database match: D. V. Reames",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Krassimir T. Atanassov'], database match: Krassimir Atanassov",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "D. V. Reames",
+        "matched_database_author": "Krassimir Atanassov",
         "doi_valid": false
       },
       {
-        "citation": "Gopalswamy, Nat; Yashiro, Seiji; Krucker, S\u00e4m; Stenborg, Guillermo; Howard, Russell A. (2004). Intensity variation of large solar energetic particle events associated with coronal mass ejections. Journal of Geophysical Research, 109(A12), A12105. DOI: doi.org/10.1029/2004JA010602",
+        "citation": "L.A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Nat Gopalswamy"
-        ],
-        "found_authors_count": 5,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "N. Gopalswamy",
-        "doi_valid": true
-      },
-      {
-        "citation": "Kahler, Stephen W. (2001). The correlation between solar energetic particle peak intensities and speeds of coronal mass ejections: Effects of ambient particle intensities and energy spectra. Journal of Geophysical Research, 106(A10), 20947-20955. DOI: doi.org/10.1029/2000JA002231",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Stephen W. Kahler"
+          "L.A Zadeh"
         ],
         "found_authors_count": 1,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "S. W. Kahler",
+        "matched_database_author": "L. A. Zadeh",
         "doi_valid": true
       },
       {
-        "citation": "Rouillard, Alexis P.; Sheeley, Neil R.; Tylka, Allan; Vourlidas, Angelos; Ng, Chee K.; Rakowski, Cara; et al. (2012). The Longitudinal Properties of a Solar Energetic Particle Event Investigated Using Modern Solar Imaging. The Astrophysical Journal, 752(1), 44. DOI: doi.org/10.1088/0004-637X/752/1/44",
+        "citation": "Ronald R. Yager | Pythagorean membership grades in multicriteria decision making | 10.1109/TFUZZ.2013.2278989",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Alexis P. Rouillard"
+          "Ronald R. Yager"
         ],
-        "found_authors_count": 13,
+        "found_authors_count": 1,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "A. P. Rouillard",
-        "doi_valid": true
-      },
-      {
-        "citation": "Tylka, Allan J.; Cohen, Christina M. S.; Dietrich, William F.; Lee, Martin A.; Maclennan, Catherine G.; Mewaldt, Richard A.; et al. (2005). Shock Geometry, Seed Populations, and the Origin of Variable Elemental Composition at High Energies in Large Gradual Solar Particle Events. The Astrophysical Journal, 625(1), 474-495. DOI: doi.org/10.1086/429384",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Allan J. Tylka"
-        ],
-        "found_authors_count": 8,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Allan J. Tylka'], database match: A. J. Tylka",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "A. J. Tylka",
-        "doi_valid": false
-      },
-      {
-        "citation": "Lario, David; Kwon, Ryun-Young; Vourlidas, Angelos; Raouafi, Nour E.; Haggerty, Dennis K.; Ho, George C.; et al. (2016). Longitudinal Properties of a Widespread Solar Energetic Particle Event on 2014 February 25. The Astrophysical Journal, 819(1), 72. DOI: doi.org/10.3847/0004-637X/819/1/72",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "David Lario"
-        ],
-        "found_authors_count": 11,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "D. Lario",
+        "matched_database_author": "Ronald R. Yager",
         "doi_valid": true
       }
     ]
   },
   {
-    "id": "https://openalex.org/W4394924449",
+    "id": "https://openalex.org/W4200328111",
     "model": "anthropic",
-    "question": "How do data-driven abundance inferences from medium-resolution Gaia RVS spectra, high-resolution spectroscopic studies of solar twins, and exoplanet host demographic surveys collectively constrain whether refractory-element depletion in Sun-like stars is causally linked to terrestrial or giant planet formation rather than to Galactic chemical evolution, stellar age, or selection effects?",
+    "question": "How do fuzzy-logic-based strength-of-evidence indices, when integrated with Bayesian networks for digital risk visualization, compare with other emerging approaches to incorporating epistemic uncertainty, evidence quality, and ambiguity into probabilistic risk assessment across complex socio-technical systems?",
     "references": [
       {
-        "citation": "Mel\u00e9ndez, Jorge. (2009). The Peculiar Solar Composition and Its Possible Relation to Planet Formation. The Astrophysical Journal Letters, 704(1), L66-L70. DOI: doi.org/10.1088/0004-637X/704/1/L66",
+        "citation": "Judea Pearl | Fusion, propagation, and structuring in belief networks | 10.1016/0004-3702(86)90072-X",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Jorge Mel\u00e9ndez"
+          "Judea Pearl"
+        ],
+        "found_authors_count": 1,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [
+          "Semantic Scholar"
+        ],
+        "retracted": false,
+        "matched_database_author": "Judea Pearl",
+        "doi_valid": true
+      },
+      {
+        "citation": "L.A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "L.A Zadeh"
+        ],
+        "found_authors_count": 1,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "L. A. Zadeh",
+        "doi_valid": true
+      },
+      {
+        "citation": "Terje Aven | On the interpretation of alternative uncertainty representations in a reliability and risk analysis context | 10.1016/j.ress.2010.06.027",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Terje Aven"
+        ],
+        "found_authors_count": 1,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Terje Aven",
+        "doi_valid": true
+      },
+      {
+        "citation": "Roger Flage | Expressing and communicating uncertainty in relation to quantitative risk analysis | 10.1080/17499518.2011.554089",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Roger Flage"
+        ],
+        "found_authors_count": 2,
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Roger Flage'], database match: Roger Flage",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Roger Flage",
+        "doi_valid": false
+      },
+      {
+        "citation": "Norman Fenton | Risk Assessment and Decision Analysis with Bayesian Networks | 10.1201/b13102",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Norman Fenton"
+        ],
+        "found_authors_count": 2,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Norman Fenton",
+        "doi_valid": true
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4285810252",
+    "model": "anthropic",
+    "question": "How do symbolic-primitive knowledge elicitation methods for explainable fault detection and diagnosis compare with black-box machine learning, hybrid neuro-symbolic, and traditional rule-based expert systems across industrial time-series applications in terms of diagnostic accuracy, scalability, expert-effort reduction, adaptability to unseen faults, and trustworthiness in safety-critical energy infrastructure?",
+    "references": [
+      {
+        "citation": "Venkat Venkatasubramanian | A review of process fault detection and diagnosis: Part I: Quantitative model-based methods | 10.1016/S0098-1354(02)00160-6",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Venkat Venkatasubramanian"
         ],
         "found_authors_count": 4,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "J. Mel\u00e9ndez",
+        "matched_database_author": "Venkat Venkatasubramanian",
         "doi_valid": true
       },
       {
-        "citation": "Bedell, Megan. (2018). The Chemical Homogeneity of Sun-like Stars in the Solar Neighborhood. The Astrophysical Journal, 865(1), 68. DOI: doi.org/10.3847/1538-4357/aad908",
+        "citation": "Venkat Venkatasubramanian | A review of process fault detection and diagnosis: Part III: Process history based methods | 10.1016/S0098-1354(02)00162-X",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Megan Bedell"
+          "Venkat Venkatasubramanian"
         ],
-        "found_authors_count": 12,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Megan Bedell'], database match: Megan Bedell",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "Megan Bedell",
-        "doi_valid": false
-      },
-      {
-        "citation": "Nissen, Poul Erik. (2015). High-precision abundances of elements in solar twin stars. Astronomy & Astrophysics, 579, A52. DOI: doi.org/10.1051/0004-6361/201526269",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Poul Erik Nissen"
-        ],
-        "found_authors_count": 1,
+        "found_authors_count": 4,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "P. E. Nissen",
+        "matched_database_author": "Venkat Venkatasubramanian",
         "doi_valid": true
       },
       {
-        "citation": "Adibekyan, Vardan. (2014). Chemical abundances of 1111 FGK stars from the HARPS GTO sample. Astronomy & Astrophysics, 564, A25. DOI: doi.org/10.1051/0004-6361/201223168",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Vardan Adibekyan"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Recio-Blanco, Alejandra. (2023). Gaia Data Release 3: Analysis of RVS spectra using the GSP-spec module. Astronomy & Astrophysics, 674, A29. DOI: doi.org/10.1051/0004-6361/202243750",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Alejandra Recio-Blanco"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Spina, Lorenzo. (2018). Chemical abundances of solar twins as a function of stellar age. Monthly Notices of the Royal Astronomical Society, 474(2), 2580-2593. DOI: doi.org/10.1093/mnras/stx2938",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Lorenzo Spina"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
-        "retracted": false,
-        "doi_valid": false
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W4391670627",
-    "model": "anthropic",
-    "question": "How do differing treatments of the extragalactic DM\u2013redshift relation, telescope selection functions, and intrinsic FRB energy and redshift distributions across CHIME/FRB and well-localized FRB studies affect conclusions about whether the FRB volumetric rate traces cosmic star formation history or requires additional evolutionary channels?",
-    "references": [
-      {
-        "citation": "Macquart, Jean-Pierre, et al. (2020). A census of baryons in the Universe from localized fast radio bursts. Nature, 581(7809), 391-395. DOI: doi.org/10.1038/s41586-020-2300-2",
-        "status": "mismatch",
+        "citation": "Cynthia Rudin | Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead | 10.1038/s42256-019-0048-x",
+        "status": "verified",
         "title_found": true,
-        "author_matched": false,
+        "author_matched": true,
         "ref_authors": [
-          "Jean-Pierre, Macquart"
+          "Cynthia Rudin"
         ],
-        "found_authors_count": 16,
-        "reason": "title was found (source: arXiv), but author did not match. cited author(s): ['Jean-Pierre, Macquart'], database had 16 author(s) on record",
+        "found_authors_count": 1,
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Cynthia Rudin'], database match: Cynthia Rudin",
         "failed_dbs": [],
         "retracted": false,
+        "matched_database_author": "Cynthia Rudin",
+        "doi_valid": false
+      },
+      {
+        "citation": "Rob Ashmore | Assuring the Machine Learning Lifecycle: Desiderata, Methods, and Challenges | 10.1145/3453444",
+        "status": "verified",
+        "title_found": true,
+        "author_matched": true,
+        "ref_authors": [
+          "Rob Ashmore"
+        ],
+        "found_authors_count": 3,
+        "reason": "title and author both matched a database record",
+        "failed_dbs": [],
+        "retracted": false,
+        "matched_database_author": "Rob Ashmore",
         "doi_valid": true
       },
       {
-        "citation": "CHIME/FRB Collaboration. (2021). The First CHIME/FRB Fast Radio Burst Catalog. The Astrophysical Journal Supplement Series, 257(2), 59. DOI: doi.org/10.3847/1538-4365/ac33ab",
-        "status": "mismatch",
+        "citation": "Artur d'Avila Garcez | Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning | 10.3233/AAC-190514",
+        "status": "verified",
         "title_found": true,
-        "author_matched": false,
+        "author_matched": true,
         "ref_authors": [
-          "CHIME/FRB Collaboration"
-        ],
-        "found_authors_count": 74,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['CHIME/FRB Collaboration'], database had 74 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "James, Clancy W., et al. (2022). The z\u2013DM distribution of fast radio bursts. Monthly Notices of the Royal Astronomical Society, 509(4), 4775-4802. DOI: doi.org/10.1093/mnras/stab3051",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Clancy W., James"
+          "Artur d'Avila Garcez"
         ],
         "found_authors_count": 6,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Clancy W., James'], database had 6 author(s) on record",
+        "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
+        "matched_database_author": "Artur d\u2019Avila Garcez",
         "doi_valid": true
-      },
-      {
-        "citation": "Shin, Kaitlyn, et al. (2023). Inferring the Energy and Distance Distributions of Fast Radio Bursts Using the First CHIME/FRB Catalog. The Astrophysical Journal, 944(1), 105. DOI: doi.org/10.3847/1538-4357/acaf06",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Kaitlyn, Shin"
-        ],
-        "found_authors_count": 21,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Kaitlyn, Shin'], database had 21 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Zhang, Rui Chen, and Zhang, Bing. (2022). Constraints on the Fast Radio Burst Volumetric Rates. The Astrophysical Journal Letters, 924(1), L14. DOI: doi.org/10.3847/2041-8213/ac46ad",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Rui Chen, Zhang"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Hashimoto, Tetsuya, et al. (2020). Energy functions of fast radio bursts derived from the first CHIME/FRB catalogue. Monthly Notices of the Royal Astronomical Society, 498(3), 3927-3945. DOI: doi.org/10.1093/mnras/staa2490",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Tetsuya, Hashimoto"
-        ],
-        "found_authors_count": 12,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Tetsuya, Hashimoto'], database had 12 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
       }
     ]
   },
   {
-    "id": "https://openalex.org/W4225000992",
+    "id": "https://openalex.org/W4391616941",
     "model": "anthropic",
-    "question": "How do current simultaneous optical\u2013radio non-detections of repeating FRBs, including the deep Tomo-e Gozen/FAST limits for FRB 20190520B, compare with prior multiwavelength constraints and theoretical emission models to delimit the allowed parameter space for prompt optical counterparts produced by magnetospheric inverse Compton scattering or magnetar blastwave interactions?",
+    "question": "How do disentangled dual-latent reconstruction models such as Y-GAN compare with prior autoencoder-, GAN-, and self-supervised one-class anomaly detection approaches in balancing semantic representation learning, prevention of latent information leakage, and robustness to diverse image anomaly types across benchmark datasets?",
     "references": [
       {
-        "citation": "Niino, Yuu. (2022). Simultaneous Optical and Radio Observations of FRB 20190520B with Tomo-e Gozen and FAST. The Astrophysical Journal, 931(2), 109. DOI: doi.org/10.3847/1538-4357/ac69de",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Yuu Niino"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Hardy, Liam K. (2017). A search for optical bursts from the repeating fast radio burst FRB 121102. Monthly Notices of the Royal Astronomical Society, 472(3), 2800-2807. DOI: doi.org/10.1093/mnras/stx2153",
+        "citation": "Ian Goodfellow | Generative adversarial networks | 10.1145/3422622",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Liam K. Hardy"
+          "Ian Goodfellow"
         ],
-        "found_authors_count": 17,
+        "found_authors_count": 8,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Liam K Hardy",
+        "matched_database_author": "Ian Goodfellow",
         "doi_valid": true
       },
       {
-        "citation": "Metzger, Brian D. (2019). Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves. Monthly Notices of the Royal Astronomical Society, 485(3), 4091-4106. DOI: doi.org/10.1093/mnras/stz700",
+        "citation": "Thomas Schlegl | Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery | 10.1007/978-3-319-59050-9_12",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Brian D. Metzger"
-        ],
-        "found_authors_count": 3,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "Brian D. Metzger",
-        "doi_valid": true
-      },
-      {
-        "citation": "Kumar, Pawan. (2020). Radio emission from fast radio bursts and the physics of the magnetosphere. Monthly Notices of the Royal Astronomical Society, 494(2), 2385-2395. DOI: doi.org/10.1093/mnras/staa774",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Pawan Kumar"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Chen, Guanwen. (2020). Simultaneous optical and radio monitoring of the repeating FRB 20180916B. The Astrophysical Journal Letters, 890(2), L24. DOI: doi.org/10.3847/2041-8213/ab576a",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Guanwen Chen"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Niu, Chenhui. (2022). A repeating fast radio burst associated with a persistent radio source. Nature, 606(7916), 873-877. DOI: doi.org/10.1038/s41586-022-04755-5",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Chenhui Niu"
-        ],
-        "found_authors_count": 35,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Chenhui Niu'], database match: C.-H. Niu",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "C.-H. Niu",
-        "doi_valid": false
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W4319591860",
-    "model": "anthropic",
-    "question": "How do multiwavelength observational signatures of spectral state transitions in blazars such as OT 081 compare with those in Galactic black hole binaries, and what do these similarities and differences imply about a scale-invariant corona\u2013jet coupling paradigm across black hole systems?",
-    "references": [
-      {
-        "citation": "Merloni, Andrea; Heinz, Sebastian; di Matteo, Tiziana. (2003). A Fundamental Plane of black hole activity. Monthly Notices of the Royal Astronomical Society, 345(4), 1057-1076. DOI: doi.org/10.1046/j.1365-2966.2003.07017.x",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Andrea Merloni"
-        ],
-        "found_authors_count": 3,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Andrea Merloni'], database match: A. Merloni",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "A. Merloni",
-        "doi_valid": false
-      },
-      {
-        "citation": "Falcke, Heino; K\u00f6rding, Elmar; Markoff, Sera. (2004). A scheme to unify low-power accreting black holes. Astronomy & Astrophysics, 414(3), 895-903. DOI: doi.org/10.1051/0004-6361:20031683",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Heino Falcke"
-        ],
-        "found_authors_count": 3,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [
-          "arXiv"
-        ],
-        "retracted": false,
-        "matched_database_author": "H. Falcke",
-        "doi_valid": true
-      },
-      {
-        "citation": "Fender, Robert P.; Belloni, Tomaso M.; Gallo, Elena. (2004). Towards a unified model for black hole X-ray binary jets. Monthly Notices of the Royal Astronomical Society, 355(4), 1105-1118. DOI: doi.org/10.1111/j.1365-2966.2004.08384.x",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Robert P. Fender"
-        ],
-        "found_authors_count": 3,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "R. P. Fender",
-        "doi_valid": true
-      },
-      {
-        "citation": "McHardy, Ian M.; Koerding, Elmar; Knigge, Christian; Uttley, Phil; Fender, Robert P. (2006). Active galactic nuclei as scaled-up Galactic black holes. Nature, 444(7120), 730-732. DOI: doi.org/10.1038/nature05389",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Ian M. McHardy"
+          "Thomas Schlegl"
         ],
         "found_authors_count": 5,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "I. M. McHardy",
+        "matched_database_author": "Thomas Schlegl",
         "doi_valid": true
       },
       {
-        "citation": "Marscher, Alan P.; Jorstad, Svetlana G.; D'Arcangelo, Francesca D.; et al. (2008). The inner jet of an active galactic nucleus as revealed by a radio-to-\u03b3-ray outburst. Nature, 452(7190), 966-969. DOI: doi.org/10.1038/nature06895",
+        "citation": "Samet Ak\u00e7ay | GANomaly: Semi-supervised Anomaly Detection via Adversarial Training | 10.1007/978-3-030-20893-6_39",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Alan P. Marscher"
-        ],
-        "found_authors_count": 23,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "Alan P. Marscher",
-        "doi_valid": true
-      },
-      {
-        "citation": "K\u00f6rding, Elmar G.; Jester, Sebastian; Fender, Rob. (2006). Accretion states and radio loudness in active galactic nuclei. Monthly Notices of the Royal Astronomical Society, 372(3), 1366-1378. DOI: doi.org/10.1111/j.1365-2966.2006.10954.x",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Elmar G. K\u00f6rding"
+          "Samet Ak\u00e7ay"
         ],
         "found_authors_count": 3,
-        "reason": "title and author both matched a database record",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Samet Ak\u00e7ay'], database match: Samet Ak\u00e7ay",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "E. G. Kording",
-        "doi_valid": true
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W3138992703",
-    "model": "anthropic",
-    "question": "How do observations and models across multiple filament-eruption events support or challenge the roles of tether-cutting reconnection, magnetic flux-rope twist accumulation, and helical kink instability in driving the transition from confined filament reconfiguration to fast coronal mass ejection eruption?",
-    "references": [
+        "matched_database_author": "Samet Ak\u00e7ay",
+        "doi_valid": false
+      },
       {
-        "citation": "Moore, Ronald L., Sterling, Alphonse C., Hudson, Hugh S., Lemen, James R. (2001). Onset of the Magnetic Explosion in Solar Flares and Coronal Mass Ejections. The Astrophysical Journal, 552(2), 833-848. DOI: doi.org/10.1086/320559",
-        "status": "mismatch",
+        "citation": "Paul Bergmann | MVTec AD \u2014 A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | 10.1109/CVPR.2019.00982",
+        "status": "verified",
         "title_found": true,
-        "author_matched": false,
+        "author_matched": true,
         "ref_authors": [
-          "Ronald L., Sterling, Alphonse C., Hudson, Hugh S., Lemen, James R. Moore"
+          "Paul Bergmann"
         ],
         "found_authors_count": 4,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Ronald L., Sterling, Alphonse C., Hudson, Hugh S., Lemen, James R. Moore'], database had 4 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": true
-      },
-      {
-        "citation": "T\u00f6r\u00f6k, Tibor, Kliem, Bernhard. (2005). Confined and Ejective Eruptions of Kink-unstable Flux Ropes. The Astrophysical Journal, 630(1), L97-L100. DOI: doi.org/10.1086/462412",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Tibor, Kliem, Bernhard T\u00f6r\u00f6k"
-        ],
-        "found_authors_count": 2,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Tibor, Kliem, Bernhard T\u00f6r\u00f6k'], database had 2 author(s) on record",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
-        "retracted": false,
-        "doi_valid": false
-      },
-      {
-        "citation": "Fan, Yuhong, Gibson, Sarah E. (2007). Onset of Coronal Mass Ejections Due to Loss of Confinement of Coronal Flux Ropes. The Astrophysical Journal, 668(2), 1232-1245. DOI: doi.org/10.1086/521335",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Yuhong, Gibson, Sarah E. Fan"
-        ],
-        "found_authors_count": 2,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Yuhong, Gibson, Sarah E. Fan'], database had 2 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": true
-      },
-      {
-        "citation": "Kliem, Bernhard, T\u00f6r\u00f6k, Tibor. (2006). Torus Instability. Physical Review Letters, 96(25), 255002. DOI: doi.org/10.1103/PhysRevLett.96.255002",
-        "status": "not_found",
-        "title_found": false,
-        "author_matched": false,
-        "ref_authors": [
-          "Bernhard, T\u00f6r\u00f6k, Tibor Kliem"
-        ],
-        "found_authors_count": 0,
-        "reason": "title could not be found in any checked database",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": true
-      },
-      {
-        "citation": "Aulanier, Guillaume, T\u00f6r\u00f6k, Tibor, D\u00e9moulin, Pascal, DeLuca, Edward E. (2010). Formation of Torus-Unstable Flux Ropes and Electric Currents in Erupting Sigmoids. The Astrophysical Journal, 708(1), 314-333. DOI: doi.org/10.1088/0004-637X/708/1/314",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Guillaume, T\u00f6r\u00f6k, Tibor, D\u00e9moulin, Pascal, DeLuca, Edward E. Aulanier"
-        ],
-        "found_authors_count": 4,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Guillaume, T\u00f6r\u00f6k, Tibor, D\u00e9moulin, Pascal, DeLuca, Edward E. Aulanier'], database had 4 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": true
-      },
-      {
-        "citation": "Amari, Tahar, Canou, Aur\u00e9lien, Aly, Jean-Jacques (2014). Characterizing and predicting the magnetic environment leading to solar eruptions. Nature, 514(7523), 465-469. DOI: doi.org/10.1038/nature13815",
-        "status": "mismatch",
-        "title_found": true,
-        "author_matched": false,
-        "ref_authors": [
-          "Tahar, Canou, Aur\u00e9lien, Aly, Jean-Jacques Amari"
-        ],
-        "found_authors_count": 3,
-        "reason": "title was found (source: OpenAlex), but author did not match. cited author(s): ['Tahar, Canou, Aur\u00e9lien, Aly, Jean-Jacques Amari'], database had 3 author(s) on record",
-        "failed_dbs": [],
-        "retracted": false,
-        "doi_valid": true
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W3134057496",
-    "model": "anthropic",
-    "question": "How do analytic and simulation-based treatments of the halo splashback boundary, excursion-set diffusion, and cosmology-dependent mass accretion histories collectively explain the redshift evolution of the splashback mass function and its potential use as an independent constraint on primordial cosmological parameters?",
-    "references": [
-      {
-        "citation": "Diemer, Benedikt; Kravtsov, Andrey V. (2014). Dependence of the Outer Density Profiles of Halos on Their Mass Accretion Rate. The Astrophysical Journal, 789(1), 1. DOI: doi.org/10.1088/0004-637X/789/1/1",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Benedikt Diemer"
-        ],
-        "found_authors_count": 2,
-        "reason": "title was found (source: arXiv), and author matched after name normalization. cited author(s): ['Benedikt Diemer'], database match: Benedikt Diemer",
-        "failed_dbs": [
-          "Semantic Scholar"
-        ],
-        "retracted": false,
-        "matched_database_author": "Benedikt Diemer",
-        "doi_valid": false
-      },
-      {
-        "citation": "More, Surhud; Diemer, Benedikt; Kravtsov, Andrey V. (2015). The Splashback Radius as a Physical Halo Boundary and the Growth of Halo Mass. The Astrophysical Journal, 810(1), 36. DOI: doi.org/10.1088/0004-637X/810/1/36",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Surhud More"
-        ],
-        "found_authors_count": 3,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Surhud More",
+        "matched_database_author": "Paul Bergmann",
         "doi_valid": true
       },
       {
-        "citation": "Adhikari, Susmita; Dalal, Neal; Chamberlain, Robert T. (2014). Splashback in accreting dark matter halos. Journal of Cosmology and Astroparticle Physics, 2014(11), 019. DOI: doi.org/10.1088/1475-7516/2014/11/019",
+        "citation": "Diederik P. Kingma | Auto-Encoding Variational Bayes | 10.48550/arXiv.1312.6114",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Susmita Adhikari"
-        ],
-        "found_authors_count": 3,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Susmita Adhikari'], database match: Susmita Adhikari",
-        "failed_dbs": [
-          "arXiv"
-        ],
-        "retracted": false,
-        "matched_database_author": "Susmita Adhikari",
-        "doi_valid": false
-      },
-      {
-        "citation": "Diemer, Benedikt. (2017). The Splashback Radius of Halos from Particle Dynamics. I. The SPARTA Algorithm. The Astrophysical Journal Supplement Series, 231(1), 5. DOI: doi.org/10.3847/1538-4365/aa799c",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Benedikt Diemer"
-        ],
-        "found_authors_count": 1,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "Benedikt Diemer",
-        "doi_valid": true
-      },
-      {
-        "citation": "Shi, Xun. (2016). The outer profile of dark matter haloes: an analytical approach. Monthly Notices of the Royal Astronomical Society, 459(4), 3711-3720. DOI: doi.org/10.1093/mnras/stw925",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Xun Shi"
-        ],
-        "found_authors_count": 1,
-        "reason": "title and author both matched a database record",
-        "failed_dbs": [],
-        "retracted": false,
-        "matched_database_author": "Xun Shi",
-        "doi_valid": true
-      },
-      {
-        "citation": "Corasaniti, Pier-Stefano; Achitouv, Ixandra. (2011). Toward a Universal Formulation of the Halo Mass Function. Physical Review Letters, 106(24), 241302. DOI: doi.org/10.1103/PhysRevLett.106.241302",
-        "status": "verified",
-        "title_found": true,
-        "author_matched": true,
-        "ref_authors": [
-          "Pier-Stefano Corasaniti"
+          "Diederik P. Kingma"
         ],
         "found_authors_count": 2,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Pier-Stefano Corasaniti",
+        "matched_database_author": "Diederik P. Kingma",
         "doi_valid": true
       }
     ]

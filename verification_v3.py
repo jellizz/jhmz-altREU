@@ -31,70 +31,107 @@ validator = Validator(config)
 
 def parse_single_citation(citation):
     """
-    Parses a single citation string into its components:
-    first author, year, title, and DOI.
+    Parses references in the format:
+
+        Author | Title | DOI
+
+    Examples:
+
+        Judea Pearl | Fusion, propagation, and structuring in belief networks | 10.1016/0004-3702(86)90072-X
+
+        L.A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X
+
+        Terje Aven | On the interpretation of alternative uncertainty representations in a reliability and risk analysis context | 10.1016/j.ress.2010.06.027
+
+        Author | Title | https://doi.org/10.3233/JAD-150520
+
+    Only one primary author is expected.
     """
 
-    year_match = re.search(r'\((\d{4})\)', citation)
-    year = int(year_match.group(1)) if year_match else None
+    if not isinstance(citation, str):
+        raise ValueError("Citation must be a string")
 
-    doi_match = re.search(
-        r'10\.\d{4,9}/[-._;()/:a-zA-Z0-9]+',
-        citation
-    )
-    doi = doi_match.group(0).rstrip(".,") if doi_match else None
-    doi_provided = doi is not None
+    citation = citation.strip()
 
-    author_raw = ""
-    if year_match:
-        author_raw = citation[:year_match.start()].strip().rstrip(".")
+    # Split into exactly 3 parts:
+    # author | title | DOI
+    parts = [part.strip() for part in citation.split("|")]
 
-    first_author = re.split(
-        r';|&|\band\b',
-        author_raw,
-        flags=re.IGNORECASE
-    )[0].strip()
-
-    first_author = re.sub(
-        r'\bet al\.?\b',
-        '',
-        first_author,
-        flags=re.IGNORECASE
-    ).strip()
-
-    lastname, firstname = "", ""
-
-    if "," in first_author:
-        parts = first_author.split(",", 1)
-        lastname = parts[0].strip()
-        firstname = parts[1].strip().rstrip(".")
-    else:
-        lastname = first_author.strip()
-
-    title = ""
-    if year_match:
-        after_year = citation[year_match.end():].lstrip(". ")
-
-        title_match = re.match(
-            r'(.+?)[.?!]\s+[A-Z]',
-            after_year
+    if len(parts) != 3:
+        raise ValueError(
+            f"Expected 'Author | Title | DOI', "
+            f"but found {len(parts)} parts"
         )
 
-        if title_match:
-            title = title_match.group(1).strip()
+    author = parts[0]
+    title = parts[1]
+    doi_raw = parts[2]
+
+    if not author:
+        raise ValueError("No author found")
+
+    if not title:
+        raise ValueError("No title found")
+
+    if not doi_raw:
+        raise ValueError("No DOI found")
+
+    # normalize doi, since some have weird formatting or lack the https/http prefix
+
+    doi = doi_raw.strip()
+
+    doi = re.sub(
+        r"^(https?://)?(dx\.)?doi\.org/",
+        "",
+        doi,
+        flags=re.IGNORECASE
+    )
+
+    doi = re.sub(
+        r"^doi:\s*",
+        "",
+        doi,
+        flags=re.IGNORECASE
+    )
+
+    doi = doi.strip().rstrip(".,;")
+
+    # Validate that something DOI-like remains
+    if not re.match(r"^10\.\d{4,9}/\S+$", doi, re.IGNORECASE):
+        raise ValueError(
+            f"Invalid DOI format: {doi_raw}"
+        )
+
+    # author parsing
+
+    author = author.strip()
+
+    if "," in author:
+        parts_author = author.split(",", 1)
+
+        lastname = parts_author[0].strip()
+        firstname = parts_author[1].strip()
+
+    else:
+        name_parts = author.split()
+        if len(name_parts) == 1:
+            firstname = ""
+            lastname = name_parts[0]
+        else:
+            firstname = " ".join(name_parts[:-1])
+            lastname = name_parts[-1]
 
     return {
         "raw": citation,
         "first_author_lastname": lastname,
         "first_author_firstname": firstname,
-        "author_raw": author_raw,
-        "year": year,
+        "author_raw": author,
+        "year": None,
         "title": title,
         "doi": doi,
-        "doi_provided": doi_provided,
+        "doi_provided": True,
         "name_complete": len(firstname) > 2
     }
-
 
 def format_author_name(firstname, lastname):
     """
@@ -279,29 +316,22 @@ def build_reference_from_citation(raw_citation):
     Parses a raw citation string into title/authors/doi,
     then builds a hallucinator Reference object.
     """
-
     parsed = parse_single_citation(raw_citation)
 
-    title = parsed.get("title") or ""
+    title = parsed["title"]
 
-    if not title:
-        raise ValueError(
-            "No title could be parsed from citation; skipping"
-        )
+    firstname = parsed["first_author_firstname"]
+    lastname = parsed["first_author_lastname"]
 
-    firstname = parsed.get("first_author_firstname") or ""
-    lastname = parsed.get("first_author_lastname") or ""
-
-    name = format_author_name(firstname, lastname)
-
-    authors = [name] if name else []
-
-    doi = parsed.get("doi")
+    name = format_author_name(
+        firstname,
+        lastname
+    )
 
     return Reference(
         title,
-        authors=authors,
-        doi=doi,
+        authors=[name] if name else [],
+        doi=parsed["doi"],
         raw_citation=raw_citation
     )
 
@@ -342,11 +372,8 @@ def build_reference_result(raw_citation, r):
 
     title_found = r.status != "not_found"
 
-    # --------------------------------------------------------
-    # NEW:
     # Even if Hallucinator says "mismatch", check the actual
-    # author names it found using our flexible matcher.
-    # --------------------------------------------------------
+    # author names it found using the more flexible matcher.
 
     author_match = None
 
@@ -668,12 +695,11 @@ def validate_references(input_file, output_file):
 
 if __name__ == "__main__":
 
-    validate_references(
-        input_file="data/responses/anthropic/test_verify.py",
-        output_file="data/verification/test_verify_done.json"
-    )
     # validate_references(
-    #     input_file="data/responses/anthropic/responses_anthropic_physics_astrophys.json",
-    #     output_file="data/verification/anthropic_physics_astrophys.json"
+    #     input_file="data/responses/anthropic/test_verify.py",
+    #     output_file="data/verification/test_verify_done.json"
     # )
-    
+    validate_references(
+        input_file="data/responses/anthropic/responses_anthr_S13144211_expertsysapp.json",
+        output_file="data/verification/checked_anthr_S13144211_expertsysappe.json"
+    )
