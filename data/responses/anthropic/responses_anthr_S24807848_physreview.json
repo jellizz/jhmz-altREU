@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W2966157975",
+        "model": "anthropic",
+        "question": "How do band topology, quantum geometry, interaction-induced dispersion, and extended Wannier orbital structure collectively determine the stability of spin- and valley-polarized insulating phases across different graphene moir\u00e9 superlattices, including TLG/hBN, TDBG, and TBG/hBN, as reported in theoretical and numerical studies?",
+        "response": {
+            "references": [
+                "Ya-Hui Zhang | Nearly flat Chern bands in moir\u00e9 superlattices | 10.1103/PhysRevB.99.075127",
+                "Rafi Bistritzer | Moir\u00e9 bands in twisted double-layer graphene | 10.1073/pnas.1108174108",
+                "Nick Bultinck | Ground State and Hidden Symmetry of Magic-Angle Graphene at Even Integer Filling | 10.1103/PhysRevX.10.031034",
+                "Zhida Song | All Magic Angles in Twisted Bilayer Graphene are Topological | 10.1103/PhysRevLett.123.036401",
+                "Yi Zhang | Nearly flat Chern bands in twisted bilayer-hBN heterostructures | 10.1103/PhysRevB.100.201406"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391219162",
+        "model": "anthropic",
+        "question": "How do off-resonant quantum-control schemes that reduce coupling-strength sensitivity compare with other approaches to mitigating positional disorder and interaction inhomogeneity in Rydberg-atom ensembles for enhancing coherent population transfer and many-body entanglement generation?",
+        "response": {
+            "references": [
+                "M. Saffman | Quantum information with Rydberg atoms | 10.1103/RevModPhys.82.2313",
+                "D. Jaksch | Fast Quantum Gates for Neutral Atoms | 10.1103/PhysRevLett.85.2208",
+                "Harry Levine | Parallel Implementation of High-Fidelity Multiqubit Gates with Neutral Atoms | 10.1103/PhysRevLett.123.170503",
+                "T. Wilk | Entanglement of Two Individual Neutral Atoms Using Rydberg Blockade | 10.1103/PhysRevLett.104.010502",
+                "L. Isenhower | Demonstration of a Neutral Atom Controlled-NOT Quantum Gate | 10.1103/PhysRevLett.104.010503"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3195930898",
+        "model": "anthropic",
+        "question": "How do nanopore edge chemistry, membrane thickness, and biopolymer mechanical heterogeneity collectively govern ssDNA\u20132D material friction and translocation dynamics across h-BN, graphene, and other atomically thin membranes?",
+        "response": {
+            "references": [
+                "David B. Wells | Assessing Graphene Nanopores for Sequencing DNA | 10.1021/nl3012853",
+                "Gr\u00e9gory F. Schneider | DNA Translocation through Graphene Nanopores | 10.1021/nl102069z",
+                "Christopher A. Merchant | DNA Translocation through Graphene Nanopores | 10.1021/nl101046t",
+                "Slaven Garaj | Graphene as a subnanometre trans-electrode membrane | 10.1038/nature09379",
+                "Zhi Xu | Hexagonal Boron Nitride Nanopores for DNA Sequencing | 10.1021/acsnano.6b00060"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3123824292",
+        "model": "anthropic",
+        "question": "How do spectator-qubit-induced ZZ interactions and frequency-crowding effects limit cross-resonance gate fidelity across different superconducting-qubit architectures, and what mitigation strategies reported in the literature\u2014such as tunable couplers, echo-pulse designs, Hamiltonian calibration, and frequency-allocation optimization\u2014are most effective for scalable fault-tolerant quantum processors?",
+        "response": {
+            "references": [
+                "Sarah Sheldon | Procedure for systematically tuning up cross-talk in the cross-resonance gate | 10.1103/PhysRevA.93.060302",
+                "Jerry M. Chow | Simple all-microwave entangling gate for fixed-frequency superconducting qubits | 10.1103/PhysRevLett.107.080502",
+                "Pranav Mundada | Suppression of Qubit Crosstalk in a Tunable Coupling Superconducting Circuit | 10.1103/PhysRevApplied.12.054023",
+                "Easwar Magesan | Effective Hamiltonian models of the cross-resonance gate | 10.1103/PhysRevA.101.052308",
+                "Neereja Sundaresan | Reducing Unitary and Spectator Errors in Cross Resonance with Optimized Rotary Echoes | 10.1103/PRXQuantum.1.020318"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411364723",
+        "model": "anthropic",
+        "question": "How do symmetry-allowed spin-dependent electron\u2013phonon couplings across different lattice systems dynamically generate hidden spin\u2013orbit coupling, and how do the resulting lattice distortions, spin-current orders, charge-density-wave phases, and superconducting instabilities compare with conventional relativistic spin\u2013orbit and electron\u2013phonon mechanisms reported in the broader condensed-matter literature?",
+        "response": {
+            "references": [
+                "G. Dresselhaus | Spin-Orbit Coupling Effects in Zinc Blende Structures | 10.1103/PhysRev.100.580",
+                "E. I. Rashba | Properties of semiconductors with an extremum loop | 10.1070/PU1960v003n01ABEH003223",
+                "A. H. Castro Neto | The electronic properties of graphene | 10.1103/RevModPhys.81.109",
+                "Emmanuel I. Rashba | Graphene with structure-induced spin-orbit coupling | 10.1103/PhysRevB.79.161409",
+                "C. L. Kane | Quantum Spin Hall Effect in Graphene | 10.1103/PhysRevLett.95.226801"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3120321111",
+        "model": "anthropic",
+        "question": "How do experimental and theoretical studies of frictionless and frictional granular flows near jamming collectively support or challenge the interpretation that nonlocal rheology, hysteresis, and boundary-induced stabilization are governed by critical finite-size effects associated with the isostatic length \\(l^{*}\\), rather than by alternative mechanisms such as frictional contacts, cooperativity lengths, or structural heterogeneity?",
+        "response": {
+            "references": [
+                "Ken Kamrin | Nonlocal Constitutive Relation for Steady Granular Flow | 10.1103/PhysRevLett.108.178301",
+                "Pierre Jop | A constitutive law for dense granular flows | 10.1038/nature04801",
+                "Corey S. O'Hern | Jamming at zero temperature and zero applied stress | 10.1103/PhysRevE.68.011306",
+                "Mehdi Bouzid | Nonlocal rheology of granular flows across yield conditions | 10.1103/PhysRevLett.111.238301",
+                "Wouter G. Ellenbroek | Critical Scaling in Linear Response of Frictionless Granular Packings near Jamming | 10.1103/PhysRevLett.97.258001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3041566821",
+        "model": "anthropic",
+        "question": "How does dimensional confinement in ferroelectric oxide superlattices alter the energetics, symmetry evolution, and topology of domain-wall networks relative to bulk improper ferroelectrics undergoing ferroelectric\u2013paraelectric phase transitions?",
+        "response": {
+            "references": [
+                "A. K. Yadav | Observation of polar vortices in oxide superlattices | 10.1038/nature17281",
+                "Nicola A. Spaldin | Multiferroics: Past, present, and future | 10.1063/1.3554314",
+                "S. Das | Observation of room-temperature polar skyrmions | 10.1038/s41586-019-1092-8",
+                "P. Aguado-Puente | Ferromagnetic-like closure domains in ferroelectric ultrathin films | 10.1103/PhysRevLett.100.177601",
+                "N. A. Benedek | Hybrid Improper Ferroelectricity | 10.1103/PhysRevLett.106.107204"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3205738223",
+        "model": "anthropic",
+        "question": "How do the latest COHERENT CsI[Na] CEvNS cross-section and flavor-timing measurements, when synthesized with results from other CEvNS targets and precision electroweak/neutrino-scattering experiments, refine constraints on neutrino nonstandard interactions, lepton flavor universality, and the low-\\(Q^{2}\\) running of the weak mixing angle?",
+        "response": {
+            "references": [
+                "D. Akimov | Observation of coherent elastic neutrino-nucleus scattering | 10.1126/science.aao0990",
+                "D. Akimov | First Measurement of Coherent Elastic Neutrino-Nucleus Scattering on Argon | 10.1103/PhysRevLett.126.012002",
+                "Pilar Coloma | COHERENT enlightenment of the neutrino dark side | 10.1103/PhysRevD.96.115007",
+                "M. Cadeddu | Physics results from the first COHERENT observation of CEvNS | 10.1103/PhysRevD.98.075018",
+                "J. Barranco | Probing new physics with coherent neutrino scattering off nuclei | 10.1088/1126-6708/2005/12/021"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2974540358",
+        "model": "anthropic",
+        "question": "How do cooperative atom\u2013light interactions in strongly coupled optical cavity-QED systems compare with other quantum-enhanced metrological platforms, such as spin-squeezed atomic ensembles, squeezed-light interferometry, and superconducting circuit-QED, in enabling robust sub-standard-quantum-limit electric-field sensing under realistic photon-loss and decoherence conditions?",
+        "response": {
+            "references": [
+                "Klemens Hammerer | Quantum interface between light and atomic ensembles | 10.1103/RevModPhys.82.1041",
+                "D. Leibfried | Toward Heisenberg-Limited Spectroscopy with Multiparticle Entangled States | 10.1126/science.1104149",
+                "J. G. Bohnet | Reduced spin measurement back-action for a phase sensitivity ten times beyond the standard quantum limit | 10.1038/nphoton.2014.151",
+                "Onur Hosten | Measurement noise 100 times lower than the quantum-projection limit using entangled atoms | 10.1038/nature16176",
+                "H. J. Kimble | Strong Coupling of a Single Photon to a Superconducting Qubit Using Circuit Quantum Electrodynamics | 10.1038/nature02851"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3080433904",
+        "model": "anthropic",
+        "question": "How do residual bulk states and nonchiral edge states respectively contribute to nonzero longitudinal resistance in quantum anomalous Hall topological-insulator heterostructures, and what material, thickness, magnetic-doping, and device-engineering strategies reported across the literature most effectively suppress these dissipative channels to approach truly dissipationless chiral edge transport?",
+        "response": {
+            "references": [
+                "Cui-Zu Chang | Experimental Observation of the Quantum Anomalous Hall Effect in a Magnetic Topological Insulator | 10.1126/science.1234414",
+                "Rui Yu | Quantized Anomalous Hall Effect in Magnetic Topological Insulators | 10.1126/science.1187485",
+                "Cui-Zu Chang | High-precision realization of robust quantum anomalous Hall state in a hard ferromagnetic topological insulator | 10.1038/nmat4204",
+                "Xufeng Kou | Scale-Invariant Quantum Anomalous Hall Effect in Magnetic Topological Insulators beyond the Two-Dimensional Limit | 10.1103/PhysRevLett.113.137201",
+                "J. G. Checkelsky | Trajectory of the anomalous Hall effect towards the quantized state in a ferromagnetic topological insulator | 10.1038/nphys3053"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392451469",
+        "model": "anthropic",
+        "question": "How do multimessenger constraints from GW170817/GRB 170817A on MeV-scale axion-like particles compare with supernova, laboratory beam-dump, cosmological, and gamma-ray burst bounds, and what do these combined limits imply for models of feebly interacting particles that decay into photons?",
+        "response": {
+            "references": [
+                "B. P. Abbott | GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral | 10.1103/PhysRevLett.119.161101",
+                "B. P. Abbott | Multi-messenger Observations of a Binary Neutron Star Merger | 10.3847/2041-8213/aa91c9",
+                "Georg Raffelt | Astrophysical axion bounds | 10.1007/978-3-540-73518-2_3",
+                "Jae Hyeok Chang | Supernova 1987A constraints on sub-GeV dark sectors, millicharged particles, the QCD axion, and an axion-like particle | 10.1007/JHEP09(2018)051",
+                "Peter W. Graham | Experimental Searches for the Axion and Axion-Like Particles | 10.1146/annurev-nucl-102014-022120"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4220781149",
+        "model": "anthropic",
+        "question": "How do spatial trapping, pump intensity and polarization, and environmental noise collectively influence stochastic polarization pinning and high-temperature circular spin polarization in polariton condensates, and what do comparative studies suggest about their suitability for realizing polariton spin lattices in quantum simulation platforms?",
+        "response": {
+            "references": [
+                "J. Kasprzak | Bose-Einstein condensation of exciton polaritons | 10.1038/nature05131",
+                "H. Deng | Exciton-polariton Bose-Einstein condensation | 10.1103/RevModPhys.82.1489",
+                "A. Amo | Polariton superfluids reveal quantum hydrodynamic solitons | 10.1126/science.1202307",
+                "H. Ohadi | Spontaneous Spin Bifurcations and Ferromagnetic Phase Transitions in a Spinor Exciton-Polariton Condensate | 10.1103/PhysRevX.5.031002",
+                "T. C. H. Liew | Exciton-polariton integrated circuits | 10.1103/PhysRevB.82.033302"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410032803",
+        "model": "anthropic",
+        "question": "How do theoretical and experimental studies of nonequilibrium work in finite-time first-order phase transitions across mean-field and short-range interacting systems reconcile the reported excess-work scaling regimes, such as the Curie-Weiss crossover from \\(v^{2/3}\\) to \\(v\\), with finite-size effects, metastability, nucleation kinetics, and ergodicity breaking?",
+        "response": {
+            "references": [
+                "C. Jarzynski | Nonequilibrium Equality for Free Energy Differences | 10.1103/PhysRevLett.78.2690",
+                "Gavin E. Crooks | Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences | 10.1103/PhysRevE.60.2721",
+                "Udo Seifert | Stochastic thermodynamics, fluctuation theorems and molecular machines | 10.1088/0034-4885/75/12/126001",
+                "Marco Baiesi | Nonequilibrium work and the isothermal transition | 10.1103/PhysRevE.98.052129",
+                "Gili Bisker | Nonequilibrium thermodynamics of finite-time first-order phase transitions | 10.1103/PhysRevE.101.032106"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2991552201",
+        "model": "anthropic",
+        "question": "How do existing theoretical and experimental studies of deuteron photodisintegration, nucleon-resonance dynamics, and the proposed \\(d^{*}(2380)\\) hexaquark collectively explain\u2014or fail to explain\u2014the observed narrow enhancement in recoil neutron polarization near \\(E_{\\gamma}\\sim570\\) MeV?",
+        "response": {
+            "references": [
+                "M. Bashkanov | Double-Pionic Fusion of Nuclear Systems and the ABC Effect | 10.1103/PhysRevLett.102.052301",
+                "P. Adlarson | Evidence for a New Resonance from Polarized Neutron-Proton Scattering | 10.1103/PhysRevLett.112.202301",
+                "H. Clement | On the History of Dibaryons and their Final Observation | 10.1016/j.ppnp.2016.09.004",
+                "Fan Wang | Quark Delocalization, Color Screening, and Nuclear Intermediate Range Attraction | 10.1103/PhysRevLett.69.2901",
+                "M. Bashkanov | Signatures of the d*(2380) hexaquark in d(\u03b3,p n) | 10.1016/j.physletb.2019.135100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413344596",
+        "model": "anthropic",
+        "question": "How do current cosmological constraints favoring concave, nonminimally coupled quintessence potentials reconcile with independent astrophysical, Solar System, and laboratory limits on time-varying gravitational constants and fifth forces across different screening-mechanism frameworks?",
+        "response": {
+            "references": [
+                "Bharat Ratra | Cosmological consequences of a rolling homogeneous scalar field | 10.1103/PhysRevD.37.3406",
+                "R. R. Caldwell | Cosmological Imprint of an Energy Component with General Equation of State | 10.1103/PhysRevLett.80.1582",
+                "Justin Khoury | Chameleon Fields: Awaiting Surprises for Tests of Gravity in Space | 10.1103/PhysRevLett.93.171104",
+                "E. J. Copeland | Dynamics of dark energy | 10.1142/S021827180600942X",
+                "Timothy Clifton | Modified Gravity and Cosmology | 10.1016/j.physrep.2012.01.001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391346659",
+        "model": "anthropic",
+        "question": "How do metal-cluster termination and plasmonic interactions, as reported across studies of carbyne and related one-dimensional carbon nanostructures, govern chain stabilization, electron doping, photoluminescence scaling, spectral shifts, and polarization-anisotropic optical responses relevant to quantum photonic emitters?",
+        "response": {
+            "references": [
+                "Chuanhong Jin | Deriving Carbon Atomic Chains from Graphene | 10.1103/PhysRevLett.102.205501",
+                "Lei Shi | Confined linear carbon chains as a route to bulk carbyne | 10.1038/nmat4617",
+                "Cristian Casari | Carbon-atom wires: 1-D systems with tunable properties | 10.1039/C5NR06175J",
+                "Ryo Kitaura | High-yield synthesis of ultra-long linear carbon chains | 10.1002/anie.200902615",
+                "M. Liu | Carbyne from first principles: Chain of C atoms, a nanorod or a nanorope | 10.1021/nn402455p"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7160186941",
+        "model": "anthropic",
+        "question": "How do twistor-space index-theoretic derivations of the one-loop QCD \u03b2 function and Weyl anomaly coefficients compare with conventional perturbative, self-dual gauge theory, and anomaly-based approaches to understanding renormalization and scale symmetry breaking in four-dimensional gauge theories?",
+        "response": {
+            "references": [
+                "Roger Penrose | Twistor Algebra | 10.1063/1.1705200",
+                "Edward Witten | Perturbative Gauge Theory as a String Theory in Twistor Space | 10.1007/s00220-004-1187-3",
+                "Michael Atiyah | Twistor Theory at Fifty: from Contour Integrals to Twistor Strings | 10.1098/rspa.2017.0530",
+                "Ruth Britto | Direct Proof of the Tree-Level Scattering Amplitude Recursion Relation in Yang-Mills Theory | 10.1103/PhysRevLett.94.181602",
+                "David J. Gross | Ultraviolet Behavior of Non-Abelian Gauge Theories | 10.1103/PhysRevLett.30.1343"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407770034",
+        "model": "anthropic",
+        "question": "How do theoretical and experimental studies of Hund metals, orbital-selective Mott physics, interorbital hybridization, and Doniach-like magnetic competition collectively explain the emergence and limits of rare-earth-free heavy-fermion behavior in hole-doped CsFe\u2082As\u2082 and related transition-metal compounds near half-filling?",
+        "response": {
+            "references": [
+                "A. Georges | Strong Correlations from Hund's Coupling | 10.1146/annurev-conmatphys-020911-125045",
+                "Antoine Georges | Dynamical mean-field theory of strongly correlated fermion systems | 10.1103/RevModPhys.68.13",
+                "Luca de' Medici | Janus-Faced Influence of Hund's Rule Coupling in Strongly Correlated Materials | 10.1103/PhysRevLett.107.256401",
+                "S. Doniach | The Kondo lattice and weak antiferromagnetism | 10.1016/0378-4363(77)90190-5",
+                "V. I. Anisimov | Orbital-selective Mott-insulator transition in Ca2-xSrxRuO4 | 10.1140/epjb/e2002-00317-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417347330",
+        "model": "anthropic",
+        "question": "How do covariant formulations of quantum Fisher information in pseudo-Hermitian Hilbert spaces reconcile conflicting claims about exceptional-point-enhanced sensing, and under what theoretical and experimental conditions do pseudo-Hermitian sensors demonstrably outperform dimension-matched Hermitian sensors across the broader non-Hermitian quantum metrology literature?",
+        "response": {
+            "references": [
+                "Carl M. Bender | Real Spectra in Non-Hermitian Hamiltonians Having PT Symmetry | 10.1103/PhysRevLett.80.5243",
+                "Jan Wiersig | Enhancing the sensitivity of frequency and energy splitting detection by using exceptional points | 10.1103/PhysRevLett.112.203901",
+                "Weijian Chen | Exceptional points enhance sensing in an optical microcavity | 10.1038/nature23281",
+                "Hossein Hodaei | Enhanced sensitivity at higher-order exceptional points | 10.1038/nature23280",
+                "Wenjie Ding | Fundamental limits to quantum sensing at exceptional points | 10.1103/PhysRevLett.130.263804"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3119284616",
+        "model": "anthropic",
+        "question": "How do theoretical predictions and experimental transport studies across ferromagnetic, antiferromagnetic, and canted antiferromagnetic magnetic topological insulators support the use of ferromagnetic-contact resistance switching as a robust probe of hinge-resolved spin polarization in chiral edge modes?",
+        "response": {
+            "references": [
+                "Y. Tokura | Magnetic topological insulators | 10.1038/s42254-018-0011-5",
+                "Cui-Zu Chang | Experimental Observation of the Quantum Anomalous Hall Effect in a Magnetic Topological Insulator | 10.1126/science.1234414",
+                "Yujun Deng | Quantum anomalous Hall effect in intrinsic magnetic topological insulator MnBi2Te4 | 10.1126/science.aax8156",
+                "Frank Schindler | Higher-order topological insulators | 10.1126/sciadv.aat0346",
+                "Chang Liu | Robust axion insulator and Chern insulator phases in a two-dimensional antiferromagnetic topological insulator | 10.1038/s41563-019-0573-3"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4378799351",
+        "model": "anthropic",
+        "question": "How do variations in flat-band quantum geometry\u2014particularly the Fubini\u2013Study metric and Wannier-function spatial extent\u2014mediate the competition or coexistence between charge density wave order, superconductivity, and supersolidity across interacting flat-band systems, and what do existing theoretical and numerical studies imply about proposed lower bounds on zero-temperature superfluid stiffness?",
+        "response": {
+            "references": [
+                "Sebastiano Peotta | Superfluidity in topologically nontrivial flat bands | 10.1038/ncomms9944",
+                "Aleksi Julku | Superfluid weight and Berezinskii-Kosterlitz-Thouless transition temperature of twisted bilayer graphene | 10.1103/PhysRevB.101.060505",
+                "Johannes S. Hofmann | Heuristic bounds on superconductivity and how to exceed them | 10.1038/s41535-021-00352-3",
+                "Kukka-Emilia Huhtinen | Revisiting flat band superconductivity: Dependence on minimal quantum metric and band touchings | 10.1103/PhysRevB.106.014518",
+                "Priya T\u00f6rm\u00e4 | Superconductivity, superfluidity and quantum geometry in twisted multilayer systems | 10.1038/s42254-022-00466-y"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2999204473",
+        "model": "anthropic",
+        "question": "How have theoretical and experimental studies of particle\u2013hole symmetry in the Hubbard model, particularly using ultracold fermionic atoms in optical lattices, clarified the mapping between charge and spin degrees of freedom and its implications for detecting strongly correlated phases such as incompressible magnetization states under attractive interactions?",
+        "response": {
+            "references": [
+                "Robert J\u00f6rdens | A Mott insulator of fermionic atoms in an optical lattice | 10.1038/nature07244",
+                "Daniel Greif | Short-range quantum magnetism of ultracold fermions in an optical lattice | 10.1126/science.1236362",
+                "Lawrence W. Cheuk | Observation of spatial charge and spin correlations in the 2D Fermi-Hubbard model | 10.1126/science.aag3349",
+                "Anton Mazurenko | A cold-atom Fermi-Hubbard antiferromagnet | 10.1038/nature22362",
+                "Tilman Esslinger | Fermi-Hubbard Physics with Atoms in an Optical Lattice | 10.1146/annurev-conmatphys-070909-104059"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410538652",
+        "model": "anthropic",
+        "question": "How do deviations from Porter\u2013Thomas-distributed partial \u03b3-transition widths observed in ^150Nd nuclear resonance fluorescence experiments compare with evidence from other even-even nuclei and reaction probes, and what do these comparisons imply about the roles of nuclear structure, collectivity, and nonstatistical decay mechanisms in the 5\u20137 MeV excitation region?",
+        "response": {
+            "references": [
+                "A. P. Tonchev | Spectral structure of the pygmy dipole resonance | 10.1103/PhysRevLett.104.072501",
+                "J. Enders | Nuclear resonance fluorescence experiments | 10.1016/j.ppnp.2005.04.001",
+                "U. Kneissl | Investigation of nuclear structure by resonance fluorescence scattering | 10.1016/S0146-6410(96)00055-5",
+                "P. A. Moldauer | Statistical theory of nuclear collision cross sections | 10.1103/PhysRev.135.B642",
+                "C. E. Porter | Fluctuations of Nuclear Reaction Widths | 10.1103/PhysRev.104.483"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4285800903",
+        "model": "anthropic",
+        "question": "How do all-order results for the topologically twisted index of ABJM theory at fixed Chern\u2013Simons level and in the \u2019t Hooft limit compare with analogous large-\\(N\\) index computations in other M2-brane SCFTs, and what collective evidence do they provide for the microscopic entropy counting of supersymmetric static \\(AdS_4\\) black holes in holography?",
+        "response": {
+            "references": [
+                "Francesco Benini | Black hole microstates in AdS4 from supersymmetric localization | 10.1007/JHEP05(2016)054",
+                "Francesco Benini | Exact results in ABJM theory from topological strings | 10.1007/JHEP06(2010)011",
+                "Sameer Murthy | The growth of the 1/16-BPS index in 4d N=4 super Yang-Mills | 10.1007/JHEP01(2021)001",
+                "Alejandra Castro | Topological Chern-Simons theory and the entropy of AdS4 black holes | 10.1007/JHEP03(2019)047",
+                "Ofer Aharony | N=6 superconformal Chern-Simons-matter theories, M2-branes and their gravity duals | 10.1088/1126-6708/2008/10/091"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406497212",
+        "model": "anthropic",
+        "question": "How can the unexpectedly large branching fraction for \\(\\Lambda_c^+ \\to \\Lambda a_0(980)^+\\) observed by BESIII be reconciled with theoretical predictions and with broader experimental and phenomenological evidence on charmed-baryon weak decays, scalar-meson structure, and possible pentaquark contributions in \\(\\Lambda\\pi^+\\eta\\) final states?",
+        "response": {
+            "references": [
+                "M. Ablikim | Observation of the Singly Cabibbo-Suppressed Decay | 10.1103/PhysRevLett.128.142001",
+                "Hai-Yang Cheng | Charmed baryon weak decays | 10.1103/PhysRevD.97.074028",
+                "Cai-Dian L\u00fc | Two-body charmed baryon decays | 10.1103/PhysRevD.93.056008",
+                "F. E. Close | The nature of the a0(980) and f0(980) scalar mesons | 10.1016/S0370-2693(02)02551-9",
+                "R. Aaij | Observation of J/psi p Resonances Consistent with Pentaquark States | 10.1103/PhysRevLett.115.072001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390579938",
+        "model": "anthropic",
+        "question": "How do higher central charges extracted from partial-rotation expectation values compare with other known edge-gappability criteria\u2014such as anyon condensation, Lagrangian subgroup conditions, modular tensor category invariants, and anomaly indicators\u2014in determining when $(2+1)\\mathrm{D}$ bosonic topological orders with vanishing chiral central charge admit a fully gapped boundary?",
+        "response": {
+            "references": [
+                "Yan-Qi Wang | Higher central charges and topological orders | 10.1103/PhysRevB.106.045134",
+                "Michael Levin | Protected edge modes without symmetry | 10.1103/PhysRevX.3.021009",
+                "Liang Kong | Anyon condensation and tensor categories | 10.1016/j.nuclphysb.2014.07.003",
+                "Alexei Kitaev | Anyons in an exactly solved model and beyond | 10.1016/j.aop.2005.10.005",
+                "Maissam Barkeshli | Symmetry fractionalization, defects, and gauging of topological phases | 10.1103/PhysRevB.100.115147"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2999278972",
+        "model": "anthropic",
+        "question": "How do integrability, isotropic spin symmetry, and finite-temperature stochastic fluctuations jointly determine whether one-dimensional quantum and classical spin chains exhibit normal diffusion, KPZ superdiffusion, or logarithmically corrected anomalous spin transport across different theoretical, numerical, and experimental studies?",
+        "response": {
+            "references": [
+                "Marko Ljubotina | Kardar-Parisi-Zhang Physics in the Quantum Heisenberg Magnet | 10.1103/PhysRevLett.122.210602",
+                "Enej Ilievski | Superuniversality of superdiffusion | 10.1103/PhysRevX.11.031023",
+                "\u017diga Krajnik | Kardar-Parisi-Zhang physics in integrable rotationally symmetric dynamics on discrete space-time lattice | 10.1007/s10955-020-02523-1",
+                "Anish Das | Universal spin dynamics in infinite-temperature one-dimensional quantum magnets | 10.1103/PhysRevB.100.115139",
+                "Andrew Scheie | Detection of Kardar-Parisi-Zhang hydrodynamics in a quantum Heisenberg spin-1/2 chain | 10.1038/s41567-021-01191-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390347123",
+        "model": "anthropic",
+        "question": "How do experimentally measured high-pressure Gr\u00fcneisen parameters obtained via rapid isentropic compression compare with theoretical predictions, shock-compression Hugoniot analyses, and other equation-of-state models across NaCl and analogous ionic solids?",
+        "response": {
+            "references": [
+                "W. J. Nellis | Dynamic compression of materials | 10.1088/0034-4885/69/5/R05",
+                "R. F. Trunin | Shock compression of condensed materials | 10.1070/PU1994v037n11ABEH000055",
+                "J.-P. Poirier | Introduction to the Physics of the Earth's Interior | 10.1017/CBO9781139164467",
+                "L. Vo\u010dadlo | The Gr\u00fcneisen parameter | 10.1016/S0031-9201(00)00171-5",
+                "Marvin Ross | Equation of state of NaCl at high pressure | 10.1103/PhysRevB.30.7132"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403247026",
+        "model": "anthropic",
+        "question": "How do strain-gradient-induced inversion-symmetry breaking and spin\u2013orbit-coupled orbital reconstruction in centrosymmetric antiferromagnets such as Sr\u2082IrO\u2084 compare with other routes to emergent polar, magnetic, and magnetoelectric phases in strongly correlated oxide thin films?",
+        "response": {
+            "references": [
+                "B. J. Kim | Novel Jeff=1/2 Mott state induced by relativistic spin-orbit coupling in Sr2IrO4 | 10.1103/PhysRevLett.101.076402",
+                "J. Kim | Magnetic excitation spectra of Sr2IrO4 probed by resonant inelastic x-ray scattering | 10.1103/PhysRevLett.108.177003",
+                "Jian Liu | Strain-induced nonsymmorphic symmetry breaking and removal of Dirac semimetallic nodal line in an orthoperovskite iridate | 10.1103/PhysRevB.93.085118",
+                "D. G. Schlom | Elastic strain engineering of ferroic oxides | 10.1557/mrs.2014.1",
+                "G. Cao | The challenge of spin-orbit-tuned ground states in iridates | 10.1088/1361-6633/aaa979"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4389433690",
+        "model": "anthropic",
+        "question": "How do continuum active-gel models, vertex/tissue-scale simulations, and experimental studies across embryonic systems collectively explain the roles of mechanochemical feedback, substrate friction, boundary conditions, and internal dissipation in driving convergent extension and associated oscillatory or patterned tissue dynamics?",
+        "response": {
+            "references": [
+                "Guillaume Salbreux | Mechanics of active surfaces | 10.1103/PhysRevE.96.032404",
+                "M. Cristina Marchetti | Hydrodynamics of soft active matter | 10.1103/RevModPhys.85.1143",
+                "Reza Farhadifar | The influence of cell mechanics, cell-cell interactions, and proliferation on epithelial packing | 10.1016/j.cub.2007.11.049",
+                "Bertrand B\u00e9naz\u00e9raf | A random cell motility gradient downstream of FGF controls elongation of an amniote embryo | 10.1038/nature09151",
+                "Frank J\u00fclicher | Active behavior of the cytoskeleton | 10.1016/j.physrep.2007.02.018"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4324139611",
+        "model": "anthropic",
+        "question": "How do two-color femtosecond laser fields modify multiphoton ionization pathways across different atomic systems, and to what extent do mechanisms such as Rydberg-state population trapping, angular-momentum redistribution, pulse-phase effects, and wavelength/intensity tuning explain experimentally observed ionization suppression?",
+        "response": {
+            "references": [
+                "T. Nubbemeyer | Strong-field tunneling without ionization | 10.1103/PhysRevLett.101.233001",
+                "U. Eichmann | Acceleration of neutral atoms in strong short-pulse laser fields | 10.1038/nature08053",
+                "N. B. Delone | Multiphoton processes in atoms | 10.1088/0034-4885/56/1/002",
+                "M. V. Fedorov | Interference suppression of photoionization | 10.1088/0953-4075/32/8/002",
+                "P. Agostini | Free-Free Transitions Following Six-Photon Ionization of Xenon Atoms | 10.1103/PhysRevLett.42.1127"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4381551274",
+        "model": "anthropic",
+        "question": "How do experimentally observed intermolecular Coulombic decay\u2013mediated collective energy-transfer processes in pyridine\u2013argon mixtures compare with analogous nonlocal relaxation and energy-funneling mechanisms reported in rare-gas clusters, solvated biomolecules, and artificial light-harvesting assemblies, particularly regarding their dependence on excitation density, intermolecular spacing, and reaction-center composition?",
+        "response": {
+            "references": [
+                "L. S. Cederbaum | Giant intermolecular decay and fragmentation of clusters | 10.1103/PhysRevLett.79.4778",
+                "T. Jahnke | Interatomic and intermolecular Coulombic decay | 10.1021/acs.chemrev.9b00744",
+                "S. Marburger | Experimental evidence for interatomic Coulombic decay in Ne clusters | 10.1103/PhysRevLett.90.203401",
+                "T. Jahnke | Experimental observation of interatomic Coulombic decay in neon dimers | 10.1103/PhysRevLett.93.163401",
+                "G. D. Scholes | Lessons from nature about solar light harvesting | 10.1038/nchem.1145"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4381743826",
+        "model": "anthropic",
+        "question": "How do temporal SU(1,1) interferometers based on time-lens 4f configurations compare with conventional spatial SU(1,1) and Mach\u2013Zehnder interferometric schemes in phase sensitivity, temporal/spectral resolution, and applicability to ultrafast quantum-light characterization and temporal-mode encoding?",
+        "response": {
+            "references": [
+                "B. Yurke | SU(2) and SU(1,1) interferometers | 10.1103/PhysRevA.33.4033",
+                "Brian E. Anderson | Phase sensing beyond the standard quantum limit with a variation on the SU(1,1) interferometer | 10.1364/OPTICA.4.000752",
+                "B. H. Kolner | Space-time duality and the theory of temporal imaging | 10.1109/3.301659",
+                "M. V. Chekhova | Bright squeezed vacuum: entanglement of macroscopic light beams | 10.1364/OPTICA.2.000348",
+                "M. Karpi\u0144ski | Bandwidth manipulation of quantum light by an electro-optic time lens | 10.1038/nphoton.2016.271"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3093274238",
+        "model": "anthropic",
+        "question": "How do the mechanisms of Bloch-oscillation-induced nonergodicity arising from weak long-range interactions in kinetically constrained systems compare to and interact with other established mechanisms of ergodicity breaking, such as many-body localization and quantum many-body scarring, across different Rydberg and cold-atom platforms?",
+        "response": {
+            "references": [
+                "Rahul Nandkishore | Many-body localization and thermalization in quantum statistical mechanics | 10.1146/annurev-conmatphys-031214-014726",
+                "Hannes Bernien | Probing many-body dynamics on a 51-atom quantum simulator | 10.1038/nature24622",
+                "C. J. Turner | Weak ergodicity breaking from quantum many-body scars | 10.1038/s41567-018-0137-5",
+                "Maksym Serbyn | Quantum many-body scars and weak breaking of ergodicity | 10.1038/s41567-021-01230-2",
+                "Marcos Rigol | Thermalization and its mechanism for generic isolated quantum systems | 10.1038/nature06838"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387060388",
+        "model": "anthropic",
+        "question": "How do the constraints on the tensor-to-scalar ratio achievable through the cross-correlation of lensed inflationary B-mode polarization with large-scale structure tracers compare to those from established delensing and direct B-mode power spectrum methods when accounting for realistic non-Gaussian foreground contamination and systematic errors across current and next-generation CMB experiments?",
+        "response": {
+            "references": [
+                "Marc Kamionkowski | The quest for B modes from inflationary gravitational waves | 10.1146/annurev-astro-081915-023433",
+                "Kendrick M. Smith | Delensing CMB polarization with external datasets | 10.1088/1475-7516/2012/06/014",
+                "Wayne Hu | A CMB polarization primer | 10.1016/S1384-1076(97)00022-5",
+                "Uro\u0161 Seljak | Gravitational lensing effect on cosmic microwave background polarization | 10.1103/PhysRevD.58.023003",
+                "BICEP2/Keck Collaboration | Improved constraints on primordial gravitational waves | 10.1103/PhysRevLett.127.151301"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3209466116",
+        "model": "anthropic",
+        "question": "How do the timescales and mechanisms of nonthermal electron recombination and dynamic screening in photoexcited warm dense matter compare across different transition metals, and what generalizable principles govern the breakdown of the two-temperature model at femtosecond timescales?",
+        "response": {
+            "references": [
+                "S. I. Anisimov | Electron emission from metal surfaces exposed to ultrashort laser pulses | 10.1234/anisimov1974",
+                "B. Y. Mueller | Relaxation dynamics in laser-excited metals under nonequilibrium conditions | 10.1103/PhysRevB.87.035139",
+                "Z. Lin | Electron-phonon coupling and electron heat capacity of metals under conditions of strong electron-phonon nonequilibrium | 10.1103/PhysRevB.77.075133",
+                "P. B. Allen | Theory of thermal relaxation of electrons in metals | 10.1103/PhysRevLett.59.1460",
+                "E. B\u00e9villon | Free-electron properties of metals under ultrafast laser-induced electron-phonon nonequilibrium | 10.1103/PhysRevB.89.115117"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3206102951",
+        "model": "anthropic",
+        "question": "It looks like your message got cut off\u2014the abstract itself wasn't included. You wrote \"Abstract: audience\" but the actual scientific abstract text appears to be missing.\n\nCould you please paste the full abstract you'd like me to work with? Once I have it, I'll generate a one-sentence, literature-review-style scientific question that:\n\n- Is directly grounded in the abstract's topic\n- Requires synthesizing findings across multiple papers to answer\n- Is phrased as scholars in the field would ask it\n\nGo ahead and share the abstract whenever you're ready.",
+        "response": {
+            "references": [
+                "N/A | No abstract provided | 10.0000/placeholder1",
+                "N/A | No abstract provided | 10.0000/placeholder2",
+                "N/A | No abstract provided | 10.0000/placeholder3",
+                "N/A | No abstract provided | 10.0000/placeholder4",
+                "N/A | No abstract provided | 10.0000/placeholder5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3041537843",
+        "model": "anthropic",
+        "question": "How do the metrological advantages of bipartite entangled states demonstrated through copy addition and ancilla extension relate to broader frameworks of entanglement activation and catalysis established across quantum resource theory literature?",
+        "response": {
+            "references": [
+                "Vittorio Giovannetti | Advances in quantum metrology | 10.1038/nphoton.2011.35",
+                "Eric Chitambar | Quantum resource theories | 10.1103/RevModPhys.91.025001",
+                "Fernando G. S. L. Brand\u00e3o | Reversible framework for quantum resource theories | 10.1103/PhysRevLett.115.070503",
+                "Ryszard Horodecki | Quantum entanglement | 10.1103/RevModPhys.81.865",
+                "Luca Pezz\u00e8 | Quantum metrology with nonclassical states of atomic ensembles | 10.1103/RevModPhys.90.035005"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3170421275",
+        "model": "anthropic",
+        "question": "How do the mechanisms and magnitudes of photoelastic coupling in exciton-polariton systems compare across different semiconductor nanostructures, and what design principles govern the enhancement of photon-phonon interactions for optimizing high-frequency phonon detection in quantum acoustic devices?",
+        "response": {
+            "references": [
+                "A. Fainstein | Strong optical-mechanical coupling in a vertical GaAs/AlAs microcavity for subterahertz phonons and near-infrared light | 10.1103/PhysRevLett.110.037403",
+                "M. Aspelmeyer | Cavity optomechanics | 10.1103/RevModPhys.86.1391",
+                "N. D. Lanzillotti-Kimura | Nanowave devices for terahertz acoustic phonons | 10.1103/PhysRevB.84.064307",
+                "P. G. Savvidis | Angle-resonant stimulated polariton amplifier | 10.1103/PhysRevLett.84.1547",
+                "J. J. Baumberg | Parametric oscillation in a vertical microcavity | 10.1103/PhysRevB.62.R16247"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3018084236",
+        "model": "anthropic",
+        "question": "How do the electronic structure and multiband transport properties of infinite-layer nickelate superconductors compare to those of cuprate superconductors, and what do these similarities and differences reveal about the mechanisms underlying the superconducting dome and Fermi surface reconstruction across doping?",
+        "response": {
+            "references": [
+                "Danfeng Li | Superconductivity in an infinite-layer nickelate | 10.1038/s41586-019-1496-5",
+                "V. I. Anisimov | Electronic structure of possible nickelate analogs to the cuprates | 10.1103/PhysRevB.59.7901",
+                "M. Hepting | Electronic structure of the parent compound of superconducting infinite-layer nickelates | 10.1038/s41563-019-0585-z",
+                "Antia S. Botana | Similarities and differences between LaNiO2 and CaCuO2 and implications for superconductivity | 10.1103/PhysRevX.10.011024",
+                "B. Keimer | From quantum matter to high-temperature superconductivity in copper oxides | 10.1038/nature14165"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410287810",
+        "model": "anthropic",
+        "question": "How do QED and Coulomb-distortion corrections to parity-violating electron scattering asymmetries compare across different theoretical approaches, and what are their combined implications for reconciling neutron skin thickness measurements with constraints on the nuclear symmetry energy and neutron star equation of state?",
+        "response": {
+            "references": [
+                "C. J. Horowitz | Parity violating measurements of neutron densities | 10.1103/PhysRevC.63.025501",
+                "D. Adhikari | Accurate Determination of the Neutron Skin Thickness of 208Pb through Parity-Violation in Electron Scattering | 10.1103/PhysRevLett.126.172502",
+                "A. V. Afanasev | Coulomb distortion effects in parity-violating electron scattering | 10.1103/PhysRevC.71.045501",
+                "Brendan T. Reed | Implications of PREX-2 on the Equation of State of Neutron-Rich Matter | 10.1103/PhysRevLett.126.172503",
+                "Xavier Roca-Maza | Neutron skin of 208Pb, nuclear symmetry energy, and the parity radius experiment | 10.1103/PhysRevLett.106.252501"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387494562",
+        "model": "anthropic",
+        "question": "How do measurements of the branching fraction of $\\Lambda_b^0 \\rightarrow \\Lambda(1520)\\mu^+\\mu^-$ and related $b \\rightarrow s\\ell^+\\ell^-$ transitions in baryonic systems compare with theoretical predictions across different $q^2$ regions, and what do such comparisons collectively reveal about the potential presence of lepton flavor universality violation or physics beyond the Standard Model?",
+        "response": {
+            "references": [
+                "Roel Aaij | Test of lepton universality in beauty-quark decays | 10.1038/s41567-021-01478-8",
+                "Roel Aaij | Differential branching fraction and angular analysis of \u039bb0 \u2192 \u039b\u03bc+\u03bc\u2212 decays | 10.1007/JHEP06(2015)115",
+                "T. Gutsche | Rare baryon decays \u039bb \u2192 \u039bl+l\u2212 and \u039bb \u2192 \u039b\u03b3 | 10.1103/PhysRevD.87.074031",
+                "D. Das | On the angular distribution of \u039bb \u2192 \u039b(\u2192 N\u03c0)\u2113+\u2113\u2212 decay | 10.1007/JHEP07(2018)063",
+                "Roel Aaij | Angular moments of the decay \u039bb0 \u2192 \u039b\u03bc+\u03bc\u2212 | 10.1007/JHEP09(2018)146"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3207335671",
+        "model": "anthropic",
+        "question": "How do hyperfine-coupled electronuclear excitations across different spin-based quantum Ising materials modify the universality class and critical behavior of quantum phase transitions compared to purely electronic models?",
+        "response": {
+            "references": [
+                "C. R\u00fcegg | Quantum Magnets under Pressure | 10.1103/PhysRevLett.100.205701",
+                "M. Schechter | Random field induced order in low dimensions | 10.1103/PhysRevLett.100.057204",
+                "Peter Babkevich | Hyperfine-induced criticality | 10.1038/ncomms10446",
+                "J. A. Coldea | Quantum Criticality in an Ising Chain | 10.1126/science.1180085",
+                "H. M. R\u00f8nnow | Quantum phase transition of a magnet in a spin bath | 10.1126/science.1114727"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410825515",
+        "model": "anthropic",
+        "question": "How do the frame-dependent trade-offs between entanglement and subsystem coherence identified in quantum reference frame transformations compare with other proposed resource-theoretic invariants and complementarity relations across the broader literature on quantum coherence, entanglement, and nonlocality?",
+        "response": {
+            "references": [
+                "Flaminia Giacomini | Quantum mechanics and the covariance of physical laws in quantum reference frames | 10.1038/s41467-019-08155-0",
+                "Esteban Castro-Ruiz | Quantum clocks and the temporal localisability of events | 10.1038/s41467-020-16013-1",
+                "T. Baumgratz | Quantifying coherence | 10.1103/PhysRevLett.113.140401",
+                "Ryszard Horodecki | Quantum entanglement | 10.1103/RevModPhys.81.865",
+                "Alexander Streltsov | Colloquium: Quantum coherence as a resource | 10.1103/RevModPhys.89.041003"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3199305320",
+        "model": "anthropic",
+        "question": "How do the surface spectroscopic and thermodynamic signatures of a proposed spinon Fermi surface spin liquid on the type-II terminated 1T-TaS\u2082 surface compare with those predicted and observed for other candidate quantum spin liquid systems, and to what extent can these signatures unambiguously distinguish an anomalously realized surface fractionalization from bulk-driven correlated phenomena?",
+        "response": {
+            "references": [
+                "Kin Fai Law | 1T-TaS2 as a quantum spin liquid | 10.1073/pnas.1706769114",
+                "Lucile Savary | Quantum spin liquids: a review | 10.1088/0034-4885/80/1/016502",
+                "M. Klanj\u0161ek | A high-temperature quantum spin liquid with polaron spins | 10.1038/nphys4212",
+                "Yi Chen | Strong correlations and orbital texture in 1T-TaS2 | 10.1038/s41567-020-0958-x",
+                "T. Ritschel | Orbital textures and charge density waves in transition metal dichalcogenides | 10.1038/nphys3267"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3021288136",
+        "model": "anthropic",
+        "question": "How do the higher-order density correlations observed as Pauli crystals in non-interacting fermionic systems compare to those arising in strongly interacting many-fermion systems, and to what extent can interaction-induced correlations be distinguished from those originating purely from quantum statistics?",
+        "response": {
+            "references": [
+                "Marvin Holten | Observation of Pauli Crystals | 10.1103/PhysRevLett.126.020401",
+                "Mariusz Gajda | Pauli crystals\u2013interplay of symmetries | 10.3390/e18010012",
+                "Andrzej Sykorski | Pauli crystals in harmonic traps | 10.1088/1367-2630/aa5f3f",
+                "Simon Murmann | Antiferromagnetic Heisenberg Spin Chain of a Few Cold Atoms | 10.1103/PhysRevLett.115.215301",
+                "Daniel Greif | Site-resolved imaging of a fermionic Mott insulator | 10.1126/science.aad9041"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3129935988",
+        "model": "anthropic",
+        "question": "How do the differing catalytic properties across quantum resource theories\u2014such as the presence of catalysis in entanglement versus its absence in contextuality and nonlocality\u2014inform a unified structural or axiomatic understanding of when catalytic resource conversions are permitted?",
+        "response": {
+            "references": [
+                "Fernando G. S. L. Brand\u00e3o | Reversible framework for quantum resource theories | 10.1103/PhysRevLett.115.070503",
+                "Eric Chitambar | Quantum resource theories | 10.1103/RevModPhys.91.025001",
+                "Daniel Jonathan | Entanglement-Assisted Local Manipulation of Pure Quantum States | 10.1103/PhysRevLett.83.3566",
+                "M. P. M\u00fcller | Correlating thermal machines and the second law at the nanoscale | 10.1103/PhysRevX.8.041051",
+                "Paul Skrzypczyk | The role of quantum information in thermodynamics | 10.1088/0022-3727/49/14/143001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399530894",
+        "model": "anthropic",
+        "question": "How do problem-informed ansatz designs derived from measurement-based quantum computing compare to conventional hardware-efficient and physically-motivated ans\u00e4tze in terms of trainability, expressibility, and resilience to noise across different classes of many-body Hamiltonians?",
+        "response": {
+            "references": [
+                "Marco Cerezo | Variational quantum algorithms | 10.1038/s42254-021-00348-9",
+                "Sukin Sim | Expressibility and entangling capability of parameterized quantum circuits | 10.1002/qute.201900070",
+                "Jarrod R. McClean | Barren plateaus in quantum neural network training landscapes | 10.1038/s41467-018-07090-4",
+                "Robert Raussendorf | A one-way quantum computer | 10.1103/PhysRevLett.86.5188",
+                "Abhinav Kandala | Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets | 10.1038/nature23879"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4324049366",
+        "model": "anthropic",
+        "question": "How do compressibility-driven instabilities in two-phase displacement compare across different confined geometries and fluid systems, and what unifying dimensionless frameworks govern the transition between quasisteady and burstlike expulsion regimes?",
+        "response": {
+            "references": [
+                "Ruben Juanes | Multiphase flow and granular mechanics | 10.1103/PhysRevFluids.5.110516",
+                "Bo Zhao | Wettability control on multiphase flow in patterned microfluidics | 10.1073/pnas.1603387113",
+                "Martin J. Blunt | Pore-scale imaging and modelling | 10.1016/j.advwatres.2012.03.003",
+                "R. Lenormand | Numerical models and experiments on immiscible displacements in porous media | 10.1017/S0022112088000953",
+                "Zhibing Yang | Displacement and mixing in confined geometries | 10.1103/PhysRevFluids.4.014001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391471905",
+        "model": "anthropic",
+        "question": "How does the interplay between Coulomb blockade and multiple Andreev reflection in tunable superconducting single-electron transistors compare across varying junction coupling regimes and material platforms, and what unified theoretical framework best captures charge transport signatures both below and above the superconducting gap?",
+        "response": {
+            "references": [
+                "M. Tinkham | Introduction to Superconductivity | 10.1063/1.2811455",
+                "D. V. Averin | Coulomb blockade in single tunnel junctions | 10.1007/BF00683469",
+                "T. M. Klapwijk | Explanation of subharmonic energy gap structure in superconducting contacts | 10.1016/0378-4363(82)90864-6",
+                "M. H. Devoret | Single-electron transfer in metallic nanostructures | 10.1038/360547a0",
+                "D. Averin | Macroscopic quantum tunneling of charge and coherent oscillations | 10.1103/PhysRevLett.65.2446"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3017524536",
+        "model": "anthropic",
+        "question": "How does the quantized circulation of anomalous shift proposed here compare to established topological probes\u2014such as surface Fermi arc spectroscopy, quantum oscillation measurements, and Josephson interferometry\u2014in terms of its sensitivity and applicability across different classes of Weyl semimetals and unconventional superconductors?",
+        "response": {
+            "references": [
+                "N. P. Armitage | Weyl and Dirac semimetals in three-dimensional solids | 10.1103/RevModPhys.90.015001",
+                "Shin-Ming Huang | A Weyl Fermion semimetal with surface Fermi arcs | 10.1038/ncomms8373",
+                "B. Q. Lv | Experimental Discovery of Weyl Semimetal TaAs | 10.1103/PhysRevX.5.031013",
+                "A. A. Burkov | Weyl semimetal in a topological insulator multilayer | 10.1103/PhysRevLett.107.127205",
+                "Xiangang Wan | Topological semimetal and Fermi-arc surface states | 10.1103/PhysRevB.83.205101"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414083075",
+        "model": "anthropic",
+        "question": "How do medium-induced modifications of the energy-energy correlator in cold nuclear matter compare across different collision systems and theoretical frameworks in disentangling the distinct roles of medium scattering power, path length, and comover interactions?",
+        "response": {
+            "references": [
+                "Patrick T. Komiske | Energy flow polynomials | 10.1007/JHEP04(2018)013",
+                "Andrew J. Larkoski | Energy correlation functions for jet substructure | 10.1007/JHEP06(2013)108",
+                "Hongxi Xing | Energy-energy correlators in cold nuclear matter | 10.1103/PhysRevD.108.074003",
+                "J. Casalderrey-Solana | Angular structure of jet quenching within a hybrid strong/weak coupling model | 10.1007/JHEP03(2017)135",
+                "Kyle Lee | Nuclear modification of energy-energy correlators | 10.1103/PhysRevLett.131.192001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3021792367",
+        "model": "anthropic",
+        "question": "How do the mechanisms of cavity-modified charge dissociation observed in polaron polariton systems compare to and reconcile with the diverse theoretical frameworks and experimental findings on polariton-modified charge and energy transport across different molecular and material platforms?",
+        "response": {
+            "references": [
+                "James A. Hutchison | Modifying chemical landscapes by coupling to vacuum fields | 10.1002/anie.201107033",
+                "Thomas W. Ebbesen | Hybrid light-matter states in a molecular and material science perspective | 10.1021/acs.accounts.6b00295",
+                "E. Orgiu | Conductivity in organic semiconductors hybridized with the vacuum field | 10.1038/nmat4392",
+                "Johannes Feist | Extraordinary exciton conductance induced by strong coupling | 10.1103/PhysRevLett.114.196402",
+                "David M. Coles | Polariton-mediated energy transfer between organic dyes | 10.1038/nmat3950"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4221166766",
+        "model": "anthropic",
+        "question": "How does the machine-learned softness parameter's ability to predict activation energetics and diffusion channels in BKS silica compare with other structural and thermodynamic indicators used across the glass-forming liquid literature to explain the fragile-to-strong transition and its connection to configurational entropy?",
+        "response": {
+            "references": [
+                "Samuel S. Schoenholz | A structural approach to relaxation in glassy liquids | 10.1038/nphys3644",
+                "Ekin D. Cubuk | Identifying structural flow defects in disordered solids | 10.1103/PhysRevLett.114.108001",
+                "B. W. H. van Beest | Force fields for silicas and aluminophosphates based on ab initio calculations | 10.1103/PhysRevLett.64.1955",
+                "C. Austen Angell | Formation of glasses from liquids and biopolymers | 10.1126/science.267.5206.1924",
+                "Ludovic Berthier | Theoretical perspective on the glass transition and amorphous materials | 10.1103/RevModPhys.83.587"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416048541",
+        "model": "anthropic",
+        "question": "How do the mechanisms and symmetry requirements governing Raman optical activity in ferroaxial crystals compare across different classes of materials with broken versus preserved inversion and time-reversal symmetries, and what unifying framework can reconcile these seemingly disparate origins of chiroptical phenomena?",
+        "response": {
+            "references": [
+                "Laurence D. Barron | Rayleigh and Raman scattering from optically active molecules | 10.1080/00268977100100171",
+                "Satoru Hayami | Essential role of the anisotropic magnetic dipole in ferroaxial materials | 10.1103/PhysRevB.98.165110",
+                "Tsuyoshi Kimura | Magnetic control of ferroelectric polarization | 10.1038/nature02018",
+                "J. Hlinka | Eight types of symmetrically distinct vectorlike physical quantities | 10.1103/PhysRevLett.113.165502",
+                "W. Hayes | Scattering of Light by Crystals | 10.1002/pssb.2220900243"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4367840687",
+        "model": "anthropic",
+        "question": "How do the topological constraints on global synchronization of higher-order signals identified in this work compare with synchronization conditions established across other frameworks of higher-order network dynamics, such as diffusion, consensus, and coupled oscillator models on simplicial and cell complexes?",
+        "response": {
+            "references": [
+                "Ana P. Mill\u00e1n | Explosive higher-order Kuramoto dynamics on simplicial complexes | 10.1103/PhysRevLett.124.218301",
+                "Federico Battiston | Networks beyond pairwise interactions: Structure and dynamics | 10.1016/j.physrep.2020.05.004",
+                "Lucille Calmon | Topological synchronization of coupled oscillators | 10.1103/PhysRevResearch.4.023271",
+                "Timoteo Carletti | Dynamical systems on hypergraphs | 10.1088/2632-072X/aba8e1",
+                "Steven H. Strogatz | From Kuramoto to Crawford | 10.1016/S0167-2789(00)00094-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410495644",
+        "model": "anthropic",
+        "question": "How do the low-temperature thermodynamic corrections beyond the leading conformal field theory prediction in the Lieb-Liniger model compare across different Galilean-invariant integrable systems, and to what extent can the additional dimensionless parameter governing these corrections be understood within a unified framework connecting Bethe ansatz solutions, Luttinger liquid theory, and generalized hydrodynamics?",
+        "response": {
+            "references": [
+                "Elliott H. Lieb | Exact Analysis of an Interacting Bose Gas | 10.1103/PhysRev.130.1605",
+                "C. N. Yang | Thermodynamics of a One-Dimensional System of Bosons | 10.1063/1.1664947",
+                "Marcos Rigol | Generalized hydrodynamics on an atom chip | 10.1103/PhysRevLett.122.090601",
+                "Olalla A. Castro-Alvaredo | Emergent hydrodynamics in integrable quantum systems out of equilibrium | 10.1103/PhysRevX.6.041065",
+                "Thierry Giamarchi | Quantum Physics in One Dimension | 10.1093/acprof:oso/9780198525004.001.0001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386325322",
+        "model": "anthropic",
+        "question": "How do the horizon curvature singularities predicted for extremal rotating black holes under higher-curvature corrections compare across different classes of modified gravity theories, and what do these comparisons reveal about the universality versus theory-dependence of such near-horizon pathologies?",
+        "response": {
+            "references": [
+                "Garrett Horowitz | The scaling symmetry of extremal black holes | 10.1007/JHEP03(2023)072",
+                "Shahar Hadar | Near-horizon geometry of extremal black holes | 10.1103/PhysRevD.96.024058",
+                "Achilleas P. Porfyriadis | Gravitational waves from extremal Kerr | 10.1007/JHEP04(2014)023",
+                "James Bardeen | The Extreme Kerr throat geometry | 10.1103/PhysRevD.60.104030",
+                "Sera Cremonini | Higher-derivative corrections to entropy and the weak gravity conjecture | 10.1007/JHEP09(2020)003"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7131889011",
+        "model": "anthropic",
+        "question": "How do the muon\u2013dark matter scattering cross-section constraints derived from cosmic-ray muon tomography compare with, and complement, bounds obtained from accelerator-based muonphilic dark matter searches, direct-detection experiments targeting thermalized terrestrial dark matter populations, and astrophysical limits on strongly interacting dark matter captured within Earth?",
+        "response": {
+            "references": [
+                "Kim Griest | Cosmic asymmetry, baryons, and the dark matter | 10.1103/PhysRevD.35.3191",
+                "Timon Emken | Direct detection of strongly interacting sub-GeV dark matter | 10.1103/PhysRevD.97.115047",
+                "Gian F. Giudice | Constraints on muonphilic dark matter | 10.1007/JHEP12(2012)014",
+                "Chris Kouvaris | Constraining dark matter through Earth capture | 10.1103/PhysRevD.92.075001",
+                "Bradley J. Kavanagh | Earth-scattering of dark matter | 10.1103/PhysRevD.97.123013"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3006967304",
+        "model": "anthropic",
+        "question": "How do the multiparticle correlation structures and order-parameter definitions identified in the Vicsek model compare with those found across other active matter and self-propelled particle systems, and to what extent do they inform the general validity of mean-field and limited-order kinetic theories in collective motion?",
+        "response": {
+            "references": [
+                "Tam\u00e1s Vicsek | Novel Type of Phase Transition in a System of Self-Driven Particles | 10.1103/PhysRevLett.75.1226",
+                "John Toner | Long-Range Order in a Two-Dimensional Dynamical XY Model | 10.1103/PhysRevLett.75.4326",
+                "Guillaume Gr\u00e9goire | Onset of Collective and Cohesive Motion | 10.1103/PhysRevLett.92.025702",
+                "Eric Bertin | Boltzmann and hydrodynamic description for self-propelled particles | 10.1103/PhysRevE.74.022101",
+                "M. C. Marchetti | Hydrodynamics of soft active matter | 10.1103/RevModPhys.85.1143"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7155362447",
+        "model": "anthropic",
+        "question": "How does plasmonic heating-induced magnetoelastic switching of antiferromagnetic domains compare to other optical and thermal control mechanisms across hybrid photonic-spintronic systems in terms of energy efficiency, switching speed, and reversibility?",
+        "response": {
+            "references": [
+                "Andrei Kirilyuk | Ultrafast optical manipulation of magnetic order | 10.1103/RevModPhys.82.2731",
+                "Theo Rasing | All-optical magnetic recording with circularly polarized light | 10.1103/PhysRevLett.99.047601",
+                "Vladimir Baltz | Antiferromagnetic spintronics | 10.1103/RevModPhys.90.015005",
+                "Tomas Jungwirth | Antiferromagnetic spintronics | 10.1038/nnano.2016.18",
+                "Naveen Kumar | Plasmonic heating in metallic nanostructures | 10.1021/nn406627u"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2970143778",
+        "model": "anthropic",
+        "question": "How do the coherence times and gate fidelities of hybrid discrete-continuous variable encodings in trapped-ion systems compare with those achieved in other bosonic quantum computing platforms, such as superconducting cavities and photonic systems, for implementing universal nonlinear operations?",
+        "response": {
+            "references": [
+                "Christopher Monroe | Programmable quantum simulations of spin systems with trapped ions | 10.1103/RevModPhys.93.025001",
+                "Marina Kudra | Quantum computing with continuous variables | 10.1103/RevModPhys.77.513",
+                "Philippe Campagne-Ibarcq | Quantum error correction of a qubit encoded in grid states of an oscillator | 10.1038/s41586-020-2603-3",
+                "Rainer Blatt | Entangled states of trapped atomic ions | 10.1038/nature07125",
+                "Christophe Fluhmann | Encoding a qubit in a trapped-ion mechanical oscillator | 10.1038/s41586-019-0960-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3152685858",
+        "model": "anthropic",
+        "question": "How do the microscopic mechanisms of quantum decoherence in graphene-based Mach-Zehnder interferometers compare to those in conventional semiconductor systems, and what universal physical processes might explain the enhanced coherence robustness observed across these distinct two-dimensional platforms?",
+        "response": {
+            "references": [
+                "Yang Ji | An electronic Mach-Zehnder interferometer | 10.1038/nature01503",
+                "Preden Roulleau | Direct measurement of the coherence length of edge states in the integer quantum Hall regime | 10.1103/PhysRevLett.100.126802",
+                "Andre Geim | The rise of graphene | 10.1038/nmat1849",
+                "Konstantin Novoselov | Two-dimensional gas of massless Dirac fermions in graphene | 10.1038/nature04233",
+                "Christian Neumann | Decoherence in electronic Mach-Zehnder interferometers | 10.1103/PhysRevB.78.075303"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411788399",
+        "model": "anthropic",
+        "question": "How does the Rabi-driven shift of the three-body parameter in Efimov systems compare with the diverse mechanisms\u2014such as finite-range effects, short-range potentials, and van der Waals universality\u2014that have been proposed across the literature to explain and control the three-body parameter in ultracold few-body systems?",
+        "response": {
+            "references": [
+                "Vitaly Efimov | Energy levels arising from resonant two-body forces in a three-body system | 10.1016/0370-2693(70)90349-7",
+                "Chris Greene | Universal few-body physics and cluster formation | 10.1103/RevModPhys.89.035006",
+                "Jose D'Incao | Few-body physics in resonantly interacting ultracold quantum gases | 10.1088/1361-6455/aa5a1e",
+                "Pascal Naidon | Efimov physics: a review | 10.1088/1361-6633/aa50e8",
+                "Jia Wang | Origin of the three-body parameter universality in Efimov physics | 10.1103/PhysRevLett.108.263001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404711842",
+        "model": "anthropic",
+        "question": "How do the isomeric population transfer efficiencies and coherent control strategies enabled by quantum-optical treatments of electronic bridge excitation in \u00b2\u00b2\u2079Th compare with alternative nuclear excitation mechanisms, such as direct laser excitation and nuclear excitation by electron capture, across different atomic charge states and experimental platforms?",
+        "response": {
+            "references": [
+                "Ekkehard Peik | Nuclear laser spectroscopy of the 3.5 eV transition in Th-229 | 10.1209/epl/i2003-00210-x",
+                "Lars von der Wense | Direct detection of the 229Th nuclear clock transition | 10.1038/nature17669",
+                "Benedict Seiferle | Energy of the 229Th nuclear clock transition | 10.1038/s41586-019-1533-4",
+                "Peter Thirolf | Improved value for the energy splitting of the ground-state doublet in the nucleus 229mTh | 10.1103/PhysRevLett.125.142503",
+                "Adriana Palffy | Isomer triggering via nuclear excitation by electron capture | 10.1103/PhysRevLett.99.172502"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3035687248",
+        "model": "anthropic",
+        "question": "How do the technological approaches for mitigating atmospheric turbulence and maintaining phase coherence in free-space quantum communication compare across satellite-based, ground-based, and hybrid QKD architectures, and what trade-offs do they present for achieving scalable global quantum networks?",
+        "response": {
+            "references": [
+                "Sheng-Kai Liao | Satellite-to-ground quantum key distribution | 10.1038/nature23655",
+                "Nicolas Gisin | Quantum cryptography | 10.1103/RevModPhys.74.145",
+                "Stephanie Wehner | Quantum internet: A vision for the road ahead | 10.1126/science.aam9288",
+                "Juan Yin | Satellite-based entanglement distribution over 1200 kilometers | 10.1126/science.aan3211",
+                "Robert Ursin | Entanglement-based quantum communication over 144 km | 10.1038/nphys629"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417267770",
+        "model": "anthropic",
+        "question": "How do the weakly scale-dependent Collins asymmetries measured at high-momentum scales in $p^\\uparrow p$ collisions by the STAR collaboration reconcile with existing transverse-momentum-dependent (TMD) evolution models and global phenomenological fits that utilize data from semi-inclusive deep-inelastic scattering and $e^+ e^-$ annihilation experiments?",
+        "response": {
+            "references": [
+                "John Collins | Fragmentation of transversely polarized quarks probed in transverse momentum distributions | 10.1016/0550-3213(93)90262-N",
+                "Mauro Anselmino | Simultaneous extraction of transversity and Collins functions | 10.1103/PhysRevD.87.094019",
+                "Alessandro Bacchetta | Semi-inclusive deep inelastic scattering at small transverse momentum | 10.1088/1126-6708/2007/02/093",
+                "Zhongbo Kang | Transverse momentum dependent evolution | 10.1103/PhysRevD.93.014009",
+                "Leonard Gamberg | Global QCD analysis of the transverse single spin asymmetry | 10.1103/PhysRevD.96.034009"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4310865054",
+        "model": "anthropic",
+        "question": "How have the historical discrepancies between laboratory measurements and theoretical calculations of the Fe XVII 3C-to-3D oscillator strength ratio evolved across different experimental platforms, and what are the broader implications of their recent reconciliation for the accuracy of astrophysical plasma diagnostics?",
+        "response": {
+            "references": [
+                "Sven Bernitt | An unexpectedly low oscillator strength as the origin of the Fe XVII emission problem | 10.1038/nature11627",
+                "Gregory Brown | Laboratory measurements and modeling of the Fe XVII X-ray spectrum | 10.1086/305875",
+                "Ming Chen | Configuration interaction effects on the 3C/3D line ratio in Fe XVII | 10.1103/PhysRevA.64.022506",
+                "Steffen Kuhn | High-resolution photoexcitation measurements exacerbate the long-standing Fe XVII oscillator strength problem | 10.1103/PhysRevLett.129.245001",
+                "Natalie Hell | Laboratory measurements of Fe XVII line ratios | 10.3847/0004-637X/830/1/26"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387011133",
+        "model": "anthropic",
+        "question": "How does the momentum-resolved wave-packet transport method for reconstructing Berry curvature in photonic lattices compare in resolution and applicability to alternative mapping techniques developed across electronic, cold-atom, and acoustic topological platforms?",
+        "response": {
+            "references": [
+                "Michael Rechtsman | Photonic Floquet topological insulators | 10.1038/nature12066",
+                "Tomoki Ozawa | Topological photonics | 10.1103/RevModPhys.91.015006",
+                "Ling Lu | Topological photonics | 10.1038/nphoton.2014.248",
+                "Marco Aidelsburger | Measuring the Chern number of Hofstadter bands with ultracold bosonic atoms | 10.1038/nphys3171",
+                "Di Xiao | Berry phase effects on electronic properties | 10.1103/RevModPhys.82.1959"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404345331",
+        "model": "anthropic",
+        "question": "How do the scalability, routing speeds, and error-mitigation capabilities of acoustic-phonon-based quantum random access memory (QRAM) compare to alternative optical and superconducting QRAM platforms documented in recent literature?",
+        "response": {
+            "references": [
+                "Vittorio Giovannetti | Quantum random access memory | 10.1103/PhysRevLett.100.160501",
+                "Connor Hann | Hardware-efficient quantum random access memory with hybrid quantum acoustic systems | 10.1103/PhysRevLett.123.250501",
+                "Yiwen Chu | Quantum acoustics with superconducting qubits | 10.1126/science.aao1511",
+                "Amir Safavi-Naeini | Optomechanics and the quantum internet | 10.1364/OPTICA.6.000213",
+                "Srivatsan Chakram | Seamless high-Q microwave cavities for multimode circuit quantum electrodynamics | 10.1103/PhysRevLett.127.107701"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7155844225",
+        "model": "anthropic",
+        "question": "How does the newly proposed framework of phonon-mediated polar-acoustic coupling in lead titanate compare with existing domain-wall and strain-engineering models in other perovskite oxides, and what are the collective implications of these mechanisms for the design of next-generation piezo-flexoelectric devices?",
+        "response": {
+            "references": [
+                "Karin Rabe | Physics of Ferroelectrics: A Modern Perspective | 10.1007/978-3-540-34591-6",
+                "Ramamoorthy Ramesh | Multiferroics and magnetoelectrics | 10.1038/nmat2069",
+                "Pavlo Zubko | Flexoelectric effect in solids | 10.1146/annurev-matsci-071312-121634",
+                "Jorge Iniguez | First-principles study of the multimode antiferrodistortive phase | 10.1103/PhysRevLett.101.117201",
+                "Gustau Catalan | Domain wall nanoelectronics | 10.1103/RevModPhys.84.119"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401024208",
+        "model": "anthropic",
+        "question": "How does the discovery of \"dipole spirals\" and associated dipolar Dzyaloshinskii-Moriya-like interactions in strained free-standing ferroelectric membranes redefine our broader understanding of chiral topological polar states and their dynamic piezoelectric responses compared to established behaviors in conventional bulk and superlattice ferroelectrics?",
+        "response": {
+            "references": [
+                "Igor Dzyaloshinsky | A thermodynamic theory of weak ferromagnetism of antiferromagnetics | 10.1016/0022-3697(58)90076-3",
+                "Anna Yadav | Observation of polar vortices in oxide superlattices | 10.1038/nature16463",
+                "Sujit Das | Observation of room-temperature polar skyrmions | 10.1038/s41586-019-1092-8",
+                "Gustau Catalan | Domain wall nanoelectronics | 10.1103/RevModPhys.84.119",
+                "Ramamoorthy Ramesh | Creating emergent phenomena in oxide superlattices | 10.1038/s41578-019-0095-2"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409219384",
+        "model": "anthropic",
+        "question": "How do various theoretical models of quantum surface responses compare with experimental measurements in explaining the influence of material anisotropy and crystal facets on the scaling and tunability of nanoscale Casimir forces?",
+        "response": {
+            "references": [
+                "Hendrik Casimir | On the attraction between two perfectly conducting plates | 10.1073/pnas.51.5.793",
+                "Steve Lamoreaux | Demonstration of the Casimir force in the 0.6 to 6 micrometers range | 10.1103/PhysRevLett.78.5",
+                "Umar Mohideen | Precision measurement of the Casimir force from 0.1 to 0.9 micrometers | 10.1103/PhysRevLett.81.4549",
+                "Antoine Canaguier-Durand | Thermal Casimir effect in the plane-sphere geometry | 10.1103/PhysRevLett.104.040403",
+                "Diego Dalvit | Casimir physics | 10.1007/978-3-642-20288-9"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4324100373",
+        "model": "anthropic",
+        "question": "How does the collective body of computational and experimental literature reconcile the predicted quantum-mechanical preference for proton-induced energy deposition on DNA sugar-phosphate backbones with observed macroscopic yields of single- and double-strand breaks across various radiotherapy modalities?",
+        "response": {
+            "references": [
+                "Boudewijn Boudaiffa | Resonant formation of DNA strand breaks by low-energy electrons | 10.1126/science.287.5458.1658",
+                "Harald Paganetti | Relative biological effectiveness values for proton beam therapy | 10.1016/j.ijrobp.2002.03.041",
+                "Leon Sanche | Low energy electron-driven damage in biomolecules | 10.1140/epjd/e2005-00093-9",
+                "Herwig Nikjoo | Track-structure codes in radiation research | 10.1016/j.radmeas.2006.02.001",
+                "David Goodhead | Initial events in the cellular effects of ionizing radiation | 10.1080/095530094114104"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402762993",
+        "model": "anthropic",
+        "question": "How do the theoretical predictions of pseudogap formation and momentum-selective Fermi surface destruction in the anisotropic triangular Hubbard model compare with experimental spectroscopic observations across different families of quasi-two-dimensional organic superconductors?",
+        "response": {
+            "references": [
+                "Kazushi Kanoda | Mott physics in organic conductors with triangular lattices | 10.1146/annurev-conmatphys-062910-140521",
+                "Ben Powell | Quantum frustration in organic Mott insulators | 10.1088/0034-4885/74/5/056501",
+                "Toshihiro Kawakami | Pseudogap and superconductivity in the two-dimensional Hubbard model | 10.1103/PhysRevB.98.014502",
+                "Thomas Maier | Systematic analysis of a spin-susceptibility representation | 10.1103/RevModPhys.77.1027",
+                "Andre-Marie Tremblay | Pseudogap and high-temperature superconductivity from weak to strong coupling | 10.1088/0953-8984/18/44/002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2956066593",
+        "model": "anthropic",
+        "question": "How do the engineering tolerances, material degradation risks, and plasma confinement properties of permanent-magnet-assisted stellarators compare to those of traditional modular-coil designs across recent computational and experimental feasibility studies?",
+        "response": {
+            "references": [
+                "Per Helander | Theory of plasma confinement in non-axisymmetric magnetic fields | 10.1088/0034-4885/77/8/087001",
+                "David Gates | Recommendations for the design of stellarators | 10.1088/1741-4326/aa5602",
+                "Thomas Klinger | Overview of first Wendelstein 7-X high-performance operation | 10.1088/1741-4326/ab03a7",
+                "Michael Zarnstorff | Physics of the compact advanced stellarator NCSX | 10.1088/0741-3335/43/12A/318",
+                "Caoxiang Zhu | New method to design stellarator coils without the winding surface | 10.1088/1741-4326/aa8e0a"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404983566",
+        "model": "anthropic",
+        "question": "What physical mechanisms\u2014such as spatially dependent cosmic-ray diffusion, unresolved source populations, or alternative interstellar gas distribution models\u2014are proposed across recent theoretical and observational literature to explain the spectral softening and TeV-to-PeV flux excesses observed in the diffuse Galactic gamma-ray emission relative to conventional local-spectrum templates?",
+        "response": {
+            "references": [
+                "Andrew Strong | Cosmic-ray propagation and interactions in the Galaxy | 10.1146/annurev.nucl.57.090506.123011",
+                "Markus Ackermann | Fermi-LAT observations of the diffuse gamma-ray emission | 10.1088/0004-637X/750/1/3",
+                "Rui-zhi Yang | Millennium-scale evolution of the Galactic diffuse emission | 10.1103/PhysRevD.93.123007",
+                "Kun Fang | Perspective on the cosmic-ray electron spectrum above TeV | 10.3847/1538-4357/abc68d",
+                "Zhen Cao | Measurement of ultra-high-energy diffuse gamma-ray emission of the Galactic plane | 10.1103/PhysRevLett.131.151001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3207826257",
+        "model": "anthropic",
+        "question": "How do the mechanisms and experimental signatures of interaction-induced higher-order topological transitions in few-particle two-dimensional systems compare across different quantum emulation platforms, such as superconducting qubits, photonic lattices, and ultracold atoms?",
+        "response": {
+            "references": [
+                "Wladimir Benalcazar | Quantized electric multipole insulators | 10.1126/science.aah6442",
+                "Frank Schindler | Higher-order topological insulators | 10.1126/sciadv.aat0346",
+                "Marc Serra-Garcia | Observation of a phononic quadrupole topological insulator | 10.1038/nature25156",
+                "Christopher Peterson | A quantized microwave quadrupole insulator with topologically protected corner states | 10.1038/nature25777",
+                "Sebabrata Mukherjee | Observation of nonlinear higher-order topological states | 10.1103/PhysRevLett.124.063901"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408054615",
+        "model": "anthropic",
+        "question": "How do the experimental proton-capture cross sections obtained via storage-ring techniques that suppress Rutherford scattering compare with traditional target-based measurements and statistical Hauser-Feshbach model predictions across the broader landscape of p-process nucleosynthesis research?",
+        "response": {
+            "references": [
+                "Marcel Arnould | The p-process of stellar nucleosynthesis | 10.1016/S0370-1573(03)00242-4",
+                "Jerome Rapp | Cross section measurements for p-process nucleosynthesis | 10.1103/PhysRevC.66.015803",
+                "Yuri Litvinov | Nuclear physics experiments with ion storage rings | 10.1016/j.nimb.2013.06.024",
+                "Wolfgang Hauser | The inelastic scattering of neutrons | 10.1103/PhysRev.87.366",
+                "Thomas Rauscher | Constraining the astrophysical origin of the p-nuclei | 10.1088/0034-4885/76/6/066201"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3031374581",
+        "model": "anthropic",
+        "question": "How do current astrophysical models of nucleosynthesis, supernova acceleration mechanisms, and interstellar propagation reconcile the newly identified division of primary cosmic rays into distinct He-C-O and Ne-Mg-Si spectral classes?",
+        "response": {
+            "references": [
+                "Oscar Adriani | An anomalous positron abundance in cosmic rays | 10.1038/nature07942",
+                "Andrew Strong | Cosmic-ray propagation and interactions in the Galaxy | 10.1146/annurev.nucl.57.090506.123011",
+                "Manuela Aguilar | Precision measurement of cosmic-ray helium flux | 10.1103/PhysRevLett.115.211101",
+                "Fiorenza Donato | Cosmic-ray nuclei spectra and secondary production | 10.1103/PhysRevD.69.063501",
+                "Pasquale Blasi | The origin of galactic cosmic rays | 10.1007/s00159-013-0070-7"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416113411",
+        "model": "anthropic",
+        "question": "How do the underlying nonlinear dynamics, stabilization techniques, and material platform properties compare across different experimental approaches to managing and synchronizing interleaved offset frequencies in integrated, multi-octave frequency combs?",
+        "response": {
+            "references": [
+                "Tobias J. Kippenberg | Microresonator-Based Optical Frequency Combs | 10.1126/science.1193968",
+                "Scott A. Diddams | Optical frequency combs: Coherently uniting the electromagnetic spectrum | 10.1126/science.aay3676",
+                "Daniel J. Jones | Carrier-Envelope Phase Control of Femtosecond Mode-Locked Lasers and Direct Optical Frequency Synthesis | 10.1126/science.288.5466.635",
+                "Alexander L. Gaeta | Photonic-chip-based frequency combs | 10.1038/s41566-019-0358-x",
+                "Pascal Del'Haye | Optical frequency comb generation from a monolithic microresonator | 10.1038/nature06401"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417035309",
+        "model": "anthropic",
+        "question": "How do non-Markovian reservoir dynamics influence the formation, topological classification, and potential quantum-technological applications of higher-order exceptional points across different physical platforms?",
+        "response": {
+            "references": [
+                "Mohammad-Ali Miri | Exceptional points in optics and photonics | 10.1126/science.aar7709",
+                "Ramy El-Ganainy | Non-Hermitian physics and PT symmetry | 10.1038/nphys4323",
+                "Emil J. Bergholtz | Exceptional topology of non-Hermitian systems | 10.1103/RevModPhys.93.015005",
+                "Hossein Hodaei | Enhanced sensitivity at higher-order exceptional points | 10.1038/nature23280",
+                "Weijian Chen | Exceptional points enhance sensing in an optical microcavity | 10.1038/nature23281"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3045875470",
+        "model": "anthropic",
+        "question": "How does the efficacy of Poisson spot diffraction in probing atom-surface dispersion forces compare with alternative matter-wave interferometry and grating diffraction techniques across various combinations of polarizable atomic species and nanostructured surface materials?",
+        "response": {
+            "references": [
+                "John D. Perreault | Observation of Atom Wave Phase Shifts Induced by Van Der Waals Atom-Surface Interactions | 10.1103/PhysRevLett.95.133201",
+                "Alexander D. Cronin | Optics and interferometry with atoms and molecules | 10.1103/RevModPhys.81.1051",
+                "Roberta Br\u00fchl | The van der Waals potential between metastable atoms and solid surfaces | 10.1209/epl/i2002-00559-8",
+                "Thomas Reisinger | Poisson's spot with molecules | 10.1103/PhysRevA.79.053823",
+                "V. P. A. Lonij | Atom Diffraction Reveals the Impact of Atomic Core Electrons on Atom-Surface Potentials | 10.1103/PhysRevLett.105.233202"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4213028282",
+        "model": "anthropic",
+        "question": "How do contemporary numerical simulations and alternative renormalization group treatments reconcile the discrepancy between the classical upper critical dimension of $D_U = 6$ derived from replica field theory and the newly proposed $D_U \\ge 8$ obtained via zero-temperature loop expansions around the Bethe lattice for spin glasses in an external field?",
+        "response": {
+            "references": [
+                "Marc M\u00e9zard | Spin Glass Theory and Beyond | 10.1142/0271",
+                "G. Parisi | Infinite Number of Order Parameters for Spin-Glasses | 10.1103/PhysRevLett.43.1754",
+                "A. P. Young | Numerical Studies of the Overlap in the Sherrington-Kirkpatrick Model | 10.1103/PhysRevLett.101.107203",
+                "Tommaso Rizzo | Replica field theory and the Ising spin glass in a magnetic field | 10.1103/PhysRevB.82.184203",
+                "Michele Castellana | The renormalization group for disordered systems | 10.1103/PhysRevLett.104.127206"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2981545675",
+        "model": "anthropic",
+        "question": "How do the mechanisms driving normal-superfluid phase coexistence and the anomalous absence of a critical point in pseudospin-half Bose gases with competing interactions compare to the phase separation dynamics and thermodynamic behaviors observed in other multicomponent quantum degenerate mixtures?",
+        "response": {
+            "references": [
+                "C. J. Myatt | Production of Two Overlapping Bose-Einstein Condensates by Sympathetic Cooling | 10.1103/PhysRevLett.78.586",
+                "Tin-Lun Ho | Binary Mixtures of Bose Condensates of Alkali Atoms | 10.1103/PhysRevLett.77.3276",
+                "D. S. Hall | Dynamics of Component Separation in a Binary Mixture of Bose-Einstein Condensates | 10.1103/PhysRevLett.81.1539",
+                "P. Ao | Binary Bose-Einstein condensate mixtures in weakly and strongly segregated phases | 10.1103/PhysRevA.58.4836",
+                "D. M. Stamper-Kurn | Spinor Bose gases: Symmetries, magnetism, and quantum dynamics | 10.1103/RevModPhys.85.1191"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7162508367",
+        "model": "anthropic",
+        "question": "How does the performance, resource efficiency, and noise resilience of reservoir-mediated nonreciprocity achieved via squeezing-induced symmetry breaking compare to alternative nonreciprocal mechanisms\u2014such as magnetic-free, coherent-coupling, or topological methods\u2014across various quantum technology platforms, particularly regarding its thermodynamic limits in quantum batteries and signal isolation in optical systems?",
+        "response": {
+            "references": [
+                "A. Metelmann | Nonreciprocal Photon Transmission and Amplification via Reservoir Engineering | 10.1103/PhysRevX.5.021025",
+                "K. Fang | Generalized non-reciprocity in an optomechanical circuit via synthetic magnetism and reservoir engineering | 10.1038/nphys3236",
+                "Zongping Gong | Quantum-battery based on squeezing | 10.1103/PhysRevLett.118.150601",
+                "N. R. Bernier | Nonreciprocal reconfigurable microwave optomechanical circuit | 10.1038/s41467-017-00447-1",
+                "Dario Poletti | Squeezing and nonreciprocity in quantum systems | 10.1103/PhysRevLett.120.150404"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3157244206",
+        "model": "anthropic",
+        "question": "How do the various theoretical frameworks and approximation methods developed for the central spin model compare in their predictions of nuclear spin squeezing and many-body entanglement in the limit of large spin baths?",
+        "response": {
+            "references": [
+                "W. A. Coish | Hyperfine interaction in a quantum dot: Non-Markovian electron spin dynamics | 10.1103/PhysRevB.70.195340",
+                "J. Schliemann | Electron spin dynamics in quantum dots and related nanostructures due to hyperfine interaction with nuclei | 10.1088/0953-8984/15/50/R01",
+                "Michael Kitagawa | Squeezed spin states | 10.1103/PhysRevA.47.5138",
+                "Anders S. S\u00f8rensen | Entanglement and quantum computation with ions in thermal motion | 10.1103/PhysRevA.62.022311",
+                "\u0141ukasz Cywi\u0144ski | Electron spin dephasing due to hyperfine interactions with a nuclear spin bath | 10.1103/PhysRevLett.102.057601"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391542601",
+        "model": "anthropic",
+        "question": "How does the proposed universal scaling parameter for orbital angular momentum mode coupling in atmospheric turbulence compare to alternative theoretical models of intermodal crosstalk across diverse scattering media, such as underwater channels and biological tissues, in the existing literature?",
+        "response": {
+            "references": [
+                "Alan E. Willner | Optical communications using orbital angular momentum beams | 10.1364/AOP.7.000066",
+                "Jaime A. Anguita | Turbulence-induced channel crosstalk in an orbital angular momentum-multiplexed free-space optical link | 10.1364/AO.47.002414",
+                "Martin P. J. Lavery | Free-space propagation of high-dimensional structured optical fields in an urban environment | 10.1126/sciadv.aaw9958",
+                "Baruch Rodenburg | Influence of atmospheric turbulence on states of light carrying orbital angular momentum | 10.1364/OL.37.003735",
+                "Yongxiong Ren | Atmospheric turbulence effects on the performance of a free space optical link employing orbital angular momentum multiplexing | 10.1364/OL.38.004062"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3135924264",
+        "model": "anthropic",
+        "question": "How do the emergent phase transitions and glassy dynamics observed in resource-depleting robotic swarms compare to the collective behaviors and spatial patterning of biological active matter systems, such as foraging bacterial colonies or social insect populations, interacting with dynamic environmental resource gradients?",
+        "response": {
+            "references": [
+                "Tam\u00e1s Vicsek | Collective motion | 10.1016/j.physrep.2012.03.004",
+                "M. C. Marchetti | Hydrodynamics of soft active matter | 10.1103/RevModPhys.85.1143",
+                "Iain D. Couzin | Collective memory and spatial sorting in animal groups | 10.1006/jtbi.2002.3065",
+                "Clemens Bechinger | Active particles in complex and crowded environments | 10.1103/RevModPhys.88.045006",
+                "Julia K. Parrish | Complexity, pattern, and evolutionary trade-offs in animal aggregation | 10.1126/science.284.5411.99"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3039379757",
+        "model": "anthropic",
+        "question": "How does the proposed universality of the entanglement entropy growth exponent $\\gamma_c \\approx 0.33$ at the many-body localization transition hold up when compared across different theoretical frameworks, system dimensionalities, and experimental realizations of long-range interacting disordered systems?",
+        "response": {
+            "references": [
+                "Rahul Nandkishore | Many-Body Localization and Thermalization in Quantum Statistical Mechanics | 10.1146/annurev-conmatphys-031214-014726",
+                "Dmitry A. Abanin | Colloquium: Many-body localization, thermalization, and entanglement | 10.1103/RevModPhys.91.021001",
+                "Jens H. Bardarson | Unbounded Growth of Entanglement in Models of Many-Body Localization | 10.1103/PhysRevLett.109.017202",
+                "Maksym Serbyn | Universal Slow Growth of Entanglement in Interacting Strongly Disordered Systems | 10.1103/PhysRevLett.110.260601",
+                "David J. Luitz | Many-body localization edge in the random-field Heisenberg chain | 10.1103/PhysRevB.91.081103"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385415324",
+        "model": "anthropic",
+        "question": "How do the background-reduction capabilities and signal-detection efficiencies of the newly identified $^{136}\\text{Cs}$ delayed-coincidence tagging technique compare to alternative active vetoing and isotopic tagging strategies utilized across different multi-ton liquid xenon detector architectures for solar neutrino and dark matter spectroscopy?",
+        "response": {
+            "references": [
+                "E. Aprile | Dark Matter Search Results from a One Ton-Year Exposure of XENON1T | 10.1103/PhysRevLett.121.111302",
+                "D. S. Akerib | The LUX-ZEPLIN (LZ) Experiment | 10.1016/j.nima.2019.163047",
+                "E. Aprile | The XENON1T Dark Matter Experiment | 10.1140/epjc/s10052-017-5326-3",
+                "J. Aalbers | A next-generation liquid xenon observatory for dark matter and neutrino physics | 10.1088/1361-6471/ac841a",
+                "E. Aprile | Observation of two-neutrino double electron capture in 124Xe with XENON1T | 10.1038/s41586-019-1124-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404694486",
+        "model": "anthropic",
+        "question": "To what extent have various simulation-based forward-modeling frameworks for optical galaxy cluster selection succeeded in reconciling the $\\Omega_m$ and $\\sigma_8$ tensions between cosmic microwave background measurements and large-scale structure surveys?",
+        "response": {
+            "references": [
+                "A. B. Mantz | Cosmology and astrophysics from relaxed galaxy clusters | 10.1093/mnras/stu368",
+                "M. Costanzi | Methods for cluster cosmology and application to the SDSS in preparation for DES Year 1 release | 10.1093/mnras/sty2681",
+                "T. M. C. Abbott | Dark Energy Survey Year 1 Results: Cosmological constraints from cluster abundances and weak lensing | 10.1103/PhysRevD.102.023509",
+                "N. Aghanim | Planck 2018 results. VI. Cosmological parameters | 10.1051/0004-6361/201833910",
+                "Eduardo Rozo | Cosmological Constraints from the Sloan Digital Sky Survey maxBCG Cluster Catalog | 10.1088/0004-637X/708/1/645"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414038165",
+        "model": "anthropic",
+        "question": "How do the coherence improvements and control-sequence simplifications of the proposed singlet-only always-on gapless exchange (SAGE) qubit compare to other decoherence-free subspace and leakage-mitigated spin qubit architectures across different semiconductor quantum dot platforms?",
+        "response": {
+            "references": [
+                "Daniel Loss | Quantum computation with quantum dots | 10.1103/PhysRevA.57.120",
+                "J. R. Petta | Coherent Manipulation of Coupled Electron Spins in Semiconductor Quantum Dots | 10.1126/science.1116955",
+                "J. Levy | Universal Quantum Computation with Spin-1/2 Pairs and Heisenberg Exchange | 10.1103/PhysRevLett.89.147902",
+                "D. A. Lidar | Decoherence-Free Subspaces for Quantum Computation | 10.1103/PhysRevLett.81.2594",
+                "J. M. Taylor | Fault-tolerant architecture for quantum computation using electrically controlled semiconductor spins | 10.1038/nphys174"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416326253",
+        "model": "anthropic",
+        "question": "How does the functional balance between intracellular mechanical coupling and extracellular hydrodynamic interactions in eukaryotic ciliary synchronization vary across different species and organizational scales, from single-cell biflagellates to multicellular tissues exhibiting metachronal coordination?",
+        "response": {
+            "references": [
+                "Douglas R. Brumley | Hydrodynamic synchronization and metachronal waves on the surface of the colonial alga Volvox carteri | 10.1103/PhysRevLett.109.268102",
+                "Marco Polin | Chlamydomonas Swims with Two Gears in a Eukaryotic Version of Run-and-Tumble Locomotion | 10.1126/science.1172667",
+                "Raymond E. Goldstein | Emergence of Synchronized Beating during the Regrowth of Eukaryotic Flagella | 10.1103/PhysRevLett.107.148103",
+                "Kirsty Y. Wan | Coordinated beating of algal flagella is mediated by basal coupling | 10.1073/pnas.1518527113",
+                "Nicolas Uchida | Synchronization and Collective Dynamics in a Carpet of Microfluidic Rotors | 10.1103/PhysRevLett.104.178103"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4285029287",
+        "model": "anthropic",
+        "question": "How does the experimental performance and logical error suppression of the distance-three surface code demonstrated on superconducting processors compare with alternative quantum error correction codes and physical hardware platforms striving toward fault-tolerant quantum computing?",
+        "response": {
+            "references": [
+                "Rajeev Acharya | Suppressing quantum errors by scaling a surface code logical qubit | 10.1038/s41586-022-05434-1",
+                "Sebastian Krinner | Realizing repeated quantum error correction in a distance-three surface code | 10.1038/s41586-022-04566-8",
+                "Austin G. Fowler | Surface codes: Towards practical large-scale quantum computation | 10.1103/PhysRevA.86.032324",
+                "Zijun Chen | Exponential suppression of bit or phase errors with cyclic error correction | 10.1038/s41586-021-03588-y",
+                "C. Ryan-Anderson | Realization of Real-Time Fault-Tolerant Quantum Error Correction | 10.1103/PhysRevX.11.041058"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405108295",
+        "model": "anthropic",
+        "question": "How do emergent strategies in multiorbital band engineering, such as interorbital self-doping and interband pairing, compare with traditional dimensional-crossover and structural-tuning approaches in overcoming quantum fluctuations to stabilize high-temperature superconductivity in quasi-one-dimensional materials?",
+        "response": {
+            "references": [
+                "Kazushi Aoyama | Superconductivity in quasi-one-dimensional systems | 10.1103/PhysRevB.100.075150",
+                "J. G. Bednorz | Possible high Tc superconductivity in the Ba-La-Cu-O system | 10.1007/BF01303701",
+                "Elena Bascones | Multiorbital physics in iron superconductors | 10.1088/1361-648X/a... ",
+                "P. Dai | Antiferromagnetic order and spin dynamics in iron-based superconductors | 10.1103/RevModPhys.87.855",
+                "D. J\u00e9rome | Organic superconductors: from (TMTSF)2PF6 to fullerenes | 10.1002/9783527618637"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4376107228",
+        "model": "anthropic",
+        "question": "To what extent do recent theoretical models and experimental observations across various graphene-based multilayers support the stabilization of unconventional spin-triplet or exotic charge-4e superconducting phases through the tuning of spin-orbit coupling and magnetic fields?",
+        "response": {
+            "references": [
+                "Yuan Cao | Unconventional superconductivity in magic-angle graphene superlattices | 10.1038/nature26160",
+                "Zeyu Hao | Electric field tunable superconductivity in alternating twist magic-angle trilayer graphene | 10.1126/science.abg0399",
+                "Haoxin Zhou | Isospin magnetism and spin-polarized superconductivity in Bernal bilayer graphene | 10.1126/science.abm8386",
+                "Yiran Zhang | Enhanced superconductivity in spin-orbit proximitized bilayer graphene | 10.1038/s41586-023-05967-z",
+                "Erez Berg | Charge-4e superconductivity from pair-density-wave order | 10.1038/nphys1926"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4319078015",
+        "model": "anthropic",
+        "question": "To what extent do empirical studies of transient surface-charge equilibration across diverse solid-liquid interfaces support the theoretical prediction of Coulombic autocatalytic feedback during multi-ion adsorption reactions?",
+        "response": {
+            "references": [
+                "Bhavya Balu | Electrochemistry at solid-liquid interfaces | 10.1021/acs.chemrev.9b00301",
+                "David J. Barlow | The electrical double layer | 10.1016/0001-8686(90)80047-3",
+                "S. H. Behrens | The charge of glass and silica surfaces | 10.1063/1.1404988",
+                "Michael W\u00fchrer | Charge regulation at solid-liquid interfaces | 10.1021/la9909305",
+                "Lyderic Bocquet | Nanofluidics, from bulk to interfaces | 10.1039/b909366b"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3024514575",
+        "model": "anthropic",
+        "question": "How do the coupled thermal and solutal Marangoni propulsion mechanisms of interface-adsorbed Janus particles compare in efficiency, velocity scaling, and controllability across the diverse fluid-fluid boundaries and surfactant chemistries documented in recent active matter literature?",
+        "response": {
+            "references": [
+                "J\u00e9r\u00e9mie Palacci | Living Crystals of Light-Activated Colloidal Surfers | 10.1126/science.1230020",
+                "Ramin Golestanian | Propulsion of a molecular machine by asymmetric distribution of reaction products | 10.1103/PhysRevLett.94.220801",
+                "Walter F. Paxton | Catalytic Nanomotors: Autonomous Movement of Striped Nanorods | 10.1021/ja047697z",
+                "Antoine Aubret | Targeted assembly and synchronization of self-spinning microgears | 10.1038/s41567-018-0227-4",
+                "Xu Wang | Marangoni surfers | 10.1017/jfm.2020.869"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409479386",
+        "model": "anthropic",
+        "question": "How do emerging models of actin-polymerization-driven, motor-independent cell migration reconcile with traditional adhesion- and motor-dependent mechanisms across diverse extracellular environments and cell types in recent literature?",
+        "response": {
+            "references": [
+                "Thomas L\u00e4mmermann | Rapid leukocyte migration by integrin-independent flowing and squeezing | 10.1038/nature06887",
+                "R. J. Petrie | Random versus directionally persistent cell migration | 10.1038/nrm2729",
+                "Peter Friedl | Plasticity of cell migration: a multiscale tuning model | 10.1083/jcb.200909003",
+                "Verena Ruprecht | Cortical contractility triggers a stochastic switch to fast amoeboid cell motility | 10.1016/j.cell.2015.01.008",
+                "Yuan-Hung Chao | Physical limits of cell migration | 10.1091/mbc.e17-01-0057"
+            ]
+        }
+    }
+]
