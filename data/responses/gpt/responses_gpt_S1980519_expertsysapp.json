@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W4320896688",
+        "model": "gpt",
+        "question": "How do current multimessenger constraints from IceCube follow-ups of LIGO\u2013Virgo gravitational-wave events, together with theoretical models of compact-object merger outflows and previous neutrino non-detections, shape our understanding of the conditions under which neutron-star and black-hole mergers can produce detectable high-energy neutrino emission?",
+        "response": {
+            "references": [
+                "Mark G. Aartsen | Multimessenger Search for Sources of Gravitational Waves and High-energy Neutrinos: Initial Results for LIGO-Virgo and IceCube | 10.1103/PhysRevD.90.102002",
+                "Mark G. Aartsen | The IceCube Neutrino Observatory: searches for neutrinos from GRB prompt and afterglow phases | 10.3847/1538-4357/834/1/52",
+                "Antonio Albert | Search for High-energy Neutrinos from Binary Neutron Star Merger GW170817 with ANTARES, IceCube, and the Pierre Auger Observatory | 10.3847/2041-8213/aa9aed",
+                "Shigeo S. Kimura | High-energy neutrino emission from short gamma-ray bursts: Prospects for coincidence with gravitational waves | 10.1103/PhysRevD.98.043020",
+                "Ke Fang | High-Energy Neutrinos from Millisecond Magnetars Formed from the Merger of Binary Neutron Stars | 10.3847/2041-8213/aa8b6a"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3003715657",
+        "model": "gpt",
+        "question": "How do CME kinematics and geometry, shock Mach number evolution, magnetic connectivity, and flare/eruption-associated seed particle release collectively determine whether fast and wide CMEs produce observable >20 MeV SEP events across multi-spacecraft heliospheric observations?",
+        "response": {
+            "references": [
+                "Alexis P. Rouillard | The Longitudinal Properties of a Solar Energetic Particle Event Investigated Using Modern Solar Imaging | 10.1088/0004-637X/752/1/44",
+                "David Lario | Longitudinal and Radial Dependence of Solar Energetic Particle Peak Intensities: STEREO, ACE, SOHO, GOES, and MESSENGER Observations | 10.1088/0004-637X/767/1/41",
+                "Athanasios Kouloumvakos | Connecting the properties of coronal shock waves with those of solar energetic particle events | 10.1051/0004-6361/201424397",
+                "Natchimuthuk Gopalswamy | The First Ground Level Enhancement Event of Solar Cycle 24: Direct Observation of Shock Formation and Particle Release Heights | 10.1088/2041-8205/765/2/L30",
+                "Mihir Desai | Properties of Interplanetary Shocks and Solar Energetic Particle Events | 10.1007/s11214-016-0291-5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394924449",
+        "model": "gpt",
+        "question": "How do data-driven abundance inferences from medium-resolution Gaia RVS spectra, high-resolution spectroscopic studies of solar twins, and exoplanet host demographic surveys collectively constrain whether refractory-element depletion in Sun-like stars is causally linked to terrestrial or giant planet formation rather than to Galactic chemical evolution, stellar age, or selection effects?",
+        "response": {
+            "references": [
+                "Alejandra Recio-Blanco | Gaia Data Release 3: Chemical cartography of the Milky Way | 10.1051/0004-6361/202243511",
+                "Jorge Mel\u00e9ndez | The Peculiar Solar Composition and Its Possible Relation to Planet Formation | 10.1088/0004-637X/704/1/L66",
+                "Poul Erik Nissen | High-precision abundances of elements in solar twin stars | 10.1051/0004-6361/201526269",
+                "Megan Bedell | The Chemical Homogeneity of Sun-like Stars in the Solar Neighborhood | 10.3847/1538-4357/aad908",
+                "Lorenzo Spina | Chemical evidence for planetary ingestion in a quarter of Sun-like stars | 10.1038/s41550-021-01380-8"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391670627",
+        "model": "gpt",
+        "question": "How do differing treatments of the extragalactic DM\u2013redshift relation, telescope selection functions, and intrinsic FRB energy and redshift distributions across CHIME/FRB and well-localized FRB studies affect conclusions about whether the FRB volumetric rate traces cosmic star formation history or requires additional evolutionary channels?",
+        "response": {
+            "references": [
+                "Jean-Pierre Macquart | A census of baryons in the Universe from localized fast radio bursts | 10.1038/s41586-020-2300-2",
+                "Takuya Hashimoto | No redshift evolution of non-repeating fast radio burst rates | 10.1093/mnras/staa249",
+                "Kiyoshi Shin | Inferring the Energy and Distance Distributions of Fast Radio Bursts Using the First CHIME/FRB Catalog | 10.3847/1538-4357/acaf06",
+                "Clancy W. James | The fast radio burst population evolves, consistent with the star formation rate | 10.1093/mnras/stac2524",
+                "Wei Deng | Cosmological Implications of Fast Radio Burst/Gamma-Ray Burst Associations | 10.1088/2041-8205/783/2/L35"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225000992",
+        "model": "gpt",
+        "question": "How do current simultaneous optical\u2013radio non-detections of repeating FRBs, including the deep Tomo-e Gozen/FAST limits for FRB 20190520B, compare with prior multiwavelength constraints and theoretical emission models to delimit the allowed parameter space for prompt optical counterparts produced by magnetospheric inverse Compton scattering or magnetar blastwave interactions?",
+        "response": {
+            "references": [
+                "Liam K. Hardy | A search for optical bursts from the repeating fast radio burst FRB 121102 | 10.1093/mnras/stx2153",
+                "Victoria M. Kaspi | Simultaneous X-Ray, Gamma-Ray, and Radio Observations of the Repeating Fast Radio Burst FRB 121102 | 10.3847/1538-4357/aa8456",
+                "Victor A. Acciari | Constraining very-high-energy and optical emission from FRB 121102 with the MAGIC telescopes | 10.1093/mnras/staa1391",
+                "Yuan-Pei Yang | On Possible Optical Counterparts of Fast Radio Bursts | 10.3847/1538-4357/aa8723",
+                "Brian D. Metzger | Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves | 10.1093/mnras/stz700"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4319591860",
+        "model": "gpt",
+        "question": "How do multiwavelength observational signatures of spectral state transitions in blazars such as OT 081 compare with those in Galactic black hole binaries, and what do these similarities and differences imply about a scale-invariant corona\u2013jet coupling paradigm across black hole systems?",
+        "response": {
+            "references": [
+                "Rob P. Fender | Towards a unified model for black hole X-ray binary jets | 10.1111/j.1365-2966.2004.07774.x",
+                "Andrea Merloni | A Fundamental Plane of black hole activity | 10.1046/j.1365-8711.2003.06598.x",
+                "Heino Falcke | A scheme to unify low-power accreting black holes. Jet-dominated accretion flows and the radio/X-ray correlation | 10.1051/0004-6361:20031683",
+                "Alan P. Marscher | Observational evidence for the accretion-disk origin for a radio jet in an active galaxy | 10.1038/417625a",
+                "Ritaban Chatterjee | Disk-jet connection in the radio galaxy 3C 120 | 10.1038/nature08541"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3138992703",
+        "model": "gpt",
+        "question": "How do observations and models across multiple filament-eruption events support or challenge the roles of tether-cutting reconnection, magnetic flux-rope twist accumulation, and helical kink instability in driving the transition from confined filament reconfiguration to fast coronal mass ejection eruption?",
+        "response": {
+            "references": [
+                "Ronald L. Moore | Onset of the Magnetic Explosion in Solar Flares and Coronal Mass Ejections | 10.1086/320559",
+                "Tibor T\u00f6r\u00f6k | Confined and Ejective Eruptions of Kink-unstable Flux Ropes | 10.1086/462412",
+                "Yuhong Fan | Onset of Coronal Mass Ejections Due to Loss of Confinement of Coronal Flux Ropes | 10.1086/521335",
+                "Haisheng Ji | Failed Filament Eruptions and Kink Instability | 10.1086/378178",
+                "Chang Liu | A successful eruption of a magnetic flux rope in the solar corona | 10.1038/nphys703"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3134057496",
+        "model": "gpt",
+        "question": "How do analytic and simulation-based treatments of the halo splashback boundary, excursion-set diffusion, and cosmology-dependent mass accretion histories collectively explain the redshift evolution of the splashback mass function and its potential use as an independent constraint on primordial cosmological parameters?",
+        "response": {
+            "references": [
+                "Benedikt Diemer | Dependence of the Outer Density Profiles of Halos on Their Mass Accretion Rate | 10.1088/0004-637X/789/1/1",
+                "Sownak Bose Adhikari | Splashback in accreting dark matter halos | 10.1088/0004-637X/799/1/9",
+                "Surhud More | The Splashback Radius as a Physical Halo Boundary and the Growth of Halo Mass | 10.1088/0004-637X/810/1/36",
+                "Michele Maggiore | The halo mass function from the excursion set method. I. Gaussian fluctuations with non-Markovian dependence on the smoothing scale | 10.1088/1475-7516/2010/05/010",
+                "Pier Stefano Corasaniti | Toward a universal formula for the halo mass function | 10.1103/PhysRevD.84.023009"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405212617",
+        "model": "gpt",
+        "question": "How do theoretical predictions and observational constraints from black hole polarimetric imaging, GRMHD simulations of MAD/SANE accretion flows, photon-ring lensing studies, and EHT/ngEHT/BHEX sensitivity analyses collectively determine the feasibility of detecting lensing-dominated linear and circular polarization signatures in M87* across ground and Earth-space interferometric baselines?",
+        "response": {
+            "references": [
+                "Kazunori Akiyama | First M87 Event Horizon Telescope Results. VII. Polarization of the Ring | 10.3847/2041-8213/abe71d",
+                "Kazunori Akiyama | First M87 Event Horizon Telescope Results. VIII. Magnetic Field Structure near The Event Horizon | 10.3847/2041-8213/abe4de",
+                "Michael D. Johnson | Universal interferometric signatures of a black hole\u2019s photon ring | 10.1126/sciadv.aaz1310",
+                "Elizabeth Himwich | Universal polarimetric signatures of the black hole photon ring | 10.1103/PhysRevD.101.084020",
+                "Daniel C. M. Palumbo | Discriminating Accretion States via Rotational Symmetry in Simulated Polarimetric Images of M87 | 10.3847/1538-4357/ab86ac"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4306180666",
+        "model": "gpt",
+        "question": "How do the spectral hardening during flares, the \u223c0.9 keV emission-line complexes attributed to winds, and the observed luminosity\u2013temperature relation in NGC 4395 ULX1 compare with multi-epoch studies of other ULXs to constrain whether its variability is primarily driven by super-Eddington accretion-rate changes, slim-disk evolution, or clumpy disk winds?",
+        "response": {
+            "references": [
+                "Jean-Marie Gladstone | The ultraluminous state | 10.1111/j.1365-2966.2009.15375.x",
+                "Ciro Pinto | Ultrafast outflows in ultraluminous X-ray sources | 10.1038/nature17417",
+                "Jari J. E. Kajava | Spectral evolution of ultraluminous X-ray sources | 10.1111/j.1365-2966.2009.14505.x",
+                "Andrew D. Sutton | The ultraluminous state revisited: fractional variability and spectral shape as diagnostics | 10.1093/mnras/stt141",
+                "Juri Poutanen | Supercritically accreting stellar mass black holes as ultraluminous X-ray sources | 10.1111/j.1365-2966.2007.11668.x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4393118748",
+        "model": "gpt",
+        "question": "How do chameleon dark energy models with dark-sector coupling compare across recent CMB, BAO, supernova, and local \\(H_0\\) analyses to other interacting dark energy or modified-gravity scenarios in explaining DESI-indicated phantom crossing, alleviating cosmological tensions, and improving Bayesian or information-criterion evidence relative to \\(\\Lambda\\)CDM?",
+        "response": {
+            "references": [
+                "DESI Collaboration | DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations | 10.48550/arXiv.2404.03002",
+                "Nabila Aghanim | Planck 2018 results. VI. Cosmological parameters | 10.1051/0004-6361/201833910",
+                "Dillon Brout | The Pantheon+ Analysis: Cosmological Constraints | 10.3847/1538-4357/ac8e04",
+                "Adam G. Riess | A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s\u22121 Mpc\u22121 Uncertainty from the Hubble Space Telescope and the SH0ES Team | 10.3847/2041-8213/ac5c5b",
+                "Justin Khoury | Chameleon Fields: Awaiting Surprises for Tests of Gravity in Space | 10.1103/PhysRevLett.93.171104"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4362554369",
+        "model": "gpt",
+        "question": "How do wavelength-dependent surface albedo retrieval frameworks for directly imaged terrestrial exoplanets compare across the literature in their ability to distinguish biogenic spectral edges, such as Earth\u2019s vegetation red edge, from confounding atmospheric, cloud, mineral, and instrumental effects?",
+        "response": {
+            "references": [
+                "Nicolas B. Cowan | Alien Maps of an Ocean-bearing World | 10.1088/0004-637X/700/2/915",
+                "Yuka Fujii | Colors of a Second Earth: Estimating the Fractional Areas of Ocean, Land, and Vegetation of Earth-like Exoplanets | 10.1088/0004-637X/738/2/184",
+                "Sara Seager | Vegetation's Red Edge: A Possible Spectroscopic Biosignature of Extraterrestrial Plants | 10.1089/ast.2005.5.372",
+                "Siddharth Hegde | Surface biosignatures of exo-Earths: Remote detection of extraterrestrial life | 10.1073/pnas.1421237112",
+                "Tyler D. Robinson | Detecting Oceans on Exoplanets Using the Glint Effect | 10.1088/0004-637X/741/1/51"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3209679018",
+        "model": "gpt",
+        "question": "How do turbulence driving modes, plasma beta, and turbulent Mach number jointly regulate shock statistics and turbulent energy dissipation across astrophysical plasmas such as the ISM and ICM, as inferred from numerical simulations, observations, and theoretical models of magnetized turbulence?",
+        "response": {
+            "references": [
+                "Christoph Federrath | Comparing the statistics of interstellar turbulence in simulations and observations. Solenoidal versus compressive turbulence forcing | 10.1051/0004-6361/201014555",
+                "Christoph Federrath | Mach number dependence of turbulent magnetic-field amplification: Solenoidal versus compressive flows | 10.1103/PhysRevLett.107.114504",
+                "Alexei G. Kritsuk | The Statistics of Supersonic Isothermal Turbulence | 10.1086/524005",
+                "James M. Stone | Dissipation in Compressible Magnetohydrodynamic Turbulence | 10.1086/305180",
+                "Blakesley Burkhart | Observational Studies of Magnetohydrodynamic Turbulence in the Small Magellanic Cloud | 10.1088/0004-637X/693/1/250"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4200338967",
+        "model": "gpt",
+        "question": "How do particle acceleration and transport mechanisms in null-point magnetic reconnection during coronal jets compare across MHD test-particle simulations, flare ribbon observations, and in-situ heliospheric particle measurements in explaining spatially separated proton and electron precipitation and beam formation?",
+        "response": {
+            "references": [
+                "Etienne Pariat | A Model for Solar Polar Jets | 10.1088/0004-637X/691/1/61",
+                "S. Dalla | Particle acceleration at a three-dimensional reconnecting magnetic separator | 10.1051/0004-6361:200809771",
+                "Sophie Masson | The Nature of Flare Ribbons in Coronal Null-Point Topology | 10.1088/0004-637X/700/1/559",
+                "Peter F. Wyper | A universal model for solar eruptions | 10.1038/nature22050",
+                "Radoslav Bu\u010d\u00edk | 3He-rich Solar Energetic Particles in Helical Jets on the Sun | 10.3847/2041-8213/aab479"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414777503",
+        "model": "gpt",
+        "question": "How do high-resolution 3D dust maps based on deep optical\u2013near-infrared stellar photometry, such as the DECaPS map of the southern Galactic plane, compare with Gaia-based, infrared-emission-based, and earlier Bayesian extinction maps in resolving spiral-arm structure, constraining Galactic star formation environments, and correcting extinction across the full Milky Way disk?",
+        "response": {
+            "references": [
+                "Edward F. Schlafly | The DECam Plane Survey: Optical and Near-infrared Photometry of the Southern Galactic Plane | 10.3847/1538-4365/aaa3e2",
+                "Gregory M. Green | A 3D Dust Map Based on Gaia, Pan-STARRS 1, and 2MASS | 10.3847/1538-4357/ab5362",
+                "R\u00e9mi Lallement | Gaia-2MASS 3D maps of Galactic interstellar dust within 3 kpc | 10.1051/0004-6361/201834695",
+                "David J. Schlegel | Maps of Dust Infrared Emission for Use in Estimation of Reddening and Cosmic Microwave Background Radiation Foregrounds | 10.1086/305772",
+                "Douglas J. Marshall | Modelling the Galactic interstellar extinction distribution in three dimensions | 10.1051/0004-6361:20053842"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408990833",
+        "model": "gpt",
+        "question": "How do differences in filament-identification algorithms, redshift-space distortion treatments, viewing-angle selection criteria, and filament dynamical properties across observational and simulation studies affect the robustness and physical interpretation of reported spin signals in cosmic web filaments?",
+        "response": {
+            "references": [
+                "Peng Wang | Possible observational evidence for cosmic filament spin | 10.1038/s41550-021-01380-6",
+                "Thierry Sousbie | The persistent cosmic web and its filamentary structure \u2013 I. Theory and implementation | 10.1111/j.1365-2966.2011.19322.x",
+                "Marius Cautun | The NEXUS and NEXUS+ algorithms for identifying the cosmic web: tracing filaments, walls and clusters in the galaxy distribution | 10.1093/mnras/stt1417",
+                "Sandrine Codis | Connecting the cosmic web to the spin of dark haloes: implications for galaxy formation | 10.1093/mnras/stv231",
+                "Elmo Tempel | Galaxy spin alignment in filaments and sheets: observational evidence | 10.1088/2041-8205/775/2/L42"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4396804458",
+        "model": "gpt",
+        "question": "How do mode switching, emission-height variations, and frequency-dependent spectral-index distributions in PSR J0614+2229 compare with those observed in other mode-changing pulsars, and what do these comparisons imply about the magnetospheric mechanisms governing pulsar emission-state transitions?",
+        "response": {
+            "references": [
+                "Na Wang | Pulsar nulling and mode changing | 10.48550/arXiv.0703.0988",
+                "Andrew G. Lyne | Switched Magnetospheric Regulation of Pulsar Spin-Down | 10.1126/science.1186683",
+                "Wim Hermsen | Synchronous X-ray and Radio Mode Switches: A Rapid Global Transformation of the Pulsar Magnetosphere | 10.1126/science.1230960",
+                "Joanna M. Rankin | Toward an empirical theory of pulsar emission. I. Morphological taxonomy | 10.1086/161754",
+                "Patrick Weltevrede | The subpulse modulation properties of pulsars at 21 cm | 10.1051/0004-6361:20053088"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3123887781",
+        "model": "gpt",
+        "question": "How do nonlinear torsional Alfv\u00e9n-wave cascades, shock formation, density contrast, plasma-\u03b2, and field-aligned flow shear jointly regulate energy dissipation, coronal heating, observability of solar jets at different heights, and solar-wind acceleration across theoretical, numerical, and observational studies?",
+        "response": {
+            "references": [
+                "Takashi Kudoh | Alfv\u00e9n Wave Model of Spicules and Coronal Heating | 10.1086/306867",
+                "Patrick Antolin | The Role of Torsional Alfv\u00e9n Waves in Coronal Heating | 10.1088/0004-637X/712/1/494",
+                "Steven R. Cranmer | On the Generation, Propagation, and Reflection of Alfv\u00e9n Waves from the Solar Photosphere to the Distant Heliosphere | 10.1086/426507",
+                "Takahiro Matsumoto | Connecting the Sun and the solar wind: the first 2.5-dimensional self-consistent MHD simulation under the Alfv\u00e9n wave scenario | 10.1093/mnras/stu310",
+                "Norbert Magyar | Turbulent decay of Alfv\u00e9n waves in the solar corona | 10.1038/s41598-017-13660-1"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392110199",
+        "model": "gpt",
+        "question": "How do observations and simulations of high-redshift protoclusters compare in explaining the relative roles of dry major mergers, environmental quenching, and cluster-core assembly in the early formation of brightest cluster galaxies like the quiescent pair in BOSS1244 at \\(z \\approx 2.24\\)?",
+        "response": {
+            "references": [
+                "Robert A. Overzier | The realm of the galaxy protoclusters | 10.1007/s00159-016-0100-3",
+                "Yi-Kuan Chiang | Tracing the Fate of the Most Massive Structures in the Universe with Cosmological Simulations | 10.1088/0004-637X/779/2/127",
+                "Caitlin M. Casey | A Massive, Distant Protocluster at z = 2.47 Caught in a Phase of Rapid Formation | 10.3847/0004-637X/827/2/115",
+                "Tao Wang | Discovery of a Galaxy Cluster with a Violently Starbursting Core at z = 2.506 | 10.3847/2041-8205/828/2/L21",
+                "Gabriella De Lucia | The formation history of elliptical galaxies | 10.1111/j.1365-2966.2005.09879.x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3217025167",
+        "model": "gpt",
+        "question": "How do methanol abundances and formation pathways across varying galactocentric radii, metallicities, cloud densities, and temperatures compare with those of other complex organic molecules, and what do these trends imply for refining models of the Galactic Habitable Zone?",
+        "response": {
+            "references": [
+                "Naoki Watanabe | Efficient Formation of Formaldehyde and Methanol by the Addition of Hydrogen Atoms to CO in H2O-CO Ice at 10 K | 10.1086/340586",
+                "Robin T. Garrod | Formation of methyl formate and other organic species in the warm-up phase of hot molecular cores | 10.1051/0004-6361:20065560",
+                "Takashi Shimonishi | The detection of a hot molecular core in the Large Magellanic Cloud with ALMA | 10.3847/2041-8205/827/2/L25",
+                "Karin I. \u00d6berg | The Spitzer Ice Legacy: Ice Evolution from Cores to Protostars | 10.1088/0004-637X/740/2/109",
+                "Nikos Prantzos | On the \u201cGalactic Habitable Zone\u201d | 10.1007/s10509-007-9557-5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406629820",
+        "model": "gpt",
+        "question": "How do radial variations in the age\u2013velocity dispersion relations of thin- and thick-disk stars inferred from LAMOST\u2013Gaia red clump samples compare with theoretical and observational evidence for disk heating by giant molecular clouds, spiral structure, radial migration, inside-out/upside-down formation, and merger perturbations such as Sagittarius?",
+        "response": {
+            "references": [
+                "Jianrong Yu | The age\u2013velocity dispersion relation of the Galactic disc from LAMOST-Gaia data | 10.1093/mnras/stx3204",
+                "Colin G. Lacey | Disc heating in the Galaxy | 10.1093/mnras/208.4.687",
+                "Adrian Jenkins | Secular heating of galactic discs | 10.1093/mnras/245.3.305",
+                "Ivan Minchev | A new chemo-dynamical model of the Milky Way disc: the origin of the thick disc | 10.1051/0004-6361/201220189",
+                "Teresa Antoja | A dynamically young and perturbed Milky Way disk | 10.1038/s41586-018-0510-7"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404376640",
+        "model": "gpt",
+        "question": "How do laboratory rotational spectroscopy data for sulfur- and nitrogen-bearing alkynyl molecules, together with astrochemical models and prior molecular-line surveys of sources such as Sgr B2(N), NGC 6334I, G+0.693\u22120.027, and TMC-1, constrain the formation pathways, expected abundances, and detectability of HCCSCN in interstellar environments?",
+        "response": {
+            "references": [
+                "Brett A. McGuire | 2021 Census of Interstellar, Circumstellar, Extragalactic, Protoplanetary Disk, and Exoplanetary Molecules | 10.3847/1538-4365/ac2a48",
+                "Arnaud Belloche | Detection of a branched alkyl molecule in the interstellar medium: iso-propyl cyanide | 10.1126/science.1256678",
+                "Brett A. McGuire | Detection of the aromatic molecule benzonitrile (c-C6H5CN) in the interstellar medium | 10.1126/science.aao4890",
+                "Robin T. Garrod | A Three-phase Chemical Model of Hot Cores: The Formation of Glycine | 10.1088/0004-637X/765/1/60",
+                "Shaoshan Zeng | Complex organic molecules in the Galactic Centre: the N-bearing family | 10.1093/mnras/sty1174"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399856585",
+        "model": "gpt",
+        "question": "How do atmospheric retrievals and global circulation models across irradiated brown dwarfs and hot/ultra-hot Jupiters reconcile observed phase-dependent temperature inversions, H\u207b opacity, and viewing-geometry effects in shaping dayside\u2013nightside spectral contrasts?",
+        "response": {
+            "references": [
+                "Jacob Arcangeli | H\u2212 Opacity and Water Dissociation in the Dayside Atmosphere of the Very Hot Gas Giant WASP-18b | 10.3847/2041-8213/aacbd4",
+                "Joshua D. Lothringer | The Influence of Thermal Dissociation and H\u2212 Opacity on the Spectra of Ultra-hot Jupiters | 10.3847/1538-4357/aad032",
+                "Vivien Parmentier | From thermal dissociation to condensation in the atmospheres of ultra hot Jupiters: WASP-121b in context | 10.1051/0004-6361/201833059",
+                "Thomas Mikal-Evans | Diurnal variations in the stratosphere of the ultrahot giant exoplanet WASP-121b | 10.1038/s41550-021-01592-w",
+                "Thomas G. Beatty | Spitzer Phase Curves of KELT-1b and the Signatures of Nightside Clouds in the Thermal Emission of Hot Jupiters | 10.3847/1538-3881/aa899b"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3130802944",
+        "model": "gpt",
+        "question": "How do current multiwavelength observational constraints and hydrodynamic/radiative-transfer models of Type Ia supernovae interacting with detached circumstellar shells reshape our understanding of recurrent-nova progenitor channels, especially for systems with shell masses of \\(10^{-4}\\)\u2013\\(0.3\\,M_\\odot\\) at radii of \\(10^{15}\\)\u2013\\(10^{16}\\) cm that evade existing radio nondetection limits?",
+        "response": {
+            "references": [
+                "Laura Chomiuk | A Deep Search for Prompt Radio Emission from Thermonuclear Supernovae with the Very Large Array | 10.3847/0004-637X/821/2/119",
+                "Raffaella Margutti | No X-Rays from the Very Nearby Type Ia SN 2014J: Constraints on Its Environment | 10.1088/2041-8205/790/2/L52",
+                "Melissa L. Graham | Detection of Circumstellar Material in a Normal Type Ia Supernova | 10.3847/1538-4357/ab006c",
+                "Jeffrey M. Silverman | Type Ia Supernovae Strongly Interacting with Their Circumstellar Medium | 10.1088/0004-637X/772/2/125",
+                "Benjamin Dilday | PTF 11kx: A Type Ia Supernova with a Symbiotic Nova Progenitor | 10.1126/science.1219164"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407755761",
+        "model": "gpt",
+        "question": "How do laboratory measurements of electron-induced radiolysis products and temperature-dependent CO/CO\u2082 ratios in isotopically labeled CO\u2082 ices compare with observational spectra and cosmic-ray irradiation models of trans-Neptunian objects to constrain their surface temperatures, radiation exposure histories, and chemical evolution pathways?",
+        "response": {
+            "references": [
+                "Mark J. Loeffler | The radiation chemistry of solid carbon dioxide | 10.1016/j.icarus.2005.09.003",
+                "Chris J. Bennett | On the Formation of Carbon Dioxide in Interstellar Carbon Monoxide Ice Analog Samples | 10.1086/498225",
+                "Giovanni Strazzulla | Spectral alteration of the icy surfaces of trans-Neptunian objects induced by cosmic ion irradiation | 10.1016/S0019-1035(03)00104-7",
+                "Noem\u00ed Pinilla-Alonso | Detection of carbon dioxide and carbon monoxide on trans-Neptunian objects with JWST | 10.1038/s41550-024-02318-6",
+                "Perry A. Gerakines | The infrared band strengths of H2O, CO and CO2 in laboratory simulations of astrophysical ice mixtures | 10.1051/0004-6361:19991172"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413141852",
+        "model": "gpt",
+        "question": "How do uncertainties and discrepancies among stellar atmosphere models in the mid-infrared propagate into the interpretation of JWST secondary-eclipse emission spectra of terrestrial exoplanets, particularly in distinguishing surface composition, albedo, and atmospheric presence compared with analogous stellar-contamination effects previously characterized in transmission spectroscopy?",
+        "response": {
+            "references": [
+                "Thomas P. Greene | Thermal emission from the Earth-sized exoplanet TRAPPIST-1 b using JWST | 10.1038/s41586-023-05951-7",
+                "Sebastian Zieba | No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c | 10.1038/s41586-023-06232-z",
+                "Andrew P. Lincowski | Evolved Climates and Observational Discriminants for the TRAPPIST-1 Planetary System | 10.3847/1538-4357/aad13b",
+                "Benjamin V. Rackham | The Transit Light Source Effect: False Spectral Features and Incorrect Densities for M-dwarf Transiting Planets | 10.3847/1538-3881/aaaf6c",
+                "France Allard | Model atmospheres from very low mass stars to brown dwarfs | 10.1098/rsta.2011.0269"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386114764",
+        "model": "gpt",
+        "question": "How do competing models of solar-flare electron transport\u2014particularly magnetic focusing, Coulomb collisional diffusion, turbulence scattering, and magnetic-field expansion\u2014collectively explain the observed velocities, formation heights, and radio signatures of coronal electron beams and type III bursts?",
+        "response": {
+            "references": [
+                "Hamish A. S. Reid | A review of solar type III radio bursts | 10.1007/s11214-014-0077-2",
+                "Eduard P. Kontar | Deducing Electron Properties from Hard X-Ray Observations | 10.1007/s11214-011-9804-x",
+                "Hamish A. S. Reid | Solar Type III Radio Burst Source Region Splitting due to a Turbulent Density Structure | 10.1088/0004-637X/740/2/76",
+                "Eduard P. Kontar | Imaging spectroscopy of solar radio burst fine structures | 10.1038/s41467-017-01307-8",
+                "Hamish A. S. Reid | Solar Type III Radio Burst Source Locations due to the Electron Beam Transport | 10.1007/s11207-013-0335-x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415983269",
+        "model": "gpt",
+        "question": "How do theoretical, numerical, and observational studies of oscillatory reconnection at 2D and 3D magnetic null points collectively constrain the dependence of reconnection periodicity on plasma parameters, magnetic topology, and driver properties, and to what extent can the invariant period reported for 3D null-point relaxation be used as a diagnostic of coronal plasma conditions?",
+        "response": {
+            "references": [
+                "Ian J. D. Craig | Dynamic magnetic reconnection at an X-type neutral point | 10.1086/174262",
+                "M. J. Murray | The nature of oscillatory reconnection in the solar corona | 10.1051/0004-6361:200810406",
+                "James A. McLaughlin | Oscillatory reconnection of a 2D magnetic X-point | 10.1051/0004-6361/200913950",
+                "James A. McLaughlin | Modelling Quasi-Periodic Pulsations in Solar and Stellar Flares | 10.1007/s11214-018-0478-5",
+                "Jonathan O. Thurgood | Oscillatory reconnection driven by a 3D magnetic null point collapse | 10.1051/0004-6361/201629752"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7151819322",
+        "model": "gpt",
+        "question": "How do spectropolarimetric inversions of chromospheric lines across multiple solar observations and modeling studies distinguish true umbral-flash-driven magnetic field oscillations from apparent magnetic variations produced by shock-induced velocity gradients and multi-component atmospheric structure?",
+        "response": {
+            "references": [
+                "Hector Socas-Navarro | Evidence for Magnetic Field Variations during Umbral Flashes | 10.1086/308394",
+                "Jaime de la Cruz Rodr\u00edguez | Physical properties of a sunspot chromosphere with umbral flashes | 10.1051/0004-6361/201220705",
+                "Tobias Felipe | Are Magnetic Field Variations Real in Sunspot Umbral Flashes? | 10.1088/0004-637X/795/1/9",
+                "Jayant Joshi | Magnetic field variations associated with umbral flashes and penumbral waves | 10.1051/0004-6361/201731545",
+                "Samuel J. Houston | High-resolution observations of the shock-induced magnetic response in a sunspot chromosphere | 10.3847/1538-4357/aa9d89"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3092851500",
+        "model": "gpt",
+        "question": "How do differences among cosmological hydrodynamic simulations, semi-analytic models, radiative-transfer prescriptions, and EOR [C\u202fII] observational surveys explain the reported scatter, slope discrepancies, and high-luminosity tensions in the predicted and observed \\(L_{\\mathrm{[CII]}}\\)\u2013SFR relation and [C\u202fII] luminosity function at \\(z \\gtrsim 6\\)?",
+        "response": {
+            "references": [
+                "Ilse De Looze | The applicability of far-infrared fine-structure lines as star formation rate tracers over wide ranges of metallicities and galaxy types | 10.1051/0004-6361/201322489",
+                "Livia Vallini | [C II] Emission from High-redshift Galaxies | 10.1088/0004-637X/813/1/36",
+                "Guilaine Lagache | The [C II] 158 \u03bcm line emission in high-redshift galaxies | 10.1093/mnras/sty2338",
+                "Gerg\u00f6 Popping | The [C II] emission line as a gas tracer in galaxies at high redshift | 10.1093/mnras/stz2779",
+                "Stefano Carniani | Kiloparsec-scale ALMA [C II] observations of star-forming galaxies at z \u223c 5\u20137 | 10.1093/mnras/sty2169"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388266310",
+        "model": "gpt",
+        "question": "How do molecular growth kinetics of SiO on silicate dust grains, dust nucleation timescales, and subsequent fractal aggregate formation collectively influence radiative and gas-dynamical coupling in circumstellar outflows across different stellar environments?",
+        "response": {
+            "references": [
+                "Tijmen de Vries | Semianalytical dust growth models for oxygen-rich stellar winds | 10.1051/0004-6361/201322634",
+                "Tim P. M. Goumans | Efficient nucleation of stardust silicates via heteromolecular homogeneous condensation | 10.1111/j.1365-2966.2011.20255.x",
+                "David Gobrecht | Dust formation in the oxygen-rich AGB star IK Tau | 10.1051/0004-6361/201425363",
+                "Susanne H\u00f6fner | Winds of M-type AGB stars driven by micron-sized grains | 10.1051/0004-6361:200810641",
+                "Melanie K\u00f6hler | Aggregates in circumstellar shells: optical properties of dust aggregates and their implications for radiative transfer models | 10.1051/0004-6361/201116729"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3085278849",
+        "model": "gpt",
+        "question": "How do CO-line kinematic diagnostics, spatial morphology, and distance constraints across studies of supernova remnants interacting with molecular clouds refine the criteria for distinguishing genuine SNR\u2013MC associations from chance line-of-sight correlations, as illustrated by the \u223c50 km s\u207b\u00b9 versus \u223c5 km s\u207b\u00b9 components toward SNR G43.9+1.6?",
+        "response": {
+            "references": [
+                "Bing Jiang | A Systematic Study of Molecular Gas toward Supernova Remnants | 10.1088/0004-637X/712/2/1147",
+                "D. A. Frail | OH (1720 MHz) masers as signposts of molecular shocks | 10.1086/306440",
+                "Charles D. Kilpatrick | A Survey of Molecular Clouds toward Supernova Remnants in the Milky Way | 10.3847/0004-6256/151/6/164",
+                "William T. Reach | A Spitzer Space Telescope Infrared Survey of Supernova Remnants in the Inner Galaxy | 10.1086/430659",
+                "Yang Chen | Interactions between supernova remnants and molecular clouds | 10.1007/s00159-013-0068-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385445267",
+        "model": "gpt",
+        "question": "How do infrared surface brightness fluctuation calibrations of Type Ia supernova host galaxies compare with Cepheid-based calibrations across differing supernova light-curve properties, host-galaxy masses, and stellar populations, and what do these comparisons imply for systematic uncertainties in current determinations of the Hubble constant?",
+        "response": {
+            "references": [
+                "John P. Blakeslee | The Hubble Constant from Infrared Surface Brightness Fluctuation Distances | 10.3847/1538-4357/abe86a",
+                "Nandita Khetan | A new measurement of the Hubble constant using Type Ia supernovae calibrated with surface brightness fluctuations | 10.1051/0004-6361/202039196",
+                "Adam G. Riess | A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s\u22121 Mpc\u22121 Uncertainty from the Hubble Space Telescope and the SH0ES Team | 10.3847/2041-8213/ac5c5b",
+                "Christopher R. Burns | The Carnegie Supernova Project: Absolute Calibration and the Hubble Constant | 10.3847/1538-4357/aae51c",
+                "Joseph B. Jensen | Infrared Surface Brightness Fluctuation Distances for Massive Early-type Galaxies | 10.3847/1538-4357/abcc73"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3085652472",
+        "model": "gpt",
+        "question": "How do the effects of numerical resolution, subgrid physics prescriptions, and baryonic feedback models across different cosmological simulation suites collectively influence the predicted bar fraction, size, and strength in disk galaxies, and to what extent do these systematic factors account for discrepancies with observed bar populations?",
+        "response": {
+            "references": [
+                "D. G. Algorry | The evolution of the bar fraction in the EAGLE simulation | 10.1093/mnras/stx1008",
+                "N. D. Peschken | The effects of mergers on the formation of disc galaxies and their stellar bars | 10.1093/mnras/sty3277",
+                "Francesca Fragkoudi | The Auriga Project: the properties and formation mechanisms of disc galaxy bars | 10.1093/mnras/staa1104",
+                "P. R. M. Rosas-Guevara | Bars in the TNG50 simulation: the role of AGN feedback | 10.1093/mnras/staa197",
+                "M. C. Artale | The build-up of the Hubble sequence in the EAGLE simulation | 10.1093/mnras/stw310"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3159310330",
+        "model": "gpt",
+        "question": "How do systematic differences between response-weighted and luminosity-weighted broad-line region radii across different emission lines propagate into uncertainties in Hubble constant measurements when compared across various SARM, reverberation mapping, and alternative cosmological distance-ladder methodologies?",
+        "response": {
+            "references": [
+                "Jian-Min Wang | A geometric distance measurement to the quasar 3C 273 with spectroastrometry and reverberation mapping | 10.1038/s41586-020-2219-5",
+                "GRAVITY Collaboration | Spatially resolved rotation of the broad-line region of a quasar at sub-parsec scale | 10.1038/s41586-018-0731-9",
+                "Keith Horne | Quasar tomography: unravelling the broad-line region | 10.1086/132765",
+                "Edward M. Cackett | Quasar distances from reverberation mapping | 10.1111/j.1365-2966.2005.09795.x",
+                "Misty C. Bentz | The Low-luminosity End of the Radius-Luminosity Relationship for Active Galactic Nuclei | 10.1088/0004-637X/767/2/149"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3082994736",
+        "model": "gpt",
+        "question": "How do the underlying magnetic dynamo mechanisms differ across young stellar objects, dwarfs, and giants such that they converge onto a single sequence in the X-ray activity\u2013Rossby number relation yet diverge when characterized by other activity indicators?",
+        "response": {
+            "references": [
+                "Nicholas J. Wright | The Stellar-activity\u2013Rotation Relationship and the Evolution of Stellar Dynamos | 10.1088/0004-637X/743/1/48",
+                "Thomas Preibisch | The Origin of T Tauri X-Ray Emission: New Insights from the Chandra Orion Ultradeep Project | 10.1086/432891",
+                "P. Gondoin | X-ray activity and rotation of late-type giants | 10.1051/0004-6361:20053567",
+                "Ansgar Reiners | The Solar-like Magnetic Activity of M Dwarfs and its Relation to Rotation and Rossby Number | 10.1088/0004-637X/785/1/10",
+                "Aline A. Vidotto | Stellar magnetism: empirical trends with age and rotation | 10.1093/mnras/stu728"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166852628",
+        "model": "gpt",
+        "question": "How do the merger fractions and morphological disturbance signatures observed in changing-look AGN host galaxies compare with those of the broader AGN population across different accretion states and triggering mechanisms?",
+        "response": {
+            "references": [
+                "Jillian M. Bellovary | The Role of Mergers and Interactions in Triggering Changing-look Active Galactic Nuclei | 10.1093/mnras/stab1665",
+                "M. C. Villforth | Host-galaxy morphologies of luminous active galactic nuclei and the role of major mergers | 10.1093/mnras/stx851",
+                "Dale D. Kocevski | CANDELS: Constraining the AGN-Merger Connection with Host Morphologies at z \u223c 2 | 10.1088/0004-637X/744/2/148",
+                "M. Cisternas | The Bulk of the Black Hole Growth Since z \u223c 1 Occurs in a Secular Universe: No Major Merger-AGN Connection | 10.1088/0004-637X/726/2/57",
+                "Chelsea L. MacLeod | A systematic search for changing-look quasars in SDSS | 10.3847/1538-4357/ab2f14"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408381241",
+        "model": "gpt",
+        "question": "How do the atmospheric and climatic consequences of cometary impacts on tidally locked terrestrial exoplanets compare across different impactor compositions, sizes, and bombardment frequencies when synthesized with findings from planetary formation, volatile delivery, and exoplanet atmospheric observation studies?",
+        "response": {
+            "references": [
+                "Quentin Kral | Cometary impact rates on exoplanets orbiting M dwarfs | 10.1093/mnras/stx2998",
+                "Martin Turbet | The habitability of Proxima Centauri b. II. Possible climates and observability | 10.1051/0004-6361/201629577",
+                "Rodrigo Luger | Extreme Water Loss and Abiotic O2 Buildup on Planets Throughout the Habitable Zones of M Dwarfs | 10.1089/ast.2014.1231",
+                "V. V. Shuvalov | Atmospheric erosion induced by oblique impacts | 10.1111/j.1945-5100.2009.tb00701.x",
+                "David M. Kipping | The Hunt for Exomoons with Kepler (HEK). III. The first search for an exomoon around a habitable-zone planet | 10.1088/0004-637X/770/2/101"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402782186",
+        "model": "gpt",
+        "question": "How do the effectiveness and limitations of supervised machine-learning approaches compare to those of deep-learning and unsupervised methods across the broader literature on detecting and classifying stellar flares for mitigating contamination in exoplanet transmission spectra?",
+        "response": {
+            "references": [
+                "James R. A. Davenport | The Kepler Catalog of Stellar Flares | 10.3847/0004-637X/829/1/23",
+                "Adina D. Feinstein | Flare Statistics for Young Stars from a Convolutional Neural Network | 10.3847/1538-3881/abac0a",
+                "Kriszti\u00e1n Vida | Finding flares in Kepler data using machine-learning tools | 10.1051/0004-6361/201833194",
+                "Maximilian N. G\u00fcnther | Stellar Flares from the First TESS Data Release: Exploring a New Sample of M Dwarfs | 10.3847/1538-3881/ab5d3a",
+                "Benjamin V. Rackham | The Transit Light Source Effect: False Spectral Features and Incorrect Densities for M-dwarf Transiting Planets | 10.3847/1538-4357/aaa08c"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7151557000",
+        "model": "gpt",
+        "question": "How do the systematic uncertainties in core-collapse supernova nucleosynthesis yields\u2014arising from differences in metallicity coverage, explosion mechanisms, and convection prescriptions across independent stellar evolution codes\u2014propagate into constraints on the relative contributions of Type Ia and core-collapse supernovae to the chemical enrichment history inferred from intracluster medium abundance measurements?",
+        "response": {
+            "references": [
+                "Ken'ichi Nomoto | Nucleosynthesis Yields of Core-Collapse Supernovae and Hypernovae, and Galactic Chemical Evolution | 10.1146/annurev-astro-082812-140956",
+                "Marco Limongi | Presupernova Evolution and Explosive Nucleosynthesis of Rotating Massive Stars in the Metallicity Range \u22123 \u2264 [Fe/H] \u2264 0 | 10.3847/1538-4365/aacb24",
+                "Tuguldur Sukhbold | Core-collapse Supernovae from 9 to 120 Solar Masses Based on Neutrino-powered Explosions | 10.3847/0004-637X/821/1/38",
+                "Chiaki Kobayashi | The Origin of Elements from Carbon to Uranium | 10.3847/1538-4357/abae65",
+                "F. Mernier | Origin of central abundances in the hot intra-cluster medium | 10.1051/0004-6361/201628765"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7150902589",
+        "model": "gpt",
+        "question": "How do the intrinsic distributions of long-GRB luminosity, isotropic energy, and local event rate derived from detector-calibrated synthetic populations compare across different instruments and modeling approaches, and what do such comparisons reveal about the consistency of GRB luminosity function and cosmic star formation rate connections?",
+        "response": {
+            "references": [
+                "David Wanderman | The luminosity function and the rate of Swift's gamma-ray bursts | 10.1111/j.1365-2966.2010.16787.x",
+                "Ruben Salvaterra | A Complete Sample of Bright Swift Long Gamma-Ray Bursts. I. Sample Presentation, Luminosity Function and Evolution | 10.1088/0004-637X/749/1/68",
+                "Nathaniel R. Butler | The Cosmic Rate, Luminosity Function, and Intrinsic Correlations of Long Gamma-Ray Bursts | 10.1088/0004-637X/711/1/495",
+                "Amy Lien | The Swift Gamma-Ray Burst Population in a Cosmological Context | 10.1088/0004-637X/783/1/24",
+                "Alessia Pescalli | The rate and luminosity function of long gamma ray bursts | 10.1051/0004-6361/201526760"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4282967044",
+        "model": "gpt",
+        "question": "How does the metallicity threshold inferred from the cosmic rate evolution of long gamma-ray bursts compare with independent constraints derived from host galaxy metallicity measurements, stellar evolution models, and progenitor formation channels across different studies?",
+        "response": {
+            "references": [
+                "N. Langer | On the Collapsar Model of Long Gamma-Ray Bursts: Constraints from Cosmic Metallicity Evolution | 10.1086/500363",
+                "Sung-Chul Yoon | Single star progenitors of long gamma-ray bursts. I. Model grids and redshift dependent GRB rate | 10.1051/0004-6361:20065912",
+                "John F. Graham | The metal aversion of long-duration gamma-ray bursts | 10.1088/0004-637X/774/2/119",
+                "Maryam Modjaz | Measured Metallicities at the Sites of Nearby Broad-Lined Type Ic Supernovae and Implications for the Supernovae Gamma-Ray Burst Connection | 10.1086/588070",
+                "Susanna D. Vergani | Are long gamma-ray bursts biased tracers of star formation? Clues from the host galaxies of the Swift/BAT6 complete sample of bright LGRBs | 10.1051/0004-6361/201425013"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386113398",
+        "model": "gpt",
+        "question": "How do the disk masses, sizes, and Keplerian rotation signatures of Class 0 protostellar disks like RCrA IRS5N compare across the broader population of embedded disks, and what do these properties collectively reveal about the timescales and mechanisms governing early disk formation and substructure emergence?",
+        "response": {
+            "references": [
+                "John J. Tobin | A 0.2 solar mass protostellar disk in the very young L1527 IRS system | 10.1038/nature11610",
+                "Nagayoshi Ohashi | Formation of a Keplerian Disk in the Infalling Envelope around L1527 IRS: Transformation from Infalling Motions to Kepler Motions | 10.1088/0004-637X/796/2/131",
+                "Nadia M. Murillo | A Keplerian disk around a Class 0 source: ALMA observations of VLA1623A | 10.1051/0004-6361/201219420",
+                "Dominique M. Segura-Cox | The formation and early evolution of young circumstellar disks | 10.1038/s41586-018-0152-2",
+                "Ana\u00eblle J. Maury | Characterizing disks in Class 0 protostars using dust continuum emission: no large disks in the CALYPSO sample | 10.1051/0004-6361/201833537"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3119058164",
+        "model": "gpt",
+        "question": "How do the physical properties and radiative feedback mechanisms of embedded molecular clouds within H II regions compare across different star-forming environments, and what role do such clouds play in regulating the ionization structure and X-ray-emitting hot gas dynamics of surrounding nebulae?",
+        "response": {
+            "references": [
+                "Leisa K. Townsley | 10 Million Degree Gas in M17 and the Rosette Nebula: X-Ray Flows in Galactic H II Regions | 10.1086/376692",
+                "Leisa K. Townsley | A Chandra X-Ray Survey of the Carina Nebula. II. Diffuse X-Ray Emission | 10.1088/0067-0049/194/1/15",
+                "Laura A. Lopez | The Role of Stellar Feedback in the Dynamics of H II Regions | 10.1088/0004-637X/731/2/91",
+                "Elizabeth Harper-Clark | The Structure and Dynamics of H II Regions | 10.1088/0004-637X/693/2/1696",
+                "James E. Dale | Ionizing feedback from massive stars in massive clusters - II. Disruption of bound clusters by photoionization | 10.1111/j.1365-2966.2012.21024.x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3153509651",
+        "model": "gpt",
+        "question": "How does the interpretation of transition region plasma as being magnetically and thermally connected to the corona, rather than composed of thermally isolated cool loops, reconcile with the diverse and often conflicting models of transition region structure and energy balance proposed across the past several decades of solar physics literature?",
+        "response": {
+            "references": [
+                "Alan H. Gabriel | A magnetic model of the solar transition region | 10.1098/rsta.1976.0031",
+                "Joseph F. Dowdy | On the magnetic structure of the quiet transition region | 10.1007/BF00156374",
+                "Spiro K. Antiochos | The structure of the static corona and transition region | 10.1086/163913",
+                "Viggo H. Hansteen | On Redshifts and Blueshifts in the Transition Region and Corona | 10.1088/0004-637X/718/2/1070",
+                "Hardy Peter | The unresolved fine structure resolved: IRIS observations of the solar transition region | 10.1126/science.1255726"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4304782242",
+        "model": "gpt",
+        "question": "How do the period\u2013Wesenheit relation coefficients and parallax zeropoint corrections derived from open-cluster-associated classical Cepheids compare across different calibration methods, photometric bands, and metallicity treatments in the broader literature, and what are the implications of these differences for resolving the Hubble tension?",
+        "response": {
+            "references": [
+                "Adam G. Riess | A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s\u22121 Mpc\u22121 Uncertainty from the Hubble Space Telescope and the SH0ES Team | 10.3847/2041-8213/ac5c5b",
+                "Adam G. Riess | Cosmic Distances Calibrated to 1% Precision with Gaia EDR3 Parallaxes and Hubble Space Telescope Photometry of 75 Milky Way Cepheids Confirm Tension with \u039bCDM | 10.3847/2041-8213/abdbaf",
+                "Louise Breuval | The Milky Way Cepheid Leavitt law based on Gaia DR2 parallaxes of companion stars and host open cluster populations | 10.1051/0004-6361/202038633",
+                "Lennart Lindegren | Gaia Early Data Release 3: Parallax bias versus magnitude, colour, and position | 10.1051/0004-6361/202039653",
+                "Vincenzo Ripepi | Gaia Early Data Release 3: The Galactic Cepheid sample | 10.1051/0004-6361/202040124"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4393318639",
+        "model": "gpt",
+        "question": "How do the observed characteristics of He-deficient dwarf novae below the period minimum, such as KSP-OT-201712a, constrain the various proposed evolutionary channels leading to AM CVn systems and helium cataclysmic variables?",
+        "response": {
+            "references": [
+                "Gijs Nelemans | Population synthesis for double white dwarfs. II. Semi-detached systems: AM CVn stars | 10.1051/0004-6361:20010308",
+                "Philipp Podsiadlowski | Cataclysmic variables with evolved secondaries and the progenitors of AM CVn stars | 10.1046/j.1365-8711.2003.06212.x",
+                "Jan-Erik Solheim | AM CVn Stars: Status and Challenges | 10.1086/656680",
+                "Paul J. Carter | A search for AM CVn systems using the Palomar Transient Factory | 10.1093/mnras/sts485",
+                "David Levitan | Outbursting AM CVn systems from the Palomar Transient Factory | 10.1093/mnras/stv120"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403688433",
+        "model": "gpt",
+        "question": "How do the mass\u2013size scaling relations and morphological transitions of molecular clouds derived from 3D dust extinction maps reconcile with those obtained through molecular line and dust emission tracers across different galactic environments, and what do such discrepancies reveal about the relative roles of galactic shear, self-gravity, and observational selection effects in shaping cloud structure?",
+        "response": {
+            "references": [
+                "Richard B. Larson | Turbulence and star formation in molecular clouds | 10.1093/mnras/194.4.809",
+                "Philip M. Solomon | Mass, luminosity, and line width relations of Galactic molecular clouds | 10.1086/165918",
+                "Mark H. Heyer | Re-Examining Larson's Scaling Relationships in Galactic Molecular Clouds | 10.1088/0004-637X/699/2/1092",
+                "Marc-Antoine Miville-Desch\u00eanes | The origin and evolution of molecular clouds: a new all-sky catalogue from 12CO (1-0) emission | 10.1051/0004-6361/201628634",
+                "Marco Lombardi | The column density distribution of molecular clouds | 10.1051/0004-6361/201014578"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7140305665",
+        "model": "gpt",
+        "question": "How do the spin constraints derived from EHT brightness asymmetry measurements in MAD accretion models compare with independent spin estimates obtained through jet power, jet morphology, and cosmological black hole growth studies, and to what extent do these methods converge on a consistent value for M87*'s spin?",
+        "response": {
+            "references": [
+                "Kazunori Akiyama | First M87 Event Horizon Telescope Results. V. Physical Origin of the Asymmetric Ring | 10.3847/2041-8213/ab0f43",
+                "Kazunori Akiyama | First M87 Event Horizon Telescope Results. VIII. Magnetic Field Structure near The Event Horizon | 10.3847/2041-8213/abe71d",
+                "Alexander Tchekhovskoy | Efficient generation of jets from magnetically arrested accretion on a rapidly spinning black hole | 10.1111/j.1365-2966.2011.20019.x",
+                "Ekaterina E. Nokhrina | M87 black hole mass and spin estimate through the position of the jet boundary shape break | 10.1093/mnras/stz2116",
+                "Ruth A. Daly | Black Hole Spin and Accretion Disk Magnetic Field Strength Estimates for More Than 750 Active Galactic Nuclei and Multiple Galactic Black Holes | 10.3847/1538-4357/ab35e6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225000210",
+        "model": "gpt",
+        "question": "How do the differing spatial and temporal scales probed by distinct tracers (H II regions, neutral clouds, B-type stars, Cepheids, and young clusters) reconcile the apparent discrepancies in measured local interstellar metallicity variations, and what do these differences imply for the efficiency of gas mixing processes in the Galactic thin disk?",
+        "response": {
+            "references": [
+                "Annalisa De Cia | Large-scale chemical inhomogeneities in the Galactic interstellar medium | 10.1038/s41586-021-03780-0",
+                "Dana S. Balser | Azimuthal Metallicity Structure in the Galactic Disk | 10.1088/0004-637X/738/1/27",
+                "Mar\u00eda-Fernanda Nieva | Present-day cosmic abundances. A comprehensive study of nearby early B-type stars and implications for stellar and Galactic evolution and interstellar dust models | 10.1051/0004-6361/201118158",
+                "Kateryna Genovali | On the metallicity distribution of classical Cepheids in the Galactic thin disk | 10.1051/0004-6361/201323198",
+                "C\u00e9sar Esteban | Carbon and oxygen Galactic gradients: observational values from H II region recombination lines | 10.1093/mnras/stx1624"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403316790",
+        "model": "gpt",
+        "question": "How do the measured intrinsic abundance scatters in metal-poor dwarf galaxies and globular clusters compare with predictions from chemical evolution models and hydrodynamical simulations that account for varying early star formation histories, supernova yields, and interstellar medium mixing timescales?",
+        "response": {
+            "references": [
+                "Evan N. Kirby | Multi-element Abundance Measurements from Medium-resolution Spectra. III. Metallicity Distributions of Milky Way Dwarf Satellite Galaxies | 10.1088/0004-637X/727/2/79",
+                "Alexander P. Ji | R-process enrichment from a single event in an ancient dwarf galaxy | 10.1038/nature17425",
+                "Anna Frebel | Nucleosynthetic signatures of the first stars | 10.1038/nature09101",
+                "Eugenio Carretta | Na-O anticorrelation and HB. I. The Na-O anticorrelation in globular clusters | 10.1051/0004-6361/200912096",
+                "Joss Bland-Hawthorn | The Chemical Signatures of the First Star Clusters in the Universe | 10.1088/0004-637X/721/1/582"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408636724",
+        "model": "gpt",
+        "question": "How do the mechanisms governing inertial and kinetic Alfv\u00e9n wave transmission through Alfv\u00e9n speed gradients compare across space, laboratory, and astrophysical plasma regimes, and what candidate damping processes could account for the observed energy loss not attributable to reflection?",
+        "response": {
+            "references": [
+                "Russell L. Lysak | Propagation of Alfv\u00e9n waves through the ionosphere: Dependence on ionospheric parameters | 10.1029/90JA02179",
+                "Allan Hasegawa | Kinetic processes in plasma heating by resonant mode conversion of Alfv\u00e9n wave | 10.1063/1.861310",
+                "Jan Stasiewicz | Small Scale Alfv\u00e9nic Structure in the Aurora | 10.1023/A:1005207202143",
+                "Walter Gekelman | Experimental Observation of Shear Alfv\u00e9n Wave Cones | 10.1103/PhysRevLett.84.1459",
+                "James A. Ionson | Resonant absorption of Alfv\u00e9nic surface waves and the heating of solar coronal loops | 10.1086/156401"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4400459872",
+        "model": "gpt",
+        "question": "How do the constraints on initial giant planet multiplicity, migration rates, and eccentricity damping efficiency derived from dynamical instability models compare with independent estimates from planet-disk interaction simulations, protoplanetary disk observations, and demographic surveys of exoplanetary systems?",
+        "response": {
+            "references": [
+                "Kleomenis Tsiganis | Origin of the orbital architecture of the giant planets of the Solar System | 10.1038/nature03539",
+                "David Nesvorn\u00fd | Young Solar System's Fifth Giant Planet? | 10.1088/2041-8205/742/2/L22",
+                "David Nesvorn\u00fd | Statistical Study of the Early Solar System's Instability with Four, Five, and Six Giant Planets | 10.1088/0004-637X/768/1/45",
+                "Wilhelm Kley | Planet-Disk Interaction and Orbital Evolution | 10.1146/annurev-astro-081811-125523",
+                "Rafael B. Fernandes | Hints for a Turnover at the Snow Line in the Giant Planet Occurrence Rate | 10.3847/1538-3881/ab2a14"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2982449297",
+        "model": "gpt",
+        "question": "How do different approaches to uncertainty quantification and model ambiguity across coupled planetary thermal-evolution and climate models influence the reliability of long-term habitability forecasts for terrestrial exoplanets?",
+        "response": {
+            "references": [
+                "James F. Kasting | Habitable Zones around Main Sequence Stars | 10.1006/icar.1993.1010",
+                "Ravi Kumar Kopparapu | Habitable Zones around Main-sequence Stars: New Estimates | 10.1088/0004-637X/765/2/131",
+                "Bradford J. Foley | The Role of Plate Tectonic-Climate Coupling and Exposed Land Area in the Development of Habitable Climates on Rocky Planets | 10.1088/0004-637X/812/1/36",
+                "Peter E. Driscoll | Divergent evolution of Earth and Venus: Influence of degassing, tectonics, and magnetic fields | 10.1016/j.icarus.2013.07.025",
+                "Andrew J. Rushby | Habitable Zone Lifetimes of Exoplanets around Main Sequence Stars | 10.1089/ast.2012.0938"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3126756370",
+        "model": "gpt",
+        "question": "How do the atmospheric dynamics, habitability predictions, and observational detectability of Proxima b vary across different general circulation models and assumed atmospheric compositions, and what factors account for the discrepancies among these studies?",
+        "response": {
+            "references": [
+                "Guillem Anglada-Escud\u00e9 | A terrestrial planet candidate in a temperate orbit around Proxima Centauri | 10.1038/nature19106",
+                "Martin Turbet | The habitability of Proxima Centauri b. II. Possible climates and observability | 10.1051/0004-6361/201629577",
+                "Ian A. Boutle | Exploring the climate of Proxima B with the Met Office Unified Model | 10.1051/0004-6361/201630020",
+                "Ignasi Ribas | The habitability of Proxima Centauri b. I. Irradiation, rotation and volatile inventory from formation to the present | 10.1051/0004-6361/201629576",
+                "Victoria S. Meadows | The Habitability of Proxima Centauri b: Environmental States and Observational Discriminants | 10.1089/ast.2016.1589"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3110225936",
+        "model": "gpt",
+        "question": "How do systematic uncertainties in lens mass modeling assumptions, such as the mass-sheet degeneracy and choice of density profile parameterization, propagate into ensemble-level Hubble constant inference across different time-delay cosmography methods?",
+        "response": {
+            "references": [
+                "Sherry H. Suyu | Dissecting the Gravitational Lens B1608+656. II. Precision Measurements of the Hubble Constant, Spatial Curvature, and the Dark Energy Equation of State | 10.1088/0004-637X/711/1/201",
+                "Simon Birrer | Mass-sheet degeneracy and time-delay cosmography: analysis of the strong lens RXJ1131-1231 | 10.1088/0004-637X/825/2/107",
+                "Kenneth C. Wong | H0LiCOW XIII. A 2.4 per cent measurement of H0 from lensed quasars: 5.3\u03c3 tension between early- and late-Universe probes | 10.1093/mnras/stz3094",
+                "Simon Birrer | TDCOSMO - IV. Hierarchical time-delay cosmography - joint inference of the Hubble constant and galaxy density profiles | 10.1051/0004-6361/202038861",
+                "Christopher S. Kochanek | Overconstrained gravitational lens models and the Hubble constant | 10.1093/mnras/staa344"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7164400693",
+        "model": "gpt",
+        "question": "How do the assumptions underlying the radio\u2013infrared correlation and its potential evolution with redshift affect the reliability of predicted radio\u2013FIR continuum SEDs for high-redshift galaxies across different telescope surveys?",
+        "response": {
+            "references": [
+                "George Helou | Thermal infrared and nonthermal radio: Remarkable correlation in disks of galaxies | 10.1086/163144",
+                "Min S. Yun | Radio Properties of Infrared-selected Galaxies in the IRAS 2 Jy Sample | 10.1086/320588",
+                "Eric J. Murphy | The Far-Infrared\u2013Radio Correlation at High Redshifts: Physical Considerations and Prospects for the Square Kilometer Array | 10.1088/0004-637X/706/1/482",
+                "Benjamin Magnelli | The far-infrared/radio correlation and radio spectral index of galaxies in the SFR-M\u2217 plane up to z \u223c 2 | 10.1051/0004-6361/201425419",
+                "Jacinta Delhaize | The VLA-COSMOS 3 GHz Large Project: The infrared-radio correlation of star-forming galaxies and AGN to z \u2272 6 | 10.1051/0004-6361/201629430"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3036290821",
+        "model": "gpt",
+        "question": "How do the detection rates and methodological constraints of X-ray periodicity searches for supermassive black hole binaries compare with those from other observational approaches\u2014such as optical time-domain surveys and pulsar timing arrays\u2014across the electromagnetic and gravitational-wave spectrum?",
+        "response": {
+            "references": [
+                "Matthew J. Graham | A possible close supermassive black-hole binary in a quasar with optical periodicity | 10.1038/nature14143",
+                "Maria Charisi | A population of short-period variable quasars from PTF as supermassive black hole binary candidates | 10.1093/mnras/stw1838",
+                "Tingting Liu | A Periodically Varying Luminous Quasar at z = 2 from the Pan-STARRS1 Medium Deep Survey: A Candidate Supermassive Black Hole Binary in the Gravitational Wave-driven Regime | 10.1088/2041-8205/803/2/L16",
+                "Simon Vaughan | False periodicities in quasar time-domain surveys | 10.1093/mnras/stw1412",
+                "Zaven Arzoumanian | The NANOGrav 11-year Data Set: Pulsar-timing Constraints on the Stochastic Gravitational-wave Background | 10.3847/1538-4357/aabd3b"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412732219",
+        "model": "gpt",
+        "question": "How do the mechanisms and timescales of high-eccentricity tidal migration compare across different dynamical pathways (e.g., von Zeipel-Lidov-Kozai cycles, secular chaos, planet-planet scattering) in producing the observed population of misaligned, tidally inflated Neptune-sized planets?",
+        "response": {
+            "references": [
+                "Daniel C. Fabrycky | Shrinking Binary and Planetary Orbits by Kozai Cycles with Tidal Friction | 10.1086/521702",
+                "Yanqin Wu | Secular Chaos and the Production of Hot Jupiters | 10.1088/0004-637X/735/2/109",
+                "Masahiro Nagasawa | Formation of Hot Planets by a Combination of Planet Scattering, Tidal Circularization, and the Kozai Mechanism | 10.1086/529369",
+                "Cristobal Petrovich | Hot Jupiters from Secular Planet-Planet Interactions | 10.1088/0004-637X/799/1/27",
+                "Vincent Bourrier | Orbital misalignment of the Neptune-mass exoplanet GJ 436b with the spin of its cool star | 10.1038/s41586-018-0048-5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409129455",
+        "model": "gpt",
+        "question": "How do the early color-based subpopulations of Type Ia supernovae identified in high-cadence photometric surveys correspond to the distinct explosion mechanisms, progenitor systems, and stellar population ages proposed across theoretical models and observational studies of Type Ia diversity?",
+        "response": {
+            "references": [
+                "Maximilian D. Stritzinger | Red versus Blue: Early Observations of Thermonuclear Supernovae Reveal Two Distinct Populations | 10.3847/2041-8213/aadd46",
+                "Daniel Kasen | Seeing the Collision of a Supernova with Its Companion Star | 10.1088/0004-637X/708/2/1025",
+                "Abigail Polin | Observational Signatures of Sub-Chandrasekhar Mass Double Detonations: Identifying Progenitors of Type Ia Supernovae | 10.3847/1538-4357/aafb6a",
+                "Ji-an Jiang | A hybrid type Ia supernova with an early flash triggered by helium-shell detonation | 10.1038/nature23908",
+                "Anthony L. Piro | What Can We Learn from the Rising Light Curves of Radioactively Powered Supernovae? | 10.1088/0004-637X/784/1/85"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3140539212",
+        "model": "gpt",
+        "question": "How do the systematic uncertainties and underlying assumptions of the Davis\u2013Chandrasekhar\u2013Fermi method compare across its various modifications and against independent field-strength estimation techniques such as Zeeman splitting when applied to star-forming molecular clouds?",
+        "response": {
+            "references": [
+                "Leverett Davis | The Strength of Interstellar Magnetic Fields | 10.1103/PhysRev.81.890",
+                "Subrahmanyan Chandrasekhar | Magnetic Fields in Spiral Arms | 10.1086/145732",
+                "Eve C. Ostriker | Density, Velocity, and Magnetic Field Structure in Turbulent Molecular Cloud Models | 10.1086/323434",
+                "Martin Houde | Dispersion of Magnetic Fields in Molecular Clouds. I. | 10.1088/0004-637X/706/2/1504",
+                "Richard M. Crutcher | Magnetic Fields in Interstellar Clouds from Zeeman Observations: Inference of Total Field Strengths by Bayesian Analysis | 10.1088/0004-637X/725/1/466"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3044970519",
+        "model": "gpt",
+        "question": "How does the reported redshift- and magnitude-independent conditional distribution of [O II] luminosity given NUV magnitude compare with the physical dependencies between [O II] emission, star formation rate, dust attenuation, and metallicity established across the broader literature on emission line galaxies?",
+        "response": {
+            "references": [
+                "Robert C. Kennicutt Jr. | Star Formation in Galaxies Along the Hubble Sequence | 10.1146/annurev.astro.36.1.189",
+                "Lisa J. Kewley | The [O II] Star Formation Rate Indicator | 10.1086/382723",
+                "John Moustakas | Optical Star Formation Rate Indicators | 10.1086/500964",
+                "David G. Gilbank | The local star formation rate density: assessing calibrations using [O II], H\u03b1 and UV luminosities | 10.1111/j.1365-2966.2010.16498.x",
+                "Guangtun Ben Zhu | The [O II] \u03bb3727 Luminosity Function at z ~ 1 | 10.1088/0004-637X/701/1/86"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402321018",
+        "model": "gpt",
+        "question": "How do the mechanisms driving galaxy quenching\u2014such as starvation, ram-pressure stripping, and feedback\u2014vary across the mass range and environments spanning Local Group satellites to massive field galaxies, and what distinct chemical signatures do these processes imprint on the stellar and gas-phase abundances of different elements?",
+        "response": {
+            "references": [
+                "James E. Gunn | On the Infall of Matter into Clusters of Galaxies and Some Effects on Their Evolution | 10.1086/151605",
+                "Andrew R. Wetzel | Galaxy evolution in groups and clusters: satellite star formation histories and quenching time-scales in a hierarchical Universe | 10.1093/mnras/stt469",
+                "Ying-jie Peng | Strangulation as the primary mechanism for shutting down star formation in galaxies | 10.1038/nature14439",
+                "Sean P. Fillingham | Taking care of business in a flash: constraining the timescale for low-mass satellite quenching with Local Group dwarf galaxies | 10.1093/mnras/stv2058",
+                "Evan N. Kirby | The Universal Stellar Mass\u2013Stellar Metallicity Relation for Dwarf Galaxies | 10.1088/0004-637X/779/2/102"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410329913",
+        "model": "gpt",
+        "question": "How do the energy spectra, timing, and radio/X-ray associations of impulsive low-energy ion and electron beam events observed by Parker Solar Probe near the Sun compare with dispersive solar energetic particle signatures measured at greater heliocentric distances, and what do these differences reveal about the mechanisms of particle acceleration, transport, and electron-ion energy partitioning in impulsive solar flares?",
+        "response": {
+            "references": [
+                "David J. McComas | Probing the energetic particle environment near the Sun | 10.1038/s41586-019-1811-1",
+                "Donald V. Reames | Particle acceleration at the Sun and in the heliosphere | 10.1023/A:1005105831781",
+                "S\u00e4m Krucker | Impulsive electron events observed at 1 AU: The association with type III radio bursts and solar flares | 10.1086/307801",
+                "Robert P. Lin | Non-relativistic solar electrons | 10.1023/A:1005058425660",
+                "Donald V. Reames | The Two Sources of Solar Energetic Particles | 10.1007/s11214-013-9958-9"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7137815868",
+        "model": "gpt",
+        "question": "How do the satellite abundance and radial distribution statistics of star-forming Magellanic Cloud\u2013like satellites around Milky Way analogs compare across observational surveys and cosmological simulations, and what do these comparisons reveal about the completeness of current satellite censuses and the physics of satellite quenching in hierarchical galaxy formation?",
+        "response": {
+            "references": [
+                "Linhua Liu | How Common Are the Magellanic Clouds? | 10.1088/0004-637X/733/1/62",
+                "Michael T. Busha | The Mass Distribution and Assembly of the Milky Way from the Properties of the Magellanic Clouds | 10.1088/0004-637X/743/1/40",
+                "Marla Geha | The SAGA Survey: Satellite Galaxy Populations around Eight Milky Way Analogs | 10.3847/1538-4357/aa8626",
+                "Jenna Samuel | A profile in FIRE: resolving the radial distributions of satellite galaxies in the Local Group with simulations | 10.1093/mnras/stz3054",
+                "Michael Boylan-Kolchin | Too big to fail? The puzzling darkness of massive Milky Way subhaloes | 10.1111/j.1365-2966.2011.18574.x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126078128",
+        "model": "gpt",
+        "question": "How do variations in deuterium fractionation and CO depletion across the starless-to-protostellar transition in Barnard 5 compare with those observed in other star-forming regions, and to what extent can these differences be attributed to source-specific properties versus universal trends in the coupling between CO freeze-out, protostellar feedback, and deuterium chemistry?",
+        "response": {
+            "references": [
+                "Paola Caselli | CO Depletion in the Starless Cloud Core L1544 | 10.1086/307363",
+                "Antonio Crapsi | Probing the Evolutionary Status of Starless Cores through N2H+ and N2D+ Observations | 10.1086/430141",
+                "Rachel K. Friesen | The Deuterium Fraction in Ophiuchus B | 10.1088/0004-637X/765/1/59",
+                "Helen Roberts | Modelling deuterium chemistry and its application to prestellar cores | 10.1051/0004-6361:20066670",
+                "Markus Emprechtinger | Deuterium fractionation in low-mass protostellar envelopes | 10.1051/0004-6361:200810324"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4381436208",
+        "model": "gpt",
+        "question": "To what extent do various coronal magnetic field models and observational datasets agree on the relative contributions of the equatorial dipole, polar fields, and higher-order multipoles in resolving the \"open flux problem\" across different solar cycles?",
+        "response": {
+            "references": [
+                "Jon A. Linker | The Open Flux Problem | 10.3847/1538-4357/aa8a70",
+                "Pete Riley | Can an Additional Source of Solar Wind Open Flux Solve the Open Flux Problem? | 10.3847/1538-4357/ab20d0",
+                "Mike Lockwood | The evolution of the Sun's open magnetic flux since 1868 | 10.1038/17286",
+                "M. J. Owens | The Heliospheric Magnetic Field | 10.12942/lrsp-2013-5",
+                "Marc L. DeRosa | Global Coronal Magnetic Field Models: Performance and Perspectives | 10.1007/s11214-012-9939-0"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415946837",
+        "model": "gpt",
+        "question": "To what extent does the wider astrophysical literature support the hypothesis that orbital resonance and inward migration histories are primary drivers of low core mass fractions and high volatile retention in terrestrial exoplanets, as observed in systems like Kepler-36 and Kepler-105?",
+        "response": {
+            "references": [
+                "Joshua A. Carter | Kepler-36: A Pair of Planets with Neighboring Orbits and Dissimilar Densities | 10.1126/science.1223269",
+                "Caroline Terquem | Migration and the Formation of Systems of Hot Super-Earths and Neptunes | 10.1086/509497",
+                "Andre Izidoro | Breaking the chains: hot super-Earth systems from migration and disruption of compact resonant chains | 10.1093/mnras/stx1232",
+                "Cayman T. Unterborn | Inward migration of the TRAPPIST-1 planets as inferred from their water-rich compositions | 10.1038/s41550-018-0411-6",
+                "Eric D. Lopez | Understanding the Mass-Radius Relation for Sub-neptunes: Radius as a Proxy for Composition | 10.1088/0004-637X/792/1/1"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3080971874",
+        "model": "gpt",
+        "question": "How do current numerical simulations and theoretical models reconcile the competing effects of gas-disk torques and stellar-dynamical hardening in overcoming the subparsec stalling of massive black hole binaries to facilitate gravitational wave mergers?",
+        "response": {
+            "references": [
+                "Mitchell C. Begelman | Massive black hole binaries in active galactic nuclei | 10.1038/287307a0",
+                "Milo\u0161 Milosavljevi\u0107 | The Final Parsec Problem | 10.1063/1.1629432",
+                "Lucio Mayer | Rapid Formation of Supermassive Black Hole Binaries in Galaxy Mergers with Gas | 10.1126/science.1141858",
+                "Jorge Cuadra | Massive black hole binary mergers within subparsec scale gas discs | 10.1111/j.1365-2966.2009.14538.x",
+                "Zolt\u00e1n Haiman | The Population of Viscosity- and Gravitational Wave-driven Supermassive Black Hole Binaries Among Luminous Active Galactic Nuclei | 10.1088/0004-637X/700/2/1952"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409552450",
+        "model": "gpt",
+        "question": "How do the late-time, intermediate-width and coronal emission lines observed in certain tidal disruption events constrain the properties of the circumnuclear medium when synthesized with existing models of extreme coronal line emitters and active galactic nuclei?",
+        "response": {
+            "references": [
+                "Stefanie Komossa | Discovery of Superstrong, Fading, Iron Line Emission and Double-peaked Balmer Lines of the Galaxy SDSS J095209.56+214313.3 | 10.1086/592094",
+                "Tinggui Wang | Extreme Coronal Line Emitters: Tidal Disruption of Stars by Massive Black Holes in Galactic Nuclei? | 10.1088/0004-637X/739/1/3",
+                "Cheng Yang | Long-term Follow-up Observations of Extreme Coronal Line Emitters | 10.1088/0004-637X/774/1/46",
+                "Nathaniel Roth | The X-Ray through Optical Fluxes and Line Strengths of Tidal Disruption Events | 10.3847/0004-637X/827/1/3",
+                "Sjoert van Velzen | Seventeen tidal disruption events from the first half of ZTF survey observations: entering a new era of population studies | 10.3847/1538-4357/abc258"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390886784",
+        "model": "gpt",
+        "question": "How do current astrochemical models and laboratory experiments reconcile the discrepancies between predicted and observed abundances of prebiotic amide-like molecules, such as formamide and acetamide, in diverse interstellar environments?",
+        "response": {
+            "references": [
+                "DeWayne T. Halfen | Interstellar Detection of Acetamide (CH3CONH2): The Largest Interstellar Molecule with a Peptide Bond | 10.1086/503004",
+                "Vincenzo Barone | Formation of formamide in the interstellar medium by neutral\u2013neutral reactions | 10.1073/pnas.1421514112",
+                "Gleb Fedoseev | Formation of formamide and related species in ultraviolet-irradiated interstellar ice analogues | 10.1093/mnras/stw1028",
+                "Niels F. W. Ligterink | The Formation of Peptide-like Molecules on Interstellar Dust Grains | 10.1021/acsearthspacechem.7b00134",
+                "Ana L\u00f3pez-Sepulcre | Shedding light on the formation of the prebiotic molecule formamide with ASAI | 10.1093/mnrasl/slv169"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416550738",
+        "model": "gpt",
+        "question": "How do the theoretical thresholds and excitation mechanisms for convection-driven inertial modes in rotating spherical shells, as identified in numerical simulations, align with current observational asteroseismic constraints on the internal dynamics of rapidly rotating stars and giant planets?",
+        "response": {
+            "references": [
+                "Friedrich H. Busse | Thermal instabilities in rapidly rotating systems | 10.1017/S0022112070001921",
+                "Jonathan M. Aurnou | Rotating convective turbulence in Earth and planetary cores | 10.1016/j.pepi.2014.10.014",
+                "Hideyuki Saio | R modes in rapidly rotating stars observed by Kepler | 10.1093/mnras/stx2962",
+                "Timothy Van Reeth | The near-core rotation rates of \u03b3 Doradus stars from Kepler: the effect of the Coriolis force | 10.1051/0004-6361/201628616",
+                "Conny Aerts | Probing the interior physics of stars through asteroseismology | 10.1103/RevModPhys.93.015001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3213569005",
+        "model": "gpt",
+        "question": "How do the varying energy injection timescales and feedback efficiencies implemented across different cosmological hydrodynamical simulations compare in their ability to transform cuspy dark matter profiles into cores within dwarf galaxies?",
+        "response": {
+            "references": [
+                "Fabio Governato | Bulgeless dwarf galaxies and dark matter cores from supernova-driven outflows | 10.1038/nature08640",
+                "Andrew Pontzen | How supernova feedback turns dark matter cusps into cores | 10.1038/nature10853",
+                "Arianna Di Cintio | The dependence of dark matter profiles on the stellar-to-halo mass ratio: a prediction for cusps versus cores | 10.1093/mnras/stu729",
+                "Jose O\u00f1orbe | Forged in FIRE: cusps, cores and baryons in low-mass dwarf galaxies | 10.1093/mnras/stv2072",
+                "Romain Teyssier | Cusp-core transformations in dwarf galaxies: observational predictions | 10.1093/mnras/sts563"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3070567070",
+        "model": "gpt",
+        "question": "How do the nucleosynthetic signatures of carbon-enhanced, metal-poor Lyman limit systems at high redshift compare with those of Galactic halo stars, and what does this comparison collectively reveal about the IMF and yields of the universe's first generation of supernovae?",
+        "response": {
+            "references": [
+                "Ryan Cooke | A carbon-enhanced metal-poor damped Ly\u03b1 system | 10.1111/j.1365-2966.2010.17966.x",
+                "Nicolas Lehner | The Cosmic Evolution of Carbon-enhanced Metal-poor Absorbers | 10.3847/0004-637X/833/2/283",
+                "Anna Frebel | Near-Field Cosmology with Extremely Metal-Poor Stars | 10.1146/annurev-astro-082214-122423",
+                "Jason Tumlinson | Carbon-enhanced Metal-poor Stars, the Cosmic Microwave Background, and the Stellar Initial Mass Function in the Early Universe | 10.1086/522855",
+                "Alexander Heger | Nucleosynthesis and Evolution of Massive Metal-free Stars | 10.1088/0004-637X/724/1/341"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4224110596",
+        "model": "gpt",
+        "question": "How do empirical observations of filament dissolution and subgroup mergers in young open clusters align with theoretical N-body simulations of hierarchical cluster assembly and dynamical evolution across the literature?",
+        "response": {
+            "references": [
+                "Richard J. Allison | Dynamical mass segregation on a very short timescale | 10.1088/0004-637X/700/1/L99",
+                "Richard J. Parker | The dynamical evolution of substructured star clusters | 10.1093/mnras/stu595",
+                "Simon P. Goodwin | The dynamical evolution of fractal star clusters: The survival of substructure | 10.1051/0004-6361:20041052",
+                "Eric D. Feigelson | Overview of the Massive Young Star-Forming Complex Study in Infrared and X-Ray (MYStIX) Project | 10.1088/0067-0049/209/2/26",
+                "Michiko S. Fujii | The formation of young massive clusters through hierarchical mergers | 10.1126/science.1257857"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126205459",
+        "model": "gpt",
+        "question": "How do contemporary real-time alert systems and their underlying predictive algorithms compare in their efficacy to forecast multiwavelength afterglow properties from prompt gamma-ray observations across diverse satellite constellations?",
+        "response": {
+            "references": [
+                "Scott D. Barthelmy | The GRB Coordinates Network (GCN): A Status Report | 10.1007/s11038-005-5096-3",
+                "Neil Gehrels | The Swift Gamma-Ray Burst Mission | 10.1086/422091",
+                "Phil A. Evans | An online repository of Swift/XRT light curves of gamma-ray bursts | 10.1051/0004-6361:20077530",
+                "Tilan N. Ukwatta | Machine-z: rapid machine-learned redshift indicators for Swift gamma-ray bursts | 10.1093/mnras/stw559",
+                "Adam Goldstein | Evaluation of Automated Fermi Gamma-ray Burst Monitor Localizations of Gamma-Ray Bursts | 10.3847/1538-4357/ab304e"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3045835824",
+        "model": "gpt",
+        "question": "How does the molecular cloud mass distribution power-law slope of $-1.96$ reported in the MWISP survey compare to findings from other Galactic and extragalactic CO surveys, and what does a synthesis of these data reveal about the environmental dependence of the molecular cloud mass function?",
+        "response": {
+            "references": [
+                "Philip M. Solomon | Mass, luminosity, and line width relations of Galactic molecular clouds | 10.1086/165983",
+                "Erik Rosolowsky | The Mass Spectrum of Giant Molecular Clouds in the Local Group | 10.1086/429616",
+                "Dario Colombo | The PdBI Arcsecond Whirlpool Survey (PAWS): The Environmental Dependence of Giant Molecular Cloud Properties in M51 | 10.1088/0004-637X/784/1/3",
+                "Jonathan D. Rice | A Uniform Catalog of Molecular Clouds in the Milky Way | 10.3847/0004-637X/822/1/52",
+                "Antoine Miville-Desch\u00eanes | A Galactic Plane Molecular Cloud Catalog and Luminosity Function from the BU-FCRAO Galactic Ring Survey | 10.3847/1538-4357/834/1/57"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7155357928",
+        "model": "gpt",
+        "question": "How does the model of rapid baryonic inflow within fuzzy dark matter soliton cores compare with alternative theoretical frameworks, such as nuclear starbursts or standard supermassive black hole feedback, in explaining the extreme obscuration and compact structures of \"Little Red Dots\" observed across different high-redshift JWST surveys?",
+        "response": {
+            "references": [
+                "Ivo Labb\u00e9 | A population of red candidate massive galaxies ~600 Myr after the Big Bang | 10.1038/s41586-023-05786-2",
+                "Dale D. Kocevski | Hidden Little Monsters: Spectroscopic Identification of Low-mass, Broad-line AGNs at z > 5 with CEERS | 10.3847/2041-8213/acad00",
+                "Jorryt Matthee | Little Red Dots: An Abundant Population of Faint Active Galactic Nuclei at z ~ 5 Revealed by the EIGER and FRESCO JWST Surveys | 10.3847/1538-4357/ad2345",
+                "Jenny E. Greene | UNCOVER Spectroscopy Confirms the Surprising Ubiquity of Active Galactic Nuclei in Red Sources at z > 5 | 10.3847/2041-8213/ad1e5f",
+                "Lam Hui | Ultralight scalars as cosmological dark matter | 10.1103/PhysRevD.95.043541"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388023724",
+        "model": "gpt",
+        "question": "How do the characteristic turbulence scales of magnetic fields derived from rotation measure structure functions within supernova remnants compare to those of the diffuse interstellar medium across different Galactic environments?",
+        "response": {
+            "references": [
+                "Anthony H. Minter | Observation of Turbulent Fluctuations in the Interstellar Plasma Density and Magnetic Field on Spatial Scales of 0.01 to 100 Parsecs | 10.1086/177494",
+                "Marijke Haverkorn | The Outer Scale of Turbulence in the Magnetoionized Galactic Interstellar Medium | 10.1086/587165",
+                "Marijke Haverkorn | Magnetic Field Turbulence in the Galactic Plane: A Rotation Measure Structure Function Analysis | 10.1086/500543",
+                "Jeroen M. Stil | Rotation Measure Structure Functions with Higher-order Stokes Parameters | 10.1088/0004-637X/726/1/4",
+                "Lisa Harvey-Smith | Magnetic Fields in Large-diameter Galactic Supernova Remnants | 10.1088/0004-637X/736/2/83"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4283750622",
+        "model": "gpt",
+        "question": "How do the distinct mechanisms driving short- and long-type short-wave fadeout (SWF) events, such as ionospheric sluggishness and solar flare radiation profiles, vary globally across different geomagnetic latitudes and solar cycles?",
+        "response": {
+            "references": [
+                "Liying Qian | The ionospheric response to solar flares | 10.1029/2010JA016296",
+                "Neil R. Thomson | Ionospheric D region parameters for the solar flare of 2001 April 15 | 10.1029/2005JA011008",
+                "Laura A. Hayes | Pulsations in the Earth's lower ionosphere synchronized with solar flare emission | 10.1002/2017JA024647",
+                "Bruce T. Tsurutani | The October 28, 2003 extreme EUV solar flare and resultant extreme ionospheric effects | 10.1029/2005GL023165",
+                "Aleksandra Nina | Altitude distribution of electron concentration in ionospheric D-region in presence of time-varying solar radiation flux | 10.1016/j.asr.2011.10.019"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3018734733",
+        "model": "gpt",
+        "question": "How do the consistently flat C/N abundance ratios and the metallicity-dependent dispersion of N/O ratios observed in extragalactic H II regions constrain current theoretical models of stellar nucleosynthetic yields and galactic chemical enrichment timescales?",
+        "response": {
+            "references": [
+                "Donald R. Garnett | The Carbon/Nitrogen Abundance Ratio in Dwarf Irregular Galaxies | 10.1086/175503",
+                "Robert B. C. Henry | On the Cosmic Origins of Carbon and Nitrogen | 10.1086/309471",
+                "Margarita Moll\u00e1 | The evolution of CNO elements in galaxies | 10.1111/j.1365-2966.2006.10918.x",
+                "Cristina Chiappini | Carbon, nitrogen and oxygen evolution in galaxies | 10.1051/0004-6361:20042567",
+                "M. B. Vila-Costas | The nitrogen-to-oxygen abundance ratio in galaxies | 10.1093/mnras/265.1.199"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407583426",
+        "model": "gpt",
+        "question": "How does the predictive accuracy and physical reliability of the newly proposed relative-alpha instability criterion compare to other established helicity- and energy-based precursors for forecasting solar eruptive events across diverse active region magnetic topologies?",
+        "response": {
+            "references": [
+                "Konstantinos Tziotziou | A Simple Empirical Model for Major Flare Prediction from Total Photospheric Magnetic Free Energy and Relative Magnetic Helicity | 10.1088/0004-637X/759/1/4",
+                "Barry J. LaBonte | Survey of Magnetic Helicity Injection in Regions Producing X-Class Flares | 10.1086/522682",
+                "Carolus J. Schrijver | A Characteristic Magnetic Field Pattern Associated with All Major Solar Flares and Its Use in Flare Forecasting | 10.1086/511857",
+                "David A. Falconer | Magnetic Causes of Solar Coronal Mass Ejections: Dominance of the Free Magnetic Energy over the Magnetic Twist Alone | 10.1086/591045",
+                "Bernd Kliem | Torus Instability | 10.1103/PhysRevLett.96.255002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406883057",
+        "model": "gpt",
+        "question": "How do contemporary solar dynamo models and heliospheric simulations reconcile the long-term, 30-year decline in solar polar magnetic fields with the strengthening of low-latitude toroidal fields, and what does this decoupling imply for the prediction of future solar cycle amplitudes?",
+        "response": {
+            "references": [
+                "Leif Svalgaard | Sunspot cycle 24: Smallest cycle in 100 years? | 10.1029/2004GL021664",
+                "Mausumi Dikpati | Simulating and predicting solar cycles using a flux-transport dynamo | 10.1086/506314",
+                "Andr\u00e9s Mu\u00f1oz-Jaramillo | Calibrating 100 Years of Polar Faculae Measurements: Implications for the Evolution of the Heliospheric Magnetic Field | 10.1088/0004-637X/753/2/146",
+                "Jie Jiang | Effects of the Scatter in Sunspot Group Tilt Angles on the Large-scale Magnetic Field at the Solar Surface | 10.1088/0004-637X/791/1/5",
+                "Lisa Upton | Predicting the Sun\u2019s Polar Magnetic Fields with a Surface Flux Transport Model | 10.1088/0004-637X/780/1/5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402151016",
+        "model": "gpt",
+        "question": "How consistently do stellar dynamical and gas dynamical modeling techniques agree on supermassive black hole mass determinations across different morphological types of galaxies, and what do these comparison studies reveal about the primary sources of systematic uncertainty inherent to each method?",
+        "response": {
+            "references": [
+                "Karl Gebhardt | The Black Hole Mass in M87 from Gemini/NIFS Adaptive Optics Observations | 10.1088/0004-637X/729/2/119",
+                "Jonelle L. Walsh | The M87 Black Hole Mass from Gas-dynamical Models of Space Telescope Imaging Spectrograph Observations | 10.1088/0004-637X/770/2/86",
+                "Jenny E. Greene | The Mass of the Black Hole in the Quasar Host Galaxy 3C 273 from Gas Dynamics | 10.1086/426125",
+                "Christopher A. Onken | A Gas-dynamical Black Hole Mass for the Nearby Lenticular Galaxy NGC 4526 | 10.1088/0004-637X/791/1/37",
+                "John Kormendy | Coevolution (or Not) of Supermassive Black Holes and Host Galaxies | 10.1146/annurev-astro-082708-101811"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3080761822",
+        "model": "gpt",
+        "question": "How do the galaxy quenching timescales and delay times inferred from the splashback feature in Sunyaev\u2013Zel\u2019dovich-selected clusters compare across different observational surveys and diverse cosmological hydrodynamical simulations?",
+        "response": {
+            "references": [
+                "Surhud More | The Splashback Radius as a Physical Halo Boundary and the Growth of Halo Mass | 10.1088/0004-637X/810/1/36",
+                "Susmita Adhikari | Splashback in accreting dark matter halos | 10.1088/1475-7516/2014/11/019",
+                "Eric J. Baxter | The Halo Boundary of Galaxy Clusters in the Sloan Digital Sky Survey | 10.3847/1538-4357/aa6ff0",
+                "Chihway Chang | Galaxy Clusters in the Dark Energy Survey Year 1: Detection of the Splashback Feature | 10.3847/1538-4357/aad5e7",
+                "Andrew R. Wetzel | Galaxy evolution in groups and clusters: satellite star formation histories and quenching time-scales in a hierarchical Universe | 10.1093/mnras/stt469"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4380785160",
+        "model": "gpt",
+        "question": "How do collective multi-wavelength observations of Seyfert 1\u20131.5 active galactic nuclei constrain the relative contributions of disk truncation, thermal Comptonization, and X-ray reprocessing in explaining the observed deviations from standard thin-disk accretion models?",
+        "response": {
+            "references": [
+                "Chris Done | Intrinsic disc emission and the soft X-ray excess in active galactic nuclei | 10.1111/j.1365-2966.2011.19779.x",
+                "Pierre-Olivier Petrucci | Testing warm Comptonization models for the origin of the soft X-ray excess in AGN | 10.1051/0004-6361/201731580",
+                "Missagh Mehdipour | Anatomy of the AGN in NGC 5548. I. A global model for the broadband spectral energy distribution | 10.1051/0004-6361/201425373",
+                "Hirofumi Noda | Explaining changing-look AGN with state transition triggered by rapid mass accretion rate drop | 10.1093/mnras/sty2032",
+                "Phil Uttley | X-ray reverberation around accreting black holes | 10.1007/s00159-014-0072-0"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4328089550",
+        "model": "gpt",
+        "question": "How do varying theoretical treatments of composition stratification and relativistic effects in the literature resolve the corotation singularity of stellar r-modes, and what are the collective implications of these different models for predicting gravitational-wave signatures from rapidly rotating neutron stars?",
+        "response": {
+            "references": [
+                "Nils Andersson | A New Class of Unstable Modes of Rotating Relativistic Stars | 10.1086/305919",
+                "John L. Friedman | Axial Instability of Rotating Relativistic Stars | 10.1086/305920",
+                "Yasufumi Kojima | The r-mode oscillation of relativistic stars | 10.1046/j.1365-8711.1998.01108.x",
+                "Christian D. Ott | The r-mode instability in relativistic stars | 10.1046/j.1365-8711.2001.04909.x",
+                "Keith H. Lockitch | Rotational modes of relativistic stars: Analytic results | 10.1103/PhysRevD.68.124010"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409464492",
+        "model": "gpt",
+        "question": "To what extent do current observational surveys and cosmological hydrodynamic simulations agree on the physical mechanisms\u2014such as mergers, gas accretion, and environmental quenching\u2014that drive the divergent structural alignment patterns of red and nonred early-type galaxies within the cosmic web?",
+        "response": {
+            "references": [
+                "Elmo Tempel | Galaxy spin alignment in filaments | 10.1088/2041-8205/775/2/L42",
+                "Sandrine Codis | Connecting the cosmic web to the spin of dark haloes: implications for galaxy formation | 10.1093/mnras/stv123",
+                "Katarina Kraljic | Galaxy spin alignments in the Horizon-AGN cosmological hydrodynamical simulation | 10.1093/mnras/staa250",
+                "Ananth Tenneti | Intrinsic alignments of galaxies in the MassiveBlack-II simulation: analysis of two-point statistics | 10.1093/mnras/stv206",
+                "Benjamin Joachimi | Galaxy Alignments: An Overview | 10.1007/s11214-010-9707-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4397002459",
+        "model": "gpt",
+        "question": "How do varying spectral reconstruction techniques, such as principal component analysis and light-curve-parameterized templates, compare in their capacity to model the near-infrared spectroscopic diversity of peculiar Type Ia supernova subtypes, and what are the resulting implications for the precision of cosmological K-corrections?",
+        "response": {
+            "references": [
+                "Eric Y. Hsiao | K-Corrections and Spectral Templates of Type Ia Supernovae | 10.1086/512054",
+                "Clare Saunders | SNEMO: Improved Empirical Models for Type Ia Supernovae | 10.3847/1538-4357/aaec7e",
+                "Michele Sasdelli | A metric space for Type Ia supernova spectra | 10.1093/mnras/stw1228",
+                "G. H. Marion | Low-Dispersion Near-Infrared Spectra of Type Ia Supernovae | 10.1088/0004-6256/138/2/727",
+                "Gast\u00f3n Folatelli | The Carnegie Supernova Project: Analysis of the First Sample of Low-Redshift Type-Ia Supernovae | 10.1088/0004-6256/139/1/120"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225784363",
+        "model": "gpt",
+        "question": "How do various general relativistic magnetohydrodynamic simulations in the literature compare in their predictions of how mini-disk mass accretion rates, radiative efficiencies, and electromagnetic luminosities scale as supermassive binary black holes evolve from larger separations to the late-stage inspiral regime?",
+        "response": {
+            "references": [
+                "Scott C. Noble | Circumbinary Magnetohydrodynamic Accretion into Inspiraling Binary Black Holes | 10.1088/0004-637X/755/1/51",
+                "Brian D. Farris | Binary Black Hole Accretion during Inspiral and Merger | 10.1093/mnrasl/slu160",
+                "Roman Gold | Accretion Disks around Binary Black Holes of Unequal Mass: General Relativistic Magnetohydrodynamic Simulations | 10.1088/0004-637X/781/2/94",
+                "Dennis B. Bowen | Quasi-periodicity of Supermassive Binary Black Hole Accretion Approaching Merger | 10.3847/2041-8213/aaa756",
+                "Samantha d\u2019Ascoli | Electromagnetic Emission from Supermassive Binary Black Holes Approaching Merger | 10.3847/1538-4357/aad8b4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4383101627",
+        "model": "gpt",
+        "question": "How does the proposed framework of coupled magnetospheric variations and internal moment-of-inertia dynamics for PSR B0540\u221269 compare with alternative theoretical models and observational data regarding anomalous braking indices and state transitions across the broader population of young pulsars?",
+        "response": {
+            "references": [
+                "Fiona E. Marshall | Discovery of an Abrupt Change in the Spin-down of the Young Pulsar PSR B0540\u221269 | 10.1088/2041-8205/807/2/L27",
+                "Andrew G. Lyne | Switched Magnetospheric Regulation of Pulsar Spin-Down | 10.1126/science.1186683",
+                "Ryan F. Archibald | A High Braking Index for a Pulsar | 10.3847/2041-8205/819/1/L16",
+                "Crist\u00f3bal M. Espinoza | The Braking Index of PSR J1734\u22123333 and the Magnetar Population | 10.1088/2041-8205/741/1/L13",
+                "Margaret A. Livingstone | A Braking Index for the Young, High-Magnetic-Field Pulsar in Kes 75 | 10.1088/0004-637X/730/2/66"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7125514988",
+        "model": "gpt",
+        "question": "How do the spatial scales and energetic transitions between AGN-driven outflows and gravitationally-induced tidal flows in Stephan's Quintet compare to those observed across other compact galaxy groups, and what does this comparison reveal about the impact of dense group environments on the efficiency of AGN feedback?",
+        "response": {
+            "references": [
+                "Michelle E. Cluver | Powerful H2 Line Cooling in Stephan's Quintet. I. Mapping the Dominant Cooling Pathways in Group-wide Shocks | 10.1088/0004-637X/710/1/248",
+                "Ewan O'Sullivan | A Deep Chandra Observation of Stephan's Quintet | 10.1088/0004-637X/701/2/1560",
+                "Paul Hickson | Compact Groups of Galaxies | 10.1146/annurev.astro.35.1.357",
+                "Lourdes Verdes-Montenegro | Where is the neutral atomic gas in Hickson groups? | 10.1051/0004-6361:20011127",
+                "Brian R. McNamara | Heating Hot Atmospheres with Active Galactic Nuclei | 10.1146/annurev.astro.45.051806.110625"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416126380",
+        "model": "gpt",
+        "question": "In light of CIBER's detection of a near-infrared background fluctuation excess that disfavors a single-component astrophysical origin, how do current theoretical models of intra-halo light, primordial black holes, and first-generation stars reconcile these multi-wavelength anisotropy measurements across different observational surveys?",
+        "response": {
+            "references": [
+                "Michael Zemcov | On the origin of near-infrared extragalactic background light anisotropy | 10.1126/science.1258168",
+                "Asantha Cooray | Near-infrared background anisotropies from diffuse intrahalo light of galaxies | 10.1038/nature11474",
+                "Alexander Kashlinsky | Tracing the first stars with fluctuations of the cosmic infrared background | 10.1038/nature04143",
+                "Nico Cappelluti | Cross-correlating cosmic infrared and X-ray background fluctuations: evidence of significant black hole populations among the CIB sources | 10.1088/0004-637X/769/1/68",
+                "Alexander Kashlinsky | LIGO Gravitational Wave Detection, Primordial Black Holes, and the Near-IR Cosmic Infrared Background Anisotropies | 10.3847/2041-8205/823/2/L25"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411034099",
+        "model": "gpt",
+        "question": "To what extent does the broader literature support external metal-poor gas accretion as a primary mechanism for driving positive metallicity gradients and triggering central starbursts in non-merging dwarf galaxies across different cosmic environments?",
+        "response": {
+            "references": [
+                "Jorge S\u00e1nchez Almeida | A Characteristic Oxygen Abundance Drop in Star-forming Galaxies | 10.1088/0004-637X/783/1/45",
+                "Jorge S\u00e1nchez Almeida | Localized Starbursts in Dwarf Galaxies Produced by the Impact of Low-metallicity Cosmic Clouds | 10.1088/2041-8205/810/2/L15",
+                "Giovanni Cresci | The gas metallicity gradient in high-redshift galaxies and its implications for galaxy evolution | 10.1038/nature09451",
+                "Lisa J. Kewley | The Flattening of Metallicity Gradients in Galaxy Pairs | 10.1088/2041-8205/721/1/L48",
+                "Joachim K\u00f6ppen | The influence of gas flows on the chemical evolution of dwarf galaxies | 10.1051/0004-6361:20042266"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402243105",
+        "model": "gpt",
+        "question": "How does the newly identified \"streaming torque\" compare with other established mechanisms for halting or reversing the rapid inward migration of low-mass protoplanets, and to what extent is this outward migration robust across the diverse protoplanetary disk environments and dust-to-gas ratios documented in the literature?",
+        "response": {
+            "references": [
+                "Sijme-Jan Paardekooper | A torque formula for non-isothermal Type I planetary migration \u2013 I. Unsaturated horseshoe drag | 10.1111/j.1365-2966.2009.15782.x",
+                "Sijme-Jan Paardekooper | A torque formula for non-isothermal Type I planetary migration \u2013 II. Effects of diffusion | 10.1111/j.1365-2966.2010.17442.x",
+                "Fr\u00e9d\u00e9ric S. Masset | Disk Surface Density Transitions as Protoplanet Traps | 10.1086/500967",
+                "Fr\u00e9d\u00e9ric S. Masset | Runaway Migration and the Formation of Hot Jupiters | 10.1086/373892",
+                "Pablo Ben\u00edtez-Llambay | Planet heating prevents inward migration of planetary cores | 10.1038/nature14277"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405697076",
+        "model": "gpt",
+        "question": "In light of recent observational constraints, how does jet-precession-induced depolarization compare with alternative mechanisms, such as turbulent magnetic fields or relativistic geometric effects, in explaining the unexpectedly low polarization degrees observed in the early optical afterglows of gamma-ray bursts across different astrophysical models?",
+        "response": {
+            "references": [
+                "Re'em Sari | Linear Polarization and Proper Motion in the Afterglow of Beamed Gamma-Ray Bursts | 10.1086/312294",
+                "Gabriele Ghisellini | Polarization light curves and position angle variation of beamed gamma-ray bursts | 10.1046/j.1365-8711.1999.03025.x",
+                "Andrei Gruzinov | Gamma-ray burst afterglow: polarization and analytic light curves | 10.1086/306720",
+                "Iain A. Steele | Ten per cent polarized optical emission from GRB 090102 | 10.1038/nature08590",
+                "Carole G. Mundell | Highly polarized light from stable ordered magnetic fields in GRB 120308A | 10.1038/nature12814"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3194701197",
+        "model": "gpt",
+        "question": "How do the ages of metal-poor stars derived from the Th-U-X nuclear chronometer compare with those obtained from other stellar dating techniques, and what does this synthesis imply for reconciling the current tension in cosmic age measurements between cosmic microwave background and gravitational lensing observations?",
+        "response": {
+            "references": [
+                "Roger Cayrel | Measurement of stellar age from uranium decay | 10.1038/35055507",
+                "Anna Frebel | Discovery of HE 1523\u22120901, a Strongly r-process-enhanced Metal-poor Star with Detected Uranium | 10.1086/518122",
+                "Vanessa Hill | First stars. I. The extreme r-element rich, iron-poor halo giant CS 31082-001. Implications for the r-process site(s) and radioactive cosmochronology | 10.1051/0004-6361:20020434",
+                "Nabila Aghanim | Planck 2018 results. VI. Cosmological parameters | 10.1051/0004-6361/201833910",
+                "Kenneth C. Wong | H0LiCOW XIII. A 2.4 per cent measurement of H0 from lensed quasars: 5.3\u03c3 tension between early- and late-universe probes | 10.1093/mnras/stz3094"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3012569800",
+        "model": "gpt",
+        "question": "How do the spectral-type-dependent trends in starspot temperature contrasts, magnetic field strengths, and penumbral dynamics predicted by 3D radiative MHD simulations compare with empirical constraints derived from multi-epoch spectropolarimetric and photometric observations of active late-type stars?",
+        "response": {
+            "references": [
+                "Svetlana V. Berdyugina | Starspots: A Key to the Stellar Dynamo | 10.12942/lrsp-2005-8",
+                "Klaus G. Strassmeier | Starspots | 10.1007/s00159-009-0020-6",
+                "Ansgar Reiners | Observations of Cool-Star Magnetic Fields | 10.12942/lrsp-2012-1",
+                "Oleg Kochukhov | Magnetic fields of M dwarfs | 10.1007/s00159-020-00130-3",
+                "Benjamin Beeck | Three-dimensional simulations of near-surface convection in main-sequence stars. I. Overall structure | 10.1051/0004-6361/201525788"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386212050",
+        "model": "gpt",
+        "question": "How do recent advancements in multi-dimensional core-collapse supernova simulations alter our broader understanding of the role neutrino-driven winds play in driving explosion energetics and weak r-process nucleosynthesis compared to traditional one-dimensional models?",
+        "response": {
+            "references": [
+                "Almudena Arcones | Neutrino-driven wind simulations and nucleosynthesis of heavy elements | 10.1088/0954-3899/40/1/013201",
+                "Shinya Wanajo | The r-process in Proto-neutron-star Wind Revisited | 10.3847/1538-4357/aae0f2",
+                "Hans-Thomas Janka | Explosion Mechanisms of Core-Collapse Supernovae | 10.1146/annurev-nucl-102711-094901",
+                "Bernhard M\u00fcller | The Status of Multi-Dimensional Core-Collapse Supernova Models | 10.1017/pasa.2016.40",
+                "Stephen W. Bruenn | The Development of Explosions in Axisymmetric ab Initio Core-collapse Supernova Simulations of 12\u201325 M\u2299 Stars | 10.3847/0004-637X/818/2/123"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401372798",
+        "model": "gpt",
+        "question": "How do the various theoretical models of circum-nuclear density profiles and outflow-medium interactions compare in their ability to explain the diverse timing, peak luminosities, and spectral evolutions of radio flares observed across the broader population of tidal disruption events?",
+        "response": {
+            "references": [
+                "Kate D. Alexander | Radio Properties of Tidal Disruption Events | 10.1007/s11214-020-00702-w",
+                "Dimitrios Giannios | Radio transients from stellar tidal disruption by massive black holes | 10.1111/j.1365-2966.2011.19188.x",
+                "Sjoert van Velzen | A radio jet from the optical and X-ray bright stellar tidal disruption flare ASASSN-14li | 10.1126/science.aad1182",
+                "Kate D. Alexander | Discovery of an Outflow from Radio Observations of the Tidal Disruption Event ASASSN-14li | 10.3847/2041-8205/819/2/L25",
+                "Edo Berger | Radio Observations of the Tidal Disruption Event Swift J164449.3+573451. I. Jet Energetics and the Pristine Parsec-scale Environment of a Supermassive Black Hole | 10.1088/0004-637X/748/1/36"
+            ]
+        }
+    }
+]

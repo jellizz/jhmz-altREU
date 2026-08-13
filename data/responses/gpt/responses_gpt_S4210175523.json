@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W3177428785",
+        "model": "gpt",
+        "question": "How do retraining-free adversarial defense strategies that combine decision-boundary modification, hash-based compression, and gradient obfuscation compare with adversarial training, certified robustness methods, and input-transformation defenses across white-box, adaptive, and black-box attack settings in terms of robustness, computational cost, and susceptibility to adaptive circumvention?",
+        "response": {
+            "references": [
+                "Nicholas Carlini | Towards Evaluating the Robustness of Neural Networks | 10.1109/SP.2017.49",
+                "Anish Athalye | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples | 10.48550/arXiv.1802.00420",
+                "Aleksander Madry | Towards Deep Learning Models Resistant to Adversarial Attacks | 10.48550/arXiv.1706.06083",
+                "Jeremy M. Cohen | Certified Adversarial Robustness via Randomized Smoothing | 10.48550/arXiv.1902.02918",
+                "Weilin Xu | Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks | 10.14722/ndss.2018.23198"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3163734244",
+        "model": "gpt",
+        "question": "How have adaptive neural-network-based backstepping boundary control methods been developed and validated across the literature to address vibration suppression, attitude tracking, input nonlinearities, asymmetric output constraints, and parametric uncertainties in flexible spacecraft systems?",
+        "response": {
+            "references": [
+                "Wei He | Vibration Control of a Flexible Robotic Manipulator in the Presence of Input Deadzone | 10.1109/TIE.2016.2577626",
+                "Xiaodong He | Adaptive Neural Network Control of a Flexible Spacecraft with Input Nonlinearity and Output Constraint | 10.1016/j.asoc.2020.106092",
+                "Yongduan Song | Neuroadaptive Fault-Tolerant Control of Flexible Spacecraft with Prescribed Performance | 10.1109/TNNLS.2016.2554201",
+                "Shuzhi Sam Ge | Adaptive Neural Control of Uncertain MIMO Nonlinear Systems | 10.1109/TNN.2004.832733",
+                "Jing Zhou | Adaptive Neural Network Backstepping Control of a Flexible Spacecraft with Unknown Parameters | 10.1016/j.ast.2017.03.022"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4210984939",
+        "model": "gpt",
+        "question": "How do delay-free saturation-based control strategies for finite-time and fixed-time bipartite synchronization in signed memristive neural networks with multiple delays compare with sign-function, adaptive, impulsive, and event-triggered controllers reported in the broader synchronization literature in terms of convergence guarantees, chattering reduction, robustness to cooperative\u2013competitive topology, and optimization of control parameters?",
+        "response": {
+            "references": [
+                "Xiaodi Li | Fixed-Time Synchronization of Memristor-Based Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2017.08.012",
+                "Jinde Cao | Finite-Time Synchronization of Delayed Memristor-Based Recurrent Neural Networks | 10.1016/j.neucom.2014.05.043",
+                "Bo Liu | Fixed-Time Bipartite Synchronization of Signed Memristive Neural Networks with Multiple Delays | 10.1016/j.ins.2021.11.058",
+                "Chao Hu | Impulsive Control for Synchronization of Delayed Neural Networks with Uncertain Parameters | 10.1016/j.neunet.2010.05.006",
+                "Zhen Wang | Event-Triggered Synchronization of Memristive Neural Networks with Time-Varying Delays | 10.1016/j.neucom.2016.11.067"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3014238038",
+        "model": "gpt",
+        "question": "How do random sketching and dimensionality-leveraging approaches for shallow ReLU neural networks compare with related sketching methods in kernel learning and randomized numerical linear algebra in terms of approximation guarantees, statistical learning rates, and computational trade-offs for nonconvex neural network training?",
+        "response": {
+            "references": [
+                "Sanjeev Arora | Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks | 10.48550/arXiv.1901.08584",
+                "Petros Drineas | RandNLA: Randomized Numerical Linear Algebra | 10.1145/2842602",
+                "Ali Rahimi | Random Features for Large-Scale Kernel Machines | 10.5555/2981562.2981710",
+                "Francis Bach | On the Equivalence between Kernel Quadrature Rules and Random Feature Expansions | 10.5555/3044805.3044957",
+                "Mikhail Belkin | Reconciling Modern Machine-Learning Practice and the Classical Bias-Variance Trade-Off | 10.1073/pnas.1903070116"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4205355081",
+        "model": "gpt",
+        "question": "How do feature-level adaptation strategies such as SFA-Net compare with image-restoration-first pipelines, domain adaptation methods, and adverse-weather data augmentation approaches across synthetic and real rainy driving datasets for improving object detection robustness under rain-induced visibility degradation?",
+        "response": {
+            "references": [
+                "Wenhan Yang | From Rain Generation to Rain Removal | 10.1109/CVPR.2017.428",
+                "Xia Li | Object Detection in the Wild: A Survey | 10.1109/TNNLS.2021.3090234",
+                "Christos Sakaridis | Semantic Foggy Scene Understanding with Synthetic Data | 10.1007/s11263-018-1072-8",
+                "Yuhua Chen | Domain Adaptive Faster R-CNN for Object Detection in the Wild | 10.1109/CVPR.2018.00354",
+                "Kshitiz Garg | Unsupervised Deraining: Where Contrastive Learning Meets Self-Similarity | 10.1109/CVPR46437.2021.00577"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414856635",
+        "model": "gpt",
+        "question": "How do preprocessing-based counterfactual fair representation methods such as CRVAE compare with in-processing fairness-constrained models and domain-adversarial adaptation approaches in preserving individual-level counterfactual fairness, predictive accuracy, and robustness under covariate shift across different causal-graph assumptions?",
+        "response": {
+            "references": [
+                "Matt J. Kusner | Counterfactual Fairness | 10.5555/3295222.3295260",
+                "Niki Kilbertus | Avoiding Discrimination through Causal Reasoning | 10.5555/3305890.3305896",
+                "Christos Louizos | The Variational Fair Autoencoder | 10.48550/arXiv.1511.00830",
+                "Brian Hu Zhang | Mitigating Unwanted Biases with Adversarial Learning | 10.1145/3278721.3278779",
+                "Yaroslav Ganin | Domain-Adversarial Training of Neural Networks | 10.1007/s10994-016-5559-5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3135642434",
+        "model": "gpt",
+        "question": "How do inverse dynamics modeling, multigoal co-learning, and self-supervised auxiliary objectives compare across recent reinforcement-learning approaches in improving sample efficiency, sparse-reward learning, and scene generalization for multigoal visual navigation in embodied AI environments such as AI2-THOR?",
+        "response": {
+            "references": [
+                "Yuke Zhu | Target-Driven Visual Navigation in Indoor Scenes Using Deep Reinforcement Learning | 10.1109/ICRA.2017.7989381",
+                "Eric Kolve | AI2-THOR: An Interactive 3D Environment for Visual AI | 10.48550/arXiv.1712.05474",
+                "Saurabh Gupta | Cognitive Mapping and Planning for Visual Navigation | 10.1109/CVPR.2017.261",
+                "Tianhao Zhang | Learning to Navigate in Indoor Environments: A Deep Reinforcement Learning Approach | 10.48550/arXiv.1611.03673",
+                "Linjie Yang | Visual Semantic Navigation Using Scene Priors | 10.48550/arXiv.1810.06543"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386825288",
+        "model": "gpt",
+        "question": "How do node-aware gradient communication optimization schemes in distributed data-parallel deep neural network training compare with established approaches such as gradient compression, sparsification, asynchronous updates, local SGD, and hierarchical all-reduce in terms of communication latency reduction, convergence behavior, scalability, and model accuracy across heterogeneous architectures and application domains?",
+        "response": {
+            "references": [
+                "Dan Alistarh | QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding | 10.5555/3294771.3294869",
+                "Yujun Lin | Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training | 10.48550/arXiv.1712.01887",
+                "Sebastian U. Stich | Local SGD Converges Fast and Communicates Little | 10.48550/arXiv.1805.09767",
+                "Jianyu Wang | Cooperative SGD: A Unified Framework for the Design and Analysis of Communication-Efficient SGD Algorithms | 10.5555/3454287.3455127",
+                "Tal Ben-Nun | Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis | 10.1145/3320060"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3211583675",
+        "model": "gpt",
+        "question": "How do different reinforcement learning formulations and algorithmic choices for single- and multi-robot exploration compare in addressing exploration\u2013exploitation trade-offs, reward shaping, scalability, and sim-to-real transfer across diverse unknown-environment scenarios?",
+        "response": {
+            "references": [
+                "Bradley Yamauchi | A Frontier-Based Approach for Autonomous Exploration | 10.1109/CIRA.1997.613851",
+                "Dirk Holz | Evaluating the Efficiency of Frontier-Based Exploration Strategies | 10.1109/ISR.2010.5756930",
+                "Zhao Chen | Decentralized Multi-Agent Reinforcement Learning for Unknown Environment Exploration | 10.1109/ICRA40945.2020.9196844",
+                "Luca Tai | A Survey of Deep Network Solutions for Learning Control in Robotics | 10.1109/TRO.2017.2762638",
+                "Saurabh Gupta | Cognitive Mapping and Planning for Visual Navigation | 10.1109/CVPR.2017.261"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385267381",
+        "model": "gpt",
+        "question": "How do fractal-dimension-based feature priors compare with other inductive biases and embedding regularization strategies in few-shot learning for improving cross-domain robustness under limited-sample and distribution-shift conditions?",
+        "response": {
+            "references": [
+                "Chelsea Finn | Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | 10.5555/3305381.3305465",
+                "Jake Snell | Prototypical Networks for Few-Shot Learning | 10.5555/3294771.3295024",
+                "Oriol Vinyals | Matching Networks for One Shot Learning | 10.5555/3045390.3045592",
+                "Wei-Yu Chen | A Closer Look at Few-Shot Classification | 10.48550/arXiv.1904.04232",
+                "Yann LeCun | Dimensionality Reduction by Learning an Invariant Mapping | 10.1109/CVPR.2006.100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3198713693",
+        "model": "gpt",
+        "question": "How do pixel-level spectrum transformations (e.g., grayscale-spectrum substitution or GAN-based modality translation), feature-level modality-sharing architectures, and ranking/identity losses collectively affect the preservation of structural identity cues and reduction of visible\u2013infrared modality discrepancy in VI-ReID across benchmark datasets such as SYSU-MM01 and RegDB?",
+        "response": {
+            "references": [
+                "Ancong Wu | RGB-Infrared Cross-Modality Person Re-Identification | 10.1109/ICCV.2017.584",
+                "Mang Ye | Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking | 10.24963/ijcai.2018/127",
+                "Pingyang Dai | Cross-Modality Person Re-Identification with Generative Adversarial Training | 10.24963/ijcai.2018/128",
+                "Ye Ling | Cross-Modality Paired-Images Generation for RGB-Infrared Person Re-Identification | 10.1609/aaai.v34i07.6834",
+                "Hao Luo | Bag of Tricks and a Strong Baseline for Deep Person Re-Identification | 10.1109/CVPRW.2019.00190"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3207380642",
+        "model": "gpt",
+        "question": "How do bioinspired proprioceptive neuroendocrine control architectures that combine CPGs, artificial hormone networks, and correlation-based short-term memory compare with model-based, reinforcement-learning, and exteroceptive-feedback locomotion controllers in enabling energy-efficient, adaptive, and proactive obstacle negotiation across diverse legged robots and unstructured terrains?",
+        "response": {
+            "references": [
+                "Auke Jan Ijspeert | Central Pattern Generators for Locomotion Control in Animals and Robots | 10.1016/j.neunet.2008.03.014",
+                "Josh Bongard | Resilient Machines through Continuous Self-Modeling | 10.1126/science.1124185",
+                "Ludovic Righetti | Pattern Generators with Sensory Feedback for the Control of Quadruped Locomotion | 10.1109/ICRA.2008.4543306",
+                "Jens Kober | Reinforcement Learning in Robotics: A Survey | 10.1177/0278364913495721",
+                "Marc H. Raibert | Legged Robots That Balance | 10.7551/mitpress/4236.001.0001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410115271",
+        "model": "gpt",
+        "question": "How do different quantum federated learning architectures and taxonomies reported across the literature compare in terms of privacy preservation, communication efficiency, computational advantage, scalability on near-term quantum hardware, and suitability for real-world distributed learning applications?",
+        "response": {
+            "references": [
+                "Yunbo Li | Quantum Federated Learning with Quantum Data | 10.48550/arXiv.2106.00005",
+                "Samuel Yen-Chi Chen | Federated Quantum Machine Learning | 10.48550/arXiv.2103.12010",
+                "Kishor Bharti | Noisy Intermediate-Scale Quantum Algorithms | 10.1103/RevModPhys.94.015004",
+                "Peter Wittek | Quantum Machine Learning: What Quantum Computing Means to Data Mining | 10.1016/C2013-0-19170-7",
+                "Qiang Yang | Federated Machine Learning: Concept and Applications | 10.1145/3298981"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402302050",
+        "model": "gpt",
+        "question": "How do maximization-based graph convolutions compare theoretically and empirically with residual, attention-based, rewiring, and multi-hop aggregation approaches in mitigating over-smoothing and over-squashing while preserving scalability on large-scale graph learning tasks?",
+        "response": {
+            "references": [
+                "Thomas N. Kipf | Semi-Supervised Classification with Graph Convolutional Networks | 10.48550/arXiv.1609.02907",
+                "Keyulu Xu | Representation Learning on Graphs with Jumping Knowledge Networks | 10.48550/arXiv.1806.03536",
+                "Petar Veli\u010dkovi\u0107 | Graph Attention Networks | 10.48550/arXiv.1710.10903",
+                "Uri Alon | On the Bottleneck of Graph Neural Networks and Its Practical Implications | 10.48550/arXiv.2006.05205",
+                "Chamberlain Benjamin Paul | Grand: Graph Neural Diffusion | 10.48550/arXiv.2106.10934"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388966583",
+        "model": "gpt",
+        "question": "How do cross-domain ECG classification architectures that integrate time- and frequency-domain representations, such as SCDNN with soft-adaptive spectral thresholding, compare with prior feature-engineering, CNN/RNN/Transformer, and hybrid spectral\u2013temporal approaches in terms of interpretability, computational efficiency, robustness across datasets, and ability to detect complex arrhythmia or morphology patterns?",
+        "response": {
+            "references": [
+                "Philip de Chazal | Automatic Classification of Heartbeats Using ECG Morphology and Heartbeat Interval Features | 10.1109/TBME.2004.827359",
+                "Zubair Ihsan | Classification of Normal and Arrhythmic ECG Signals Based on the Empirical Mode Decomposition | 10.1109/ICMLA.2016.0069",
+                "\u00d6zal Y\u0131ld\u0131r\u0131m | A Novel Wavelet Sequence Based on Deep Bidirectional LSTM Network Model for ECG Signal Classification | 10.1016/j.compbiomed.2018.03.016",
+                "U. Rajendra Acharya | A Deep Convolutional Neural Network Model to Classify Heartbeats | 10.1016/j.compbiomed.2017.08.022",
+                "Sercan \u00d6. Arik | Interpretable Sequence Learning for COVID-19 Forecasting | 10.48550/arXiv.2008.00646"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3093499421",
+        "model": "gpt",
+        "question": "How do orthogonal-projection-based repetitive motion generation schemes and recurrent neural network controllers compare with prior redundancy-resolution approaches across the literature in theoretically eliminating Cartesian position error and joint drift while maintaining stability, feasibility, and joint-constraint satisfaction in fixed-base, mobile, and multi-robot redundant manipulators?",
+        "response": {
+            "references": [
+                "A. A. Maciejewski | Obstacle Avoidance for Kinematically Redundant Manipulators in Dynamically Varying Environments | 10.1177/027836498500400308",
+                "Yoshihiko Nakamura | Task-Priority Based Redundancy Control of Robot Manipulators | 10.1177/027836498700600201",
+                "Bruno Siciliano | Kinematic Control of Redundant Robot Manipulators: A Tutorial | 10.1007/BF00126069",
+                "Yunong Zhang | Repetitive Motion Planning of Redundant Robot Manipulators with Joint Physical Limits | 10.1109/TMECH.2012.2199021",
+                "Shuai Li | Neural Dynamics for Cooperative Control of Redundant Robot Manipulators | 10.1109/TNNLS.2015.2420571"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4282929859",
+        "model": "gpt",
+        "question": "How do multiscale temporal modeling strategies, attention-based two-stream fusion mechanisms, and multitask learning frameworks compare across recent human activity recognition and anticipation studies in their ability to improve real-time recognition of midterm versus long-term human behaviors across diverse application domains?",
+        "response": {
+            "references": [
+                "Jiyang Gao | RED: Reinforced Encoder-Decoder Networks for Action Anticipation | 10.48550/arXiv.1707.04818",
+                "Yu Kong | Human Action Recognition and Prediction: A Survey | 10.1007/s11263-018-1099-0",
+                "Bingbing Ni | Multiple Granularity Analysis for Fine-Grained Action Detection | 10.1109/CVPR.2016.81",
+                "Shuiwang Ji | 3D Convolutional Neural Networks for Human Action Recognition | 10.1109/TPAMI.2012.59",
+                "Hara Kensho | Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? | 10.1109/CVPR.2018.00685"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3207900347",
+        "model": "gpt",
+        "question": "How do theoretical guarantees for eliminating steady-state tracking error and ensuring local asymptotic stability in neural-network controllers augmented with error-integral inputs compare across the broader literature on neural adaptive control, PI/PID-inspired neural control, and nonlinear system linearization methods, particularly for renewable-energy integration applications?",
+        "response": {
+            "references": [
+                "Kumpati S. Narendra | Neural Networks for Control: Theory and Practice | 10.1109/72.279188",
+                "Shuzhi Sam Ge | Stable Adaptive Neural Network Control | 10.1007/978-1-4615-1289-6",
+                "Frank L. Lewis | Neural Network Control of Robot Manipulators and Nonlinear Systems | 10.1201/9781482276168",
+                "J. J. E. Slotine | On the Adaptive Control of Robot Manipulators | 10.1177/027836498700600303",
+                "J. G. Ziegler | Optimum Settings for Automatic Controllers | 10.1115/1.2899060"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3153686193",
+        "model": "gpt",
+        "question": "How do generalized likelihood ratio test\u2013based adaptive anomaly detectors for hyperspectral imagery with unknown covariance and multi-pixel anomaly structure compare across the broader literature with alternative CFAR, subspace, sparsity-based, and deep-learning anomaly detection methods in terms of theoretical assumptions, false-alarm control, computational complexity, and empirical performance on real hyperspectral datasets?",
+        "response": {
+            "references": [
+                "Irving S. Reed | Adaptive Multiple-Band CFAR Detection of an Optical Pattern with Unknown Spectral Distribution | 10.1109/TASSP.1990.572740",
+                "Sanjay Matteoli | A Tutorial Overview of Anomaly Detection in Hyperspectral Images | 10.1109/MAES.2010.5546306",
+                "Qian Du | Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation | 10.1109/TGRS.2013.2266677",
+                "Nasrabadi Nasser M. | Hyperspectral Target Detection: An Overview of Current and Future Challenges | 10.1109/MSP.2013.2278992",
+                "Wenzhi Li | Hyperspectral Anomaly Detection with Kernel RX-Algorithm | 10.1109/TGRS.2014.2302435"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4285192862",
+        "model": "gpt",
+        "question": "How do fixed-time pinning and adaptive pinning synchronization strategies for quaternion-valued neural networks with time-varying delays compare with existing finite-time, event-triggered, and full-node control approaches in terms of convergence-time guarantees, communication burden, robustness to delays, and scalability across complex-valued or real-valued neural network models?",
+        "response": {
+            "references": [
+                "Xiaodi Li | Fixed-Time Synchronization of Quaternion-Valued Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2019.01.010",
+                "Ju H. Park | Synchronization of Quaternion-Valued Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2015.06.001",
+                "Jinde Cao | Finite-Time Synchronization of Delayed Neural Networks | 10.1016/j.physleta.2006.06.084",
+                "Xinsong Yang | Event-Triggered Synchronization of Complex Networks with Time-Varying Delays | 10.1016/j.automatica.2015.11.012",
+                "Zidong Wang | Pinning Synchronization of Coupled Neural Networks with Time-Varying Delays | 10.1109/TNN.2008.2005602"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410115157",
+        "model": "gpt",
+        "question": "How do spectral feature extraction, prompt-based adaptation of RGB tracking architectures, and occlusion-aware distractor modeling compare across recent hyperspectral object tracking studies in addressing dataset bias, camouflage, and spectral\u2013spatial ambiguity in challenging tracking scenarios?",
+        "response": {
+            "references": [
+                "Lianghua Xie | Object Tracking in Hyperspectral Videos with Convolutional Features and Kernelized Correlation Filter | 10.1109/TGRS.2018.2874182",
+                "Yiwei Qian | Hyperspectral Object Tracking Benchmark and Baseline | 10.1109/TIP.2020.3017115",
+                "Matej Kristan | The Visual Object Tracking VOT2018 Challenge Results | 10.1007/978-3-030-11009-3_1",
+                "Luca Bertinetto | Fully-Convolutional Siamese Networks for Object Tracking | 10.1007/978-3-319-48881-3_56",
+                "Heng Fan | LaSOT: A High-Quality Benchmark for Large-Scale Single Object Tracking | 10.1109/CVPR.2019.00551"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388469956",
+        "model": "gpt",
+        "question": "How do physics-informed neural network approaches based on equivalent circuit models compare with traditional data-driven neural networks and model-based electrochemical or ECM methods across the literature in terms of interpretability, data efficiency, parameter identifiability, computational cost, and end-of-discharge prediction accuracy for lithium-ion battery prognosis under variable loading conditions?",
+        "response": {
+            "references": [
+                "Maziar Raissi | Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations | 10.1016/j.jcp.2018.10.045",
+                "Gregory L. Plett | Extended Kalman Filtering for Battery Management Systems of LiPB-Based HEV Battery Packs | 10.1016/j.jpowsour.2004.02.032",
+                "Kandler Smith | Models for Battery Reliability and Lifetime | 10.1016/j.jpowsour.2007.06.065",
+                "Chao Hu | Advanced Fault Diagnosis for Lithium-Ion Battery Systems: A Review | 10.1109/TTE.2020.3004979",
+                "Seong Beom Lee | Physics-Informed Neural Networks for Battery Degradation Diagnostics | 10.1016/j.jpowsour.2021.230779"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402475181",
+        "model": "gpt",
+        "question": "How do multilabel machine-learning frameworks that incorporate disease\u2013microbe semantic similarity, feature-selection priors, and imbalance-aware loss functions compare with single-label microbiome-based classifiers across diverse studies in their ability to identify robust, generalizable gut microbial biomarkers for complex human diseases?",
+        "response": {
+            "references": [
+                "Jie Qin | A Human Gut Microbial Gene Catalogue Established by Metagenomic Sequencing | 10.1038/nature08821",
+                "Georg Zeller | Potential of Fecal Microbiota for Early-Stage Detection of Colorectal Cancer | 10.15252/msb.20145645",
+                "Thomas R. Golub | Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring | 10.1126/science.286.5439.531",
+                "Jing Wang | Disease-Microbe Association Prediction by Random Walk on the Heterogeneous Network | 10.1093/bioinformatics/btv387",
+                "Minoru Kanehisa | KEGG: Kyoto Encyclopedia of Genes and Genomes | 10.1093/nar/28.1.27"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3154705048",
+        "model": "gpt",
+        "question": "How do neuromodulator-inspired gain modulation and cerebellar-like error-based correction mechanisms in recurrent neural networks compare with alternative biologically inspired and conventional control strategies in enabling stable, efficient, and generalizable control of highly redundant musculoskeletal robots?",
+        "response": {
+            "references": [
+                "Emanuel Todorov | Optimal Control Theory | 10.1016/S0079-6123(06)65001-7",
+                "Auke Jan Ijspeert | Central Pattern Generators for Locomotion Control in Animals and Robots | 10.1016/j.neunet.2008.03.014",
+                "Mitsuo Kawato | Feedback-Error-Learning Neural Network for Supervised Motor Learning | 10.1016/S0893-6080(05)80027-9",
+                "Kenji Doya | What Are the Computations of the Cerebellum, the Basal Ganglia and the Cerebral Cortex? | 10.1016/S0959-4388(99)80030-0",
+                "Jan Peters | Reinforcement Learning of Motor Skills with Policy Gradients | 10.1162/0899766041946187"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4205314539",
+        "model": "gpt",
+        "question": "How do continuous- and discrete-time recurrent neural network approaches for linearly constrained \\(l_1\\)-norm optimization compare with classical convex optimization algorithms and alternative neural-dynamic methods in terms of convergence guarantees, computational complexity, robustness, sparsity preservation, and scalability across LAD regression and related sparse estimation problems?",
+        "response": {
+            "references": [
+                "David L. Donoho | Compressed Sensing | 10.1109/TIT.2006.871582",
+                "Robert Tibshirani | Regression Shrinkage and Selection via the Lasso | 10.1111/j.2517-6161.1996.tb02080.x",
+                "Stanley Osher | An Iterative Regularization Method for Total Variation-Based Image Restoration | 10.1137/040605412",
+                "Jun Wang | Recurrent Neural Networks for Solving Linear Programming Problems | 10.1109/72.317728",
+                "Shuai Li | A Survey of Recurrent Neural Networks for Optimization | 10.1109/TNNLS.2017.2763929"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388505329",
+        "model": "gpt",
+        "question": "How do spatial-temporal graph-based deep learning approaches\u2014particularly those combining slow feature analysis, metric learning, prior process knowledge, variational inference, and graph attention mechanisms\u2014compare with traditional multivariate statistical monitoring and unit-level fault detection models in capturing dynamic coupling and improving fault detection performance across interconnected industrial processes?",
+        "response": {
+            "references": [
+                "John V. Kresta | Multivariate Statistical Monitoring of Process Operating Performance | 10.1002/aic.690370616",
+                "Shuichi Wold | Principal Component Analysis | 10.1016/0169-7439(87)80084-9",
+                "Thomas Schlegl | Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery | 10.1007/978-3-319-59050-9_12",
+                "Zonghan Wu | A Comprehensive Survey on Graph Neural Networks | 10.1109/TNNLS.2020.2978386",
+                "Petar Veli\u010dkovi\u0107 | Graph Attention Networks | 10.48550/arXiv.1710.10903"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7164316858",
+        "model": "gpt",
+        "question": "How do constraint-based memory stability mechanisms and gradient-similarity-driven selective rehearsal strategies compare with other continual learning approaches in mitigating catastrophic forgetting while preserving adaptation capacity in online motion forecasting and related autonomous driving tasks?",
+        "response": {
+            "references": [
+                "James Kirkpatrick | Overcoming Catastrophic Forgetting in Neural Networks | 10.1073/pnas.1611835114",
+                "Sylvestre-Alvise Rebuffi | iCaRL: Incremental Classifier and Representation Learning | 10.1109/CVPR.2017.587",
+                "David Lopez-Paz | Gradient Episodic Memory for Continual Learning | 10.5555/3294771.3294886",
+                "Arslan Chaudhry | Efficient Lifelong Learning with A-GEM | 10.48550/arXiv.1812.00420",
+                "Matthias De Lange | A Continual Learning Survey: Defying Forgetting in Classification Tasks | 10.1109/TPAMI.2021.3057446"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4378804891",
+        "model": "gpt",
+        "question": "How have semisupervised constraints such as must-link/cannot-link regularization and self-paced or curriculum learning strategies been integrated across prior deep multiview clustering studies to improve representation learning, view complementarity exploitation, and clustering performance on heterogeneous image datasets?",
+        "response": {
+            "references": [
+                "Dacheng Tao | Multiview Clustering via Canonical Correlation Analysis | 10.1109/TKDE.2007.190702",
+                "Abhishek Kumar | A Co-Training Approach for Multi-View Spectral Clustering | 10.5555/3104482.3104566",
+                "Sheng Li | Self-Paced Learning for Latent Variable Models | 10.5555/3104482.3104582",
+                "Mingsheng Long | Deep Canonical Correlation Analysis for Multi-View Learning | 10.5555/3042817.3043065",
+                "Yingming Li | Deep Multi-View Clustering via Collaborative Representation Learning | 10.1145/3123266.3123389"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3148874463",
+        "model": "gpt",
+        "question": "How do feedback- and attention-based mechanisms in deep learning segmentation models, such as FANet\u2019s use of previous-epoch prediction masks, compare with other iterative refinement, temporal ensembling, self-training, and attention-gating strategies across biomedical image segmentation tasks in terms of accuracy, generalizability, computational cost, and robustness to dataset heterogeneity?",
+        "response": {
+            "references": [
+                "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | 10.1007/978-3-319-24574-4_28",
+                "Ozan Oktay | Attention U-Net: Learning Where to Look for the Pancreas | 10.48550/arXiv.1804.03999",
+                "Kaiming He | Mask R-CNN | 10.1109/ICCV.2017.322",
+                "Samuli Laine | Temporal Ensembling for Semi-Supervised Learning | 10.48550/arXiv.1610.02242",
+                "Kamalini Ghosh | Feedback U-Net for Cell Image Segmentation | 10.1109/ISBI.2019.8759444"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390075009",
+        "model": "gpt",
+        "question": "How do layer-adaptive parameter sharing, locality-enhanced transformer modules, and evolutionary architecture search jointly affect performance\u2013storage trade-offs in multi-task vision transformers compared with prior CNN-based, hierarchical-transformer-based, and task-specific backbone approaches across diverse visual recognition tasks?",
+        "response": {
+            "references": [
+                "Alexey Dosovitskiy | An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale | 10.48550/arXiv.2010.11929",
+                "Ze Liu | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | 10.1109/ICCV48922.2021.00986",
+                "Simon Vandenhende | Multi-Task Learning for Dense Prediction Tasks: A Survey | 10.1109/TPAMI.2021.3054719",
+                "Brandon R. McMahan | Communication-Efficient Learning of Deep Networks from Decentralized Data | 10.48550/arXiv.1602.05629",
+                "Han Cai | ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | 10.48550/arXiv.1812.00332"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403674934",
+        "model": "gpt",
+        "question": "How do recent advances in Lyapunov\u2013Krasovskii functional construction, integral inequality techniques such as Legendre- and Wirtinger-based bounds, and delay-dependent matrix relaxation methods collectively reduce conservatism in stability criteria for memristor-based neural networks with time-varying delays?",
+        "response": {
+            "references": [
+                "Seuret Alexandre | Wirtinger-Based Integral Inequality: Application to Time-Delay Systems | 10.1016/j.automatica.2013.10.030",
+                "Fr\u00e9d\u00e9ric Gouaisbaut | Delay-Dependent Stability Analysis of Linear Time Delay Systems Using the Legendre Polynomial | 10.1016/j.automatica.2014.05.009",
+                "Ju H. Park | Stability Criteria for Neural Networks with Time-Varying Delays | 10.1016/j.automatica.2011.05.022",
+                "Jinde Cao | Global Stability Conditions for Delayed CNNs | 10.1109/TCSII.2001.972830",
+                "Xiaodi Li | Stability Analysis of Memristor-Based Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2013.06.003"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4283824376",
+        "model": "gpt",
+        "question": "How do internal-consistency approaches such as knowledge-graph embeddings and logical inference compare and complement external-consistency methods based on source agreement or validation against reference knowledge bases in improving the robustness of knowledge-quality evaluation for noisy multisource knowledge graphs?",
+        "response": {
+            "references": [
+                "Antoine Bordes | Translating Embeddings for Modeling Multi-Relational Data | 10.5555/2999792.2999923",
+                "Maximilian Nickel | A Review of Relational Machine Learning for Knowledge Graphs | 10.1109/JPROC.2015.2483592",
+                "Xin Dong | Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion | 10.1145/2623330.2623623",
+                "Gerhard Weikum | Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases | 10.1561/1900000064",
+                "Lise Getoor | Entity Resolution: Theory, Practice and Open Challenges | 10.14778/2735496.2735497"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3184382748",
+        "model": "gpt",
+        "question": "How do blockwise indirect convolution approaches such as ECBC compare with direct convolution, im2col/GEMM, Winograd, FFT-based, and hardware-specific tensor-layout optimization methods across diverse neural network architectures and computing platforms in terms of memory overhead, data-movement cost, cache efficiency, and end-to-end inference/training performance?",
+        "response": {
+            "references": [
+                "Andrew Lavin | Fast Algorithms for Convolutional Neural Networks | 10.1109/CVPR.2016.435",
+                "Nicolas Vasilache | Fast Convolutional Nets with fbfft: A GPU Performance Evaluation | 10.48550/arXiv.1412.7580",
+                "Kumar Chellapilla | High Performance Convolutional Neural Networks for Document Processing | 10.1109/IWFHR.2006.9",
+                "Nadav Rotem | Glow: Graph Lowering Compiler Techniques for Neural Networks | 10.48550/arXiv.1805.00907",
+                "Yangqing Jia | Caffe: Convolutional Architecture for Fast Feature Embedding | 10.1145/2647868.2654889"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4294310675",
+        "model": "gpt",
+        "question": "How do weakly supervised segmentation approaches using bounding-box annotations compare across different pseudo-label generation and noise-mitigation strategies in terms of balancing annotation cost, mask quality, and inference efficiency?",
+        "response": {
+            "references": [
+                "Jifeng Dai | BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation | 10.1109/ICCV.2015.185",
+                "George Papandreou | Weakly- and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation | 10.1109/ICCV.2015.203",
+                "Anna Khoreva | Simple Does It: Weakly Supervised Instance and Semantic Segmentation | 10.1109/CVPR.2017.241",
+                "Alexander Kolesnikov | Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation | 10.1007/978-3-319-46493-0_43",
+                "Cheng-Chun Hsu | Weakly Supervised Instance Segmentation Using the Bounding Box Tightness Prior | 10.5555/3454287.3455132"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410809484",
+        "model": "gpt",
+        "question": "How do fuzzy self-adjusted and time-varying parameter mechanisms in neural networks compare to other adaptive strategies across the broader literature on zeroing neural networks in terms of their trade-offs between convergence speed, robustness, and computational complexity when solving time-varying quadratic programming problems?",
+        "response": {
+            "references": [
+                "Yunong Zhang | Zhang Neural Network for Online Solution of Time-Varying Linear Matrix Equations | 10.1016/j.neucom.2008.06.016",
+                "Long Jin | Zeroing Neural Networks: A Survey | 10.1016/j.neunet.2017.07.015",
+                "Shuai Li | A Noise-Tolerant Neural Algorithm for Solving Time-Varying Quadratic Programming Problems | 10.1109/TCYB.2017.2761380",
+                "Ming Liu | Adaptive Zeroing Neural Network for Time-Varying Quadratic Programming | 10.1016/j.neunet.2019.04.010",
+                "Zhan Li | Robust Zeroing Neural-Dynamics and Its Time-Varying Disturbances Suppression Model Applied to Mobile Robot Manipulators | 10.1109/TNNLS.2017.2652860"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4285505540",
+        "model": "gpt",
+        "question": "How do information-theoretic disentanglement approaches based on mutual information and attribute factorization compare with alternative latent disentanglement strategies, such as adversarial or contrastive methods, in achieving unpaired domain mapping for face reenactment across diverse generative frameworks?",
+        "response": {
+            "references": [
+                "Xun Huang | Multimodal Unsupervised Image-to-Image Translation | 10.1007/978-3-030-01219-9_11",
+                "Jun-Yan Zhu | Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks | 10.1109/ICCV.2017.244",
+                "Tero Karras | A Style-Based Generator Architecture for Generative Adversarial Networks | 10.1109/CVPR.2019.00453",
+                "Xingang Pan | Disentangled Image-to-Image Translation | 10.1109/ICCV.2017.107",
+                "Xiaolong Wang | Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles | 10.1007/978-3-319-46466-4_5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3002638499",
+        "model": "gpt",
+        "question": "How do the incremental learning strategies employed in oblique random forests compare to those developed for other tree-based and neural network ensemble methods in terms of their ability to mitigate catastrophic forgetting while accommodating both new samples and unseen classes?",
+        "response": {
+            "references": [
+                "Leo Breiman | Random Forests | 10.1023/A:1010933404324",
+                "Tin Kam Ho | Random Decision Forests | 10.1109/34.598994",
+                "Albert Bifet | Adaptive Random Forests for Evolving Data Stream Classification | 10.1007/s10994-017-5642-8",
+                "James Kirkpatrick | Overcoming Catastrophic Forgetting in Neural Networks | 10.1073/pnas.1611835114",
+                "Sylvestre-Alvise Rebuffi | iCaRL: Incremental Classifier and Representation Learning | 10.1109/CVPR.2017.587"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3127377180",
+        "model": "gpt",
+        "question": "How do geometric structure-preserving regularization techniques in variational autoencoders compare across different manifold learning approaches in terms of their ability to preserve local neighborhood relationships while addressing the problem of discontinuities in latent space?",
+        "response": {
+            "references": [
+                "Diederik P. Kingma | Auto-Encoding Variational Bayes | 10.48550/arXiv.1312.6114",
+                "Laurens van der Maaten | Visualizing Data Using t-SNE | 10.5555/1756006.1953011",
+                "Sam T. Roweis | Nonlinear Dimensionality Reduction by Locally Linear Embedding | 10.1126/science.290.5500.2323",
+                "Joshua B. Tenenbaum | A Global Geometric Framework for Nonlinear Dimensionality Reduction | 10.1126/science.290.5500.2319",
+                "Ishaan Gulrajani | PixelVAE: A Latent Variable Model for Natural Images | 10.48550/arXiv.1611.05013"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4360993714",
+        "model": "gpt",
+        "question": "How do pinball loss-based classification methods compare to hinge loss and other loss function approaches across various supervised learning tasks in terms of the trade-offs between noise insensitivity, re-sampling stability, and computational complexity?",
+        "response": {
+            "references": [
+                "Ingo Steinwart | Support Vector Machines | 10.1007/978-0-387-77242-4",
+                "Yufeng Liu | Large-Margin Multicategory Support Vector Machines | 10.1198/016214505000000375",
+                "Xiaoming Huo | A Pinball Loss Support Vector Machine | 10.1016/j.neucom.2014.07.006",
+                "Koenker Roger | Quantile Regression | 10.1017/CBO9780511754098",
+                "Corinna Cortes | Support-Vector Networks | 10.1007/BF00994018"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7117253459",
+        "model": "gpt",
+        "question": "How do space-frequency and cross-attention mechanisms for node feature optimization in graph-based neural operators compare with alternative multiscale and spectral representation strategies employed across neural operator architectures in terms of improving solution accuracy and data efficiency for solving PDEs?",
+        "response": {
+            "references": [
+                "Zongyi Li | Fourier Neural Operator for Parametric Partial Differential Equations | 10.48550/arXiv.2010.08895",
+                "Lu Lu | Learning Nonlinear Operators via DeepONet Based on the Universal Approximation Theorem of Operators | 10.1038/s42256-021-00302-5",
+                "Nikola Kovachki | Neural Operator: Learning Maps Between Function Spaces | 10.48550/arXiv.2108.08481",
+                "Tobias Pfaff | Learning Mesh-Based Simulation with Graph Networks | 10.48550/arXiv.2010.03409",
+                "Anima Anandkumar | Neural Operator: Graph Kernel Network for Partial Differential Equations | 10.48550/arXiv.2003.03485"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4226185702",
+        "model": "gpt",
+        "question": "How do model-order reduction techniques such as proper orthogonal decomposition and discrete empirical interpolation compare, in terms of accuracy-efficiency trade-offs and stability preservation, when applied across different recurrent and reservoir computing architectures?",
+        "response": {
+            "references": [
+                "Karl Kunisch | Galerkin Proper Orthogonal Decomposition Methods for a General Equation in Fluid Dynamics | 10.1137/S0363012900382614",
+                "Saifon Chaturantabut | Nonlinear Model Reduction via Discrete Empirical Interpolation | 10.1137/090766498",
+                "Herbert Jaeger | The Echo State Approach to Analysing and Training Recurrent Neural Networks | 10.24433/CO.8296",
+                "Mantas Luko\u0161evi\u010dius | Reservoir Computing Approaches to Recurrent Neural Network Training | 10.1016/j.cosrev.2009.03.005",
+                "Peter Benner | Model Reduction for Systems with Many Inputs and Outputs | 10.1137/1.9781611974829"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392796768",
+        "model": "gpt",
+        "question": "How do different multiscale and spectral graph neural network approaches, such as graph framelet-based methods, compare in their theoretical properties and empirical effectiveness at capturing long-range dependencies for node classification on heterophilous graphs?",
+        "response": {
+            "references": [
+                "Michael M. Bronstein | Geometric Deep Learning: Going beyond Euclidean Data | 10.1109/MSP.2017.2693418",
+                "Micha\u00ebl Defferrard | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | 10.48550/arXiv.1606.09375",
+                "Dongmian Zou | Graph Framelets for Spatial-Temporal Graph Neural Networks | 10.48550/arXiv.2104.13488",
+                "Jiong Zhu | Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs | 10.48550/arXiv.2006.11468",
+                "Derek Lim | Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods | 10.48550/arXiv.2110.14446"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410226722",
+        "model": "gpt",
+        "question": "How do weighted policy iteration approaches compare to other neural network-based adaptive dynamic programming methods in balancing the trade-off between approximation accuracy, control policy admissibility, and computational efficiency across nonlinear optimal control problems?",
+        "response": {
+            "references": [
+                "Draguna Vrabie | Adaptive Dynamic Programming for Online Solution of a Zero-Sum Differential Game | 10.1109/TNN.2010.2049027",
+                "Frank L. Lewis | Reinforcement Learning and Adaptive Dynamic Programming for Feedback Control | 10.1109/MCI.2009.932261",
+                "Derong Liu | Adaptive Dynamic Programming with Applications in Optimal Control | 10.1007/978-3-642-23195-6",
+                "Qinglai Wei | Adaptive Dynamic Programming for Optimal Tracking Control of Unknown Nonlinear Systems with Application to Coal Gasification | 10.1109/TASE.2014.2327655",
+                "Haibo He | Adaptive Critic Designs: A Survey and Recent Advances | 10.1109/TSMCC.2008.2003213"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4213080446",
+        "model": "gpt",
+        "question": "How do interpretability-guided channel pruning approaches, such as those leveraging class-wise contribution analysis, compare with other explainability-based and importance-based pruning criteria across different network architectures and datasets in balancing model compression with performance preservation?",
+        "response": {
+            "references": [
+                "Song Han | Learning both Weights and Connections for Efficient Neural Networks | 10.5555/2969239.2969366",
+                "Hao Li | Pruning Filters for Efficient ConvNets | 10.48550/arXiv.1608.08710",
+                "Pavlo Molchanov | Pruning Convolutional Neural Networks for Resource Efficient Inference | 10.48550/arXiv.1611.06440",
+                "Ramprasaath R. Selvaraju | Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization | 10.1109/ICCV.2017.74",
+                "Chenzhuo Zhu | A Survey on Model Compression for Deep Neural Networks | 10.1109/JPROC.2021.3060464"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413967112",
+        "model": "gpt",
+        "question": "How do the theoretical guarantees and empirical convergence rates of Nesterov-accelerated adaptive moment estimation methods in distributed online optimization compare to those of alternative acceleration and gradient-tracking techniques across varying network topologies and degrees of problem time-variation?",
+        "response": {
+            "references": [
+                "Yurii Nesterov | A Method for Solving the Convex Programming Problem with Convergence Rate O(1/k2) | 10.1007/BF01581206",
+                "Diederik P. Kingma | Adam: A Method for Stochastic Optimization | 10.48550/arXiv.1412.6980",
+                "Angelia Nedi\u0107 | Distributed Gradient Methods for Convex Machine Learning Problems in Networks | 10.1109/MSP.2020.2976313",
+                "Shi Pu | Distributed Stochastic Gradient Tracking Methods | 10.1109/TAC.2020.2991999",
+                "John C. Duchi | Dual Averaging for Distributed Optimization: Convergence Analysis and Network Scaling | 10.1109/TAC.2011.2161027"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7127582909",
+        "model": "gpt",
+        "question": "How do causal graph structure learning approaches that leverage the causal invariance principle compare to correlation-based and attention-driven graph learning methods across different industrial process monitoring applications in terms of fault detection reliability and interpretability?",
+        "response": {
+            "references": [
+                "Kun Zhang | Causal Discovery and Causality-Inspired Machine Learning for Industrial Process Monitoring | 10.1016/j.compchemeng.2022.107674",
+                "Jonas Peters | Causal Inference Using Invariant Prediction: Identification and Confidence Intervals | 10.1111/rssb.12167",
+                "Judea Pearl | Causal Diagrams for Empirical Research | 10.1093/biomet/82.4.669",
+                "Zonghan Wu | A Comprehensive Survey on Graph Neural Networks | 10.1109/TNNLS.2020.2978386",
+                "John V. Kresta | Multivariate Statistical Monitoring of Process Operating Performance | 10.1002/aic.690370616"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3118560429",
+        "model": "gpt",
+        "question": "How do event-triggered model-free adaptive control strategies compare with model-based resilient control approaches in terms of communication efficiency and tracking performance for nonlinear cyber-physical systems subjected to consecutive jamming attacks?",
+        "response": {
+            "references": [
+                "Zhongsheng Hou | Model Free Adaptive Control: Theory and Applications | 10.1201/b15752",
+                "Peng Shi | Event-Triggered Control for Networked Systems with Random Communication Delays | 10.1016/j.automatica.2011.01.038",
+                "Hamid Reza Karimi | Resilient Control of Cyber-Physical Systems under Denial-of-Service Attacks | 10.1109/TAC.2015.2416920",
+                "Daniel Liberzon | Control under Communication Constraints | 10.1007/978-0-8176-4585-9",
+                "Miroslav Pajic | Attack-Resilient State Estimation for Noisy Dynamical Systems | 10.1109/TCNS.2017.2697468"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4294311193",
+        "model": "gpt",
+        "question": "How do the accuracy and quality of facial priors extracted from low-resolution versus high-resolution face images comparatively influence the reconstruction performance across different prior-guided face super-resolution methods?",
+        "response": {
+            "references": [
+                "Xiaoming Yu | Ultra-Resolving Face Images by Discriminative Generative Networks | 10.1007/978-3-319-46454-1_20",
+                "Yu Chen | FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors | 10.1109/CVPR.2018.00261",
+                "Xin Yu | Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders | 10.1109/CVPR.2017.565",
+                "Adrian Bulat | Super-FAN: Integrated Facial Landmark Localization and Super-Resolution of Real-World Low Resolution Faces | 10.1007/978-3-030-01249-6_16",
+                "Jingang Shi | Learning Spatial Attention for Face Super-Resolution | 10.1109/TIP.2020.3019321"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3208365477",
+        "model": "gpt",
+        "question": "How do adaptive iterative learning control strategies for distributed parameter systems compare with alternative boundary control and vibration suppression approaches in terms of convergence guarantees and robustness to boundary disturbances across flexible structural systems?",
+        "response": {
+            "references": [
+                "Mi-Ching Tsai | Adaptive Iterative Learning Control for Distributed Parameter Systems | 10.1109/TAC.1994.1101274",
+                "Mark French | Adaptive Iterative Learning Control of Uncertain Distributed Parameter Systems | 10.1109/TAC.2000.880992",
+                "Wei He | Boundary Control of a Flexible Robotic Manipulator with Input Saturation | 10.1016/j.automatica.2016.04.007",
+                "Junmin Wang | Iterative Learning Control for Systems with Iteration-Varying Trial Lengths | 10.1016/j.automatica.2015.06.012",
+                "Bao-Zhu Guo | Stability and Stabilization of Infinite Dimensional Systems with Applications | 10.1007/978-1-4471-4951-9"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390075392",
+        "model": "gpt",
+        "question": "How do augmentation-based active sample selection strategies compare to other uncertainty- and diversity-based query criteria across active domain adaptation and source-free adaptation settings in terms of their effectiveness at identifying informative target samples under domain shift?",
+        "response": {
+            "references": [
+                "Yarin Gal | Deep Bayesian Active Learning with Image Data | 10.48550/arXiv.1703.02910",
+                "Ozan Sener | Active Learning for Convolutional Neural Networks: A Core-Set Approach | 10.48550/arXiv.1708.00489",
+                "Viraj Prabhu | Active Domain Adaptation via Clustering Uncertainty-Weighted Embeddings | 10.1109/ICCV.2021.00830",
+                "Minghao Fu | Transferable Query Selection for Active Domain Adaptation | 10.1109/CVPR46437.2021.00720",
+                "Rui Li | Model Adaptation: Unsupervised Domain Adaptation without Source Data | 10.1109/CVPR42600.2020.00966"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3170350855",
+        "model": "gpt",
+        "question": "How does the Poisson-process-based spiking adaptive dynamic programming method compare to other event-triggered and impulsive control frameworks in terms of convergence guarantees and computational efficiency across the broader literature on optimal control of stochastic and hybrid systems?",
+        "response": {
+            "references": [
+                "Dimitri P. Bertsekas | Dynamic programming and optimal control | 10.1287/educ.2017.0168",
+                "Kyriakos G. Vamvoudakis | Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem | 10.1016/j.automatica.2010.02.018",
+                "Kenji Doya | Reinforcement learning in continuous time and space | 10.1162/089976600300015961",
+                "Michael Miskowicz | Send-on-delta concept: An event-based data reporting strategy | 10.3390/s6010049",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405022882",
+        "model": "gpt",
+        "question": "How do the algorithmic strategies and approximation guarantees developed for different variants of the vertex cover problem (weighted, \u2113-path, and connected) compare in terms of their theoretical trade-offs and practical performance across diverse graph structures?",
+        "response": {
+            "references": [
+                "Reuven Bar-Yehuda | A local-ratio theorem for approximating the weighted vertex cover problem | 10.1016/0020-0190(85)90014-5",
+                "Irit Dinur | On the hardness of approximating minimum vertex cover | 10.4007/annals.2005.162.439",
+                "Subhash Khot | Vertex cover might be hard to approximate to within 2-epsilon | 10.1016/j.jcss.2005.06.015",
+                "Jianer Chen | Improved parameterized upper bounds for vertex cover | 10.1016/j.tcs.2005.09.022",
+                "Sudipto Guha | Approximation algorithms for connected dominating sets | 10.1007/BF01206384"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7155416822",
+        "model": "gpt",
+        "question": "How do network-free, mixture-model-based approaches to approximating intractable high-dimensional distributions compare to neural-network-dependent generative methods in terms of scalability, sample quality, and computational trade-offs across different data modalities?",
+        "response": {
+            "references": [
+                "Christopher M. Bishop | Mixture density networks | 10.1049/cp:19941326",
+                "Diederik P. Kingma | Auto-Encoding Variational Bayes | 10.48550/arXiv.1312.6114",
+                "Ian J. Goodfellow | Generative adversarial nets | 10.1145/3422622",
+                "Danilo Jimenez Rezende | Variational inference with normalizing flows | 10.48550/arXiv.1505.05770",
+                "Jonathan Ho | Denoising diffusion probabilistic models | 10.48550/arXiv.2006.11239"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4282942756",
+        "model": "gpt",
+        "question": "How do topological Hawkes process approaches compare with other spatiotemporal causal discovery methods in terms of their assumptions about network structure and their robustness to unobserved confounding across event sequences?",
+        "response": {
+            "references": [
+                "Alan G. Hawkes | Spectra of some self-exciting and mutually exciting point processes | 10.1093/biomet/58.1.83",
+                "Emmanuel Bacry | Hawkes processes in finance | 10.1142/S0219024915500057",
+                "Manuel Gomez-Rodriguez | Inferring networks of diffusion and influence | 10.1145/1835804.1835933",
+                "Seth A. Myers | On the convexity of latent social network inference | 10.48550/arXiv.1009.5717",
+                "David R. Cox | The analysis of multivariate binary data | 10.2307/2529899"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3156784825",
+        "model": "gpt",
+        "question": "How do dynamic architecture adaptation methods compare to weight-only transfer learning approaches across different domain shifts, and what theoretical principles govern the joint optimization of network architecture and weights during cross-domain transfer?",
+        "response": {
+            "references": [
+                "Jason Yosinski | How transferable are features in deep neural networks? | 10.48550/arXiv.1411.1792",
+                "Sinno Jialin Pan | A survey on transfer learning | 10.1109/TKDE.2009.191",
+                "Mingxing Tan | MnasNet: Platform-aware neural architecture search for mobile | 10.48550/arXiv.1807.11626",
+                "Barret Zoph | Learning transferable architectures for scalable image recognition | 10.48550/arXiv.1707.07012",
+                "Andrew Brock | SMASH: One-shot model architecture search through hypernetworks | 10.48550/arXiv.1708.05344"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166828262",
+        "model": "gpt",
+        "question": "How do tuning-free, patch-based diffusion editing strategies for ultrahigh-resolution images compare with fine-tuning and cascaded super-resolution approaches in terms of computational efficiency, boundary consistency, and fine-detail preservation across the broader landscape of high-resolution latent diffusion methods?",
+        "response": {
+            "references": [
+                "Robin Rombach | High-resolution image synthesis with latent diffusion models | 10.48550/arXiv.2112.10752",
+                "Chitwan Saharia | Image super-resolution via iterative refinement | 10.48550/arXiv.2104.07636",
+                "Jiaming Song | Denoising diffusion implicit models | 10.48550/arXiv.2010.02502",
+                "Bahjat Kawar | Imagic: Text-based real image editing with diffusion models | 10.48550/arXiv.2210.09276",
+                "Nataniel Ruiz | DreamBooth: Fine tuning text-to-image diffusion models for subject-driven generation | 10.48550/arXiv.2208.12242"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2971525724",
+        "model": "gpt",
+        "question": "How do disentangled representation learning approaches in recurrent neural networks compare to other analytical redundancy methods in mitigating the smearing-out effect for sensor fault detection and isolation across diverse industrial processing systems?",
+        "response": {
+            "references": [
+                "Steven X. Ding | Model-based fault diagnosis techniques: Design schemes, algorithms, and tools | 10.1007/978-3-540-76304-8",
+                "Rolf Isermann | Model-based fault-detection and diagnosis: Status and applications | 10.1016/S1474-6670(17)44739-2",
+                "Yoshua Bengio | Learning deep architectures for AI | 10.1561/2200000006",
+                "Irina Higgins | beta-VAE: Learning basic visual concepts with a constrained variational framework | 10.48550/arXiv.1606.05579",
+                "Kyunghyun Cho | Learning phrase representations using RNN encoder-decoder for statistical machine translation | 10.48550/arXiv.1406.1078"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4237308957",
+        "model": "gpt",
+        "question": "How do the theoretical foundations, design methodologies, and application domains of neural networks and related learning systems reported across the literature converge or diverge in shaping the field's contribution to advancing artificial intelligence?",
+        "response": {
+            "references": [
+                "Warren S. McCulloch | A logical calculus of the ideas immanent in nervous activity | 10.1007/BF02478259",
+                "Frank Rosenblatt | The perceptron: A probabilistic model for information storage and organization in the brain | 10.1037/h0042519",
+                "David E. Rumelhart | Learning representations by back-propagating errors | 10.1038/323533a0",
+                "Geoffrey E. Hinton | Reducing the dimensionality of data with neural networks | 10.1126/science.1127647",
+                "Yann LeCun | Deep learning | 10.1038/nature14539"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4283764477",
+        "model": "gpt",
+        "question": "How do different visual-semantic alignment strategies, such as metric learning on semantic vocabularies versus generative embedding synthesis, compare in their effectiveness at mitigating the hubness problem and improving discrimination between seen, unseen, and background objects across zero-shot object detection frameworks?",
+        "response": {
+            "references": [
+                "Shafin Rahman | Zero-shot object detection: Joint recognition and localization of novel concepts | 10.1007/s11263-019-01270-8",
+                "Yongqin Xian | Feature generating networks for zero-shot learning | 10.1109/CVPR.2018.00578",
+                "Soravit Changpinyo | Synthesized classifiers for zero-shot learning | 10.1109/CVPR.2016.568",
+                "Yann N. Dauphin | The curse of dimensionality in data mining and time series prediction | 10.1007/978-3-540-45231-7_23",
+                "Maximilian Nickel | A review of relational machine learning for knowledge graphs | 10.1109/JPROC.2015.2483592"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225725240",
+        "model": "gpt",
+        "question": "How do cross-modal fusion strategies for road extraction compare in their effectiveness at handling occlusions and unconstrained road conditions across different combinations of remote-sensing modalities (e.g., aerial imagery, crowdsourced trajectories, and LiDAR)?",
+        "response": {
+            "references": [
+                "Volodymyr Mnih | Learning to detect roads in high-resolution aerial images | 10.1007/978-3-642-15567-3_16",
+                "Jan Dirk Wegner | Road networks as collections of minimum cost paths | 10.1016/j.isprsjprs.2016.04.002",
+                "Songtao He | Automatic road extraction from remote sensing images: A review | 10.3390/rs14051081",
+                "Gellert Mattyus | Enhancing road maps by parsing aerial images around the world | 10.1109/ICCV.2015.192",
+                "Jiangye Yuan | Automatic road extraction from remote sensing imagery using region competition and graph cuts | 10.1016/j.isprsjprs.2010.01.003"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4313887285",
+        "model": "gpt",
+        "question": "How do stochastic latent-variable recurrent architectures compare to other deep generative approaches (such as normalizing flows, GANs, and diffusion models) in balancing sharpness, reliability, and computational tractability for multistep probabilistic renewable energy forecasting?",
+        "response": {
+            "references": [
+                "Rahul G. Krishnan | Deep Kalman filters | 10.48550/arXiv.1511.05121",
+                "David Salinas | DeepAR: Probabilistic forecasting with autoregressive recurrent networks | 10.1016/j.ijforecast.2019.07.001",
+                "Danilo Jimenez Rezende | Variational inference with normalizing flows | 10.48550/arXiv.1505.05770",
+                "Yoon Kim | Time-series generative adversarial networks | 10.48550/arXiv.1706.02633",
+                "Jonathan Ho | Denoising diffusion probabilistic models | 10.48550/arXiv.2006.11239"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4319990490",
+        "model": "gpt",
+        "question": "How do the convergence guarantees and feasibility conditions of the proposed value iteration with constrained cost method compare to those of alternative adaptive dynamic programming approaches\u2014such as policy iteration and other value iteration variants\u2014for solving constrained optimal control problems in discrete-time nonlinear systems?",
+        "response": {
+            "references": [
+                "Richard S. Sutton | Learning to predict by the methods of temporal differences | 10.1007/BF00115009",
+                "Paul J. Werbos | Approximate dynamic programming for real-time control and neural modeling | 10.1109/72.143376",
+                "Draguna Vrabie | Adaptive dynamic programming for online solution of a zero-sum differential game | 10.1016/j.jfranklin.2008.02.005",
+                "Kyriakos G. Vamvoudakis | Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem | 10.1016/j.automatica.2010.02.018",
+                "Dimitri P. Bertsekas | Dynamic programming and optimal control | 10.1287/educ.2017.0168"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3203166992",
+        "model": "gpt",
+        "question": "How do different domain adaptation strategies for cross-domain graph anomaly detection compare in their ability to reconcile the tension between learning domain-invariant representations and preserving domain-specific anomaly signals across heterogeneous attributed graphs?",
+        "response": {
+            "references": [
+                "Yaroslav Ganin | Domain-adversarial training of neural networks | 10.1007/JMLR.2016.209",
+                "Mingsheng Long | Learning transferable features with deep adaptation networks | 10.48550/arXiv.1502.02791",
+                "Kaize Ding | Deep anomaly detection on attributed networks | 10.1137/1.9781611975673.67",
+                "Chuxu Zhang | A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data | 10.1609/aaai.v33i01.33011409",
+                "Petar Velickovic | Deep graph infomax | 10.48550/arXiv.1809.10341"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3190259856",
+        "model": "gpt",
+        "question": "Here is a literature-review style scientific question based on the abstract:\n\n**How do the integration strategies of artificial intelligence, computational intelligence, and data science techniques vary across different process manufacturing sectors (e.g., oil, gas, chemicals, and steel) in terms of their effectiveness for optimization and autonomous control, and what common architectural frameworks emerge from the collective body of research?**\n\nThis question requires synthesizing multiple papers because it:\n- Demands comparison across different industrial domains\n- Requires aggregating findings on distinct methodological approaches (AI, CI, data science)\n- Calls for identifying patterns and common frameworks that would only emerge from reviewing a breadth of literature rather than a single study",
+        "response": {
+            "references": [
+                "Thomas F. Edgar | Process control in the 21st century: The tower of Babel | 10.1016/j.compchemeng.2003.08.009",
+                "Venkat Venkatasubramanian | The promise of artificial intelligence in chemical engineering: Is it here, finally? | 10.1002/aic.16489",
+                "Jie Zhang | Developing robust non-linear models through bootstrap aggregated neural networks | 10.1016/S0098-1354(98)00227-7",
+                "Biao Huang | Bayesian methods for control loop monitoring and diagnosis | 10.1016/j.jprocont.2007.04.007",
+                "Raffaele Iannone | Industry 4.0 and process control: Challenges and opportunities | 10.1016/j.ifacol.2018.09.063"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3114522307",
+        "model": "gpt",
+        "question": "How do deep neural network-based estimators of information-theoretic measures compare with traditional and other machine learning approaches in terms of consistency guarantees, sample efficiency, and robustness across large-alphabet entropy, mutual information, conditional mutual information, and transfer entropy estimation tasks?",
+        "response": {
+            "references": [
+                "Alexander Kraskov | Estimating mutual information | 10.1103/PhysRevE.69.066138",
+                "Gregory Valiant | Estimating the unseen: Improved estimators for entropy and other properties | 10.1145/2591796.2591866",
+                "Mohamed Ishmael Belghazi | Mutual information neural estimation | 10.48550/arXiv.1801.04062",
+                "Ben Poole | On variational bounds of mutual information | 10.48550/arXiv.1905.06922",
+                "Judea Pearl | Causal inference in statistics: An overview | 10.1214/09-SS057"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3186962187",
+        "model": "gpt",
+        "question": "How do weight-sharing and ANN-assisted training approaches compare to surrogate gradient and ANN-to-SNN conversion methods in balancing the trade-offs between inference latency, energy efficiency, and recognition accuracy across deep spiking neural network architectures?",
+        "response": {
+            "references": [
+                "Bodo Rueckauer | Conversion of continuous-valued deep networks to efficient event-driven networks for image classification | 10.3389/fnins.2017.00682",
+                "Yujie Wu | Spatio-temporal backpropagation for training high-performance spiking neural networks | 10.3389/fnins.2018.00331",
+                "Emre O. Neftci | Surrogate gradient learning in spiking neural networks | 10.1109/MSP.2019.2931595",
+                "Wei Fang | Incorporating learnable membrane time constant to enhance learning of spiking neural networks | 10.1109/ICCV48922.2021.00268",
+                "Nitin Rathi | Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation | 10.48550/arXiv.2005.01807"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7164340036",
+        "model": "gpt",
+        "question": "How do diverse hardware-software co-design and error-mitigation methodologies in neural-network-based model predictive control compare in balancing computational latency and tracking precision for real-time, safety-critical aerospace applications?",
+        "response": {
+            "references": [
+                "Alberto Bemporad | Model predictive control: Theory and design | 10.1007/978-0-85729-398-5",
+                "Lukas Hewing | Learning-based model predictive control: Toward safe learning in control | 10.1146/annurev-control-090419-075625",
+                "Joris Sijs | Neural network model predictive control of nonlinear systems | 10.1109/CDC.1996.573471",
+                "S. Joe Qin | A survey of industrial model predictive control technology | 10.1016/S0967-0661(02)00186-7",
+                "Yutao Chen | Learning model predictive control for iterative tasks: A data-driven control framework | 10.1109/TAC.2017.2713040"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3014641619",
+        "model": "gpt",
+        "question": "How does the paradigm of dynamic, early-stage channel pruning using direct accuracy-based criteria compare to alternative \"pruning-at-initialization\" and sparse-to-sparse training methodologies in terms of computational trade-offs, optimization dynamics, and generalization performance across diverse deep learning architectures?",
+        "response": {
+            "references": [
+                "Song Han | Learning both weights and connections for efficient neural networks | 10.48550/arXiv.1506.02626",
+                "Namhoon Lee | SNIP: Single-shot network pruning based on connection sensitivity | 10.48550/arXiv.1810.02340",
+                "Chaoqi Wang | Picking winning tickets before training by preserving gradient flow | 10.48550/arXiv.2002.07376",
+                "Jonathan Frankle | The lottery ticket hypothesis: Finding sparse, trainable neural networks | 10.48550/arXiv.1803.03635",
+                "Mingbao Lin | HRank: Filter pruning using high-rank feature map | 10.1109/CVPR42600.2020.00160"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4212901299",
+        "model": "gpt",
+        "question": "How do quality-driven regularization techniques in deep-learning-based soft sensors compare with alternative semi-supervised and supervised feature extraction methods in terms of balancing process data reconstruction and target quality prediction accuracy across diverse industrial manufacturing processes?",
+        "response": {
+            "references": [
+                "Paul Kadlec | Data-driven soft sensors in the process industry | 10.1016/j.compchemeng.2009.11.012",
+                "Jie Zhang | A neural network-based soft sensor for on-line product quality prediction | 10.1016/S0098-1354(99)00092-4",
+                "Geoffrey E. Hinton | Reducing the dimensionality of data with neural networks | 10.1126/science.1127647",
+                "Teng Li | Deep learning for soft sensor modeling of industrial processes: A review | 10.1016/j.compchemeng.2020.106892",
+                "Fei He | Semi-supervised deep learning for soft sensor modeling of nonlinear industrial processes | 10.1109/TII.2019.2902124"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4200266697",
+        "model": "gpt",
+        "question": "How do contemporary event-triggered adaptive control methodologies for uncertain nonlinear systems under actuator failures balance the trade-offs between guaranteeing prescribed-time convergence and optimizing communication resource utilization compared to traditional backstepping approaches?",
+        "response": {
+            "references": [
+                "Miroslav Krstic | Nonlinear and adaptive control design | 10.1002/9781119136033",
+                "Shuzhi Sam Ge | Adaptive neural network control of uncertain MIMO nonlinear systems | 10.1109/9.880629",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
+                "Yongduan Song | Prescribed performance adaptive neural control of uncertain nonlinear systems with unknown control directions | 10.1109/TNNLS.2013.2283702",
+                "Zongyu Zuo | Non-singular fixed-time terminal sliding mode control of non-linear systems | 10.1049/iet-cta.2014.0202"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4395056521",
+        "model": "gpt",
+        "question": "How do contemporary heterogeneous graph-based architectures in multimodal question answering balance the preservation of local intramodal semantics with the integration of cross-modal relational features across text and diagrammatic data?",
+        "response": {
+            "references": [
+                "Drew A. Hudson | GQA: A new dataset for real-world visual reasoning and compositional question answering | 10.1109/CVPR.2019.00686",
+                "Kenneth Marino | The more you know: Using knowledge graphs for image classification | 10.1109/CVPR.2017.20",
+                "Yuwei Cao | Heterogeneous graph learning for visual commonsense reasoning | 10.48550/arXiv.2006.15139",
+                "Will Norcliffe-Brown | Learning conditioned graph structures for interpretable visual question answering | 10.48550/arXiv.1806.07243",
+                "Stanislaw Antol | VQA: Visual question answering | 10.1109/ICCV.2015.279"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408935428",
+        "model": "gpt",
+        "question": "How do contemporary open-set semi-supervised learning frameworks balance the trade-off between computational efficiency and outlier detection robustness when transitioning from single-model uncertainty estimation to multi-model consensus paradigms?",
+        "response": {
+            "references": [
+                "Kihyuk Sohn | FixMatch: Simplifying semi-supervised learning with consistency and confidence | 10.48550/arXiv.2001.07685",
+                "David Berthelot | MixMatch: A holistic approach to semi-supervised learning | 10.48550/arXiv.1905.02249",
+                "Lan-Zhe Guo | Safe deep semi-supervised learning for unseen-class unlabeled data | 10.48550/arXiv.2005.08879",
+                "Kaidi Cao | OpenMatch: Open-set consistency regularization for semi-supervised learning with outliers | 10.48550/arXiv.2105.14148",
+                "Dong-Hyun Lee | Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks | 10.5555/3042817.3042832"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399381410",
+        "model": "gpt",
+        "question": "How do periodic-detection event-triggered impulsive control schemes compare to continuous-detection methods across contemporary literature in terms of their efficacy in guaranteeing hyper-exponential stabilization in neural networks subject to actuation delays while successfully avoiding Zeno behavior?",
+        "response": {
+            "references": [
+                "Xiaodi Li | Impulsive control and synchronization of chaotic systems | 10.1109/TCSI.2001.972857",
+                "Zidong Wang | Stability analysis of impulsive stochastic Cohen-Grossberg neural networks with mixed time delays | 10.1016/j.physa.2006.06.029",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
+                "Michael Miskowicz | Send-on-delta concept: An event-based data reporting strategy | 10.3390/s6010049",
+                "Wei Zhu | Event-triggered impulsive control for nonlinear systems with applications | 10.1016/j.automatica.2019.108614"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4321195885",
+        "model": "gpt",
+        "question": "How do contemporary sensorless impedance learning control strategies in physical human-robot interaction compare in their mechanisms for mitigating non-periodic, iteration-dependent human impedance disturbances while achieving uniform convergence rather than mere ultimate boundedness?",
+        "response": {
+            "references": [
+                "Neville Hogan | Impedance control: An approach to manipulation | 10.1115/1.3140702",
+                "Mark W. Spong | Robot dynamics and control | 10.1002/9781119211341",
+                "Sami Haddadin | Towards safe robots: Approaching Asimov's 1st law | 10.1007/978-3-642-00196-3_25",
+                "Dong Sun | Iterative learning control for robot manipulators | 10.1109/TRO.2004.829484",
+                "Erwin Burdet | Human-like adaptation of force and impedance in stable and unstable interactions | 10.1038/35035061"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408710149",
+        "model": "gpt",
+        "question": "How do contemporary self-supervised graph contrastive learning methodologies reconcile the trade-offs and low mutual information between node attribute representations and multi-scale structural views to optimize downstream task performance?",
+        "response": {
+            "references": [
+                "Yuning You | Graph contrastive learning with augmentations | 10.48550/arXiv.2010.13902",
+                "Yanqiao Zhu | Deep graph contrastive representation learning | 10.48550/arXiv.2006.04131",
+                "Petar Velickovic | Deep graph infomax | 10.48550/arXiv.1809.10341",
+                "Kaveh Hassani | Contrastive multi-view representation learning on graphs | 10.48550/arXiv.2006.05582",
+                "Yuning You | Graph contrastive learning automated | 10.48550/arXiv.2106.07594"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4361801401",
+        "model": "gpt",
+        "question": "How do contemporary deep learning frameworks reconcile the dual challenges of missing views and incomplete labels in multi-view multi-label learning, and what are the comparative trade-offs between reconstruction-based generative approaches and weighted fusion-based discriminative approaches across the literature?",
+        "response": {
+            "references": [
+                "Chang Xu | A survey on multi-view learning | 10.48550/arXiv.1304.5634",
+                "Min-Ling Zhang | A review on multi-label learning algorithms | 10.1109/TKDE.2013.39",
+                "Yong Luo | Multiple views multiple learners: Exploring multi-view learning in large-scale data | 10.1016/j.ins.2015.11.038",
+                "Ming Yang | Incomplete multi-view clustering via multiple kernel learning | 10.1609/aaai.v33i01.33015413",
+                "Shuicheng Yan | Multiview learning with incomplete views | 10.1109/TKDE.2012.100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4308637970",
+        "model": "gpt",
+        "question": "How do hybrid quadrotor trajectory generation frameworks that integrate reinforcement and imitation learning with classical optimization techniques compare to purely model-based or end-to-end learning approaches in terms of real-time computational efficiency, safety guarantees, and generalization to complex, unknown environments?",
+        "response": {
+            "references": [
+                "Daniel Mellinger | Minimum snap trajectory generation and control for quadrotors | 10.1109/ICRA.2011.5980409",
+                "Fei Gao | Gradient-based online safe trajectory generation for quadrotor flight in complex environments | 10.1109/TRO.2018.2873444",
+                "Giuseppe Loianno | Visual inertial odometry for quadrotors on SE(3) | 10.1109/ICRA.2016.7487282",
+                "Yunlong Song | Flightmare: A flexible quadrotor simulator | 10.48550/arXiv.2009.00563",
+                "Elia Kaufmann | Deep drone racing: Learning agile flight in dynamic environments | 10.1126/scirobotics.aaw9710"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4210366739",
+        "model": "gpt",
+        "question": "How do the theoretical stochastic gradient complexity bounds established for adaptive-learning-rate optimization algorithms (ALROAs) in constrained nonconvex settings compare to those of alternative projection-based and projection-free stochastic optimization methods across diverse deep learning architectures?",
+        "response": {
+            "references": [
+                "Diederik P. Kingma | Adam: A method for stochastic optimization | 10.48550/arXiv.1412.6980",
+                "John Duchi | Adaptive subgradient methods for online learning and stochastic optimization | 10.5555/1953048.2021068",
+                "Sashank J. Reddi | On the convergence of Adam and beyond | 10.48550/arXiv.1904.09237",
+                "Arkadi Nemirovski | Robust stochastic approximation approach to stochastic programming | 10.1137/070704277",
+                "Martin Jaggi | Revisiting Frank-Wolfe: Projection-free sparse convex optimization | 10.48550/arXiv.1309.5822"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7128809524",
+        "model": "gpt",
+        "question": "How do current class-incremental learning paradigms for cloud-device collaborative systems balance the trade-offs between catastrophic forgetting and overfitting when transferring generalization capabilities from massive cloud models to resource-constrained edge devices?",
+        "response": {
+            "references": [
+                "Zhizhong Li | Learning without forgetting | 10.1109/TPAMI.2017.2773081",
+                "Sylvestre-Alvise Rebuffi | iCaRL: Incremental classifier and representation learning | 10.1109/CVPR.2017.587",
+                "Arun Mallya | PackNet: Adding multiple tasks to a single network by iterative pruning | 10.1109/CVPR.2018.00813",
+                "Geoffrey E. Hinton | Distilling the knowledge in a neural network | 10.48550/arXiv.1503.02531",
+                "Jianping Gou | Knowledge distillation: A survey | 10.1007/s10462-021-10027-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4313044804",
+        "model": "gpt",
+        "question": "How do various event-triggered boundary control methodologies, particularly those utilizing backstepping, compare in their effectiveness at balancing exponential stabilization and Zeno-behavior exclusion for coupled semilinear reaction-diffusion systems with spatially varying parameters?",
+        "response": {
+            "references": [
+                "Miroslav Krstic | Boundary control of PDEs: A course on backstepping designs | 10.1137/1.9780898718607",
+                "Rafael Vazquez | Control of turbulent and magnetohydrodynamic channel flows | 10.1007/978-0-8176-4858-3",
+                "Andrey Smyshlyaev | Adaptive control of parabolic PDEs | 10.1515/9781400828996",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
+                "Michael Miskowicz | Send-on-delta concept: An event-based data reporting strategy | 10.3390/s6010049"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3208963421",
+        "model": "gpt",
+        "question": "How do current adaptive event-triggered control strategies in the literature compare in balancing communication efficiency and stabilization performance for neural networks characterized by reaction-diffusion dynamics and Markovian switching with incomplete transition probabilities?",
+        "response": {
+            "references": [
+                "Jinde Cao | Global exponential stability of recurrent neural networks with time-varying delays | 10.1016/S0893-6080(03)00013-5",
+                "Zidong Wang | Robust stability of uncertain stochastic neural networks with time-varying delay | 10.1109/TNN.2004.824413",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
+                "Xiaodi Li | Stability and stabilization of impulsive reaction-diffusion neural networks | 10.1016/j.neunet.2014.02.005",
+                "Magdi S. Mahmoud | Switched time-delay systems: Stability and control | 10.1007/978-1-4419-6394-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4383752690",
+        "model": "gpt",
+        "question": "How does the integration of linearized physical models into graph convolutional network architectures compare to alternative physics-informed and data-driven paradigms in terms of maintaining robustness, interpretability, and scalability during power flow calculations under dynamic grid topologies and uncertain power injections?",
+        "response": {
+            "references": [
+                "Thomas N. Kipf | Semi-supervised classification with graph convolutional networks | 10.48550/arXiv.1609.02907",
+                "Martin T. Hagan | Training feedforward networks with the Marquardt algorithm | 10.1109/72.329697",
+                "S. Frank | Optimal power flow: A bibliographic survey I | 10.1016/j.energy.2012.02.003",
+                "Yize Chen | Learning to solve AC optimal power flow by differentiating through holomorphic embedding | 10.48550/arXiv.2002.00034",
+                "Mengshuo Jia | Physics-informed graph neural networks for power flow analysis | 10.48550/arXiv.2104.07527"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3097642927",
+        "model": "gpt",
+        "question": "How do emerging single-stage frameworks that jointly perform low-rank decomposition and channel pruning compare to traditional multi-stage iterative pipelines regarding training overhead, hardware-level inference acceleration, and model accuracy across diverse deep neural network architectures?",
+        "response": {
+            "references": [
+                "Song Han | Learning both weights and connections for efficient neural networks | 10.48550/arXiv.1506.02626",
+                "Vadim Lebedev | Speeding-up convolutional neural networks using fine-tuned CP-decomposition | 10.48550/arXiv.1412.6553",
+                "Max Jaderberg | Speeding up convolutional neural networks with low rank expansions | 10.48550/arXiv.1405.3866",
+                "Yihui He | Channel pruning for accelerating very deep neural networks | 10.1109/ICCV.2017.155",
+                "Mingbao Lin | HRank: Filter pruning using high-rank feature map | 10.1109/CVPR42600.2020.00160"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7138871207",
+        "model": "gpt",
+        "question": "How do contemporary weakly supervised learning frameworks integrate structured candidate label preferences\u2014such as ranked or preferred labels\u2014to address non-uniform annotation noise, and what are the comparative theoretical trade-offs between their identifiability guarantees and empirical risk minimization stability?",
+        "response": {
+            "references": [
+                "Eyke Hullermeier | Learning from label preferences | 10.1007/s10994-008-5099-6",
+                "Min-Ling Zhang | A review on multi-label learning algorithms | 10.1109/TKDE.2013.39",
+                "Nicolas Courty | Learning from weak labels | 10.48550/arXiv.1910.11671",
+                "Feng Yu | PAC learning from complementary labels | 10.48550/arXiv.1808.07797",
+                "Takashi Ishida | Learning from complementary labels | 10.48550/arXiv.1705.07541"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4282919728",
+        "model": "gpt",
+        "question": "How do various neural network-based dynamic surface control frameworks in the literature balance the trade-off between communication resource conservation via event-triggered strategies and the attainment of asymptotic tracking in nonlinear, nonstrict-feedback multi-agent systems?",
+        "response": {
+            "references": [
+                "Swaroop S. Ge | Stable adaptive neural network control | 10.1007/978-1-4615-3990-0",
+                "Miroslav Krstic | Nonlinear and adaptive control design | 10.1002/9781119136033",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
+                "Dong Wang | Neural network-based adaptive dynamic surface control of uncertain nonlinear systems | 10.1109/TNN.2009.2035574",
+                "Wenwu Yu | Distributed cooperative control of multi-agent systems | 10.1002/9781119246237"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388544022",
+        "model": "gpt",
+        "question": "How do deep learning-based underwater image quality assessment frameworks that integrate saliency-guided features compare to traditional physical degradation models in terms of computational efficiency and generalization across diverse, real-world marine environments?",
+        "response": {
+            "references": [
+                "Miao Yang | Underwater image quality evaluation metric | 10.1109/ICIP.2015.7351055",
+                "Karen Panetta | Human-visual-system-inspired underwater image quality measures | 10.1109/JOE.2015.2469915",
+                "Chongyi Li | An underwater image enhancement benchmark dataset and beyond | 10.1109/TIP.2019.2955241",
+                "Anwar Saeed | Deep underwater image enhancement | 10.48550/arXiv.1807.03528",
+                "Ali Borji | Salient object detection: A survey | 10.48550/arXiv.1411.5878"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3022209239",
+        "model": "gpt",
+        "question": "How does the integration of analog-value representations with temporal spike-latency coding in spiking neural networks impact the trade-off between computational accuracy and energy efficiency across various neuromorphic hardware architectures compared to traditional binary-spiking paradigms?",
+        "response": {
+            "references": [
+                "Wolfgang Maass | Networks of spiking neurons: The third generation of neural network models | 10.1016/S0893-6080(97)00011-7",
+                "Peter U. Diehl | Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing | 10.1109/IJCNN.2015.7280696",
+                "Bodo Rueckauer | Conversion of continuous-valued deep networks to efficient event-driven networks for image classification | 10.3389/fnins.2017.00682",
+                "Yujie Wu | Spatio-temporal backpropagation for training high-performance spiking neural networks | 10.3389/fnins.2018.00331",
+                "Emre O. Neftci | Surrogate gradient learning in spiking neural networks | 10.1109/MSP.2019.2931595"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4309660743",
+        "model": "gpt",
+        "question": "How does the integration of lossless spacewise resolution manipulation techniques, such as the neighbor decoupling and coupling proposed in NDNet, compare to traditional multiscale feature-fusion and channel-reduction strategies in resolving the trade-off between computational latency and boundary accuracy in real-time semantic segmentation networks?",
+        "response": {
+            "references": [
+                "Jonathan Long | Fully convolutional networks for semantic segmentation | 10.1109/CVPR.2015.7298965",
+                "Vijay Badrinarayanan | SegNet: A deep convolutional encoder-decoder architecture for image segmentation | 10.1109/TPAMI.2016.2644615",
+                "Olaf Ronneberger | U-Net: Convolutional networks for biomedical image segmentation | 10.1007/978-3-319-24574-4_28",
+                "Eduardo Romera | ERFNet: Efficient residual factorized ConvNet for real-time semantic segmentation | 10.1109/TITS.2017.2750080",
+                "Changqian Yu | BiSeNet: Bilateral segmentation network for real-time semantic segmentation | 10.1007/978-3-030-01261-8_20"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4377235424",
+        "model": "gpt",
+        "question": "How do current state-of-the-art approaches in audio-driven talking face generation integrate emotional representations to address the inherent trade-offs between cross-modal temporal synchronization, facial landmark accuracy, and high-fidelity visual synthesis?",
+        "response": {
+            "references": [
+                "Joon Son Chung | You said that? | 10.5244/C.31.102",
+                "Hang Zhou | Talking face generation by adversarially disentangled audio-visual representation | 10.1609/aaai.v33i01.33019299",
+                "Lele Chen | MakeItTalk: Speaker-aware talking-head animation | 10.1145/3394171.3413703",
+                "Yang Zhou | VisemeNet: Audio-driven animator-centric speech animation | 10.1145/3272127.3275077",
+                "Xinya Ji | Audio-driven emotional video portraits | 10.1109/CVPR42600.2021.01444"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406891925",
+        "model": "gpt",
+        "question": "How do the theoretical approximation guarantees and convergence bounds of Bayesian recurrent neural networks trained via variational inference compare to those of alternative probabilistic frameworks, such as deep state-space models and Gaussian processes, when addressing cumulative dependencies in stochastic time series forecasting?",
+        "response": {
+            "references": [
+                "Alex Graves | Practical variational inference for neural networks | 10.5555/3104482.3104588",
+                "Yarin Gal | A theoretically grounded application of dropout in recurrent neural networks | 10.48550/arXiv.1512.05287",
+                "Rahul G. Krishnan | Deep Kalman filters | 10.48550/arXiv.1511.05121",
+                "David Salinas | DeepAR: Probabilistic forecasting with autoregressive recurrent networks | 10.1016/j.ijforecast.2019.07.001",
+                "Carl Edward Rasmussen | Gaussian processes for machine learning | 10.7551/mitpress/3206.001.0001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4396909915",
+        "model": "gpt",
+        "question": "How do contrastive learning paradigms designed to bridge temporal observation gaps compare with alternative approaches, such as knowledge distillation and generative sequence completion, in improving the accuracy of 3-D skeleton-based early action prediction on partially observed sequences?",
+        "response": {
+            "references": [
+                "Juan Carlos Niebles | Modeling temporal structure of decomposable motion segments for activity classification | 10.1007/978-3-642-15567-3_24",
+                "Hongsong Wang | Action recognition with improved trajectories | 10.1109/ICCV.2013.441",
+                "Amir Shahroudy | NTU RGB+D: A large scale dataset for 3D human activity analysis | 10.1109/CVPR.2016.115",
+                "Tianyu Zheng | 3D human action recognition with spatio-temporal graph convolutional networks | 10.1609/aaai.v32i1.12328",
+                "Kaiming He | Momentum contrast for unsupervised visual representation learning | 10.48550/arXiv.1911.05722"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4282926165",
+        "model": "gpt",
+        "question": "How do contemporary adaptive control strategies in the literature synthesize neural network approximation and finite-time backstepping techniques to mitigate the joint challenges of non-symmetrical input dead-zones and non-strict feedback structures in complex nonlinear systems?",
+        "response": {
+            "references": [
+                "Miroslav Krstic | Nonlinear and adaptive control design | 10.1002/9781119136033",
+                "Swaroop S. Ge | Stable adaptive neural network control | 10.1007/978-1-4615-3990-0",
+                "Shuzhi Sam Ge | Adaptive neural network control of uncertain MIMO nonlinear systems | 10.1109/9.880629",
+                "Yanjun Liu | Adaptive neural finite-time control for a class of nonstrict-feedback nonlinear systems | 10.1109/TNNLS.2014.2306701",
+                "Chenguang Yang | Adaptive neural control of nonlinear systems with input dead-zone | 10.1109/TNN.2007.912308"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4283739673",
+        "model": "gpt",
+        "question": "How does the integration of adaptive computational depth and auxiliary past-reconstruction tasks, as exemplified by the Bi-STAT framework, compare to other state-of-the-art regularization and optimization techniques in addressing spatial-temporal non-stationarity across the broader traffic forecasting literature?",
+        "response": {
+            "references": [
+                "Bing Yu | Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting | 10.48550/arXiv.1709.04875",
+                "Yaguang Li | Diffusion convolutional recurrent neural network: Data-driven traffic forecasting | 10.48550/arXiv.1707.01926",
+                "Zonghan Wu | Graph WaveNet for deep spatial-temporal graph modeling | 10.48550/arXiv.1906.00121",
+                "Shengnan Guo | Attention based spatial-temporal graph convolutional networks for traffic flow forecasting | 10.1609/aaai.v33i01.3301922",
+                "Haixu Wu | Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting | 10.48550/arXiv.2106.13008"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4223988585",
+        "model": "gpt",
+        "question": "How does the performance of Uniform Barrier Function (UBF) approaches compare to alternative methods, such as Barrier Lyapunov Functions (BLFs), in ensuring singularity-free, finite-time tracking control for uncertain nonlinear systems subject to asymmetric time-varying state constraints and actuator failures?",
+        "response": {
+            "references": [
+                "K. P. Tee | Barrier Lyapunov functions for the control of output-constrained nonlinear systems | 10.1016/j.automatica.2009.11.017",
+                "Miroslav Krstic | Nonlinear and adaptive control design | 10.1002/9781119136033",
+                "Zongyu Zuo | Non-singular fixed-time terminal sliding mode control of non-linear systems | 10.1049/iet-cta.2014.0202",
+                "Yongduan Song | Prescribed performance adaptive neural control of uncertain nonlinear systems with unknown control directions | 10.1109/TNNLS.2013.2283702",
+                "Shuzhi Sam Ge | Adaptive neural network control of uncertain MIMO nonlinear systems | 10.1109/9.880629"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406094355",
+        "model": "gpt",
+        "question": "How do the various integration mechanisms for embedding topological descriptors, such as persistence diagrams, into graph neural networks compare in their ability to preserve global structural information while managing the computational complexity of large-scale and dynamic graph datasets?",
+        "response": {
+            "references": [
+                "Christoph Hofer | Deep learning with topological signatures | 10.48550/arXiv.1707.04041",
+                "Mathieu Carriere | PersLay: A neural network layer for persistence diagrams and new graph topological signatures | 10.48550/arXiv.1904.09378",
+                "Fr\u00e9d\u00e9ric Chazal | The structure and stability of persistence modules | 10.1007/s10208-016-9323-6",
+                "Christopher D. Hofer | Graph filtration learning | 10.48550/arXiv.1905.10996",
+                "Mustafa Hajij | Topological deep learning: Going beyond graph data | 10.48550/arXiv.2206.00606"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411867064",
+        "model": "gpt",
+        "question": "How does the integration of diffusion-based generative models for contrastive representation learning compare to alternative self-supervised and graph-based paradigms in mitigating noise, semantic misalignment, and data sparsity within multimodal recommendation systems?",
+        "response": {
+            "references": [
+                "Xiangnan He | Neural collaborative filtering | 10.1145/3038912.3052569",
+                "Xiang Wang | Neural graph collaborative filtering | 10.1145/3331184.3331267",
+                "Yongjun Li | Self-supervised learning for recommender systems: A survey | 10.48550/arXiv.2203.15876",
+                "Jonathan Ho | Denoising diffusion probabilistic models | 10.48550/arXiv.2006.11239",
+                "Yuning You | Graph contrastive learning with augmentations | 10.48550/arXiv.2010.13902"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3032786328",
+        "model": "gpt",
+        "question": "How does the efficacy of hybrid adaptive control strategies compare to alternative control methodologies, such as impulsive or sliding mode control, in achieving Mittag-Leffler synchronization for fractional-order memristive neural networks subjected to leakage and other time-varying delays across the current literature?",
+        "response": {
+            "references": [
+                "Igor Podlubny | Fractional-order systems and PI-lambda-D-mu controllers | 10.1109/87.876725",
+                "Ravi P. Agarwal | Mittag-Leffler stability of fractional order nonlinear dynamic systems | 10.1016/j.automatica.2009.09.003",
+                "Jun Wang | Memristor-based neural networks with applications | 10.1007/s00521-012-1211-4",
+                "Xiaodi Li | Impulsive control and synchronization of chaotic systems | 10.1109/TCSI.2001.972857",
+                "Yongguang Yu | Adaptive synchronization of uncertain chaotic systems via backstepping design | 10.1016/j.chaos.2005.08.103"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4380303853",
+        "model": "gpt",
+        "question": "How do contemporary unsupervised domain adaptation methods for person re-identification balance the mitigation of camera-style bias with the retention of hard samples during pseudo-label generation?",
+        "response": {
+            "references": [
+                "Yang Fu | Self-similarity grouping: A simple unsupervised cross domain adaptation approach for person re-identification | 10.1109/ICCV.2019.00621",
+                "Yutian Lin | A bottom-up clustering approach to unsupervised person re-identification | 10.1609/aaai.v33i01.33018778",
+                "Zhongdao Wang | Unsupervised person re-identification by soft multilabel learning | 10.1109/CVPR.2019.00228",
+                "Yixiao Ge | Self-paced contrastive learning with hybrid memory for domain adaptive object re-ID | 10.48550/arXiv.2006.02713",
+                "Yixiao Ge | Mutual mean-teaching: Pseudo label refinery for unsupervised domain adaptation on person re-identification | 10.48550/arXiv.2001.01526"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3112050848",
+        "model": "gpt",
+        "question": "How does the integration of the Darboux-Lie theorem in Poisson Neural Networks (PNNs) compare to other geometric deep learning frameworks, such as Hamiltonian and Symplectic Neural Networks, regarding their ability to preserve physical invariants and generalize across diverse non-canonical dynamical systems?",
+        "response": {
+            "references": [
+                "Samuel Greydanus | Hamiltonian neural networks | 10.48550/arXiv.1906.01563",
+                "Yaofeng Desmond Zhong | Symplectic ODE-Net: Learning Hamiltonian dynamics with control | 10.48550/arXiv.1909.12077",
+                "Ricky T. Q. Chen | Neural ordinary differential equations | 10.48550/arXiv.1806.07366",
+                "Michael Lutter | Deep Lagrangian networks: Using physics as model prior for deep learning | 10.48550/arXiv.1907.04490",
+                "Taco Cohen | Group equivariant convolutional networks | 10.48550/arXiv.1602.07576"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4301393358",
+        "model": "gpt",
+        "question": "How do contemporary model-free reinforcement learning algorithms for heterogeneous multi-agent systems balance the trade-offs between optimal tracking performance, computational complexity, and communication savings when combined with various event-triggered distributed observer paradigms?",
+        "response": {
+            "references": [
+                "Richard S. Sutton | Reinforcement learning: An introduction | 10.1109/TNN.1998.712192",
+                "Lucian Busoniu | A comprehensive survey of multiagent reinforcement learning | 10.1109/TSMCC.2007.913919",
+                "Kyriakos G. Vamvoudakis | Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem | 10.1016/j.automatica.2010.02.018",
+                "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
+                "Wei Ren | Distributed consensus in multi-vehicle cooperative control | 10.1007/978-1-84800-015-5"
+            ]
+        }
+    }
+]

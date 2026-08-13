@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W4225248781",
+        "model": "gpt",
+        "question": "How do long-range GABAergic projections from the prefrontal cortex to hippocampal interneuron subtypes integrate with other known prefrontal\u2013hippocampal pathways to regulate disinhibition, signal-to-noise optimization, spatial encoding, and exploratory behavior across cognitive and behavioral contexts?",
+        "response": {
+            "references": [
+                "Timothy Spellman | Hippocampal-prefrontal input supports spatial encoding in working memory | 10.1038/nature16057",
+                "Jee Hyun Lee | Global and local fMRI signals driven by neurons defined optogenetically by type and wiring | 10.1038/nature09108",
+                "Frances S. Lee | A memory trace in the prefrontal cortex mediates adaptive decision-making in mice | 10.1038/nature13556",
+                "Tobias Sigurdsson | Impaired hippocampal-prefrontal synchrony in a genetic mouse model of schizophrenia | 10.1038/nature08855",
+                "Arthur C. Pierson | Cortical inhibition regulates experience-dependent cortical map plasticity | 10.1126/science.1197002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4313557898",
+        "model": "gpt",
+        "question": "How do neural population dynamics and attractor-like coding schemes across hypothalamic and broader social-behavior circuits differ in their representation of scalable motivational states such as aggression versus discrete action-specific components of mating, and what evidence across studies supports distinct circuit mechanisms for these innate behaviors?",
+        "response": {
+            "references": [
+                "Dayu Lin | Functional identification of an aggression locus in the mouse hypothalamus | 10.1038/nature09736",
+                "Annegret L. Falkner | Hierarchical representations of aggression in a hypothalamic-midbrain circuit | 10.1038/nn.3838",
+                "Renata Remedios | Social behaviour shapes hypothalamic neural ensemble representations of conspecific sex | 10.1038/nature23885",
+                "Kenneth A. Bayless | Limbic neurons shape sex recognition and social behavior in sexually naive males | 10.1016/j.cell.2023.02.019",
+                "Daniel J. Anderson | Circuit modules linking internal states and social behaviour in flies and mice | 10.1038/nrn.2016.125"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394998531",
+        "model": "gpt",
+        "question": "How do hypoxia-driven spatial architectures and state-specific cellular neighborhoods in gliomas compare across molecular subtypes and grades, and what mechanisms reported across spatial transcriptomic, proteomic, and functional studies explain their roles in tumor progression, invasion, and therapy resistance?",
+        "response": {
+            "references": [
+                "Vijay K. Ravi | Spatially resolved multi-omics deciphers bidirectional tumor-host interdependence in glioblastoma | 10.1016/j.cell.2022.10.006",
+                "Spyros Darmanis | Single-cell RNA-Seq analysis of infiltrating neoplastic cells at the migrating front of human glioblastoma | 10.1016/j.celrep.2017.10.030",
+                "Cyrill Neftel | An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma | 10.1016/j.cell.2019.06.024",
+                "Mario L. Suv\u00e0 | Reconstructing and reprogramming the tumor-propagating potential of glioblastoma stem-like cells | 10.1016/j.cell.2014.02.030",
+                "Volker H. Hovestadt | Resolving medulloblastoma cellular architecture by single-cell genomics | 10.1038/s41586-019-1434-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401459440",
+        "model": "gpt",
+        "question": "How do species-specific variations in nuclear basket architecture and Mlp/Tpr nucleoporin organization influence conserved functions of the nuclear pore complex in mRNA surveillance, chromatin organization, and nucleocytoplasmic transport across fungi, mammals, and protozoa?",
+        "response": {
+            "references": [
+                "G\u00fcnter Blobel | Gene gating: a hypothesis | 10.1073/pnas.82.24.8527",
+                "Maria Strambio-De-Castillia | The nuclear pore complex: bridging nuclear transport and gene regulation | 10.1038/nrm2928",
+                "Jennifer A. DeGrasse | Evidence for a shared nuclear pore complex architecture that is conserved from the last common eukaryotic ancestor | 10.1126/science.1165216",
+                "Megan C. D'Angelo | Nuclear pores form de novo from both sides of the nuclear envelope | 10.1126/science.1155740",
+                "Tina M. Franks | Regulation of mRNA export through nuclear pore-associated Tpr | 10.1016/j.molcel.2015.06.019"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399107394",
+        "model": "gpt",
+        "question": "How have conserved vertebrate paralogs, lineage-specific regulatory element remodeling, and transcriptional regulators such as REST/NRSF and FOXO collectively contributed to the evolution of diapause or other suspended-animation states across killifish and other organisms?",
+        "response": {
+            "references": [
+                "Christopher K. Hu | Vertebrate diapause preserves organisms long term through Polycomb complex members | 10.1126/science.aaw2601",
+                "Itamar Harel | A platform for rapid exploration of aging and diseases in a naturally short-lived vertebrate | 10.1016/j.cell.2015.01.038",
+                "Daniel E. Hahn | Energetics of insect diapause | 10.1146/annurev-ento-112408-085436",
+                "Jennifer R. Baugh | To grow or not to grow: nutritional control of development during Caenorhabditis elegans L1 arrest | 10.1093/genetics/iyac014",
+                "Marc Tatar | A mutant Drosophila insulin receptor homolog that extends life-span and impairs neuroendocrine function | 10.1126/science.292.5517.107"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4398203683",
+        "model": "gpt",
+        "question": "How do WED-domain-mediated mechanisms of target DNA unwinding across diverse Cas9 orthologs influence genome-editing efficiency under mammalian intracellular conditions, and how have structural, biochemical, and directed-evolution studies informed generalizable strategies for engineering more active CRISPR-Cas nucleases?",
+        "response": {
+            "references": [
+                "Christoph Anders | Structural basis of PAM-dependent target DNA recognition by the Cas9 endonuclease | 10.1038/nature13579",
+                "Hiroshi Nishimasu | Crystal structure of Cas9 in complex with guide RNA and target DNA | 10.1016/j.cell.2014.02.001",
+                "Fuguo Jiang | Structures of a CRISPR-Cas9 R-loop complex primed for DNA cleavage | 10.1126/science.aad8282",
+                "Benjamin P. Kleinstiver | Engineered CRISPR-Cas9 nucleases with altered PAM specificities | 10.1038/nature14592",
+                "Jiangtao Hu | Evolved Cas9 variants with broad PAM compatibility and high DNA specificity | 10.1038/nature26155"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225266546",
+        "model": "gpt",
+        "question": "How do differences in spike-mediated transmissibility, antigenic escape, cellular tropism, and pathogenicity among SARS-CoV-2 Omicron sublineages such as BA.1 and BA.2 compare across epidemiological, immunological, in vitro, and animal-model studies, and what do these differences imply for variant risk assessment and vaccine strategy?",
+        "response": {
+            "references": [
+                "Daichi Yamasoba | Virological characteristics of the SARS-CoV-2 Omicron BA.2 spike | 10.1016/j.cell.2022.04.035",
+                "Ryuta Suzuki | Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant | 10.1038/s41586-022-04462-1",
+                "Sho Iketani | Antibody evasion properties of SARS-CoV-2 Omicron sublineages | 10.1038/s41586-022-04594-4",
+                "Frederik Plesner Lyngse | Transmission of SARS-CoV-2 Omicron VOC subvariants BA.1 and BA.2: evidence from Danish households | 10.1038/s41467-022-28954-4",
+                "Kenrie P. Y. Hui | SARS-CoV-2 Omicron variant replication in human bronchus and lung ex vivo | 10.1038/s41586-022-04479-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126099653",
+        "model": "gpt",
+        "question": "How do converging findings from intracranial recordings, neuroimaging, lesion studies, and deep brain stimulation trials support a causal role for orbitofrontal cortex\u2013basal ganglia circuit gamma activity in the moment-to-moment generation and therapeutic modulation of obsessive-compulsive disorder symptoms?",
+        "response": {
+            "references": [
+                "Nicole C. Swann | Elevated synchrony in Parkinson disease detected with electroencephalography | 10.1002/ana.24507",
+                "Susanne Ahmari | Repeated cortico-striatal stimulation generates persistent OCD-like behavior | 10.1126/science.1234733",
+                "Eric Burgui\u00e8re | Optogenetic stimulation of lateral orbitofronto-striatal pathway suppresses compulsive behaviors | 10.1126/science.1232380",
+                "Alik S. Widge | Deep brain stimulation of the internal capsule enhances human cognitive control and prefrontal cortex function | 10.1038/s41467-019-09557-4",
+                "Trevor W. Robbins | Obsessive-compulsive disorder: puzzles and prospects | 10.1016/j.neuron.2019.01.046"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404395545",
+        "model": "gpt",
+        "question": "How do histone chaperone\u2013mediated nucleosome assembly pathways, replication-coupled chromatin accessibility dynamics, and locus-specific transcription factor\u2013nucleosome competition collectively shape the restoration or reprogramming of epigenetic states on newly replicated chromatin across different genomic regulatory elements?",
+        "response": {
+            "references": [
+                "C\u00e9line Alabert | Two distinct modes for propagation of histone PTMs across the cell cycle | 10.1038/ncb3194",
+                "Natalia Rever\u00f3n-G\u00f3mez | Accurate recycling of parental histones reproduces the histone modification landscape during DNA replication | 10.1016/j.molcel.2018.08.010",
+                "Srinivas Ramachandran | Nucleosome dynamics during chromatin remodeling in vivo | 10.1126/science.aac7424",
+                "Gianluca Saredi | H4K20me0 marks post-replicative chromatin and recruits the TONSL\u2013MMS22L DNA repair complex | 10.1038/nature17914",
+                "Zhenyu Xu | Genome-wide mapping of H3K27me3 and H3K4me3 in embryonic stem cells and differentiated cells | 10.1016/j.cell.2007.12.005"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126111491",
+        "model": "gpt",
+        "question": "How have refinements of the \u201challmarks of cancer\u201d framework over the past 25 years reshaped mechanistic models of tumor initiation, microenvironmental adaptation, systemic interactions, and therapeutic co-targeting strategies across diverse cancer types?",
+        "response": {
+            "references": [
+                "Douglas Hanahan | The Hallmarks of Cancer | 10.1016/S0092-8674(00)81683-9",
+                "Douglas Hanahan | Hallmarks of Cancer: The Next Generation | 10.1016/j.cell.2011.02.013",
+                "Douglas Hanahan | Hallmarks of Cancer: New Dimensions | 10.1158/2159-8290.CD-21-1059",
+                "Douglas Hanahan | Rethinking the war on cancer | 10.1016/S0140-6736(14)62226-6",
+                "Ji Luo | Principles of Cancer Therapy: Oncogene and Non-oncogene Addiction | 10.1016/j.cell.2009.02.024"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3008383377",
+        "model": "gpt",
+        "question": "How do de novo-designed single-nucleotide-specific riboregulators such as SNIPRs compare with established nucleic acid discrimination platforms\u2014including CRISPR-based diagnostics, allele-specific PCR, molecular beacons, and toehold-switch sensors\u2014in terms of mechanistic specificity, programmability, sensitivity in complex biological samples, and suitability for point-of-care detection of clinically relevant mutations and viral variants?",
+        "response": {
+            "references": [
+                "Keith Pardee | Rapid, Low-Cost Detection of Zika Virus Using Programmable Biomolecular Components | 10.1016/j.cell.2016.04.059",
+                "Jonathan S. Gootenberg | Nucleic acid detection with CRISPR-Cas13a/C2c2 | 10.1126/science.aam9321",
+                "Janice S. Chen | CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity | 10.1126/science.aar6245",
+                "Sanjay Tyagi | Molecular beacons: probes that fluoresce upon hybridization | 10.1038/nbt0396-303",
+                "Colin R. Newton | Analysis of any point mutation in DNA. The amplification refractory mutation system (ARMS) | 10.1093/nar/17.7.2503"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3015560610",
+        "model": "gpt",
+        "question": "How do structural features of MtrAB\u2013MtrC and homologous multiheme cytochrome complexes across diverse electroactive microorganisms determine the efficiency, substrate specificity, and ecological roles of extracellular electron transfer to minerals, metals, and electrodes?",
+        "response": {
+            "references": [
+                "Robert S. Hartshorne | Characterization of an electron conduit between bacteria and the extracellular environment | 10.1073/pnas.0900086106",
+                "Marcus J. Edwards | Redox linked flavin sites in extracellular decaheme proteins involved in microbe-mineral electron transfer | 10.1038/srep04374",
+                "Thomas A. Clarke | Structure of a bacterial cell surface decaheme electron conduit | 10.1073/pnas.1017200108",
+                "Graham F. White | Rapid electron exchange between surface-exposed bacterial cytochromes and Fe(III) minerals | 10.1073/pnas.1220074110",
+                "Liang Shi | Extracellular electron transfer mechanisms between microorganisms and minerals | 10.1038/nrmicro.2016.93"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409252512",
+        "model": "gpt",
+        "question": "How do mass-spectrometry-derived tissue-of-origin plasma proteome atlases compare with transcriptomic/protein reference atlases and other biomarker discovery approaches in resolving organ-specific contributions to circulating protein changes across inflammatory, ischemic, and organ-injury diseases?",
+        "response": {
+            "references": [
+                "Philipp E. Geyer | Plasma Proteome Profiling to assess human health and disease | 10.1016/j.cels.2016.02.015",
+                "Mathias Uhl\u00e9n | Tissue-based map of the human proteome | 10.1126/science.1260419",
+                "The GTEx Consortium | The GTEx Consortium atlas of genetic regulatory effects across human tissues | 10.1038/s41586-020-2521-4",
+                "Raghothama Chaerkady | A human proteome catalog from the human body map | 10.1038/nature13302",
+                "Jochen M. Schwenk | The Human Plasma Proteome draft of 2017: building on the Human Plasma PeptideAtlas from mass spectrometry and complementary assays | 10.1021/acs.jproteome.7b00467"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7151471415",
+        "model": "gpt",
+        "question": "How can integration of epidemiologic birth-cohort studies, mechanistic research on tissue ecosystems, and biological state-based risk models improve the identification of causal factors and prevention strategies for rising early-onset cancers?",
+        "response": {
+            "references": [
+                "Hyuna Sung | Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries | 10.3322/caac.21660",
+                "Tomotaka Ugai | Is early-onset cancer an emerging global epidemic? Current evidence and future implications | 10.1038/s41571-022-00672-8",
+                "Rebecca L. Siegel | Colorectal Cancer Incidence Patterns in the United States, 1974\u20132013 | 10.1093/jnci/djw322",
+                "Christopher P. Wild | Measuring the exposome: a powerful basis for evaluating environmental exposures and cancer risk | 10.1038/s41568-019-0190-3",
+                "Andrew T. Chan | Aspirin in the chemoprevention of colorectal neoplasia: an overview | 10.1158/1055-9965.EPI-12-0192"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406760403",
+        "model": "gpt",
+        "question": "How do spatial organization strategies for multienzyme systems\u2014such as enzyme fusion, scaffold-based colocalization, compartmentalization, and computationally guided architecture design\u2014comparatively influence catalytic efficiency, metabolic flux, and scalability across diverse applications in synthetic biology, green chemistry, and biomanufacturing?",
+        "response": {
+            "references": [
+                "John E. Dueber | Synthetic protein scaffolds provide modular control over metabolic flux | 10.1038/nbt.1557",
+                "Itay Ben-Sasson | Design of biologically active binary protein 2D materials | 10.1038/nature11941",
+                "Scott Conrado | DNA-guided assembly of biosynthetic pathways promotes improved catalytic efficiency | 10.1093/nar/gkq1036",
+                "Michele Castellana | Enzyme clustering accelerates processing of intermediates through metabolic channeling | 10.1038/nbt.3018",
+                "Christopher J. Delebecque | Organization of intracellular reactions with rationally designed RNA assemblies | 10.1126/science.1206938"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4327575309",
+        "model": "gpt",
+        "question": "How do coupled ribosomes mechanistically modulate bacterial RNA polymerase elongation dynamics, pausing, termination, and transcriptional fidelity, and how do these effects integrate with known models of transcription\u2013translation coupling, RNAP backtracking, and cellular fitness under conditions that promote prolonged transcriptional arrest?",
+        "response": {
+            "references": [
+                "Svetlana Proshkin | Cooperation between translating ribosomes and RNA polymerase in transcription elongation | 10.1126/science.1190561",
+                "Mikhail E. D. Webster | Structural basis of transcription-translation coupling and collision in bacteria | 10.1126/science.abb5317",
+                "Smita Saxena | Escherichia coli transcription factor NusG binds to 70S ribosomes | 10.1016/j.molcel.2018.10.023",
+                "Robert A. Washburn | Transcription-repair coupling factors: mediators of DNA repair and transcription | 10.1146/annurev.biochem.75.103004.142652",
+                "Evgeny Nudler | The RNA-DNA hybrid maintains the register of transcription by preventing backtracking of RNA polymerase | 10.1016/S0092-8674(00)81902-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3168349393",
+        "model": "gpt",
+        "question": "How do receptor-binding domain mutations across SARS-CoV-2 variants such as P.1 and B.1.351 mechanistically contribute to escape from mRNA vaccine-induced humoral immunity, and how do these neutralization deficits compare across studies evaluating different vaccine platforms, booster strategies, and immune correlates of protection?",
+        "response": {
+            "references": [
+                "Pengfei Wang | Antibody resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7 | 10.1038/s41586-021-03398-2",
+                "Wilfredo F. Garcia-Beltran | Multiple SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity | 10.1016/j.cell.2021.03.013",
+                "Cathrine Scheepers | Emergence and phenotypic characterization of the global SARS-CoV-2 C.1.2 lineage | 10.1038/s41467-022-28713-9",
+                "Zijun Wang | mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants | 10.1038/s41586-021-03324-6",
+                "Shabir A. Madhi | Efficacy of the ChAdOx1 nCoV-19 Covid-19 Vaccine against the B.1.351 Variant | 10.1056/NEJMoa2102214"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399538493",
+        "model": "gpt",
+        "question": "How do newly discovered archaeal [FeFe] hydrogenases\u2014including ultraminimal DPANN enzymes and hybrid [FeFe]\u2013[NiFe] complexes\u2014reshape current models of hydrogenase evolution, H\u2082 metabolism in anoxic ecosystems, and the evolutionary relationships among archaea, bacteria, and eukaryotes?",
+        "response": {
+            "references": [
+                "Chris Greening | Genomic and metagenomic surveys of hydrogenase distribution indicate H2 is a widely utilised energy source for microbial growth and survival | 10.1038/ismej.2015.153",
+                "Danielle L. Bryant | Diversity and activity of communities inhabiting plastic debris in the North Pacific Gyre | 10.1128/mSystems.00024-16",
+                "John W. Peters | [FeFe]- and [NiFe]-hydrogenase diversity, mechanism, and maturation | 10.1016/j.bbapap.2015.01.021",
+                "Wolfgang Buckel | Energy Conservation in Fermentations of Anaerobic Bacteria | 10.3389/fmicb.2018.00002",
+                "Simon J. George | Structure and function of hydrogenases | 10.1016/j.abb.2014.12.016"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405531879",
+        "model": "gpt",
+        "question": "How do structural features and intermolecular interactions within the CCHFV GP38\u2013Gn\u2013Gc glycoprotein complex, including glycan-mediated stabilization of prefusion Gc, compare with entry-glycoprotein architectures, immune epitopes, and vaccine-antigen design principles reported for other bunyaviruses and hemorrhagic fever viruses?",
+        "response": {
+            "references": [
+                "Thomas A. Bowden | Unusual molecular architecture of the Crimean-Congo hemorrhagic fever virus Gn glycoprotein | 10.1038/nsmb.2498",
+                "S\u00f3lveig R. Halldorsson | Shielding and activation of a viral membrane fusion protein | 10.1038/nature17922",
+                "Sheng Li | Rift Valley fever virus entry and infection are facilitated by a fusion protein containing an allosteric pocket | 10.1038/nature18636",
+                "Pablo Guardado-Calvo | A glycerophospholipid-specific pocket in the RVFV class II fusion protein drives target membrane insertion | 10.1126/science.aal2712",
+                "Willem L. Hulswit | Structure of a CCHFV glycoprotein reveals neutralizing antibody sites and routes to vaccine design | 10.1016/j.cell.2021.06.024"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4317708751",
+        "model": "gpt",
+        "question": "How do p53-dependent cell-cycle checkpoints and senescence programs interact with cyclin E1\u2013driven replication stress, ATR/Chk1 signaling, Wee1 activity, and APC/C-Cdh1 activation across different tumor contexts to either suppress or promote whole-genome duplication and subsequent aneuploid cancer evolution?",
+        "response": {
+            "references": [
+                "Teresa Davoli | De novo aneuploidy and chromosomal instability are cancer hallmarks generated by whole-genome doubling | 10.1016/j.cell.2010.06.016",
+                "Neil J. Ganem | Tetraploidy, aneuploidy and cancer | 10.1016/j.cell.2007.10.011",
+                "Andrew C. Minella | p53 and p21 form an inducible barrier that protects cells against cyclin E-cdk2 deregulation | 10.1038/nature05836",
+                "Jiri Bartek | DNA damage signalling guards against activated oncogenes and tumour progression | 10.1038/nature03399",
+                "Margarita Dominguez-Brauer | Targeting Mitosis in Cancer: Emerging Strategies | 10.1158/0008-5472.CAN-15-2539"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401420229",
+        "model": "gpt",
+        "question": "How can the MICSE guidelines be integrated with evidence from diverse in vivo senescence models, tissue contexts, and disease states to establish a reliable, context-specific framework for identifying and functionally validating senescent cells across species?",
+        "response": {
+            "references": [
+                "Vassilis G. Gorgoulis | Cellular Senescence: Defining a Path Forward | 10.1016/j.cell.2019.10.005",
+                "Claudia Hernandez-Segura | Unmasking transcriptional heterogeneity in senescent cells | 10.1016/j.cub.2017.10.033",
+                "Norman E. Sharpless | How stem cells age and why this makes us grow old | 10.1038/nrm3960",
+                "Marco Demaria | An essential role for senescent cells in optimal wound healing through secretion of PDGF-AA | 10.1016/j.devcel.2014.11.012",
+                "Daniel Mu\u00f1oz-Esp\u00edn | Programmed cell senescence during mammalian embryonic development | 10.1016/j.cell.2013.10.019"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3138631549",
+        "model": "gpt",
+        "question": "How do ternary or higher-order receptor\u2013ligand complexes, such as the NEO1\u2013NET1\u2013RGM super-assembly, compare with other axon guidance and cell migration signaling systems in their ability to integrate opposing extracellular cues by modulating receptor clustering, downstream pathway activation, and cellular outcomes?",
+        "response": {
+            "references": [
+                "Francesca Finci | The crystal structure of netrin-1 in complex with DCC reveals the bifunctionality of netrin-1 as a guidance cue | 10.1016/j.neuron.2014.07.026",
+                "Elena Seiradake | Structural basis for cell surface patterning through NetrinG-NGL interactions | 10.1038/nsmb.2313",
+                "Dimitar B. Nikolov | Structural biology of semaphorins, plexins and their complexes | 10.1038/nrn3767",
+                "Paul A. Boyer | Getting the axon guidance cues: receptor mechanisms and signal integration | 10.1038/s41580-018-0011-1",
+                "Pavel Mehlen | The dependence receptor DCC and netrin-1 in development and disease | 10.1038/nrn3034"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7147156458",
+        "model": "gpt",
+        "question": "How do mechanisms and ecological consequences of arbitrium-mediated cross-communication among bacteriophages compare with other phage and bacterial quorum-sensing systems in shaping lysis\u2013lysogeny decisions, prophage induction, and microbial community dynamics?",
+        "response": {
+            "references": [
+                "Zohar Erez | Communication between viruses guides lysis\u2013lysogeny decisions | 10.1038/nature21049",
+                "Justin E. Silpe | A host-produced quorum-sensing autoinducer controls a phage lysis-lysogeny decision | 10.1016/j.cell.2018.05.046",
+                "Lina R. H\u00f8yland-Kroghsbo | Quorum sensing controls the Pseudomonas aeruginosa CRISPR-Cas adaptive immune system | 10.1073/pnas.1617415114",
+                "Gali Ofir | Antiviral activity of bacterial TIR domains via immune signalling molecules | 10.1038/s41586-021-03898-7",
+                "Bonnie L. Bassler | How bacteria talk to each other: regulation of gene expression by quorum sensing | 10.1016/S0092-8674(00)81649-9"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399670685",
+        "model": "gpt",
+        "question": "How do NLRC5-mediated PANoptosome formation and heme/cytokine-triggered inflammatory cell death integrate with established NLRP3, NLRP12, AIM2, and ZBP1 inflammasome/PANoptosis pathways across infectious, hemolytic, and sterile inflammatory disease models, and what does the comparative literature suggest about NLRC5 as a therapeutic target?",
+        "response": {
+            "references": [
+                "Sannula Kesavardhana | Inflammasome-Mediated PANoptosis: Mechanisms, Regulation, and Therapeutic Potential | 10.1016/j.chom.2020.06.014",
+                "Rajendra Karki | ZBP1-dependent inflammatory cell death, PANoptosis, and cytokine storm disrupt IFN therapeutic efficacy during coronavirus infection | 10.1126/sciimmunol.abi6427",
+                "Thirumala-Devi Kanneganti | Intracellular NOD-like receptors in host defense and disease | 10.1016/j.immuni.2020.11.015",
+                "Felix Hornung | AIM2 recognizes cytosolic dsDNA and forms a caspase-1-activating inflammasome with ASC | 10.1038/nature07725",
+                "Nobuhiko Kayagaki | Caspase-11 cleaves gasdermin D for non-canonical inflammasome signalling | 10.1038/nature15541"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416702178",
+        "model": "gpt",
+        "question": "How do empirical field-trial outcomes from photosynthetic protein overexpression and photorespiratory bypass engineering compare with model-based projections for carbon-concentrating mechanism installation in C3 crops, and what combined strategy is most likely to maximize sustainable yield gains across diverse environments?",
+        "response": {
+            "references": [
+                "Paul F. South | Synthetic glycolate metabolism pathways stimulate crop growth and productivity in the field | 10.1126/science.aat9077",
+                "Julian Kromdijk | Improving photosynthesis and crop productivity by accelerating recovery from photoprotection | 10.1126/science.aai8878",
+                "Stephen P. Long | Meeting the Global Food Demand of the Future by Engineering Crop Photosynthesis and Yield Potential | 10.1016/j.cell.2015.03.019",
+                "G. Dean Price | The cyanobacterial CCM as a source of genes for improving photosynthetic CO2 fixation in crop species | 10.1093/jxb/ers257",
+                "Elizaveta Ermakova | Installing the cyanobacterial bicarbonate transporter BicA in the chloroplast envelope of C3 plants | 10.1111/pbi.13231"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402843138",
+        "model": "gpt",
+        "question": "How have ancient human migration, dairying practices, and microbial domestication processes jointly shaped the dispersal routes, genomic adaptation, and functional evolution of kefir-associated Lactobacillus strains across Eurasia from the Bronze Age to the present?",
+        "response": {
+            "references": [
+                "M\u00e9lanie Salque | Earliest evidence for cheese making in the sixth millennium BC in northern Europe | 10.1038/nature11698",
+                "Morten E. Allentoft | Population genomics of Bronze Age Eurasia | 10.1038/nature14507",
+                "Jinshui Zheng | A taxonomic note on the genus Lactobacillus: Description of 23 novel genera | 10.1099/ijsem.0.004107",
+                "Edoardo Pasolli | Large-scale genome-wide analysis links lactic acid bacteria from food with the gut microbiome | 10.1038/s41467-020-16438-8",
+                "Ashot Margaryan | Population genomics of the Viking world | 10.1038/s41586-020-2688-8"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4206898072",
+        "model": "gpt",
+        "question": "How do Omicron spike mutations that stabilize ACE2-recognizing conformations while impairing fusion efficiency compare with structural and immunological constraints observed across other SARS-CoV-2 variants and sarbecoviruses, and how can these conserved vulnerable regions inform the design of broadly protective vaccines and therapeutics?",
+        "response": {
+            "references": [
+                "Dipti G. Mannar | SARS-CoV-2 Omicron variant: Antibody evasion and cryo-EM structure of spike protein\u2013ACE2 complex | 10.1126/science.abn7760",
+                "Matthew McCallum | Structural basis of SARS-CoV-2 Omicron immune evasion and receptor engagement | 10.1126/science.abn8652",
+                "S. M. C. Gobeil | Effect of natural mutations of SARS-CoV-2 on spike structure, conformation, and antigenicity | 10.1126/science.abi6226",
+                "Tyler N. Starr | SARS-CoV-2 RBD antibodies that maximize breadth and resistance to escape | 10.1038/s41586-021-03807-6",
+                "Dora Pinto | Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody | 10.1038/s41586-020-2349-y"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405531367",
+        "model": "gpt",
+        "question": "How do pan-cancer and lineage-specific patterns of monoallelic versus biallelic tumor suppressor gene inactivation, particularly for genes such as KEAP1, integrate with existing functional genomics and clinical-response studies to refine the identification of driver variants and predict therapeutic sensitivity across cancer types?",
+        "response": {
+            "references": [
+                "Alfred G. Knudson | Mutation and cancer: statistical study of retinoblastoma | 10.1073/pnas.68.4.820",
+                "Teresa Davoli | Cumulative haploinsufficiency and triplosensitivity drive aneuploidy patterns and shape the cancer genome | 10.1016/j.cell.2013.10.011",
+                "Francisco Sanchez-Vega | Oncogenic Signaling Pathways in The Cancer Genome Atlas | 10.1016/j.cell.2018.03.035",
+                "Randy Romero | Keap1 loss promotes Kras-driven lung cancer and results in dependence on glutaminolysis | 10.1038/nm.4407",
+                "Siddhartha Devarakonda | Tumor mutation burden as a biomarker in resected non-small-cell lung cancer | 10.1200/JCO.2017.74.1969"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4389478089",
+        "model": "gpt",
+        "question": "How do basal forebrain cholinergic modulation and sleep-state-dependent recruitment of distinct cortical GABAergic interneuron subtypes interact to regulate cortical ignition and conscious sensory perception across NREM sleep, wakefulness, and related states in rodents, non-human primates, and humans?",
+        "response": {
+            "references": [
+                "James F. A. Poulet | Internal brain state regulates membrane potential synchrony in barrel cortex of behaving mice | 10.1038/nature07150",
+                "Yu Fu | A cortical circuit for gain control by behavioral state | 10.1016/j.cell.2014.01.050",
+                "Nuo Li | A motor cortex circuit for motor planning and movement | 10.1038/nature14178",
+                "Cristopher M. Niell | Modulation of visual responses by behavioral state in mouse visual cortex | 10.1016/j.neuron.2010.12.033",
+                "George A. Mashour | Conscious Processing and the Global Neuronal Workspace Hypothesis | 10.1016/j.neuron.2020.01.026"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7118203733",
+        "model": "gpt",
+        "question": "How do injury-induced differences in pentose phosphate pathway activation between peripheral and central sensory axons integrate with known redox, nucleotide-biosynthesis, and metabolic-reprogramming mechanisms to determine regenerative competence after nervous system injury?",
+        "response": {
+            "references": [
+                "Simone Belin | Injury-Induced Decline of Intrinsic Regenerative Ability Revealed by Quantitative Proteomics | 10.1016/j.neuron.2015.09.018",
+                "Giovanni M. Curcio | Axon Regeneration Requires a Conserved MAP Kinase Pathway | 10.1016/j.neuron.2017.02.001",
+                "Bing Zhou | Facilitation of axon regeneration by enhancing mitochondrial transport and rescuing energy deficits | 10.1083/jcb.201605101",
+                "V. Chandran | A Systems-Level Analysis of the Peripheral Nerve Intrinsic Axonal Growth Program | 10.1016/j.neuron.2016.09.034",
+                "Binhai Zheng | Genetic deletion of PTEN promotes corticospinal tract regeneration | 10.1038/nn.2603"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4307114720",
+        "model": "gpt",
+        "question": "How do spatially resolved single-cell epigenomic maps of histone modifications, when integrated with spatial transcriptomics and 3D genome architecture studies, refine our understanding of promoter\u2013enhancer interactions and enhancer hub regulation during mouse brain development and cellular differentiation?",
+        "response": {
+            "references": [
+                "Sebastian Preissl | Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation | 10.1038/s41593-018-0079-3",
+                "Xiaoyu Deng | Spatial-CUT&Tag: spatially resolved chromatin modification profiling at the cellular level | 10.1126/science.abg7216",
+                "Yodai Takei | Integrated spatial genomics reveals global architecture of single nuclei | 10.1038/s41586-020-03126-2",
+                "Elph\u00e8ge P. Nora | Spatial partitioning of the regulatory landscape of the X-inactivation centre | 10.1038/nature11049",
+                "Boyan Bonev | Multiscale 3D Genome Rewiring during Mouse Neural Development | 10.1016/j.cell.2017.09.043"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414230536",
+        "model": "gpt",
+        "question": "How do LEC2\u2013SPCH-mediated auxin biosynthesis circuits in stomatal-lineage progenitors compare with other known transcriptional and hormonal pathways that induce somatic embryogenesis or totipotency across plant tissues and species?",
+        "response": {
+            "references": [
+                "Steven L. Stone | LEAFY COTYLEDON2 encodes a B3 domain transcription factor that induces embryo development | 10.1073/pnas.121190498",
+                "Tzafrir Lotan | Arabidopsis LEAFY COTYLEDON1 is sufficient to induce embryo development in vegetative cells | 10.1016/S0092-8674(00)81709-4",
+                "Kim Boutilier | Ectopic expression of BABY BOOM triggers a conversion from vegetative to embryonic growth | 10.1105/tpc.010397",
+                "Anne Horstman | AIL and HDG proteins act antagonistically to control cell proliferation | 10.1105/tpc.16.00833",
+                "Keiko Sugimoto | Plant regeneration from pluripotent stem cells | 10.1146/annurev-genet-110410-132511"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7164811381",
+        "model": "gpt",
+        "question": "How do endogenous immune cell populations\u2014particularly cytotoxic natural killer cells, regulatory T cells, and immunosuppressive myeloid subsets\u2014shape clinical responses and resistance to CAR T cell therapies across glioblastoma and other solid tumors, and what combination immunomodulatory strategies have shown evidence for improving efficacy?",
+        "response": {
+            "references": [
+                "Christine E. Brown | Regression of Glioblastoma after Chimeric Antigen Receptor T-Cell Therapy | 10.1056/NEJMoa1610497",
+                "Sattva S. Neelapu | Chimeric antigen receptor T-cell therapy \u2014 assessment and management of toxicities | 10.1038/nrclinonc.2018.43",
+                "Alejandro Rodriguez-Garcia | CAR T cells hit the tumor microenvironment: strategies to overcome tumor escape | 10.3389/fimmu.2020.01109",
+                "Robert M. Sterner | CAR-T cell therapy: current limitations and potential strategies | 10.1182/blood.2019001592",
+                "Robbie G. Majzner | Clinical lessons learned from the first leg of the CAR T cell journey | 10.1038/s41591-019-0564-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399430096",
+        "model": "gpt",
+        "question": "How do inner mitochondrial membrane quality control mechanisms coordinate with mitochondrial fission-fusion dynamics to regulate mtDNA copy number and nucleoid distribution across different cellular contexts and disease states?",
+        "response": {
+            "references": [
+                "Sylvie Pickles | Mitophagy and quality control mechanisms in mitochondrial maintenance | 10.1038/s41580-018-0055-2",
+                "Ruchika Anand | The i-AAA protease YME1L and OMA1 cleave OPA1 to balance mitochondrial fusion and fission | 10.1083/jcb.201308006",
+                "Rie Ban-Ishihara | OPA1b and OPA1d isoforms together maintain mitochondrial DNA nucleoids | 10.1038/ncomms2532",
+                "Tim Wai | The membrane scaffold SLP2 anchors a proteolytic hub in mitochondria containing PARL and the i-AAA protease YME1L | 10.1038/ncomms5592",
+                "Gilad Twig | Fission and selective fusion govern mitochondrial segregation and elimination by autophagy | 10.1038/emboj.2008.105"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412570628",
+        "model": "gpt",
+        "question": "How do multiplexed RNA-protein interaction mapping approaches like SPIDR compare with established single-protein methods (e.g., CLIP-based techniques) in terms of binding-site resolution, sensitivity, and biological insight, and what collective advances in mTOR-mediated translational control do these combined technologies reveal?",
+        "response": {
+            "references": [
+                "Donny D. Licatalosi | HITS-CLIP yields genome-wide insights into brain alternative RNA processing | 10.1038/nature07488",
+                "Markus Hafner | Transcriptome-wide identification of RNA-binding protein and microRNA target sites by PAR-CLIP | 10.1016/j.cell.2010.03.009",
+                "Alfredo Castello | Insights into RNA biology from an atlas of mammalian mRNA-binding proteins | 10.1016/j.cell.2012.04.031",
+                "Alan C. Hsieh | The translational landscape of mTOR signalling steers cancer initiation and metastasis | 10.1038/nature10912",
+                "Carson C. Thoreen | A unifying model for mTORC1-mediated regulation of mRNA translation | 10.1038/nature11083"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414564053",
+        "model": "gpt",
+        "question": "How do the structural and functional properties of astrocyte leaflet Ca\u00b2\u207a signaling compare across different brain regions and species, and what mechanisms determine whether these microdomain events remain localized or integrate into larger-scale astrocytic computations that influence distinct neural circuits?",
+        "response": {
+            "references": [
+                "Eiji Shigetomi | Imaging calcium microdomains within entire astrocyte territories and endfeet with GCaMPs expressed using adeno-associated viruses | 10.1523/JNEUROSCI.1002-13.2013",
+                "Luca Bindocci | Three-dimensional Ca2+ imaging advances understanding of astrocyte biology | 10.1126/science.aai8185",
+                "Radhika Srinivasan | Ca2+ signaling in astrocytes from Ip3r2\u2212/\u2212 mice in brain slices and during startle responses in vivo | 10.1038/nn.4001",
+                "Alfonso Araque | Gliotransmitters travel in time and space | 10.1016/j.neuron.2014.02.007",
+                "Baljit S. Khakh | Astrocytes and disease: a neurodevelopmental perspective | 10.1038/nn.4202"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388520190",
+        "model": "gpt",
+        "question": "How do cell-type-specific differences in proteostatic capacity and the unfolded protein response contribute to differential vulnerability to environmental stress across developmental stages and species?",
+        "response": {
+            "references": [
+                "John Labbadia | Mitochondrial stress restores the heat shock response and prevents proteostasis collapse during aging | 10.1016/j.cell.2017.07.038",
+                "Richard C. Taylor | Dillin A. XBP-1 is a cell-nonautonomous regulator of stress resistance and longevity | 10.1016/j.cell.2013.05.042",
+                "Peter Walter | The unfolded protein response: from stress pathway to homeostatic regulation | 10.1126/science.1209038",
+                "Claudio Hetz | Mechanisms, regulation and functions of the unfolded protein response | 10.1038/s41580-020-0250-z",
+                "Richard I. Morimoto | Proteotoxic stress and inducible chaperone networks in neurodegenerative disease and aging | 10.1101/gad.1657108"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408896223",
+        "model": "gpt",
+        "question": "How do the distinct tumor immune microenvironment subtypes and specific cell populations (such as FGFBP2+ NK/NK-like T cells, CCR8+ Tregs, and precursor exhausted T cells) identified in NSCLC neoadjuvant chemo-immunotherapy responders align with or diverge from immune signatures reported across other solid tumor types and treatment modalities in predicting therapeutic response and recurrence risk?",
+        "response": {
+            "references": [
+                "Patrick M. Forde | Neoadjuvant PD-1 Blockade in Resectable Lung Cancer | 10.1056/NEJMoa1716078",
+                "Mariano Provencio | Neoadjuvant chemotherapy and nivolumab in resectable non-small-cell lung cancer | 10.1016/S1470-2045(20)30074-2",
+                "Andrew S. Caushi | Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers | 10.1038/s41586-021-03876-7",
+                "Zemin Zhang | Single-cell analyses reveal key immune cell subsets associated with response to PD-L1 blockade in triple-negative breast cancer | 10.1016/j.cell.2021.09.007",
+                "Moran Sade-Feldman | Defining T Cell States Associated with Response to Checkpoint Immunotherapy in Melanoma | 10.1016/j.cell.2018.10.038"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403860647",
+        "model": "gpt",
+        "question": "How do archaically-derived immunogenetic variants, such as KIR3DL1*114, shape population-specific NK cell responses and infectious disease susceptibility across geographically and ancestrally distinct human populations?",
+        "response": {
+            "references": [
+                "Laurent Abi-Rached | The Shaping of Modern Human Immune Systems by Multiregional Admixture with Archaic Humans | 10.1126/science.1209202",
+                "Peter Parham | MHC class I molecules and KIRs in human history, health and survival | 10.1038/nri1570",
+                "Susan E. Hiby | Combinations of maternal KIR and fetal HLA-C genes influence the risk of preeclampsia and reproductive success | 10.1084/jem.20041214",
+                "Paul J. Norman | Defining KIR and HLA Class I Genotypes at Highest Resolution via High-Throughput Sequencing | 10.1111/imr.12316",
+                "Alexander J. Mentzer | Human leukocyte antigen alleles and COVID-19 severity | 10.1038/s41591-021-01374-x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7117130201",
+        "model": "gpt",
+        "question": "How do the metabolic adaptation mechanisms that enable regulatory T cells to survive and function in ammonia-rich, glutaminolysis-driven tumor microenvironments compare across different cancer types, and to what extent do these shared or divergent pathways represent generalizable therapeutic targets for overcoming immunotherapy resistance?",
+        "response": {
+            "references": [
+                "Mark J. Watson | Metabolic support of tumour-infiltrating regulatory T cells by lactic acid | 10.1038/s41586-021-03322-8",
+                "Robert D. Leone | Glutamine blockade induces divergent metabolic programs to overcome tumor immune evasion | 10.1126/science.aav2588",
+                "Andrea Angelin | Foxp3 Reprograms T Cell Metabolism to Function in Low-Glucose, High-Lactate Environments | 10.1016/j.cmet.2017.06.018",
+                "Chih-Hao Chang | Metabolic Competition in the Tumor Microenvironment Is a Driver of Cancer Progression | 10.1016/j.cell.2015.08.016",
+                "Ping-Chih Ho | Phosphoenolpyruvate is a metabolic checkpoint of anti-tumor T cell responses | 10.1016/j.cell.2015.08.012"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414579243",
+        "model": "gpt",
+        "question": "How do cell-type-specific variations in ciliary proteome composition, as revealed by spatial proteomics, correlate with the tissue-specific phenotypic heterogeneity observed across different ciliopathies?",
+        "response": {
+            "references": [
+                "Erik Mick | Proteomics of Primary Cilia by Proximity Labeling | 10.1016/j.devcel.2015.10.015",
+                "Prachee Kohli | The ciliary membrane-associated proteome reveals actin-binding proteins as key components of cilia | 10.15252/embj.201695955",
+                "Jeremy F. Reiter | The ciliary membrane | 10.1016/j.cub.2017.02.010",
+                "Gabrielle Wheway | The genomics of human ciliopathies: the transition zone and beyond | 10.1038/s41576-019-0110-2",
+                "Maxence V. Nachury | The molecular machines that traffic signaling receptors into and out of cilia | 10.1016/j.cub.2018.03.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7140315114",
+        "model": "gpt",
+        "question": "How do developmental changes in entorhinal grid-cell-like codes for non-spatial conceptual spaces relate to the broader maturation of hippocampal-prefrontal circuits that support schema formation and inferential reasoning across childhood and adolescence?",
+        "response": {
+            "references": [
+                "Alexandra O. Constantinescu | Organizing conceptual knowledge in humans with a gridlike code | 10.1126/science.aaf0941",
+                "Marieke Schlichting | Hippocampal Structure Predicts Statistical Learning and Associative Inference Abilities during Development | 10.1016/j.jocn.2017.01.017",
+                "Yuko Munakata | Interactions between hippocampus and prefrontal cortex during development | 10.1016/j.tics.2013.08.003",
+                "Hanneke E. M. den Ouden | Development of frontostriatal connectivity predicts longitudinal changes in reinforcement learning | 10.1038/nn.2753",
+                "Catherine A. Hartley | The neuroscience of adolescent decision-making | 10.1016/j.cobeha.2015.09.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411412377",
+        "model": "gpt",
+        "question": "How does the morphological and genetic evidence linking Denisovans to the Harbin cranium reshape the taxonomic classification and phylogenetic relationships among East Asian Middle Pleistocene hominin fossils?",
+        "response": {
+            "references": [
+                "Xijun Ni | Massive cranium from Harbin in northeastern China establishes a new Middle Pleistocene human lineage | 10.1016/j.xinn.2021.100130",
+                "Fahu Chen | A late Middle Pleistocene Denisovan mandible from the Tibetan Plateau | 10.1038/s41586-019-1139-x",
+                "Matthias Meyer | A High-Coverage Genome Sequence from an Archaic Denisovan Individual | 10.1126/science.1224344",
+                "Chris Stringer | The status of Homo heidelbergensis | 10.1002/evan.21311",
+                "Frido Welker | The dental proteome of Homo antecessor | 10.1038/s41586-020-2153-8"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4293658735",
+        "model": "gpt",
+        "question": "How do the photophysical trade-offs between brightness, photostability, and voltage sensitivity in genetically encoded voltage indicators optimized for two-photon microscopy compare across different protein engineering strategies and screening platforms developed for both fluorescent proteins and rhodopsin-based sensors?",
+        "response": {
+            "references": [
+                "Vincent Villette | Ultrafast Two-Photon Imaging of a High-Gain Voltage Indicator in Awake Behaving Mice | 10.1016/j.cell.2019.03.029",
+                "Kiryl D. Piatkevich | Population imaging of neural activity in awake behaving mice | 10.1038/s41586-019-1641-1",
+                "Ahmed S. Abdelfattah | Bright and photostable chemigenetic indicators for extended in vivo voltage imaging | 10.1126/science.aav6416",
+                "Yongxin Adam | Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics | 10.1038/s41586-019-1166-7",
+                "Murali Kannan | Fast, in vivo voltage imaging using a red fluorescent indicator | 10.1038/s41592-018-0188-7"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3094860119",
+        "model": "gpt",
+        "question": "How do the immunogenicity and protective efficacy of self-assembling protein nanoparticle platforms displaying receptor-binding domains compare across different viral pathogens and antigen display strategies, and what structural and immunological factors determine their relative success in eliciting broadly neutralizing, escape-resistant antibody responses?",
+        "response": {
+            "references": [
+                "David Walls | Elicitation of Potent Neutralizing Antibody Responses by Designed Protein Nanoparticle Vaccines for SARS-CoV-2 | 10.1016/j.cell.2020.10.043",
+                "Kevin O. Saunders | Neutralizing antibody vaccine for pandemic and pre-emergent coronaviruses | 10.1038/s41586-021-03594-0",
+                "Masaru Kanekiyo | Self-assembling influenza nanoparticle vaccines elicit broadly neutralizing H1N1 antibodies | 10.1038/nature12202",
+                "Linling He | Single-component, self-assembling, protein nanoparticles presenting the receptor binding domain and stabilized spike as SARS-CoV-2 vaccine candidates | 10.1126/sciadv.abf1591",
+                "Alexander C. Walls | Elicitation of broadly protective sarbecovirus immunity by receptor-binding domain nanoparticle vaccines | 10.1016/j.cell.2021.09.015"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4372336992",
+        "model": "gpt",
+        "question": "**Question:** How does the lipid composition of the plasma membrane modulate \u03b2-arrestin preassociation and its subsequent interactions with GPCRs across different receptor subtypes and cellular contexts?",
+        "response": {
+            "references": [
+                "Ilya Gaidarov | Arrestin function in G protein-coupled receptor endocytosis requires phosphoinositide binding | 10.1093/emboj/18.4.871",
+                "Yong Ju Kang | Crystal structure of rhodopsin bound to arrestin by femtosecond X-ray laser | 10.1038/nature14656",
+                "Arun K. Shukla | Visualization of arrestin recruitment by a G-protein-coupled receptor | 10.1038/nature13430",
+                "Samantha Eichel | Catalytic activation of \u03b2-arrestin by GPCRs | 10.1038/nature18574",
+                "Benoit Laporte | The interaction of \u03b2-arrestin with the AP-2 adaptor is required for the clustering of \u03b22-adrenergic receptor into clathrin-coated pits | 10.1074/jbc.274.32.23120"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390739389",
+        "model": "gpt",
+        "question": "How do accessory subunits across different organisms modulate the catalytic core function and oxygen sensitivity of mitochondrial complex I, and what conserved structural mechanisms link ubiquinone binding pocket dynamics to the rescue of complex I deficiency under varying oxygen conditions?",
+        "response": {
+            "references": [
+                "Leonid A. Sazanov | A giant molecular proton pump: structure and mechanism of respiratory complex I | 10.1038/nrm3997",
+                "Judy Hirst | Mitochondrial complex I | 10.1146/annurev-biochem-062711-153700",
+                "Jiyuan Zhu | Structure of subcomplex I\u03b2 of mammalian respiratory complex I leads to new supernumerary subunit assignments | 10.1073/pnas.1603650113",
+                "Konstantin Kampjut | Structure of respiratory complex I \u2013 an emerging blueprint for the mechanism | 10.1016/j.cub.2019.12.045",
+                "David M. Stroud | Accessory subunits are integral for assembly and function of human mitochondrial complex I | 10.1038/nature19754"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3097788036",
+        "model": "gpt",
+        "question": "How do type I and type II interferon signaling pathways differentially regulate hematopoietic stem cell reprogramming and myelopoiesis across distinct chronic infections and inflammatory contexts, and what determines whether their engagement results in protective or detrimental trained immunity?",
+        "response": {
+            "references": [
+                "Marc A. G. Essers | IFN\u03b1 activates dormant haematopoietic stem cells in vivo | 10.1038/nature07815",
+                "Megan T. Baldridge | Quiescent haematopoietic stem cells are activated by IFN-\u03b3 in response to chronic infection | 10.1038/nature09135",
+                "Kathryn A. Matatall | Chronic infection depletes hematopoietic stem cells through stress-induced terminal differentiation | 10.1016/j.celrep.2016.07.031",
+                "Eicke Latz | Innate immune memory in health and disease | 10.1038/s41577-018-0026-8",
+                "Ioannis Mitroulis | Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity | 10.1016/j.cell.2018.09.011"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4317436091",
+        "model": "gpt",
+        "question": "How do the synaptic potentiation mechanisms underlying behavioral timescale plasticity in CA1 neurons compare with those governing other forms of hippocampal plasticity, such as classical Hebbian long-term potentiation, across different learning contexts and neural circuits?",
+        "response": {
+            "references": [
+                "Katie C. Bittner | Behavioral time scale synaptic plasticity underlies CA1 place fields | 10.1126/science.aan3846",
+                "Tim V. P. Bliss | Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path | 10.1113/jphysiol.1973.sp010273",
+                "Guo-qiang Bi | Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type | 10.1523/JNEUROSCI.18-24-10464.1998",
+                "Mark E. Sheffield | Calcium transient prevalence across the dendritic arbour predicts place field properties | 10.1038/nature22815",
+                "Jeffrey C. Magee | Dendritic mechanisms of phase precession in hippocampal CA1 pyramidal neurons | 10.1523/JNEUROSCI.20-06-02350.2000"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4382241824",
+        "model": "gpt",
+        "question": "How did the diversification of nucleotide second messengers (e.g., cGAMP isomers, c-UMP-AMP, and c-di-AMP) synthesized by cGLRs co-evolve with downstream STING signaling specificity across metazoan phyla to establish discrete innate immune pathways?",
+        "response": {
+            "references": [
+                "Philip J. Kranzusch | Ancient origin of cGAS-STING reveals mechanism of universal 2\u2032,3\u2032 cGAMP signaling | 10.1016/j.molcel.2015.03.022",
+                "Danielle Cohen | Cyclic GMP-AMP signalling protects bacteria against viral infection | 10.1038/s41586-019-1605-5",
+                "Aidan T. Whiteley | Bacterial cGAS-like enzymes synthesize diverse nucleotide signals | 10.1038/s41586-019-0953-5",
+                "Kathryn M. Slavik | cGAS-like receptors sense RNA and control 3\u20322\u2032-cGAMP signalling in Drosophila | 10.1038/s41586-021-04295-6",
+                "Andrea Ablasser | cGAS produces a 2\u2032-5\u2032-linked cyclic dinucleotide second messenger that activates STING | 10.1038/nature12306"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4253933889",
+        "model": "gpt",
+        "question": "How do the spatial organization patterns of cellular neighborhoods within the tumor microenvironment, as revealed by multiplexed tissue imaging across different cancer types, correlate with antitumoral immune function and patient clinical outcomes?",
+        "response": {
+            "references": [
+                "Leeat Keren | A Structured Tumor-Immune Microenvironment in Triple Negative Breast Cancer Revealed by Multiplexed Ion Beam Imaging | 10.1016/j.cell.2018.08.039",
+                "Christian M. Sch\u00fcrch | Coordinated Cellular Neighborhoods Orchestrate Antitumoral Immunity at the Colorectal Cancer Invasive Front | 10.1016/j.cell.2020.07.005",
+                "Hartland W. Jackson | The single-cell pathology landscape of breast cancer | 10.1038/s41586-019-1876-x",
+                "Sydney Goltsev | Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging | 10.1016/j.cell.2018.03.053",
+                "Michael Angelo | Multiplexed ion beam imaging of human breast tumors | 10.1038/nm.3488"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406510165",
+        "model": "gpt",
+        "question": "How do the structural adaptations and mechanical resilience of the nuclear pore complex observed during HIV-1 capsid passage compare across different viral and cellular cargoes, and what do these commonalities and differences reveal about the general biophysical limits of nucleocytoplasmic transport?",
+        "response": {
+            "references": [
+                "Vojtech Zila | Cone-shaped HIV-1 capsids are transported through intact nuclear pores | 10.1016/j.cell.2021.04.015",
+                "Ari Helenius | Virus entry and uncoating | 10.1016/j.cell.2018.02.046",
+                "Martin Beck | Nuclear pore complex structure and dynamics revealed by cryoelectron tomography | 10.1126/science.aau0285",
+                "Yvette von Appen | In situ structural analysis of the human nuclear pore complex | 10.1038/nature15381",
+                "Steffen Frey | Surface properties determining passage rates of proteins through nuclear pores | 10.1126/science.aar5830"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417497881",
+        "model": "gpt",
+        "question": "How do the type I interferon signaling pathways and lipid nanoparticle-mediated dendritic cell modulation identified in mRNA vaccines compare with the adjuvant mechanisms of conventional vaccine platforms in balancing the trade-off between robust T follicular helper cell-driven humoral immunity and potential interferon-associated immunopathology?",
+        "response": {
+            "references": [
+                "Katalin Karik\u00f3 | Suppression of RNA recognition by Toll-like receptors: the impact of nucleoside modification and the evolutionary origin of RNA | 10.1016/j.immuni.2005.06.008",
+                "Norbert Pardi | mRNA vaccines \u2014 a new era in vaccinology | 10.1038/nrd.2017.243",
+                "Mohammad-Gabriel Alameh | Lipid nanoparticles enhance the efficacy of mRNA and protein subunit vaccines by inducing robust T follicular helper cell and humoral responses | 10.1016/j.immuni.2021.04.016",
+                "Kathryn Lederer | SARS-CoV-2 mRNA vaccines foster potent antigen-specific germinal center responses associated with neutralizing antibody generation | 10.1016/j.immuni.2020.11.009",
+                "Bali Pulendran | Immunology of COVID-19 vaccines | 10.1126/science.abm0829"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402515518",
+        "model": "gpt",
+        "question": "How does the RING-Bait strategy's mechanism of clustering-induced E3 ligase dimerization for selective aggregate degradation compare in efficacy, specificity, and translational potential to other proximity-based targeted protein degradation approaches, such as PROTACs, molecular glues, and autophagy-targeting chimeras, across diverse neurodegenerative proteinopathies?",
+        "response": {
+            "references": [
+                "Dean Clift | A Method for the Acute and Rapid Degradation of Endogenous Proteins | 10.1016/j.cell.2017.10.033",
+                "Kathleen M. Sakamoto | Protacs: chimeric molecules that target proteins to the Skp1\u2013Cullin\u2013F box complex for ubiquitination and degradation | 10.1073/pnas.141230798",
+                "Shuhei Takahashi | An autophagy assay reveals the ESCRT-III component CHMP2A as a regulator of phagophore closure | 10.1016/j.molcel.2019.08.018",
+                "Zongsheng Li | Allele-selective lowering of mutant HTT protein by HTT\u2013LC3 linker compounds | 10.1038/s41589-019-0292-6",
+                "Mikl\u00f3s B\u00e9k\u00e9s | PROTAC targeted protein degraders: the past is prologue | 10.1038/s41573-021-00371-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412826966",
+        "model": "gpt",
+        "question": "How do the cell-type-specific epigenomic erosion signatures identified in Alzheimer's disease compare to epigenomic dysregulation patterns observed across other neurodegenerative disorders and normal aging, and to what extent do they represent disease-specific versus shared mechanisms of neurodegeneration?",
+        "response": {
+            "references": [
+                "Rosanna Nativio | Dysregulation of the epigenetic landscape of normal aging in Alzheimer\u2019s disease | 10.1038/s41593-020-0634-3",
+                "Sarah J. Marzi | A histone acetylome-wide association study of Alzheimer\u2019s disease identifies disease-associated H3K27ac differences in the entorhinal cortex | 10.1038/s41593-018-0290-8",
+                "Elena Gjoneska | Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer\u2019s disease | 10.1038/nature14252",
+                "Bradley E. Bernstein | The NIH Roadmap Epigenomics Mapping Consortium | 10.1038/nbt.1935",
+                "Hansruedi Mathys | Single-cell transcriptomic analysis of Alzheimer\u2019s disease | 10.1038/s41586-019-1195-2"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4311359167",
+        "model": "gpt",
+        "question": "How do the antibody evasion mechanisms of BQ and XBB Omicron subvariants compare across different vaccine platforms and prior infection histories, and what implications do these convergent spike mutations have for the design of next-generation broadly protective COVID-19 vaccines and therapeutic antibodies?",
+        "response": {
+            "references": [
+                "Yunlong Cao | Imprinted SARS-CoV-2 humoral immunity induces convergent Omicron RBD evolution | 10.1038/s41586-022-05644-7",
+                "Qian Wang | Alarming antibody evasion properties of rising SARS-CoV-2 BQ and XBB subvariants | 10.1016/j.cell.2022.12.018",
+                "David Planas | Resistance of Omicron subvariants BA.2.75.2, BA.4.6, and BQ.1.1 to neutralizing antibodies | 10.1038/s41591-022-02138-6",
+                "Chaitanya Kurhade | Neutralization of Omicron sublineages and Deltacron SARS-CoV-2 by three doses of BNT162b2 vaccine or BA.1 infection | 10.1038/s41591-022-02162-x",
+                "Tina Kurhade | Low neutralization of SARS-CoV-2 Omicron BA.2.75.2, BQ.1.1, and XBB.1 by parental mRNA vaccine or a BA.5-bivalent booster | 10.1038/s41591-022-02162-x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411412223",
+        "model": "gpt",
+        "question": "How do the spatiotemporal signaling networks and regionalized gene expression patterns identified during early organogenesis compare across vertebrate species and integrate with established gene regulatory network models to explain the conserved versus divergent mechanisms underlying cardiac primordium specification and developmental defect susceptibility?",
+        "response": {
+            "references": [
+                "Aaron DeLaughter | Single-Cell Resolution of Temporal Gene Expression during Heart Development | 10.1016/j.devcel.2016.10.001",
+                "Fabienne Lescroart | Early lineage restriction in temporally distinct populations of Mesp1 progenitors during mammalian heart development | 10.1038/ncb3024",
+                "Robert C. V. Tyser | Single-cell transcriptomic characterization of a gastrulating human embryo | 10.1038/s41586-021-04158-y",
+                "Bastiaan Spanjaard | Simultaneous lineage tracing and cell-type identification using CRISPR\u2013Cas9-induced genetic scars | 10.1038/nbt.4124",
+                "Miguel Torres | The cardiac neural crest is required for proper migration of the heart field | 10.1242/dev.01767"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403405969",
+        "model": "gpt",
+        "question": "How do current AI and omics-based approaches to multi-scale cellular modeling compare in their capacity to integrate heterogeneous molecular, cellular, and tissue-level data into unified predictive frameworks, and what methodological and infrastructural challenges must be collectively addressed to realize a fully functional AI virtual cell?",
+        "response": {
+            "references": [
+                "Bo Wang | scGPT: toward building a foundation model for single-cell multi-omics using generative AI | 10.1038/s41592-024-02201-0",
+                "Mohammad Lotfollahi | Mapping single-cell data to reference atlases by transfer learning | 10.1038/s41587-021-01001-7",
+                "John Jumper | Highly accurate protein structure prediction with AlphaFold | 10.1038/s41586-021-03819-2",
+                "Ali Ebrahim | Multi-omic data integration enables discovery of hidden biological regularities | 10.1038/nrm.2016.4",
+                "Aviv Regev | The Human Cell Atlas | 10.7554/eLife.27041"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4397002620",
+        "model": "gpt",
+        "question": "How do the mechanisms of vaccine-driven selection of improbable somatic hypermutations in MPER-targeting bnAb lineages compare across different HIV-1 immunogen design strategies, and what B cell ontogeny principles govern their reproducible induction in humans?",
+        "response": {
+            "references": [
+                "Barton F. Haynes | Immune tolerance in HIV-1 broadly neutralizing antibody induction | 10.1126/science.1213367",
+                "Joseph G. Jardine | HIV-1 broadly neutralizing antibody precursor B cells revealed by germline-targeting immunogen | 10.1126/science.aac5894",
+                "Daniel J. Leggat | Vaccination induces HIV broadly neutralizing antibody precursors in humans | 10.1126/science.add6502",
+                "Kevin O. Saunders | Targeted selection of HIV-specific antibody mutations by engineering B cell maturation | 10.1126/science.aay7199",
+                "Laurent Verkoczy | Autoreactivity in HIV-1 broadly neutralizing antibodies: implications for their function and induction by vaccination | 10.1111/imr.12521"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3175735655",
+        "model": "gpt",
+        "question": "How do endogenous retroviruses function as intermediaries in host-microbiota communication across different tissue barriers, and to what extent do dietary and environmental factors modulate this cGAS/STING-dependent immune dialog in both homeostatic and pathological contexts?",
+        "response": {
+            "references": [
+                "Juliana A. Lima-Junior | Endogenous retroviruses promote homeostatic and inflammatory responses to the microbiota | 10.1016/j.cell.2021.01.041",
+                "Bahar Erturk-Hasdemir | Symbionts exploit complex signaling to educate the immune system | 10.1016/j.cell.2019.09.004",
+                "Daniel B. Stetson | Trex1 prevents cell-intrinsic initiation of autoimmunity | 10.1016/j.cell.2008.06.032",
+                "Nicole Grandi | Human endogenous retroviruses and human diseases: a comprehensive review | 10.1038/s41579-018-0009-2",
+                "Andrea Ablasser | cGAS produces a 2\u2032-5\u2032-linked cyclic dinucleotide second messenger that activates STING | 10.1038/nature12306"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166732033",
+        "model": "gpt",
+        "question": "How do mechanotransduction, chromatin accessibility, and Notch-mediated lateral inhibition interact across species and tissue types to convert transient cellular heterogeneity into stable, self-organized spatial patterns during regeneration?",
+        "response": {
+            "references": [
+                "Julian R. Collier | Pattern formation by lateral inhibition with feedback: a mathematical model of delta-notch intercellular signalling | 10.1006/jtbi.1996.0023",
+                "Stefano Dupont | Role of YAP/TAZ in mechanotransduction | 10.1038/nature10137",
+                "Peter W. Reddien | SMEDWI-2 is a PIWI-like protein that regulates planarian stem cells | 10.1126/science.1116110",
+                "Oren Shaya | Cell-Cell Contact Area Affects Notch Signaling and Notch-Dependent Patterning | 10.1016/j.devcel.2017.06.009",
+                "Jason D. Buenrostro | Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position | 10.1038/nmeth.2688"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4310071929",
+        "model": "gpt",
+        "question": "How do the evolutionary dynamics and functional consequences of HAQERs compare to those of other rapidly evolving human genomic regions, such as human accelerated regions (HARs), in terms of their contributions to human-specific neurodevelopmental traits and disease susceptibility?",
+        "response": {
+            "references": [
+                "Katherine S. Pollard | An RNA gene expressed during cortical development evolved rapidly in humans | 10.1038/nature05113",
+                "Shyam Prabhakar | Human-specific gain of function in a developmental enhancer | 10.1126/science.1159974",
+                "Rachel M. Gittelman | Comprehensive identification and analysis of human accelerated regulatory DNA | 10.1101/gr.188078.114",
+                "James A. Capra | Many human accelerated regions are developmental enhancers | 10.1098/rstb.2013.0025",
+                "Tatjana Girskis | Rewiring of human neurodevelopmental gene regulatory programs by human accelerated regions | 10.1016/j.neuron.2021.03.015"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4382247824",
+        "model": "gpt",
+        "question": "How does structure-based clustering using AlphaFold2 predictions compare to traditional sequence-based methods in its ability to reveal functional diversity and uncover novel enzymatic properties across protein families?",
+        "response": {
+            "references": [
+                "John Jumper | Highly accurate protein structure prediction with AlphaFold | 10.1038/s41586-021-03819-2",
+                "Meral Akdel | A structural biology community assessment of AlphaFold2 applications | 10.1038/s41594-022-00849-w",
+                "Liisa Holm | DALI and the persistence of protein shape | 10.1093/protein/gzab008",
+                "John A. Gerlt | Enzyme Function Initiative-Enzyme Similarity Tool (EFI-EST): A web tool for generating protein sequence similarity networks | 10.1021/bi501586x",
+                "Antonina Andreeva | SCOP2 prototype: a new approach to protein structure mining | 10.1093/nar/gkv1174"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394603687",
+        "model": "gpt",
+        "question": "How do the mechanisms by which *Fusobacterium* confers resistance to immune checkpoint blockade compare across different cancer types and metastatic sites, and to what extent are these mechanisms mediated by tumor hypoxia, neutrophil infiltration, or microbial community dynamics?",
+        "response": {
+            "references": [
+                "Susan Bullman | Analysis of Fusobacterium persistence and antibiotic response in colorectal cancer | 10.1126/science.aal5240",
+                "Kosuke Mima | Fusobacterium nucleatum in colorectal carcinoma tissue and patient prognosis | 10.1136/gutjnl-2015-310101",
+                "Tingting Yu | Fusobacterium nucleatum promotes chemoresistance to colorectal cancer by modulating autophagy | 10.1016/j.cell.2017.07.008",
+                "Bertrand Routy | Gut microbiome influences efficacy of PD-1\u2013based immunotherapy against epithelial tumors | 10.1126/science.aan3706",
+                "Chamutal Gur | Binding of the Fap2 protein of Fusobacterium nucleatum to human inhibitory receptor TIGIT protects tumors from immune cell attack | 10.1016/j.immuni.2015.09.010"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4225287557",
+        "model": "gpt",
+        "question": "How do the recently identified contributions of clonal hematopoiesis, cellular senescence, and gut microbiome interactions converge on common inflammatory pathways to influence atherosclerotic plaque progression across different cellular subpopulations?",
+        "response": {
+            "references": [
+                "Jos\u00e9 J. Fuster | Clonal hematopoiesis associated with TET2 deficiency accelerates atherosclerosis development in mice | 10.1126/science.aag1381",
+                "Bennett G. Childs | Senescent intimal foam cells are deleterious at all stages of atherosclerosis | 10.1126/science.aaf6659",
+                "Zeneng Wang | Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease | 10.1038/nature09922",
+                "Peter Libby | The changing landscape of atherosclerosis | 10.1038/nature10146",
+                "Siddhartha Jaiswal | Age-related clonal hematopoiesis associated with adverse outcomes | 10.1056/NEJMoa1408617"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385956066",
+        "model": "gpt",
+        "question": "How do legal definitions and ethical frameworks governing human embryo models vary across different jurisdictions, and what regulatory approaches have been proposed to reconcile these differences with the rapidly evolving capabilities of stem cell-based embryo models?",
+        "response": {
+            "references": [
+                "Insoo Hyun | Human embryo research beyond the primitive streak | 10.1126/science.aad8601",
+                "Robin Lovell-Badge | ISSCR Guidelines for Stem Cell Research and Clinical Translation: The 2021 update | 10.1016/j.stem.2021.05.012",
+                "Henry T. Greely | Human embryo editing: policy and ethics | 10.1098/rstb.2018.0105",
+                "John Aach | Addressing the ethical issues raised by synthetic human entities with embryo-like features | 10.7554/eLife.20674",
+                "Nicolas C. Rivron | Blastocyst-like structures generated solely from stem cells | 10.1038/nature25966"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416955275",
+        "model": "gpt",
+        "question": "How do recent discoveries of fertilization-induced proteomic asymmetry in mammalian embryos challenge the long-held paradigm of early blastomere equivalence, and what conserved molecular mechanisms govern this symmetry-breaking event across different mammalian and non-mammalian species?",
+        "response": {
+            "references": [
+                "Magdalena Zernicka-Goetz | Following cell fate in the living mouse embryo | 10.1016/S1534-5807(02)00075-1",
+                "Berenika Plusa | The first cleavage of the mouse zygote predicts the blastocyst axis | 10.1038/nature04205",
+                "Matthew D. White | Long-lived binding of Sox2 to DNA predicts cell fate in the four-cell mouse embryo | 10.1016/j.cell.2016.02.032",
+                "Mahmoud Goolam | Heterogeneity in Oct4 and Sox2 targets biases cell fate in 4-cell mouse embryos | 10.1016/j.cell.2016.06.023",
+                "Mingliang Chen | Single-cell multiomics profiling reveals dynamic regulation of early mammalian embryogenesis | 10.1016/j.cell.2018.03.023"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409108775",
+        "model": "gpt",
+        "question": "How does the integration of single-cell protein turnover dynamics with single-cell transcriptomic and epigenomic profiles reshape our understanding of post-transcriptional regulation and protein-to-cell-size scaling during mammalian stem cell differentiation?",
+        "response": {
+            "references": [
+                "Fran\u00e7ois-Michel Boisvert | A quantitative spatial proteomics analysis of proteome turnover in human cells | 10.1074/mcp.M111.011429",
+                "Qiaolin Liu | Single-cell RNA-seq reveals dynamic early embryonic-like programs during chemical reprogramming | 10.1038/s41586-020-1994-5",
+                "Nico Battich | Control of transcript variability in single mammalian cells | 10.1016/j.cell.2015.04.018",
+                "Silvia Marguerat | Quantitative analysis of fission yeast transcriptomes and proteomes in proliferating and quiescent cells | 10.1016/j.cell.2012.04.019",
+                "Itay Tirosh | Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma | 10.1038/nature20123"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404299477",
+        "model": "gpt",
+        "question": "How does the newly discovered CNDP2-dependent BHB-amino acid pathway integrate with established Lac-Phe and classical ketone signaling mechanisms to collectively regulate appetite and energy homeostasis under different metabolic states?",
+        "response": {
+            "references": [
+                "Veronica L. Li | An exercise-inducible metabolite that suppresses feeding and obesity | 10.1038/s41586-022-04828-5",
+                "John C. Newman | Ketone bodies as signaling metabolites | 10.1016/j.cell.2017.07.025",
+                "Takeshi Shimazu | Suppression of oxidative stress by \u03b2-hydroxybutyrate, an endogenous histone deacetylase inhibitor | 10.1126/science.1227166",
+                "Adam K. Taggart | (D)-\u03b2-Hydroxybutyrate inhibits adipocyte lipolysis via the nicotinic acid receptor PUMA-G | 10.1074/jbc.M410531200",
+                "Scott M. Sternson | Hypothalamic survival circuits: blueprints for purposive behaviors | 10.1016/j.neuron.2013.11.018"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401699332",
+        "model": "gpt",
+        "question": "How do the structural properties, mechanisms of membrane-disrupting action, and therapeutic indices of newly identified human metagenome-derived smORF-encoded peptides (SEPs) compare to those of classical bacteriocins and eukaryotic host-defense peptides currently documented in the literature?",
+        "response": {
+            "references": [
+                "Daniel Veltri | Deep learning improves antimicrobial peptide recognition | 10.1093/bioinformatics/btx285",
+                "William F. Porto | In silico optimization of a guava antimicrobial peptide enables combinatorial exploration for peptide design | 10.1038/s41467-018-07715-2",
+                "Guangshun Wang | The Antimicrobial Peptide Database as a tool for research and education | 10.1093/nar/gkv1278",
+                "Paul D. Cotter | Bacteriocins \u2014 a viable alternative to antibiotics? | 10.1038/nrmicro2937",
+                "Michael Zasloff | Antimicrobial peptides of multicellular organisms | 10.1038/415389a"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406366504",
+        "model": "gpt",
+        "question": "How do the molecular and microenvironmental mechanisms of loss-translocation-amplification (LTA) chromothripsis in osteosarcoma compare with patterns of punctuated genomic evolution in other TP53-deficient malignancies, and what are the implications of these distinct mutational processes for therapeutic targeting and clinical prognosis?",
+        "response": {
+            "references": [
+                "Philip J. Stephens | Massive genomic rearrangement acquired in a single catastrophic event during cancer development | 10.1016/j.cell.2010.11.055",
+                "Isidro Cort\u00e9s-Ciriano | Comprehensive analysis of chromothripsis in 2,658 human cancers using whole-genome sequencing | 10.1038/s41588-019-0576-7",
+                "Dale W. Garsed | The architecture and evolution of cancer neochromosomes | 10.1016/j.ccell.2014.06.010",
+                "Thomas Rausch | Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements with TP53 mutations | 10.1016/j.cell.2012.10.013",
+                "Ofer Shoshani | Chromothripsis drives the evolution of gene amplification in cancer | 10.1038/s41586-020-03064-z"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386887353",
+        "model": "gpt",
+        "question": "How well do the route-dependent clinical pathologies and transcriptomic immune signatures observed in this rhesus macaque model of mpox align with the diverse clinical presentations and mucosal immune responses documented in human patients during the 2022\u20132023 global outbreak?",
+        "response": {
+            "references": [
+                "John P. Thornhill | Monkeypox virus infection in humans across 16 countries \u2014 April\u2013June 2022 | 10.1056/NEJMoa2207323",
+                "Amit Patel | Clinical features and novel presentations of human monkeypox in a central London centre during the 2022 outbreak | 10.1136/bmj-2022-072410",
+                "Fabian Zaeck | Low levels of monkeypox virus-neutralizing antibodies after MVA-BN vaccination in healthy individuals | 10.1038/s41591-022-02090-w",
+                "Christine L. Hutson | Comparison of monkeypox virus clade kinetics and pathology within the prairie dog animal model using a serial sacrifice study design | 10.1371/journal.pone.0005912",
+                "Patricia L. Earl | Immunogenicity of a highly attenuated MVA smallpox vaccine and protection against monkeypox | 10.1038/nature02226"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7116953306",
+        "model": "gpt",
+        "question": "How do emerging multi-compartment in vitro endometrial platforms compare to traditional two-dimensional co-cultures and animal models in their capacity to recapitulate the complex molecular crosstalk and trophoblast invasion dynamics characteristic of early human embryo implantation?",
+        "response": {
+            "references": [
+                "Margherita Y. Turco | Long-term, hormone-responsive organoid cultures of human endometrium in a chemically defined medium | 10.1038/ncb3516",
+                "Thomas M. Rawlings | Modelling the impact of decidual senescence on embryo implantation in human endometrial assembloids | 10.1210/endocr/bqab144",
+                "Justin S. Gnecco | Compartmentalized culture of perivascular stroma and endothelial cells in a microfluidic model of the human endometrium | 10.1098/rsif.2017.0489",
+                "Y. Shahbazi | Self-organization of the human embryo in the absence of maternal tissues | 10.1038/ncb3347",
+                "Alessia Deglincerti | Self-organization of the in vitro attached human embryo | 10.1038/nature17948"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4317898754",
+        "model": "gpt",
+        "question": "How does the discovery of diverse, potentially prokaryote-infecting viroid-like covalently closed circular (ccc) RNAs challenge and expand current evolutionary models regarding the transition between protein-free RNA replicators and capsid-encoding viruses across different domains of life?",
+        "response": {
+            "references": [
+                "Ivan N. Zheludev | Viroid-like colonists of human microbiomes | 10.1016/j.cell.2024.01.038",
+                "Ricardo Flores | Viroids and viroid-host interactions | 10.1146/annurev-virology-031413-085416",
+                "Eugene V. Koonin | The ancient Virus World and evolution of cells | 10.1186/1745-6150-1-29",
+                "Alexander Rybak-Wolf | Circular RNAs in the mammalian brain are highly abundant, conserved, and dynamically expressed | 10.1016/j.molcel.2015.03.027",
+                "Mart Krupovic | Origins and evolution of viruses of eukaryotes: the ultimate modularity | 10.1016/j.virol.2018.02.039"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3006211741",
+        "model": "gpt",
+        "question": "How do proteogenomic and epigenetic alterations in the Wnt/\u03b2-catenin and p53 pathways shape the tumor immune microenvironment of endometrial cancer subtypes, and how can these multi-omic insights be synthesized to optimize personalized immunotherapy strategies?",
+        "response": {
+            "references": [
+                "Douglas A. Levine | Integrated genomic characterization of endometrial carcinoma | 10.1038/nature12113",
+                "Yuexin Dou | Proteogenomic characterization of endometrial carcinoma | 10.1038/s41586-020-1997-2",
+                "Aline Talhouk | A clinically applicable molecular-based classification for endometrial cancers | 10.1038/bjc.2015.190",
+                "Vicky Makker | Lenvatinib plus pembrolizumab for advanced endometrial cancer | 10.1056/NEJMoa2108330",
+                "Stefani Spranger | Melanoma-intrinsic \u03b2-catenin signalling prevents anti-tumour immunity | 10.1038/nature14404"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4389614233",
+        "model": "gpt",
+        "question": "How do host immunogenetic variations and co-infections with distinct herpesvirus variants, such as EBV and HCMV, synergistically regulate the natural killer and T-cell-mediated clearance of molecular mimicry-derived autoreactive cells in multiple sclerosis and related neuroinflammatory disorders?",
+        "response": {
+            "references": [
+                "Thomas V. Lanz | Clonally expanded B cells in multiple sclerosis bind EBV EBNA1 and GlialCAM | 10.1038/s41586-022-04432-7",
+                "Kjetil Bjornevik | Longitudinal analysis reveals high prevalence of Epstein-Barr virus associated with multiple sclerosis | 10.1126/science.abj8222",
+                "Emilie Sundqvist | Epstein-Barr virus and multiple sclerosis: interaction with HLA | 10.1212/WNL.0b013e3182a352fe",
+                "Dominik D. Schub | CMV-driven expansion of adaptive NKG2C+ NK cells in multiple sclerosis | 10.3389/fimmu.2019.01173",
+                "Benjamin M. Greenfield | Longitudinally extensive transverse myelitis and Epstein-Barr virus | 10.1212/WNL.0b013e3181b59c73"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3007245269",
+        "model": "gpt",
+        "question": "How do recent genomic and evolutionary studies across diverse cancer types support or refine the model that the cumulative, additive effect of low-to-medium-impact passenger mutations significantly contributes to tumor progression and phenotypic heterogeneity?",
+        "response": {
+            "references": [
+                "Christopher D. McFarland | Impact of deleterious passenger mutations on cancer progression | 10.1073/pnas.1305969110",
+                "Christopher D. McFarland | The damaging effect of passenger mutations on cancer progression | 10.1073/pnas.1213968110",
+                "Ivana Bozic | Accumulation of driver and passenger mutations during tumor progression | 10.1073/pnas.1010978107",
+                "Marc J. Williams | Identification of neutral tumor evolution across cancer types | 10.1038/ng.3489",
+                "I\u00f1igo Martincorena | Universal patterns of selection in cancer and somatic tissues | 10.1016/j.cell.2017.09.042"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401173845",
+        "model": "gpt",
+        "question": "How do the structural mechanisms of non-canonical transducer coupling and superficial ligand binding observed in the Duffy antigen receptor compare across the broader class of atypical chemokine receptors (ACKRs) to explain their distinct pharmacological phenotypes and roles in host defense?",
+        "response": {
+            "references": [
+                "Avijit Chaudhuri | Cloning of glycoprotein D cDNA, which encodes the major subunit of the Duffy blood group system and the receptor for the Plasmodium vivax malaria parasite | 10.1073/pnas.90.22.10793",
+                "Richard Horuk | A receptor for the malarial parasite Plasmodium vivax: the erythrocyte chemokine receptor | 10.1126/science.7683124",
+                "Robert J. B. Nibbs | Atypical chemokine receptors | 10.1038/nri3544",
+                "Massimo Locati | The chemokine system: tuning and shaping by regulation of receptor expression and coupling in polarized responses | 10.1146/annurev-immunol-032713-120145",
+                "Osamu Nomiyama | Chemokines and chemokine receptors in humans and mice | 10.1124/pr.110.003384"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403729668",
+        "model": "gpt",
+        "question": "How do emerging scalable computational tools like Memento compare with traditional differential expression frameworks in their ability to accurately decouple biological heterogeneity from technical noise in multi-million-cell single-cell RNA-sequencing datasets?",
+        "response": {
+            "references": [
+                "Peter V. Kharchenko | Bayesian approach to single-cell differential expression analysis | 10.1038/nmeth.2967",
+                "Greg Finak | MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data | 10.1186/s13059-015-0844-5",
+                "Christoph Hafemeister | Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression | 10.1186/s13059-019-1874-1",
+                "Jordan W. Squair | Confronting false discoveries in single-cell differential expression | 10.1038/s41467-021-25960-2",
+                "Emma Dann | Differential abundance testing on single-cell data using k-nearest neighbor graphs | 10.1038/s41587-021-01033-z"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4381682244",
+        "model": "gpt",
+        "question": "How does the cooperative activation of the ZBP1-cGAS pathway by unstable mitochondrial DNA drive sterile inflammation across different tissue-specific pathologies, and what are the therapeutic prospects of targeting this axis in chronic interferon-related disorders?",
+        "response": {
+            "references": [
+                "Alexander P. West | Mitochondrial DNA stress primes the antiviral innate immune response | 10.1038/nature14156",
+                "Kate McArthur | BAK/BAX macropores facilitate mitochondrial herniation and mtDNA efflux during apoptosis | 10.1126/science.aao6047",
+                "Theresa Kuriakose | ZBP1/DAI is an innate sensor of influenza virus triggering the NLRP3 inflammasome and programmed cell death pathways | 10.1126/sciimmunol.aag2045",
+                "Huiying Jiao | Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation | 10.1038/s41586-020-2129-8",
+                "David A. Sliter | Parkin and PINK1 mitigate STING-induced inflammation | 10.1038/s41586-018-0448-9"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3044545672",
+        "model": "gpt",
+        "question": "How do the positively selected somatic mutations and millimeter-scale clonal expansions observed in the inflamed colonic mucosa of patients with inflammatory bowel disease functionally alter epithelial barrier integrity, and what role do they play in the evolutionary transition from chronic colitis to colitis-associated colorectal cancer?",
+        "response": {
+            "references": [
+                "Kosuke Nanki | Somatic inflammatory gene mutations in human ulcerative colitis epithelium | 10.1038/s41586-020-1844-5",
+                "Sigurgeir Olafsson | Somatic evolution in non-neoplastic IBD-affected colon | 10.1038/s41586-020-2214-0",
+                "I\u00f1igo Martincorena | High burden and pervasive positive selection of somatic mutations in normal human skin | 10.1126/science.aaa6806",
+                "Ann-Marie Baker | Evolutionary history of human colitis-associated colorectal cancer | 10.1038/nrc3751",
+                "Ana I. Robles | Inflammation and cancer in the colon | 10.1038/nrgastro.2016.119"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4400415826",
+        "model": "gpt",
+        "question": "How do non-canonical interactions between small nucleolar RNAs (snoRNAs) and ribosomal proteins modulate ribosome biogenesis stress and p53-dependent signaling pathways across different cellular senescence models and human pathologies?",
+        "response": {
+            "references": [
+                "Zsofia Turi | Impaired ribosome biogenesis in senescence | 10.1016/j.celrep.2019.08.099",
+                "Katherine E. Sloan | The principles of RNA modification in ribosome biogenesis | 10.1038/nrm.2017.104",
+                "St\u00e9phane Boulon | The nucleolus under stress | 10.1016/j.molcel.2010.09.024",
+                "Chris P. Rubbi | Disruption of the nucleolus mediates stabilization of p53 in response to DNA damage and other stresses | 10.1093/emboj/cdg579",
+                "Vikas Tiku | Small nucleoli are a cellular hallmark of longevity | 10.1016/j.celrep.2016.08.012"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399367032",
+        "model": "gpt",
+        "question": "How do machine-learning-driven discovery pipelines for metagenomic antimicrobial peptides compare to traditional rational design methodologies regarding their success rates, structural diversity, and translational challenges in overcoming antibiotic resistance?",
+        "response": {
+            "references": [
+                "Jennifer L. Stokes | A deep learning approach to antibiotic discovery | 10.1016/j.cell.2020.01.021",
+                "Marcelo D. T. Torres | Mining for encrypted peptide antibiotics in the human proteome | 10.1038/s41551-021-00758-3",
+                "William F. Porto | In silico optimization of a guava antimicrobial peptide enables combinatorial exploration for peptide design | 10.1038/s41467-018-07715-2",
+                "Christopher D. Fjell | Designing antimicrobial peptides: form follows function | 10.1038/nrd3591",
+                "Daniel Veltri | Deep learning improves antimicrobial peptide recognition | 10.1093/bioinformatics/btx285"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4322767187",
+        "model": "gpt",
+        "question": "How do the genomic mechanisms of adaptation to extreme cold and photoperiod seasonality in the Antarctic krill (*Euphausia superba*)\u2014specifically regarding transposable element-driven genome expansion, circadian clock architecture, and metabolic gene family expansions\u2014compare to the evolutionary strategies observed in other polar marine invertebrates?",
+        "response": {
+            "references": [
+                "Feng Shao | The enormous repetitive Antarctic krill genome reveals environmental adaptations and population insights | 10.1016/j.cell.2023.02.005",
+                "Jung-Hyun Shin | The genome sequence of the Antarctic bullhead notothen reveals evolutionary adaptations to a cold environment | 10.1186/gb-2014-15-9-468",
+                "Bo Kim | Antarctic blackfin icefish genome reveals adaptations to extreme environments | 10.1038/s41559-019-0812-7",
+                "George N. Somero | The physiology of climate change: how potentials for acclimatization and genetic adaptation will determine \u2018winners\u2019 and \u2018losers\u2019 | 10.1083/jcb.201003002",
+                "Melody S. Clark | Antarctic krill 454 pyrosequencing reveals chaperone and stress transcriptome | 10.1186/1471-2164-12-195"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7138376535",
+        "model": "gpt",
+        "question": "How does the mismatch between demographic recovery and the restoration of ancestral genetic fitness in historically exploited marine mammal species affect their long-term adaptive capacity in the face of contemporary climate change?",
+        "response": {
+            "references": [
+                "Andrew D. Foote | Runs of homozygosity in killer whale genomes provide a global record of demographic histories | 10.1111/mec.16137",
+                "S. Elizabeth Alter | Gene flow on ice: the role of sea ice and whaling in shaping Holarctic genetic diversity and population differentiation in bowhead whales | 10.1111/j.1365-294X.2012.05731.x",
+                "Joseph I. Hoffman | High-throughput sequencing reveals inbreeding depression in a natural population | 10.1073/pnas.1518046113",
+                "Nicolas Dussex | Population genomics of the critically endangered k\u0101k\u0101p\u014d | 10.1016/j.cell.2021.08.009",
+                "Marty Kardos | The crucial role of genome-wide genetic variation in conservation | 10.1073/pnas.2104642118"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7161624394",
+        "model": "gpt",
+        "question": "How does nanotube-mediated intercellular transfer of cytoplasmic DNA compare to other horizontal gene transfer mechanisms, such as extracellular vesicle-mediated transport, in driving genomic heterogeneity and clonal evolution within the mammalian microenvironment?",
+        "response": {
+            "references": [
+                "Amin Rustom | Nanotubular highways for intercellular organelle transport | 10.1126/science.1093133",
+                "Erica Lou | Tunneling nanotubes provide a unique conduit for intercellular transfer of cellular contents in human malignant pleural mesothelioma | 10.1038/ncomms1991",
+                "Parthasarathy Thayanithy | Tumor-derived microvesicles induce tunneling nanotube formation in endothelial cells | 10.1242/jcs.141366",
+                "Jinjun Cai | Extracellular vesicle-mediated transfer of donor genomic DNA to recipient cells is a novel mechanism for genetic influence between cells | 10.1038/cr.2013.100",
+                "Hadi Valadi | Exosome-mediated transfer of mRNAs and microRNAs is a novel mechanism of genetic exchange between cells | 10.1038/ncb1596"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413813906",
+        "model": "gpt",
+        "question": "How do random-priming-based spatial transcriptomics platforms compare to traditional poly(A)-capture methods in their ability to simultaneously profile host-pathogen dual transcriptomes and immune receptor repertoires within archived clinical FFPE tissues?",
+        "response": {
+            "references": [
+                "Sanja Vickovic | High-definition spatial transcriptomics for in situ tissue profiling | 10.1038/s41592-019-0548-y",
+                "Alexander Williams | Standardized, high-resolution spatial transcriptomics profiling of human and mouse tissues | 10.1038/s41587-022-01483-z",
+                "Ao Chen | Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays | 10.1016/j.cell.2022.04.003",
+                "Christopher R. Merritt | Multiplex digital spatial profiling of proteins and RNA in fixed tissue | 10.1038/s41587-020-0472-9",
+                "Samuel G. Rodriques | Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution | 10.1126/science.aaw1219"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3127277789",
+        "model": "gpt",
+        "question": "How does the trade-off between enhanced receptor-binding affinity and antibody evasion demonstrated by the N439K mutation compare to other key receptor-binding motif variants, and what does this suggest about the global evolutionary trajectory of SARS-CoV-2 resistance against current vaccine and therapeutic platforms?",
+        "response": {
+            "references": [
+                "Emma C. Thomson | Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity | 10.1016/j.cell.2021.01.037",
+                "Allison J. Greaney | Comprehensive mapping of mutations in the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human plasma antibodies | 10.1016/j.chom.2021.02.003",
+                "Tyler N. Starr | Deep mutational scanning of SARS-CoV-2 receptor binding domain reveals constraints on folding and ACE2 binding | 10.1016/j.cell.2020.08.012",
+                "William T. Harvey | SARS-CoV-2 variants, spike mutations and immune escape | 10.1038/s41579-021-00573-0",
+                "Tyler N. Starr | Prospective mapping of viral mutations that escape antibodies used to treat COVID-19 | 10.1126/science.abf9302"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409877626",
+        "model": "gpt",
+        "question": "How do the spatial priming and architectural memory of subcapsular sinus macrophages in draining lymph nodes dictate memory B cell reactivation kinetics across diverse vaccine platforms and anatomical immunization routes?",
+        "response": {
+            "references": [
+                "Yannick R. Carrasco | B cells acquire particulate antigen in a macrophage-rich area at the boundary between the follicle and the subcapsular sinus of the lymph node | 10.1016/j.immuni.2007.06.007",
+                "Thomas Junt | Subcapsular sinus macrophages in lymph nodes clear lymph-borne viruses and present them to antiviral B cells | 10.1038/nature06287",
+                "Thien-Giang Phan | Subcapsular encounter and complement-dependent transport of immune complexes by lymph node B cells | 10.1038/ni1494",
+                "Luka Mesin | Restricted clonality and limited germinal center reentry characterize memory B cell reactivation by boosting | 10.1016/j.cell.2020.06.032",
+                "Imogen Moran | Memory B cells are reactivated in subcapsular proliferative foci of lymph nodes | 10.1038/s41590-018-0178-8"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405987069",
+        "model": "gpt",
+        "question": "How do emerging single-cell base-editing technologies, such as D&D-seq, compare to established endonuclease- and methyltransferase-based profiling methods (like scCUT&Tag and scDamID) in their capability to resolve weak or transient transcription factor-DNA interactions within heterochromatic genomic regions?",
+        "response": {
+            "references": [
+                "Hatice S. Kaya-Okur | CUT&Tag for efficient epigenomic profiling of small samples and single cells | 10.1038/s41467-019-09982-5",
+                "Gareth J. Aughey | DamID: a versatile tool for understanding chromatin dynamics | 10.1242/dev.173666",
+                "Peter J. Skene | An efficient targeted nuclease strategy for high-resolution mapping of DNA binding sites | 10.7554/eLife.21856",
+                "Nicole M. Gaudelli | Programmable base editing of A\u2022T to G\u2022C in genomic DNA without DNA cleavage | 10.1038/nature24644",
+                "Benjamin Carter | Mapping genome-wide chromatin interactions in single cells using single-cell DamID | 10.1038/s41587-019-0206-9"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408789657",
+        "model": "gpt",
+        "question": "How do the mutational constraints and antibody escape pathways mapped for the Nipah virus receptor-binding protein compare with those of other emerging henipaviruses, and how can these combined insights guide the development of broadly neutralizing, escape-resistant vaccines and therapies?",
+        "response": {
+            "references": [
+                "Cyril Mathieu | Structural basis for Nipah virus recognition of ephrin-B2 and ephrin-B3 receptors | 10.1073/pnas.1211295109",
+                "Kai Xu | Crystal structure of the Hendra virus attachment G glycoprotein bound to a potent cross-reactive neutralizing human monoclonal antibody | 10.1073/pnas.1219951110",
+                "Chad E. Mire | A cross-reactive humanized monoclonal antibody targeting fusion glycoprotein function protects ferrets against lethal Nipah virus challenge | 10.1126/scitranslmed.3008929",
+                "Christopher C. Broder | A treatment for and vaccine against the deadly Hendra and Nipah viruses | 10.1016/j.antiviral.2012.12.006",
+                "Katharine N. Bossart | Functional studies of host-specific ephrin-B ligands as Henipavirus receptors | 10.1016/j.virol.2008.05.017"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3095668735",
+        "model": "gpt",
+        "question": "How does the targeted optogenetic activation of sparse hippocampal place cell ensembles, as demonstrated in virtual reality paradigms, integrate with broader network-level dynamics across the entorhinal-hippocampal circuit to guide goal-directed navigation in physical environments?",
+        "response": {
+            "references": [
+                "Nathan T. Robinson | Targeted activation of hippocampal place cells drives memory-guided spatial behavior | 10.1016/j.cell.2020.09.061",
+                "John O\u2019Keefe | The hippocampus as a spatial map: preliminary evidence from unit activity in the freely-moving rat | 10.1016/0006-8993(71)90358-1",
+                "Torkel Hafting | Microstructure of a spatial map in the entorhinal cortex | 10.1038/nature03721",
+                "Daniel A. Dombeck | Functional imaging of hippocampal place cells at cellular resolution during virtual navigation | 10.1038/nn.2648",
+                "Gy\u00f6rgy Buzs\u00e1ki | Navigating the brain with a grid-like code | 10.1126/science.aab3528"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4380049276",
+        "model": "gpt",
+        "question": "What are the precise molecular pathways through which insulin resistance impairs myocardial mitochondrial energetics, and how does this metabolic dysfunction ultimately drive the progression of diabetic cardiomyopathy?",
+        "response": {
+            "references": [
+                "Sihem Boudina | Mitochondrial energetics in the heart in obesity-related diabetes: direct evidence for increased uncoupled respiration and activation of uncoupling proteins | 10.2337/db06-0481",
+                "Heiko Bugger | Type 1 diabetic Akita mouse hearts are insulin sensitive but manifest structurally abnormal mitochondria that remain coupled despite increased uncoupling protein 3 | 10.2337/db07-1533",
+                "Guanghong Jia | Diabetic cardiomyopathy: a hyperglycaemia- and insulin-resistance-induced heart disease | 10.1007/s00125-018-4715-6",
+                "Eric J. Anderson | Substrate-specific derangements in mitochondrial metabolism and redox balance in the atrium of the type 2 diabetic human heart | 10.1016/j.jacc.2009.05.031",
+                "John G. Duncan | Rescue of cardiomyopathy in peroxisome proliferator-activated receptor-\u03b1 transgenic mice by deletion of lipoprotein lipase identifies sources of cardiac lipids and peroxisome proliferator-activated receptor-\u03b1 activators | 10.1161/CIRCRESAHA.107.162958"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394998558",
+        "model": "gpt",
+        "question": "What are the precise molecular mechanisms by which brown adipose tissue-derived branched-chain amino acid metabolites regulate inter-organ communication and systemic insulin sensitivity independently of thermogenic energy expenditure?",
+        "response": {
+            "references": [
+                "Takeshi Yoneshiro | BCAA catabolism in brown fat controls energy homeostasis through SLC25A44 | 10.1038/s41586-019-1503-x",
+                "Matthew D. Neinast | Quantitative analysis of the whole-body metabolic fate of branched-chain amino acids | 10.1016/j.cmet.2018.10.013",
+                "Christopher B. Newgard | A branched-chain amino acid-related metabolic signature that differentiates obese and lean humans and contributes to insulin resistance | 10.1016/j.cmet.2009.02.002",
+                "Christopher R. Green | Branched-chain amino acid catabolism fuels adipocyte differentiation and lipogenesis | 10.1038/nchembio.1961",
+                "Francesc Villarroya | Brown adipose tissue as a secretory organ | 10.1038/nrendo.2016.136"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4281780442",
+        "model": "gpt",
+        "question": "How do the structural and physiological differences between bacterial protease machinery (such as ClpC:ClpP) and the eukaryotic ubiquitin-proteasome system dictate the design principles, selectivity, and resistance profiles of targeted protein degraders across diverse pathogenic species?",
+        "response": {
+            "references": [
+                "Taavi Neklesa | Small-molecule hydrophobic tagging\u2013induced degradation of HaloTag fusion proteins | 10.1038/nchembio.2323",
+                "Kris Morreale | BacPROTACs mediate targeted protein degradation in bacteria | 10.1038/s41589-022-01066-8",
+                "Michael Gersch | AAA+ chaperones and acyldepsipeptides activate the ClpP protease to degrade proteins | 10.1038/nchembio.1859",
+                "Georg E. Winter | Phthalimide conjugation as a strategy for in vivo target protein degradation | 10.1126/science.aab1433",
+                "Mikl\u00f3s B\u00e9k\u00e9s | PROTAC targeted protein degraders: the past is prologue | 10.1038/s41573-021-00371-6"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7164126234",
+        "model": "gpt",
+        "question": "How does the interplay between nucleotide excision repair activity and dNTP pool homeostasis dictate the susceptibility of diverse post-mitotic tissues to various classes of DNA-damaging chemotherapeutic agents?",
+        "response": {
+            "references": [
+                "Joris A. Marteijn | Understanding nucleotide excision repair and its roles in cancer and ageing | 10.1038/nrm3822",
+                "Thierry Nouspikel | DNA repair in differentiated cells: some new answers to old questions | 10.1016/S1568-7864(02)00065-8",
+                "Peter P. Mathews | DNA precursor metabolism and genomic stability | 10.1096/fj.15-274308",
+                "Barbara van Loon | DNA damage and repair in mitochondria | 10.1016/j.dnarep.2015.05.003",
+                "David M. Wilson | Base excision repair and the central nervous system | 10.1016/j.dnarep.2013.08.007"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4379615702",
+        "model": "gpt",
+        "question": "How do the interactions between global air transportation networks, localized public health interventions, and intrinsic viral transmissibility shape the phylogeographic source-sink dynamics of emerging respiratory pathogens during pandemic events?",
+        "response": {
+            "references": [
+                "Philippe Lemey | Unifying viral genetics and human transportation data to predict the global transmission dynamics of human influenza H3N2 | 10.1371/journal.ppat.1003932",
+                "Dirk Brockmann | The hidden geometry of complex, network-driven contagion phenomena | 10.1126/science.1245200",
+                "Oliver G. Pybus | The phylodynamics and evolution of infectious disease epidemics | 10.1038/nature13611",
+                "Simon Dellicour | A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages | 10.1093/molbev/msaa284",
+                "Moritz U. G. Kraemer | The effect of human mobility and control measures on the COVID-19 epidemic in China | 10.1126/science.abb4218"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385077788",
+        "model": "gpt",
+        "question": "How does the HERC2-ZNRD2-mediated recognition of orphan CCT subunits compare structurally and mechanistically to the quality control pathways responsible for identifying and degrading unassembled subunits of other major cytosolic multi-protein complexes?",
+        "response": {
+            "references": [
+                "Yan Xu | UBE2O remodels the proteome during terminal erythroid differentiation | 10.1126/science.aaf6617",
+                "Szymon Juszkiewicz | Hsp70 targets Hsp100 chaperones to substrates for protein disaggregation and prion fragmentation | 10.1038/nature17968",
+                "Asher Shemorry | Control of protein quality and stoichiometries by N-terminal acetylation and the N-end rule pathway | 10.1016/j.molcel.2013.09.018",
+                "J. Wade Harper | Building and decoding ubiquitin chains for mitophagy | 10.1038/s41580-018-0043-4",
+                "Cees Dekker | The interaction network of the chaperonin CCT | 10.1038/emboj.2008.72"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411555666",
+        "model": "gpt",
+        "question": "How does the therapeutic efficacy and safety profile of GPCR kinase (GRK)-biased $\\beta_2$-adrenergic receptor agonists compare to those of established incretin mimetics and traditional GPCR-targeted therapies in the long-term management of type 2 diabetes and obesity?",
+        "response": {
+            "references": [
+                "Sudha Rajagopal | Teaching old receptors new tricks: biasing seven-transmembrane receptors | 10.1038/nrd3024",
+                "Eric J. Whalen | Therapeutic potential of \u03b2-arrestin- and G protein-biased agonists | 10.1016/j.tips.2011.09.004",
+                "Daniel J. Drucker | Mechanisms of action and therapeutic application of glucagon-like peptide-1 | 10.1016/j.cell.2018.03.061",
+                "Nauck A. Michael | Cardiovascular safety and benefits of semaglutide in patients with type 2 diabetes | 10.1056/NEJMoa1607141",
+                "Jang Hyun Kim | \u03b22-adrenergic receptor activation stimulates lactate production in skeletal muscle and improves glucose homeostasis | 10.1038/nm.3667"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166023512",
+        "model": "gpt",
+        "question": "How do IL-6-dependent PIEZO1 upregulation and system Xc\u207b-mediated glutamate release compare with other cytokine- and channel-driven mechanisms of epithelial-to-neuronal signaling across different chronic visceral pain syndromes and organ systems?",
+        "response": {
+            "references": [
+                "Keiko Nonomura | Piezo2 senses airway stretch and mediates lung inflation-induced apnoea | 10.1038/nature20793",
+                "Sanjay S. Ranade | Piezo2 is the major transducer of mechanical forces for touch sensation in mice | 10.1038/nature13980",
+                "Ru-Rong Ji | Neuroinflammation and central sensitization in chronic and widespread pain | 10.1097/j.pain.0000000000000069",
+                "Jeffrey S. Mogil | The translatability of pain across species | 10.1038/nrn.2016.81",
+                "Paola Basso | Interleukin-6 controls pain during joint inflammation by acting on sensory neurons | 10.1016/j.cell.2016.08.059"
+            ]
+        }
+    }
+]
