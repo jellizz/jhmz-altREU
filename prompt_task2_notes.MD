@@ -30,7 +30,7 @@
 
 ## **Expert Systems with Applications**
 *No answer, max 5 references, only first author, title, DOI.*
-*$0.67*
+*$0.84*
 * Questions 1-5
   * Input tokens: 1,272 | Output tokens: 1,403 | Stop reason: end_turn
   * $0.04 total
@@ -55,3 +55,27 @@
   * 91-100
     * Input tokens: 1,805 | Output tokens: 2,948 | Stop reason: end_turn
   * $0.17 total
+
+## **American Economic, Physical Review, Lancet**
+
+*No answer, max 5 references, only first author, title, DOI. Batch size 20. Ran simultaneously.*
+
+*$2.39*
+
+
+## **Total Environmental, Cell, Hazardous, IEE Neural Networks**
+
+*No answer, max 5 references, only first author, title, DOI. Batch size 20. Ran simultaneously.*
+
+*Claude "refused" to answer for Cell 81-100 in batches of 20 and 10?*
+
+*Ran batches of 1 for Q81-90, worked fine. Refused again for 91?*
+
+*$2.07* initial run
+
+*$0.05* Q81-90, batch size 1
+
+*$0.07* Q92-100, batch size 9
+
+**Claude keeps refusing to answer Cell's Question 91??????**
+"question": "How do the mutational constraints and antibody escape pathways mapped for the Nipah virus receptor-binding protein compare with those of other emerging henipaviruses, and how can these combined insights guide the development of broadly neutralizing, escape-resistant vaccines and therapies?"

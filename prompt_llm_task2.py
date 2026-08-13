@@ -231,7 +231,7 @@ def batch_prompt_llm(prompt, llm):
         client = anthropic_client
         response = client.messages.create(
             model="claude-opus-4-8",
-            max_tokens=15000,
+            max_tokens=10000,
             messages=[
                 {
                     "role": "user",
@@ -456,12 +456,13 @@ def batch_generate_responses(
 # write main loop in here, later combine everything outside in main.py?
 
 if __name__ == "__main__":
+    # Claude completed
     batch_generate_responses(
-        questions_file="data/questions/questions_S13144211.json",
-        output_file="data/responses/anthropic/responses_anthr_S13144211_expertsysapp.json",
+        questions_file="data/questions/questions_S23254222.json",
+        output_file="data/responses/anthropic/responses_anthr_S23254222_americaneconomic.json",
         llm="anthropic",
         prompt_base=prompt_base_v4,
-        batch_size=10
+        batch_size=20
     )
 
     # # calling on anthropic and abstracts_S24807848.json (Physical Review Letters)
