@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W3195866665",
+        "model": "anthropic",
+        "question": "How do modified Black\u2013Litterman portfolio optimization frameworks that formalize expert views from deviations between historical and implied returns compare with traditional mean\u2013variance and standard Black\u2013Litterman approaches in small-asset-universe settings with limited historical data, particularly regarding estimation error, portfolio stability, and out-of-sample performance?",
+        "response": {
+            "references": [
+                "Fischer Black | Global Portfolio Optimization | 10.2469/faj.v48.n5.28",
+                "Harry Markowitz | Portfolio Selection | 10.1111/j.1540-6261.1952.tb01525.x",
+                "Thomas M. Idzorek | A Step-by-Step Guide to the Black-Litterman Model: Incorporating User-Specified Confidence Levels | 10.1016/B978-0-7506-8321-0.50003-0",
+                "Guangliang He | The Intuition Behind Black-Litterman Model Portfolios | 10.2139/ssrn.334304",
+                "Victor DeMiguel | Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? | 10.1093/rfs/hhm075"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4308194486",
+        "model": "anthropic",
+        "question": "How do Choquet-integral-based spherical fuzzy MCDM frameworks compare with other fuzzy MCDM approaches in modeling criteria interdependence, uncertainty, and group decision-making robustness for autonomous vehicle selection in logistics applications?",
+        "response": {
+            "references": [
+                "Fatih Kutlu G\u00fcndo\u011fdu | Spherical fuzzy sets and spherical fuzzy TOPSIS method | 10.3233/JIFS-181401",
+                "Gustave Choquet | Theory of capacities | 10.5802/aif.53",
+                "Krassimir T. Atanassov | Intuitionistic fuzzy sets | 10.1016/S0165-0114(86)80034-3",
+                "L.A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X",
+                "Ronald R. Yager | Pythagorean membership grades in multicriteria decision making | 10.1109/TFUZZ.2013.2278989"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4200328111",
+        "model": "anthropic",
+        "question": "How do fuzzy-logic-based strength-of-evidence indices, when integrated with Bayesian networks for digital risk visualization, compare with other emerging approaches to incorporating epistemic uncertainty, evidence quality, and ambiguity into probabilistic risk assessment across complex socio-technical systems?",
+        "response": {
+            "references": [
+                "Judea Pearl | Fusion, propagation, and structuring in belief networks | 10.1016/0004-3702(86)90072-X",
+                "L.A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X",
+                "Terje Aven | On the interpretation of alternative uncertainty representations in a reliability and risk analysis context | 10.1016/j.ress.2010.06.027",
+                "Roger Flage | Expressing and communicating uncertainty in relation to quantitative risk analysis | 10.1080/17499518.2011.554089",
+                "Norman Fenton | Risk Assessment and Decision Analysis with Bayesian Networks | 10.1201/b13102"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4285810252",
+        "model": "anthropic",
+        "question": "How do symbolic-primitive knowledge elicitation methods for explainable fault detection and diagnosis compare with black-box machine learning, hybrid neuro-symbolic, and traditional rule-based expert systems across industrial time-series applications in terms of diagnostic accuracy, scalability, expert-effort reduction, adaptability to unseen faults, and trustworthiness in safety-critical energy infrastructure?",
+        "response": {
+            "references": [
+                "Venkat Venkatasubramanian | A review of process fault detection and diagnosis: Part I: Quantitative model-based methods | 10.1016/S0098-1354(02)00160-6",
+                "Venkat Venkatasubramanian | A review of process fault detection and diagnosis: Part III: Process history based methods | 10.1016/S0098-1354(02)00162-X",
+                "Cynthia Rudin | Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead | 10.1038/s42256-019-0048-x",
+                "Rob Ashmore | Assuring the Machine Learning Lifecycle: Desiderata, Methods, and Challenges | 10.1145/3453444",
+                "Artur d'Avila Garcez | Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning | 10.3233/AAC-190514"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391616941",
+        "model": "anthropic",
+        "question": "How do disentangled dual-latent reconstruction models such as Y-GAN compare with prior autoencoder-, GAN-, and self-supervised one-class anomaly detection approaches in balancing semantic representation learning, prevention of latent information leakage, and robustness to diverse image anomaly types across benchmark datasets?",
+        "response": {
+            "references": [
+                "Ian Goodfellow | Generative adversarial networks | 10.1145/3422622",
+                "Thomas Schlegl | Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery | 10.1007/978-3-319-59050-9_12",
+                "Samet Ak\u00e7ay | GANomaly: Semi-supervised Anomaly Detection via Adversarial Training | 10.1007/978-3-030-20893-6_39",
+                "Paul Bergmann | MVTec AD \u2014 A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | 10.1109/CVPR.2019.00982",
+                "Diederik P. Kingma | Auto-Encoding Variational Bayes | 10.48550/arXiv.1312.6114"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4281260602",
+        "model": "anthropic",
+        "question": "How do candlestick-pattern-based forecasting methods that use sequential pattern mining and sequence similarity compare with machine learning and deep learning approaches across different financial markets in terms of predictive accuracy, interpretability, robustness, and transferability?",
+        "response": {
+            "references": [
+                "Tsung-Hsun Lu | The profitability of candlestick charting in the Taiwan stock market | 10.1016/j.pacfin.2012.09.001",
+                "Marek Hudson | Technical trading: Is it still beating the foreign exchange market? | 10.1016/j.jinteco.2015.12.001",
+                "Andrew W. Lo | Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation | 10.1111/0022-1082.00265",
+                "Rakhshanda Fitrayana | Stock price prediction using candlestick pattern | 10.1088/1742-6596/1417/1/012044",
+                "Jian-Xun Chen | Stock price prediction based on deep learning | 10.1016/j.eswa.2019.113104"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387063421",
+        "model": "anthropic",
+        "question": "How do model fidelity, offline pretraining strategy, and online adaptation jointly influence the energy savings, thermal comfort, sample efficiency, and deployment cost of reinforcement-learning-based HVAC control compared with model predictive control across diverse building types and climates?",
+        "response": {
+            "references": [
+                "Zhe Wang | Reinforcement learning for building controls: The opportunities and challenges | 10.1016/j.apenergy.2020.115036",
+                "Tianzhen Hong | Building simulation: Ten challenges | 10.1007/s12273-018-0444-x",
+                "Guanyu Gao | DeepComfort: Energy-Efficient Thermal Comfort Control in Buildings via Reinforcement Learning | 10.1109/JIOT.2020.2992117",
+                "Anjukan Kathirgamanathan | Data-driven predictive control for unlocking building energy flexibility: A review | 10.1016/j.rser.2020.109929",
+                "Jos\u00e9 R. V\u00e1zquez-Canteli | Reinforcement learning for demand response: A review of algorithms and modeling techniques | 10.1016/j.apenergy.2018.11.002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412430871",
+        "model": "anthropic",
+        "question": "How do ensemble-based Data Envelopment Analysis approaches for constructing composite indicators compare with traditional Benefit-of-the-Doubt, weighting, and dimensionality-reduction methods in terms of robustness, discriminatory power, benchmarking validity, and policy interpretability when assessing Sustainable Development Goal performance across countries?",
+        "response": {
+            "references": [
+                "Laurens Cherchye | An introduction to 'benefit of the doubt' composite indicators | 10.1007/s11205-006-9029-7",
+                "Michaela Saisana | Uncertainty and sensitivity analysis techniques as tools for the quality assessment of composite indicators | 10.1111/j.1467-985X.2005.00350.x",
+                "Salvatore Greco | On the Methodological Framework of Composite Indices: A Review of the Issues of Weighting, Aggregation, and Robustness | 10.1007/s11205-017-1832-9",
+                "William W. Cooper | Data Envelopment Analysis: A Comprehensive Text with Models, Applications, References and DEA-Solver Software | 10.1007/978-0-387-45283-8",
+                "Abraham Charnes | Measuring the efficiency of decision making units | 10.1016/0377-2217(78)90138-8"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412746268",
+        "model": "anthropic",
+        "question": "How do constraint-optimization approaches to data quality improvement, such as DMN4DQ+, compare with alternative decision-modeling, cost-sensitive data cleaning, and fitness-for-use frameworks in determining context-dependent target usability thresholds and selecting corrective actions that balance organizational risk, performance, and remediation cost?",
+        "response": {
+            "references": [
+                "Carlo Batini | Methodologies for data quality assessment and improvement | 10.1145/1541880.1541883",
+                "Xu Chu | Data Cleaning: Overview and Emerging Challenges | 10.1145/2882903.2912574",
+                "Leo L. Pipino | Data quality assessment | 10.1145/505248.506010",
+                "Richard Y. Wang | Beyond accuracy: What data quality means to data consumers | 10.1080/07421222.1996.11518099",
+                "Diana Robinson | A survey of data quality requirements that matter in ML development pipelines | 10.1145/3592616"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413387610",
+        "model": "anthropic",
+        "question": "How do vehicle-to-vehicle variability, real-world traffic-condition diversity, and multimodal or score-level fusion strategies jointly affect the generalizability of machine-learning models for predicting truck overtaking manoeuvres from CAN bus data in ADAS and Camera Monitor System applications?",
+        "response": {
+            "references": [
+                "Zheng Wang | Driving style classification using a semisupervised support vector machine | 10.1109/THMS.2017.2736948",
+                "Guofa Li | Driver behavior recognition using machine learning methods: A survey | 10.1109/TITS.2020.3013299",
+                "Mohammad Al-Sharman | Self-Learned Autonomous Driving at Unsignalized Intersections | 10.1109/TITS.2022.3202150",
+                "Jinsong Wang | Lane change intention prediction based on CAN bus data | 10.1109/ACCESS.2020.2989969",
+                "Yicheng Li | A survey of driving safety with sensing, vehicular communications, and artificial intelligence-based collision avoidance | 10.1109/TITS.2021.3083927"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4389279395",
+        "model": "anthropic",
+        "question": "How can process mining\u2013based analyses of student career trajectories, when integrated with findings from educational data mining, learning analytics, and curriculum design research, identify recurring curricular bottlenecks and institutional factors that contribute to delayed graduation across different higher-education systems?",
+        "response": {
+            "references": [
+                "Wil M. P. van der Aalst | Process Mining: Data Science in Action | 10.1007/978-3-662-49851-4",
+                "Ryan S. Baker | The state of educational data mining in 2009: A review and future visions | 10.5281/zenodo.3554657",
+                "George Siemens | Learning analytics: The emergence of a discipline | 10.1177/0002764213498851",
+                "Mykola Pechenizkiy | Process mining online assessment data | 10.5281/zenodo.3554580",
+                "Diego Buena\u00f1o-Fern\u00e1ndez | Application of machine learning in predicting performance for computer engineering students | 10.3390/su11102833"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408379512",
+        "model": "anthropic",
+        "question": "How do findings from TD-CCM-based analyses of lagged nonlinear causality among Bitcoin, gold, and equity indices during crises such as COVID-19 compare with evidence from Granger causality, transfer entropy, wavelet coherence, and other nonlinear time-series approaches regarding cryptocurrencies\u2019 evolving role as safe-haven assets, macroeconomic indicators, or transmitters of systemic financial risk?",
+        "response": {
+            "references": [
+                "George Sugihara | Detecting causality in complex ecosystems | 10.1126/science.1227079",
+                "Elie Bouri | Does Bitcoin hedge global uncertainty? Evidence from wavelet-based quantile-in-quantile regressions | 10.1016/j.frl.2016.09.025",
+                "Thomas Schreiber | Measuring information transfer | 10.1103/PhysRevLett.85.461",
+                "C. W. J. Granger | Investigating causal relations by econometric models and cross-spectral methods | 10.2307/1912791",
+                "Dirk G. Baur | Is gold a safe haven? International evidence | 10.1016/j.jbankfin.2009.12.008"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7162419693",
+        "model": "anthropic",
+        "question": "How do integrated metaheuristic approaches for joint order batching, assignment, sequencing, and picker routing under due-date or time-window constraints compare across the warehousing literature in terms of service-level performance, computational scalability, and robustness relative to exact MILP formulations and decomposed decision-making strategies?",
+        "response": {
+            "references": [
+                "Sebastian Henn | Order batching and sequencing for the minimization of the total tardiness in picker-to-part warehouses | 10.1007/s10696-013-9180-9",
+                "Ren\u00e9 de Koster | Design and control of warehouse order picking: A literature review | 10.1016/j.ejor.2006.07.009",
+                "Kees Jan Roodbergen | Routing order pickers in a warehouse with a middle aisle | 10.1016/S0377-2217(00)00177-6",
+                "Sebastian Henn | Metaheuristics for the order batching problem in manual order picking systems | 10.1007/s12159-010-0035-4",
+                "Melih \u00c7elik | Order picking under random and turnover-based storage policies in fishbone aisle warehouses | 10.1080/0740817X.2013.849830"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7167011051",
+        "model": "anthropic",
+        "question": "How do symbolic time-series representations such as SAX mediate the trade-off between accuracy, interpretability, and computational efficiency when adapting pretrained language models to inertial human activity recognition, compared with deep neural, kernel-based, and other representation-learning approaches across subject-independent benchmark studies?",
+        "response": {
+            "references": [
+                "Jessica Lin | Experiencing SAX: a novel symbolic representation of time series | 10.1007/s10618-007-0064-z",
+                "Jindong Wang | Deep learning for sensor-based activity recognition: A survey | 10.1016/j.patrec.2018.02.010",
+                "Andrey Ignatov | Real-time human activity recognition from accelerometer data using convolutional neural networks | 10.1016/j.asoc.2017.09.027",
+                "Tom B. Brown | Language models are few-shot learners | 10.48550/arXiv.2005.14165",
+                "Oscar D. Lara | A survey on human activity recognition using wearable sensors | 10.1109/SURV.2012.110112.00192"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407393061",
+        "model": "anthropic",
+        "question": "How do variations in image resolution, pitch angle, and platform-induced acquisition conditions across drone-based face recognition studies collectively affect the robustness, accuracy, and computational efficiency of lightweight versus large-scale deep learning face recognition models?",
+        "response": {
+            "references": [
+                "Florian Schroff | FaceNet: A unified embedding for face recognition and clustering | 10.1109/CVPR.2015.7298682",
+                "Jiankang Deng | ArcFace: Additive Angular Margin Loss for Deep Face Recognition | 10.1109/CVPR.2019.00482",
+                "Mark Sandler | MobileNetV2: Inverted Residuals and Linear Bottlenecks | 10.1109/CVPR.2018.00474",
+                "Kaipeng Zhang | Joint face detection and alignment using multitask cascaded convolutional networks | 10.1109/LSP.2016.2603342",
+                "Mei Wang | Deep face recognition: A survey | 10.1016/j.neucom.2020.10.081"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407943866",
+        "model": "anthropic",
+        "question": "How do region-based feature injection and multi-prompt adapter architectures compare with alternative personalization methods such as DreamBooth, Textual Inversion, Custom Diffusion, and IP-Adapter in preserving concept identity, resolving inter-concept conflicts, and modeling spatial interactions during multi-concept text-to-image diffusion generation?",
+        "response": {
+            "references": [
+                "Nataniel Ruiz | DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | 10.1109/CVPR52729.2023.02155",
+                "Rinon Gal | An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion | 10.48550/arXiv.2208.01618",
+                "Nupur Kumari | Multi-Concept Customization of Text-to-Image Diffusion | 10.1109/CVPR52729.2023.00192",
+                "Hu Ye | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | 10.48550/arXiv.2308.06721",
+                "Robin Rombach | High-Resolution Image Synthesis with Latent Diffusion Models | 10.1109/CVPR52688.2022.01042"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4379057202",
+        "model": "anthropic",
+        "question": "How do deep reinforcement learning\u2013based hyper-heuristics that integrate visual state representations and stochastic distributional information compare with traditional analytical, heuristic, and metaheuristic approaches across online packing and related combinatorial optimization problems in terms of generalization, optimality gaps, computational efficiency, and interpretability of learned decision strategies?",
+        "response": {
+            "references": [
+                "Hao Zhao | Online 3D Bin Packing with Constrained Deep Reinforcement Learning | 10.1609/aaai.v35i1.16155",
+                "Irwan Bello | Neural Combinatorial Optimization with Reinforcement Learning | 10.48550/arXiv.1611.09940",
+                "Wouter Kool | Attention, Learn to Solve Routing Problems! | 10.48550/arXiv.1803.08475",
+                "Volodymyr Mnih | Human-level control through deep reinforcement learning | 10.1038/nature14236",
+                "Yoav Bengio | Machine learning for combinatorial optimization: A methodological tour d'horizon | 10.1016/j.ejor.2020.07.063"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391578783",
+        "model": "anthropic",
+        "question": "How do fuzzy-logic-inspired GAN loss functions\u2014particularly those based on Sugeno complements\u2014compare with established adversarial objectives across the literature in terms of theoretical divergence minimization, training stability, convergence behavior, and mitigation of mode collapse?",
+        "response": {
+            "references": [
+                "Ian J. Goodfellow | Generative Adversarial Networks | 10.1145/3422622",
+                "Mart\u00edn Arjovsky | Wasserstein Generative Adversarial Networks | 10.48550/arXiv.1701.07875",
+                "Xudong Mao | Least Squares Generative Adversarial Networks | 10.1109/ICCV.2017.304",
+                "Sebastian Nowozin | f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization | 10.48550/arXiv.1606.00709",
+                "Ishaan Gulrajani | Improved Training of Wasserstein GANs | 10.48550/arXiv.1704.00028"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406107399",
+        "model": "anthropic",
+        "question": "How do multi-agent, prompt-optimization, and fine-tuning-based frameworks for NL2Code generation compare across the literature in improving functional correctness, code quality, logical robustness, and security of LLM-generated code on benchmarks such as HumanEval, MBPP, and LLMSecEval?",
+        "response": {
+            "references": [
+                "Mark Chen | Evaluating Large Language Models Trained on Code | 10.48550/arXiv.2107.03374",
+                "Jacob Austin | Program Synthesis with Large Language Models | 10.48550/arXiv.2108.07732",
+                "Qinyu Chen | CodeT: Code Generation with Generated Tests | 10.48550/arXiv.2207.10397",
+                "Baptiste Rozi\u00e8re | Code Llama: Open Foundation Models for Code | 10.48550/arXiv.2308.12950",
+                "Jason Wei | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | 10.48550/arXiv.2201.11903"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408653606",
+        "model": "anthropic",
+        "question": "How do review-enhanced knowledge graph augmentation and contrastive denoising strategies, as exemplified by RCLKG, compare with other KG-based recommender approaches in improving user representation quality, mitigating noisy high-order graph propagation, and enhancing rating or CTR prediction performance across diverse recommendation domains?",
+        "response": {
+            "references": [
+                "Hongwei Wang | Knowledge Graph Convolutional Networks for Recommender Systems | 10.1145/3308558.3313417",
+                "Xiang Wang | KGAT: Knowledge Graph Attention Network for Recommendation | 10.1145/3292500.3330989",
+                "Yuan Zhang | Contrastive Learning for Recommendation | 10.1145/3404835.3462928",
+                "Fuzheng Zhang | Collaborative Knowledge Base Embedding for Recommender Systems | 10.1145/2939672.2939673",
+                "Hongwei Wang | Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation | 10.1145/3308558.3313411"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7142265713",
+        "model": "anthropic",
+        "question": "How do machine-learning-enhanced conversational agents such as DigiMoCA compare with established in-person, telephone-based, and digital cognitive screening tools across diverse older-adult populations in terms of diagnostic accuracy, generalizability, usability, and cost-effectiveness for early detection of mild cognitive impairment?",
+        "response": {
+            "references": [
+                "Ziad S. Nasreddine | The Montreal Cognitive Assessment, MoCA: A Brief Screening Tool For Mild Cognitive Impairment | https://doi.org/10.1111/j.1532-5415.2005.53221.x",
+                "Kathleen Fraser | Linguistic Features Identify Alzheimer's Disease in Narrative Speech | https://doi.org/10.3233/JAD-150520",
+                "Marcia Nichols Rockwood | A comparison of telephone and in-person cognitive assessment | https://doi.org/10.1017/S1355617700633106",
+                "Alex Mihailidis | The COACH prompting system to assist older adults with dementia through handwashing | https://doi.org/10.1186/1471-2318-8-28",
+                "Sylvie Belleville | Detecting early preclinical Alzheimer's disease via cognition | https://doi.org/10.1007/s11065-017-9361-5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407834942",
+        "model": "anthropic",
+        "question": "How do hierarchical Bayesian ARIMA-copula models compare with frequentist ARIMA, VAR, and other multivariate time-series approaches across the transport literature in capturing temporal and spatial dependence, handling small samples or likelihood-estimation difficulties, and improving prediction accuracy for traffic operations, planning, safety, and environmental applications?",
+        "response": {
+            "references": [
+                "Billy M. Williams | Modeling and Forecasting Vehicular Traffic Flow as a Seasonal ARIMA Process | https://doi.org/10.1061/(ASCE)0733-947X(2003)129:6(664)",
+                "Eleni I. Vlahogianni | Short-term traffic forecasting: Where we are and where we're going | https://doi.org/10.1016/j.trc.2014.01.005",
+                "Roger B. Nelsen | An Introduction to Copulas | https://doi.org/10.1007/0-387-28678-0",
+                "Chandra R. Bhat | A copula-based approach to accommodate residential self-selection effects | https://doi.org/10.1016/j.trb.2009.02.001",
+                "George E. P. Box | Time Series Analysis: Forecasting and Control | https://doi.org/10.1002/9781118619193"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402482207",
+        "model": "anthropic",
+        "question": "How have multi-objective metaheuristic approaches for distributed hybrid flowshop scheduling integrated lot-sizing, batching, transportation, and assembly constraints across industries such as pharmaceuticals, and what evidence from comparative studies suggests that immune-inspired algorithms offer advantages in solution quality, robustness, and scalability over other evolutionary or swarm-based methods?",
+        "response": {
+            "references": [
+                "Quan-Ke Pan | An effective cooperative co-evolutionary algorithm for distributed flowshop group scheduling problems | https://doi.org/10.1109/TCYB.2020.3041494",
+                "Jian Gao | A hybrid genetic algorithm for the distributed permutation flowshop scheduling problem | https://doi.org/10.1080/00207543.2011.644819",
+                "Kalyanmoy Deb | A fast and elitist multiobjective genetic algorithm: NSGA-II | https://doi.org/10.1109/4235.996017",
+                "Leandro Nunes de Castro | Artificial Immune Systems: A New Computational Intelligence Approach | https://doi.org/10.1007/978-1-4471-0075-2",
+                "Rub\u00e9n Ruiz | The distributed permutation flowshop scheduling problem | https://doi.org/10.1016/j.cor.2009.06.019"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388191485",
+        "model": "anthropic",
+        "question": "How do labeled property graph\u2013based text representation frameworks compare with alternative semantic representation approaches (e.g., RDF/knowledge graphs, AMR, dependency-based graphs, and transformer-derived embeddings) across information extraction tasks such as entity disambiguation, event enrichment, participant detection, and temporal relation extraction in terms of semantic expressiveness, interoperability, scalability, and empirical performance?",
+        "response": {
+            "references": [
+                "Thomas R. Gruber | A translation approach to portable ontology specifications | https://doi.org/10.1006/knac.1993.1008",
+                "Laura Banarescu | Abstract Meaning Representation for Sembanking | https://doi.org/10.5555/2107636",
+                "Jacob Devlin | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | https://doi.org/10.18653/v1/N19-1423",
+                "Christopher D. Manning | The Stanford CoreNLP Natural Language Processing Toolkit | https://doi.org/10.3115/v1/P14-5010",
+                "S\u00f6ren Auer | DBpedia: A Nucleus for a Web of Open Data | https://doi.org/10.1007/978-3-540-76298-0_52"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394875880",
+        "model": "anthropic",
+        "question": "How do sparse and dynamic dimensionality-reduction methods, including sparse PCA variants, autoencoder-based feature learning, and sensor-selection algorithms, compare in their ability to improve virtual metrology accuracy, interpretability, scalability, and sensor-cost reduction in high-dimensional semiconductor manufacturing data?",
+        "response": {
+            "references": [
+                "Hui Zou | Sparse Principal Component Analysis | https://doi.org/10.1198/106186006X113430",
+                "Pascal Vincent | Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion | https://doi.org/10.5555/1756006.1953039",
+                "Pilsung Kang | Virtual metrology for run-to-run control in semiconductor manufacturing | https://doi.org/10.1016/j.eswa.2010.08.040",
+                "Robert Tibshirani | Regression Shrinkage and Selection via the Lasso | https://doi.org/10.1111/j.2517-6161.1996.tb02080.x",
+                "Simone Cateni | A hybrid feature selection method for classification purposes | https://doi.org/10.1109/EMS.2014.44"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387842112",
+        "model": "anthropic",
+        "question": "How do analogue-instance demand features, meteorological and calendrical variables, and persistence-based predictors comparatively influence the accuracy and transferability of machine-learning and deep-learning models for forecasting shared green-mobility demand across different urban transport modes and city contexts?",
+        "response": {
+            "references": [
+                "Elliot Fishman | Bikeshare: A Review of Recent Literature | https://doi.org/10.1080/01441647.2015.1033036",
+                "Robin Lovelace | The Propensity to Cycle Tool: An open source online system for sustainable transport planning | https://doi.org/10.5198/jtlu.2016.862",
+                "Tianqi Chen | XGBoost: A Scalable Tree Boosting System | https://doi.org/10.1145/2939672.2939785",
+                "Leo Breiman | Random Forests | https://doi.org/10.1023/A:1010933404324",
+                "Yexin Li | Traffic prediction in a bike-sharing system | https://doi.org/10.1145/2820783.2820837"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415039367",
+        "model": "anthropic",
+        "question": "How do diffusion-based generative models for interest-rate term structure simulation compare with traditional affine, dynamic Nelson\u2013Siegel, and machine-learning yield-curve models in capturing macro-financial conditioning effects\u2014particularly monetary policy regimes, inflation dynamics, and quantitative easing\u2014across different markets and time periods?",
+        "response": {
+            "references": [
+                "Jonathan Ho | Denoising Diffusion Probabilistic Models | https://doi.org/10.5555/3495724.3496298",
+                "Francis X. Diebold | The macroeconomy and the yield curve: a dynamic latent factor approach | https://doi.org/10.1016/j.jeconom.2005.03.005",
+                "Charles R. Nelson | Parsimonious Modeling of Yield Curves | https://doi.org/10.1086/296409",
+                "John C. Cox | A Theory of the Term Structure of Interest Rates | https://doi.org/10.2307/1911242",
+                "Yacine A\u00eft-Sahalia | Nonparametric Pricing of Interest Rate Derivative Securities | https://doi.org/10.2307/2171862"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4389060537",
+        "model": "anthropic",
+        "question": "How do on-device, context-rule-based push mechanisms in mobile recommender systems compare with server-side or hybrid architectures across the literature in terms of personalization flexibility, recommendation timing accuracy, scalability, energy consumption, user acceptance, and privacy preservation?",
+        "response": {
+            "references": [
+                "Francesco Ricci | Recommender Systems Handbook | https://doi.org/10.1007/978-0-387-85820-3",
+                "Gediminas Adomavicius | Context-Aware Recommender Systems | https://doi.org/10.1145/1454008.1454068",
+                "Yong Ge | An energy-efficient mobile recommender system | https://doi.org/10.1145/1835804.1835918",
+                "Wolfgang Woerndl | A hybrid recommender system for context-aware recommendations of mobile applications | https://doi.org/10.1109/ICDEW.2007.4401037",
+                "Bo Yang | Privacy-preserving recommender systems | https://doi.org/10.1109/TII.2016.2611046"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390465603",
+        "model": "anthropic",
+        "question": "How do hybrid feature-selection frameworks that integrate redundancy-aware feature grouping (e.g., spectral clustering or Markov blanket\u2013based filtering) with multi-objective evolutionary search compare across the broader gene-expression classification literature in terms of predictive accuracy, feature subset stability, computational scalability, and biological interpretability of selected disease biomarkers?",
+        "response": {
+            "references": [
+                "Isabelle Guyon | An Introduction to Variable and Feature Selection | https://doi.org/10.5555/944919.944968",
+                "Hanchuan Peng | Feature Selection Based on Mutual Information: Criteria of Max-Dependency, Max-Relevance, and Min-Redundancy | https://doi.org/10.1109/TPAMI.2005.159",
+                "Kalyanmoy Deb | A fast and elitist multiobjective genetic algorithm: NSGA-II | https://doi.org/10.1109/4235.996017",
+                "Todd R. Golub | Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring | https://doi.org/10.1126/science.286.5439.531",
+                "Yvan Saeys | A review of feature selection techniques in bioinformatics | https://doi.org/10.1093/bioinformatics/btm344"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4224211827",
+        "model": "anthropic",
+        "question": "How do transformer-based architectures compare with recurrent neural networks such as GRU and LSTM across diverse traffic-flow forecasting studies in their ability to capture long-range temporal dependencies, handle data-scale requirements, and improve prediction accuracy on benchmark datasets such as PeMS?",
+        "response": {
+            "references": [
+                "Ashish Vaswani | Attention Is All You Need | https://doi.org/10.5555/3295222.3295349",
+                "Bing Yu | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | https://doi.org/10.24963/ijcai.2018/505",
+                "Yaguang Li | Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting | https://doi.org/10.48550/arXiv.1707.01926",
+                "Sepp Hochreiter | Long Short-Term Memory | https://doi.org/10.1162/neco.1997.9.8.1735",
+                "Kyunghyun Cho | Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation | https://doi.org/10.3115/v1/D14-1179"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7160647876",
+        "model": "anthropic",
+        "question": "How do game-theoretic and agent-based models of multi-level regulatory coordination across crypto asset markets compare in predicting the effects of enforcement intensity, intergovernmental signaling, and adaptive rulemaking on firm compliance, innovation, and consumer protection in decentralized jurisdictions such as Canada?",
+        "response": {
+            "references": [
+                "John C. Harsanyi | Games with Incomplete Information Played by \"Bayesian\" Players | https://doi.org/10.1287/mnsc.14.3.159",
+                "Joshua M. Epstein | Growing Artificial Societies: Social Science from the Bottom Up | https://doi.org/10.7551/mitpress/3374.001.0001",
+                "Satoshi Nakamoto | Bitcoin: A Peer-to-Peer Electronic Cash System | https://doi.org/10.2139/ssrn.3440802",
+                "Robert Axelrod | The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration | https://doi.org/10.1515/9781400822300",
+                "Dirk Zetzsche | Regulating a Revolution: From Regulatory Sandboxes to Smart Regulation | https://doi.org/10.2139/ssrn.3018534"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385633781",
+        "model": "anthropic",
+        "question": "How do algorithmically optimized accessibility indices integrating transport, demographic, labor-market, and amenity variables compare with traditional hedonic location measures across different urban housing markets in improving house price prediction accuracy, reducing spatial autocorrelation, and maintaining interpretability for urban planning applications?",
+        "response": {
+            "references": [
+                "Luc Anselin | Spatial Econometrics: Methods and Models | https://doi.org/10.1007/978-94-015-7799-1",
+                "Sherwin Rosen | Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition | https://doi.org/10.1086/260169",
+                "Karst T. Geurs | Accessibility evaluation of land-use and transport strategies: review and research directions | https://doi.org/10.1016/j.jtrangeo.2003.10.005",
+                "Tianqi Chen | XGBoost: A Scalable Tree Boosting System | https://doi.org/10.1145/2939672.2939785",
+                "Marco Helbich | Data-driven regionalization of housing markets | https://doi.org/10.1080/00045608.2013.850283"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392180077",
+        "model": "anthropic",
+        "question": "How do radiomic time-series classification approaches applied to DCE-MRI, particularly models using multi-instant feature selection and ROCKET-based algorithms, compare with conventional kinetic-curve modeling, deep learning, and multiparametric MRI strategies in improving benign\u2013malignant breast lesion differentiation and clinical interpretability?",
+        "response": {
+            "references": [
+                "Angus Dempster | ROCKET: exceptionally fast and accurate time series classification using random convolutional kernels | https://doi.org/10.1007/s10618-020-00701-z",
+                "Philippe Lambin | Radiomics: Extracting more information from medical images using advanced feature analysis | https://doi.org/10.1016/j.ejca.2011.11.036",
+                "Robert M. Haralick | Textural Features for Image Classification | https://doi.org/10.1109/TSMC.1973.4309314",
+                "Hoo-Chang Shin | Deep Convolutional Neural Networks for Computer-Aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning | https://doi.org/10.1109/TMI.2016.2528162",
+                "Alexander Fabija\u0144ska | Breast MRI lesion classification | https://doi.org/10.1016/j.compbiomed.2018.10.023"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3176710525",
+        "model": "anthropic",
+        "question": "How do the trade-offs between forecasting accuracy and computational efficiency in Long Short-term Cognitive Networks compare to those of other online learning approaches for renewable energy time series prediction across diverse operational and environmental conditions?",
+        "response": {
+            "references": [
+                "Gonzalo N\u00e1poles | Long Short-term Cognitive Networks | https://doi.org/10.1007/s00521-021-06299-7",
+                "Bart Kosko | Fuzzy cognitive maps | https://doi.org/10.1016/S0020-7373(86)80040-2",
+                "Sepp Hochreiter | Long Short-Term Memory | https://doi.org/10.1162/neco.1997.9.8.1735",
+                "Jan G. De Gooijer | 25 years of time series forecasting | https://doi.org/10.1016/j.ijforecast.2006.01.001",
+                "Elia Georgiana Petre | Renewable energy forecasting | https://doi.org/10.1016/j.rser.2019.109405"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404852008",
+        "model": "anthropic",
+        "question": "How do meta-learning approaches for cross-asset knowledge transfer compare with domain-adaptation and transfer-learning techniques in addressing data scarcity for financial volatility forecasting across different market conditions and asset classes?",
+        "response": {
+            "references": [
+                "Chelsea Finn | Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | https://doi.org/10.5555/3305381.3305498",
+                "Sinno Jialin Pan | A Survey on Transfer Learning | https://doi.org/10.1109/TKDE.2009.191",
+                "Robert F. Engle | Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation | https://doi.org/10.2307/1912773",
+                "Tim Bollerslev | Generalized autoregressive conditional heteroskedasticity | https://doi.org/10.1016/0304-4076(86)90063-1",
+                "Ha Young Kim | Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models | https://doi.org/10.1016/j.eswa.2018.03.002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4327571420",
+        "model": "anthropic",
+        "question": "How do hybrid CNN-RNN architectures compare to alternative deep learning approaches (such as transformer-based or geometry-driven methods) in terms of accuracy and computational efficiency for monocular 6D vehicle pose estimation in autonomous driving contexts?",
+        "response": {
+            "references": [
+                "Arsalan Mousavian | 3D Bounding Box Estimation Using Deep Learning and Geometry | https://doi.org/10.1109/CVPR.2017.597",
+                "Kaiming He | Deep Residual Learning for Image Recognition | https://doi.org/10.1109/CVPR.2016.90",
+                "Andreas Geiger | Are we ready for autonomous driving? The KITTI vision benchmark suite | https://doi.org/10.1109/CVPR.2012.6248074",
+                "Yin Zhou | VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection | https://doi.org/10.1109/CVPR.2018.00472",
+                "Yu Xiang | PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes | https://doi.org/10.15607/RSS.2018.XIV.019"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411127061",
+        "model": "anthropic",
+        "question": "How do graph-based structural representations compare with attention-based and other feature extraction mechanisms in their effectiveness at preserving semantic and spatial information for cross-modal remote sensing image-text retrieval across different benchmark datasets?",
+        "response": {
+            "references": [
+                "Zhiqiang Yuan | Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval | https://doi.org/10.1109/TGRS.2021.3078451",
+                "Thomas N. Kipf | Semi-Supervised Classification with Graph Convolutional Networks | https://doi.org/10.48550/arXiv.1609.02907",
+                "Ashish Vaswani | Attention Is All You Need | https://doi.org/10.5555/3295222.3295349",
+                "Andrej Karpathy | Deep Visual-Semantic Alignments for Generating Image Descriptions | https://doi.org/10.1109/CVPR.2015.7298932",
+                "Fan Zhang | Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art | https://doi.org/10.1109/MGRS.2016.2540798"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3014664339",
+        "model": "anthropic",
+        "question": "How do case-based reasoning approaches to knowledge transfer in reinforcement learning compare to other transfer learning paradigms (e.g., policy distillation, meta-learning, and successor features) in terms of their mechanisms for mitigating negative transfer across dissimilar tasks?",
+        "response": {
+            "references": [
+                "Matthew E. Taylor | Transfer Learning for Reinforcement Learning Domains: A Survey | https://doi.org/10.5555/1577069.1755839",
+                "Agnar Aamodt | Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches | https://doi.org/10.3233/AIC-1994-7104",
+                "Richard S. Sutton | Reinforcement Learning: An Introduction | https://doi.org/10.1109/TNN.1998.712192",
+                "Andre Barreto | Successor Features for Transfer in Reinforcement Learning | https://doi.org/10.5555/3295222.3295384",
+                "Andrei A. Rusu | Policy Distillation | https://doi.org/10.48550/arXiv.1511.06295"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401171110",
+        "model": "anthropic",
+        "question": "How do the deobfuscation and code-comprehension capabilities of large language models compare across different obfuscation techniques and malware families, and what fine-tuning or architectural strategies have proven most effective for improving their accuracy in automated threat intelligence pipelines?",
+        "response": {
+            "references": [
+                "Tom B. Brown | Language Models are Few-Shot Learners | https://doi.org/10.5555/3495724.3495883",
+                "Mark Chen | Evaluating Large Language Models Trained on Code | https://doi.org/10.48550/arXiv.2107.03374",
+                "Christian Collberg | A Taxonomy of Obfuscating Transformations | https://doi.org/10.1.1.38.9852",
+                "Edward Raff | Malware Detection by Eating a Whole EXE | https://doi.org/10.48550/arXiv.1710.09435",
+                "Edward J. Hu | LoRA: Low-Rank Adaptation of Large Language Models | https://doi.org/10.48550/arXiv.2106.09685"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4296903761",
+        "model": "anthropic",
+        "question": "How do computational geometry-based initialization methods, such as the Empty Circles approach, compare with other deterministic and probabilistic center-selection strategies (e.g., k-means++, density-based, and Voronoi-based methods) in terms of clustering accuracy, convergence speed, and robustness across datasets of varying shape and dimensionality?",
+        "response": {
+            "references": [
+                "David Arthur | k-means++: The Advantages of Careful Seeding | https://doi.org/10.5555/1283383.1283494",
+                "Stuart P. Lloyd | Least squares quantization in PCM | https://doi.org/10.1109/TIT.1982.1056489",
+                "Martin Ester | A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise | https://doi.org/10.5555/3001460.3001507",
+                "Anil K. Jain | Data clustering: 50 years beyond K-means | https://doi.org/10.1016/j.patrec.2009.09.011",
+                "Franz Aurenhammer | Voronoi Diagrams\u2014A Survey of a Fundamental Geometric Data Structure | https://doi.org/10.1145/116873.116880"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388793893",
+        "model": "anthropic",
+        "question": "How do feature pyramid architectures and supervised contrastive learning strategies compare across various single-channel EEG-based automatic sleep scoring frameworks in improving the discrimination of frequently misclassified sleep stages such as N1 and REM?",
+        "response": {
+            "references": [
+                "Akara Supratak | DeepSleepNet: A Model for Automatic Sleep Stage Scoring Based on Raw Single-Channel EEG | https://doi.org/10.1109/TNSRE.2017.2721116",
+                "Huy Phan | SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging | https://doi.org/10.1109/TNSRE.2019.2896659",
+                "Emadeldeen Eldele | An Attention-Based Deep Learning Approach for Sleep Stage Classification With Single-Channel EEG | https://doi.org/10.1109/TNSRE.2021.3076234",
+                "Prannay Khosla | Supervised Contrastive Learning | https://doi.org/10.48550/arXiv.2004.11362",
+                "Huy Phan | XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging | https://doi.org/10.1109/TPAMI.2021.3070057"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409906210",
+        "model": "anthropic",
+        "question": "How do physics-informed fusion mechanisms and diffusion-based generative models compare with other deep learning approaches in balancing anomaly detection accuracy and interpretability for wind turbine condition monitoring across diverse operational datasets?",
+        "response": {
+            "references": [
+                "Jonathan Ho | Denoising Diffusion Probabilistic Models | https://doi.org/10.48550/arXiv.2006.11239",
+                "Adrian Stetco | Machine learning methods for wind turbine condition monitoring: A review | https://doi.org/10.1016/j.renene.2018.10.047",
+                "Peng Qian | Development of a Wind Turbine Condition Monitoring System | https://doi.org/10.1049/iet-rpg.2018.5450",
+                "Kong Zhengmin | Condition Monitoring of Wind Turbines with the Implementation of Spatio-Temporal Graph Neural Network | https://doi.org/10.3390/en16155664",
+                "Wei Yang | Wind turbine condition monitoring by the approach of SCADA data analysis | https://doi.org/10.1016/j.renene.2012.03.030"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401732085",
+        "model": "anthropic",
+        "question": "How do hybrid metaheuristic algorithms that combine multiple bio-inspired optimizers with adaptive mutation operators compare to single-algorithm and adaptive differential evolution variants in balancing exploration-exploitation trade-offs across continuous, constrained, and binary optimization domains?",
+        "response": {
+            "references": [
+                "Seyedali Mirjalili | The Whale Optimization Algorithm | https://doi.org/10.1016/j.advengsoft.2016.01.008",
+                "Seyedali Mirjalili | Grey Wolf Optimizer | https://doi.org/10.1016/j.advengsoft.2013.12.007",
+                "Rainer Storn | Differential Evolution \u2013 A Simple and Efficient Heuristic for global Optimization over Continuous Spaces | https://doi.org/10.1023/A:1008202821328",
+                "A. K. Qin | Differential Evolution Algorithm With Strategy Adaptation for Global Numerical Optimization | https://doi.org/10.1109/TEVC.2008.927706",
+                "J. Kennedy | Particle swarm optimization | https://doi.org/10.1109/ICNN.1995.488968"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4400673209",
+        "model": "anthropic",
+        "question": "How do the geometric dilution of precision principles governing optimal anchor placement in UWB-based 3D indoor positioning compare across different localization technologies and algorithmic approaches, and to what extent can the volume-maximization strategy be generalized to configurations involving varying numbers of anchors and non-line-of-sight conditions?",
+        "response": {
+            "references": [
+                "Alwin Poulose | An Efficient Indoor Localization System Using Deep Learning | https://doi.org/10.3390/s19143174",
+                "A. R. Jimenez Ruiz | Comparing Ubisense, BeSpoon, and DecaWave UWB Location Systems: Indoor Performance Analysis | https://doi.org/10.1109/TIM.2017.2681398",
+                "Federico Zampella | Indoor Positioning Using Efficient Map Matching, RSS Measurements, and an Improved Motion Model | https://doi.org/10.1109/TVT.2015.2391296",
+                "Hongchao Zhu | Anchor Selection for UWB Indoor Positioning | https://doi.org/10.1002/dac.4757",
+                "N. Levanon | Lowest GDOP in 2-D scenarios | https://doi.org/10.1049/ip-rsn:20000451"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408254722",
+        "model": "anthropic",
+        "question": "How do Markov chain-based approaches to modeling end-user network behavior as unordered activity collections compare to time-series and other machine learning methods across the literature in terms of detecting diverse anomaly types (e.g., misconfigurations, compromised devices, and cybersecurity threats) within dynamic IP environments?",
+        "response": {
+            "references": [
+                "Varun Chandola | Anomaly detection: A survey | https://doi.org/10.1145/1541880.1541882",
+                "Markus Goldstein | A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data | https://doi.org/10.1371/journal.pone.0152173",
+                "Manish Gupta | Outlier Detection for Temporal Data: A Survey | https://doi.org/10.1109/TKDE.2013.184",
+                "Anna L. Buczak | A Survey of Data Mining and Machine Learning Methods for Cyber Security Intrusion Detection | https://doi.org/10.1109/COMST.2015.2494502",
+                "Mohiuddin Ahmed | A survey of network anomaly detection techniques | https://doi.org/10.1016/j.jnca.2015.11.016"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388268800",
+        "model": "anthropic",
+        "question": "How do hybrid neural network approaches integrating global and local optimization schemes, such as Gudermannian neural networks with genetic algorithms and interior-point methods, compare to other stochastic and deterministic computational techniques in terms of accuracy and reliability for solving nonlinear epidemiological models like those describing COVID-19 detection in robotic systems?",
+        "response": {
+            "references": [
+                "Zulqurnain Sabir | Neuro-evolution computing for nonlinear multi-singular system of third order Emden\u2013Fowler equation | https://doi.org/10.1016/j.matcom.2020.12.005",
+                "Muhammad Asif Zahoor Raja | A new stochastic computing paradigm for the dynamics of nonlinear singular heat conduction model of the human head | https://doi.org/10.1140/epjp/i2018-12153-4",
+                "W. O. Kermack | A contribution to the mathematical theory of epidemics | https://doi.org/10.1098/rspa.1927.0118",
+                "Zulqurnain Sabir | Design of Gudermannian Neurswarming to solve the singular Emden\u2013Fowler nonlinear model numerically | https://doi.org/10.1007/s11071-021-06414-2",
+                "Zulqurnain Sabir | Integrated intelligent computing paradigm for nonlinear multi-singular third-order Emden\u2013Fowler equation | https://doi.org/10.1007/s00521-020-05187-w"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4400617531",
+        "model": "anthropic",
+        "question": "How do the design principles and search mechanisms distinguishing high-performing metaheuristic algorithms from underperforming ones on PV parameter estimation compare with findings across other high-dimensional, multimodal engineering optimization benchmarks, and what generalizable characteristics predict an algorithm's success in avoiding local optima on such problems?",
+        "response": {
+            "references": [
+                "Alireza Askarzadeh | Extraction of maximum power point in solar cells using bird mating optimizer-based parameters identification approach | https://doi.org/10.1016/j.solener.2013.01.010",
+                "Kashif Ishaque | An improved particle swarm optimization (PSO)\u2013based MPPT for PV with reduced steady-state oscillation | https://doi.org/10.1109/TPEL.2012.2185713",
+                "Kanji Bade | Parameters extraction of solar cell models using a modified simplified swarm optimization algorithm | https://doi.org/10.1016/j.solener.2019.02.017",
+                "Xu Chen | Teaching\u2013learning\u2013based artificial bee colony for solar photovoltaic parameter estimation | https://doi.org/10.1016/j.apenergy.2018.09.150",
+                "Diego Oliva | Parameter estimation of photovoltaic cells using an improved chaotic whale optimization algorithm | https://doi.org/10.1016/j.apenergy.2017.05.029"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4393946714",
+        "model": "anthropic",
+        "question": "How do simulated or generated depth modalities from generative models compare to real RGB-D sensor data in terms of diagnostic accuracy and reliability across various computer-aided facial diagnosis applications?",
+        "response": {
+            "references": [
+                "Kaiming He | Deep Residual Learning for Image Recognition | https://doi.org/10.1109/CVPR.2016.90",
+                "Ian J. Goodfellow | Generative Adversarial Networks | https://doi.org/10.1145/3422622",
+                "Nataniel Ruiz | Fine-Grained Head Pose Estimation Without Keypoints | https://doi.org/10.1109/CVPRW.2018.00281",
+                "Phillip Isola | Image-to-Image Translation with Conditional Adversarial Networks | https://doi.org/10.1109/CVPR.2017.632",
+                "Jun-Yan Zhu | Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks | https://doi.org/10.1109/ICCV.2017.244"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392263581",
+        "model": "anthropic",
+        "question": "How do the trade-offs between on-device inference efficiency and model accuracy in existing AI-AR integration frameworks compare across different deep learning architectures and mobile hardware constraints?",
+        "response": {
+            "references": [
+                "Andrew G. Howard | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | https://doi.org/10.48550/arXiv.1704.04861",
+                "Mark Sandler | MobileNetV2: Inverted Residuals and Linear Bottlenecks | https://doi.org/10.1109/CVPR.2018.00474",
+                "Mingxing Tan | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | https://doi.org/10.48550/arXiv.1905.11946",
+                "Joseph Redmon | You Only Look Once: Unified, Real-Time Object Detection | https://doi.org/10.1109/CVPR.2016.91",
+                "Xiangyu Zhang | ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices | https://doi.org/10.1109/CVPR.2018.00716"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3152549070",
+        "model": "anthropic",
+        "question": "How do the effectiveness and interpretability of Continued Fraction Regression compare to those of other dimensionality-reduction and regression techniques employed across computational stylistics studies for chronological dating of literary texts in small-sample, high-dimensional settings?",
+        "response": {
+            "references": [
+                "Pablo Moscato | Analyzing and modeling European drug consumption patterns via continued fraction regression | https://doi.org/10.1007/s11517-020-02268-9",
+                "Hugh Craig | Stylistic Analysis and Authorship Studies | https://doi.org/10.1002/9780470999875.ch20",
+                "John Burrows | 'Delta': a Measure of Stylistic Difference and a Guide to Likely Authorship | https://doi.org/10.1093/llc/17.3.267",
+                "Efstathios Stamatatos | A Survey of Modern Authorship Attribution Methods | https://doi.org/10.1002/asi.21001",
+                "Maciej Eder | Stylometry with R: A Package for Computational Text Analysis | https://doi.org/10.32614/RJ-2016-007"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3169297916",
+        "model": "anthropic",
+        "question": "How do multimodal fusion strategies, such as weighted average ensembles versus feature-level or attention-based fusion approaches, compare in their effectiveness for improving detection performance across different deep learning architectures and application domains?",
+        "response": {
+            "references": [
+                "Kaiming He | Deep Residual Learning for Image Recognition | https://doi.org/10.1109/CVPR.2016.90",
+                "Karen Simonyan | Very Deep Convolutional Networks for Large-Scale Image Recognition | https://doi.org/10.48550/arXiv.1409.1556",
+                "Christian Szegedy | Going Deeper with Convolutions | https://doi.org/10.1109/CVPR.2015.7298594",
+                "Lars Kai Hansen | Neural Network Ensembles | https://doi.org/10.1109/34.58871",
+                "Ashish Vaswani | Attention Is All You Need | https://doi.org/10.48550/arXiv.1706.03762"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407834750",
+        "model": "anthropic",
+        "question": "How do graph-theoretic cut-based formulations compare with path-enumeration and other combinatorial optimization approaches across the broader traffic sensor location literature in terms of computational scalability and solution optimality for large-scale networks?",
+        "response": {
+            "references": [
+                "Michael G. H. Bell | The estimation of origin-destination matrices by constrained generalised least squares | https://doi.org/10.1016/0191-2615(91)90028-H",
+                "Hai Yang | Optimal traffic counting locations for origin\u2013destination matrix estimation | https://doi.org/10.1016/S0191-2615(97)00016-7",
+                "Enrique Castillo | Observability of traffic networks. Optimal location of counting and scanning devices | https://doi.org/10.1080/23249935.2013.806365",
+                "Monica Gentili | Locating sensors on traffic networks: Models, challenges and research opportunities | https://doi.org/10.1016/j.trc.2012.05.004",
+                "Xuesong Zhou | A structural state space model for real-time traffic origin\u2013destination demand estimation and prediction in a day-to-day learning framework | https://doi.org/10.1016/j.trb.2007.02.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406518092",
+        "model": "anthropic",
+        "question": "How do different strategies for integrating drug-target interaction information into computational models compare in their ability to improve the prediction accuracy of synergistic drug combinations across diverse cancer types?",
+        "response": {
+            "references": [
+                "Joseph O'Neil | An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies | https://doi.org/10.1158/1535-7163.MCT-15-0843",
+                "Kristina Preuer | DeepSynergy: predicting anti-cancer drug synergy with Deep Learning | https://doi.org/10.1093/bioinformatics/btx806",
+                "Halima Alachram | Text mining-based word representations for biomedical data analysis and protein-protein interaction networks in machine learning tasks | https://doi.org/10.1371/journal.pone.0258623",
+                "Tao Zhang | Synergistic Drug Combination Prediction by Integrating Multiomics Data in Deep Learning Models | https://doi.org/10.1007/978-1-0716-0849-4_12",
+                "Peng Zhang | A novel deep learning model integrating drug-target interaction for predicting synergistic drug combinations | https://doi.org/10.1093/bib/bbac403"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4324387462",
+        "model": "anthropic",
+        "question": "How do the four main approaches to fuzzy option pricing\u2014fuzzy-random, distorted risk-neutral probability, fuzzy pay-off, and machine-learning-based methods\u2014compare in terms of their theoretical assumptions, empirical performance, and practical applicability across different classes of financial and real options?",
+        "response": {
+            "references": [
+                "Yuji Yoshida | The valuation of European options in uncertain environment | https://doi.org/10.1016/S0377-2217(01)00330-1",
+                "Hsien-Chung Wu | Pricing European options based on the fuzzy pattern of Black\u2013Scholes formula | https://doi.org/10.1016/S0305-0548(02)00191-9",
+                "Silvia Muzzioli | A multiperiod binomial model for pricing options in a vague world | https://doi.org/10.1016/S0165-1889(03)00046-2",
+                "Christer Carlsson | A fuzzy approach to real option valuation | https://doi.org/10.1016/S0165-0114(03)00114-8",
+                "Fischer Black | The Pricing of Options and Corporate Liabilities | https://doi.org/10.1086/260062"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410774340",
+        "model": "anthropic",
+        "question": "How do the design choices in evaluation functions across metaheuristic approaches to bandwidth minimization problems influence solution quality and convergence behavior relative to using extremal versus aggregate distance measures?",
+        "response": {
+            "references": [
+                "Estefan\u00eda Pi\u00f1ana | GRASP and path relinking for the matrix bandwidth minimization | https://doi.org/10.1016/S0377-2217(03)00060-3",
+                "Rafael Mart\u00ed | Reducing the bandwidth of a sparse matrix with tabu search | https://doi.org/10.1016/S0377-2217(00)00325-8",
+                "Andrew Lim | Ant colony optimization with hill climbing for the bandwidth minimization problem | https://doi.org/10.1016/j.asoc.2005.03.006",
+                "E. Cuthill | Reducing the bandwidth of sparse symmetric matrices | https://doi.org/10.1145/800195.805928",
+                "Jes\u00fas S\u00e1nchez-Oro | Combining intensification and diversification strategies in VNS. An application to the Vertex Separation Problem | https://doi.org/10.1016/j.cor.2014.03.023"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391850817",
+        "model": "anthropic",
+        "question": "How do memory-based enhancements to metaheuristic algorithms compare across different optimization approaches in terms of their effectiveness at balancing exploration and exploitation for solving multi-objective distribution network reconfiguration problems?",
+        "response": {
+            "references": [
+                "Merlin M. A. | Distribution System Reconfiguration for Loss Reduction Using Genetic Algorithms | https://doi.org/10.1016/0378-7796(94)90054-X",
+                "Seyedali Mirjalili | The Whale Optimization Algorithm | https://doi.org/10.1016/j.advengsoft.2016.01.008",
+                "H. D. Chiang | Optimal network reconfigurations in distribution systems: Part 1: A new formulation and a solution methodology | https://doi.org/10.1109/61.55088",
+                "Seyedali Mirjalili | Grey Wolf Optimizer | https://doi.org/10.1016/j.advengsoft.2013.12.007",
+                "J. Kennedy | Particle swarm optimization | https://doi.org/10.1109/ICNN.1995.488968"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405337754",
+        "model": "anthropic",
+        "question": "How do the semantic feature extraction and multimodal resource processing techniques employed in mainstream integrated media information organization models compare in effectiveness and scalability with approaches developed across the broader fields of big data management and information retrieval?",
+        "response": {
+            "references": [
+                "Tomas Mikolov | Efficient Estimation of Word Representations in Vector Space | https://doi.org/10.48550/arXiv.1301.3781",
+                "Jacob Devlin | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | https://doi.org/10.48550/arXiv.1810.04805",
+                "Ashish Vaswani | Attention Is All You Need | https://doi.org/10.48550/arXiv.1706.03762",
+                "Jeffrey Pennington | GloVe: Global Vectors for Word Representation | https://doi.org/10.3115/v1/D14-1162",
+                "Tadas Baltru\u0161aitis | Multimodal Machine Learning: A Survey and Taxonomy | https://doi.org/10.1109/TPAMI.2018.2798607"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7134893266",
+        "model": "anthropic",
+        "question": "How do multi-agent deep reinforcement learning approaches that leverage implicit feedback compare to alternative coordination and reward-modeling strategies in their ability to adapt to dynamic user routines across heterogeneous smart home environments?",
+        "response": {
+            "references": [
+                "Volodymyr Mnih | Human-level control through deep reinforcement learning | https://doi.org/10.1038/nature14236",
+                "Ryan Lowe | Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments | https://doi.org/10.48550/arXiv.1706.02275",
+                "Richard S. Sutton | Policy Gradient Methods for Reinforcement Learning with Function Approximation | https://doi.org/10.5555/3009657.3009806",
+                "Peter Stone | Multiagent Systems: A Survey from a Machine Learning Perspective | https://doi.org/10.1023/A:1008942012299",
+                "Tampuu Ardi | Multiagent cooperation and competition with deep reinforcement learning | https://doi.org/10.1371/journal.pone.0172395"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4221129481",
+        "model": "anthropic",
+        "question": "How does the integration of hesitant Pythagorean fuzzy sets with outranking methods like ELECTRE-I compare to alternative fuzzy extensions and multi-criteria decision-making approaches in improving the reliability and discriminatory power of risk prioritization in FMEA across diverse application domains?",
+        "response": {
+            "references": [
+                "Ronald R. Yager | Pythagorean Membership Grades in Multicriteria Decision Making | https://doi.org/10.1109/TFUZZ.2013.2278989",
+                "Vicen\u00e7 Torra | Hesitant fuzzy sets | https://doi.org/10.1002/int.20418",
+                "Bernard Roy | Classement et choix en pr\u00e9sence de points de vue multiples | https://doi.org/10.1051/ro/196801V101570",
+                "Krassimir T. Atanassov | Intuitionistic fuzzy sets | https://doi.org/10.1016/S0165-0114(86)80034-3",
+                "Xiaolu Zhang | Extension of TOPSIS to Multiple Criteria Decision Making with Pythagorean Fuzzy Sets | https://doi.org/10.1002/int.21676"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399803424",
+        "model": "anthropic",
+        "question": "How do the capabilities and barriers associated with smart industrial product adoption identified in this framework compare with and integrate into existing maturity models for digital transformation and Industry 4.0 across different organisational functions and sectors?",
+        "response": {
+            "references": [
+                "Andreas Schumacher | A Maturity Model for Assessing Industry 4.0 Readiness and Maturity of Manufacturing Enterprises | https://doi.org/10.1016/j.procir.2016.07.040",
+                "Erwin Rauch | Requirements for the Design of a Smart Product-Service System for Manufacturing SMEs | https://doi.org/10.1016/j.procir.2019.02.135",
+                "Gerald C. Kane | Strategy, not Technology, Drives Digital Transformation | https://doi.org/10.7551/mitpress/11636.001.0001",
+                "Anna De Carolis | A Maturity Model for Assessing the Digital Readiness of Manufacturing Companies | https://doi.org/10.1007/978-3-319-66923-6_2",
+                "Heiner Lasi | Industry 4.0 | https://doi.org/10.1007/s12599-014-0334-4"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3092882514",
+        "model": "anthropic",
+        "question": "How do PDE-based regularization approaches in RBF-DiffNet compare with other physics-informed and differential equation-inspired neural network architectures in terms of their trade-offs between noise robustness, computational efficiency, and interpretability across diverse sequential modeling tasks?",
+        "response": {
+            "references": [
+                "Maziar Raissi | Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations | 10.1016/j.jcp.2018.10.045",
+                "Ricky T. Q. Chen | Neural Ordinary Differential Equations | 10.48550/arXiv.1806.07366",
+                "Yulia Rubanova | Latent ordinary differential equations for irregularly-sampled time series | 10.48550/arXiv.1907.03907",
+                "Sepp Hochreiter | Long Short-Term Memory | 10.1162/neco.1997.9.8.1735",
+                "George Em Karniadakis | Physics-informed machine learning | 10.1038/s42254-021-00314-5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7154249237",
+        "model": "anthropic",
+        "question": "How do multi-scale temporal feature extraction methods compare to graph neural network-based approaches across different insider threat detection studies in terms of balancing the trade-off between capturing individual behavioral deviations and modeling group-level structural dependencies?",
+        "response": {
+            "references": [
+                "Liu Liu | Detecting and Preventing Cyber Insider Threats: A Survey | 10.1109/COMST.2018.2800740",
+                "Aditya Kuppa | Black Box Attacks on Deep Anomaly Detectors | 10.1145/3339252.3339266",
+                "Thomas N. Kipf | Semi-Supervised Classification with Graph Convolutional Networks | 10.48550/arXiv.1609.02907",
+                "Ashish Vaswani | Attention Is All You Need | 10.48550/arXiv.1706.03762",
+                "Fucheng Liu | Log2vec: A Heterogeneous Graph Embedding Based Approach for Detecting Cyber Threats within Enterprise | 10.1145/3319535.3363224"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417178135",
+        "model": "anthropic",
+        "question": "How do partial feature selection and channel attention mechanisms compare across lightweight medical image segmentation architectures in balancing parameter efficiency and segmentation accuracy?",
+        "response": {
+            "references": [
+                "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | 10.1007/978-3-319-24574-4_28",
+                "Jie Hu | Squeeze-and-Excitation Networks | 10.1109/CVPR.2018.00745",
+                "Sanghyun Woo | CBAM: Convolutional Block Attention Module | 10.1007/978-3-030-01234-2_1",
+                "Ozan Oktay | Attention U-Net: Learning Where to Look for the Pancreas | 10.48550/arXiv.1804.03999",
+                "Andrew G. Howard | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | 10.48550/arXiv.1704.04861"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415064340",
+        "model": "anthropic",
+        "question": "How do multi-head deep learning architectures that jointly perform segmentation and keypoint detection compare to single-task and sequential pipelines across different plant root imaging modalities in terms of trait extraction accuracy and generalizability?",
+        "response": {
+            "references": [
+                "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | 10.1007/978-3-319-24574-4_28",
+                "Kaiming He | Mask R-CNN | 10.1109/ICCV.2017.322",
+                "Guillaume Lobet | Root System Markup Language: Toward a Unified Root Architecture Description Language | 10.1104/pp.114.253625",
+                "Alexey Bochkovskiy | YOLOv4: Optimal Speed and Accuracy of Object Detection | 10.48550/arXiv.2004.10934",
+                "Ke Sun | Deep High-Resolution Representation Learning for Human Pose Estimation | 10.1109/CVPR.2019.00584"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7154482424",
+        "model": "anthropic",
+        "question": "How do the trade-offs between path smoothness, energy efficiency, and computational complexity vary across different coverage path planning strategies and trajectory smoothing techniques when applied to UAV swarms operating in heterogeneous versus homogeneous configurations?",
+        "response": {
+            "references": [
+                "Enric Galceran | A survey on coverage path planning for robotics | 10.1016/j.robot.2013.09.004",
+                "Howie Choset | Coverage for robotics \u2013 A survey of recent results | 10.1023/A:1016639210559",
+                "Sertac Karaman | Sampling-based algorithms for optimal motion planning | 10.1177/0278364911406761",
+                "Andries P. Engelbrecht | Particle Swarm Optimization | 10.1109/ICNN.1995.488968",
+                "Yongbo Chen | UAV path planning using artificial potential field method updated by optimal control theory | 10.1080/00207721.2014.929191"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387911253",
+        "model": "anthropic",
+        "question": "How do different approaches to integrating heterogeneous EHR data modalities\u2014such as medical codes, clinical notes, ontological relationships, and patient demographics\u2014via attention mechanisms compare in their effectiveness for enhancing medical concept embeddings and clinical prediction tasks?",
+        "response": {
+            "references": [
+                "Edward Choi | GRAM: Graph-based Attention Model for Healthcare Representation Learning | 10.1145/3097983.3098126",
+                "Edward Choi | RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism | 10.48550/arXiv.1608.05745",
+                "Ashish Vaswani | Attention Is All You Need | 10.48550/arXiv.1706.03762",
+                "Jacob Devlin | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | 10.18653/v1/N19-1423",
+                "Zachary C. Lipton | Learning to Diagnose with LSTM Recurrent Neural Networks | 10.48550/arXiv.1511.03677"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391074940",
+        "model": "anthropic",
+        "question": "How does the prioritization of transparency over human agency and oversight in fuzzy multi-criteria decision-making (MCDM) models for healthcare AI align with the broader empirical literature on clinical safety outcomes and international ethical guidelines?",
+        "response": {
+            "references": [
+                "Luciano Floridi | AI4People\u2014An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations | 10.1007/s11023-018-9482-5",
+                "Anna Jobin | The global landscape of AI ethics guidelines | 10.1038/s42256-019-0088-2",
+                "Eric J. Topol | High-performance medicine: the convergence of human and artificial intelligence | 10.1038/s41591-018-0300-7",
+                "Sandra Wachter | Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation | 10.1093/idpl/ipx005",
+                "L. A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4362584194",
+        "model": "anthropic",
+        "question": "How do different methodological approaches across the scientific literature address target variable measurement uncertainty in machine learning, and what are their comparative advantages in preventing overoptimistic model evaluations and false scientific discoveries?",
+        "response": {
+            "references": [
+                "Ludmila I. Kuncheva | On the class imbalance problem | 10.1109/ICNC.2008.871",
+                "Benjamin Recht | Do ImageNet Classifiers Generalize to ImageNet? | 10.48550/arXiv.1902.10811",
+                "Curtis G. Northcutt | Confident Learning: Estimating Uncertainty in Dataset Labels | 10.1613/jair.1.12125",
+                "David Sculley | Hidden Technical Debt in Machine Learning Systems | 10.48550/arXiv.1509.06786",
+                "Sanjay Krishnan | ActiveClean: Interactive Data Cleaning For Statistical Modeling | 10.14778/2994509.2994514"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7155604786",
+        "model": "anthropic",
+        "question": "How do different methodological approaches for integrating machine learning-based risk predictions with dynamic traffic micro-simulations, such as Cellular Automata, compare in their ability to accurately model real-time congestion and support proactive traffic safety planning across diverse urban environments?",
+        "response": {
+            "references": [
+                "Stephen Wolfram | Statistical mechanics of cellular automata | 10.1103/RevModPhys.55.601",
+                "Kai Nagel | A cellular automaton model for freeway traffic | 10.1051/jp1:1992277",
+                "Leo Breiman | Random Forests | 10.1023/A:1010933404324",
+                "Tianqi Chen | XGBoost: A Scalable Tree Boosting System | 10.1145/2939672.2939785",
+                "Rune Elvik | The predictive validity of empirical Bayes estimates of road safety | 10.1016/j.aap.2008.06.017"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3204450916",
+        "model": "anthropic",
+        "question": "How do multimodal approaches combining Optical Character Recognition (OCR) and Natural Language Processing (NLP) compare to purely vision-based deep learning models in their efficacy and computational efficiency for detecting self-checkout fraud and reducing retail shrinkage?",
+        "response": {
+            "references": [
+                "Kaiming He | Deep Residual Learning for Image Recognition | 10.1109/CVPR.2016.90",
+                "Shaoqing Ren | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | 10.1109/TPAMI.2016.2577031",
+                "Joseph Redmon | You Only Look Once: Unified, Real-Time Object Detection | 10.1109/CVPR.2016.91",
+                "Jacob Devlin | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | 10.18653/v1/N19-1423",
+                "Baoguang Shi | An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition | 10.1109/TPAMI.2016.2646371"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4389848844",
+        "model": "anthropic",
+        "question": "To what extent do horizon-specific feature projection methods, compared to traditional unified latent mapping techniques, improve gradient optimization stability and localized pattern extraction in temporal graph neural networks across various spatial-temporal forecasting domains?",
+        "response": {
+            "references": [
+                "Bing Yu | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | 10.24963/ijcai.2018/505",
+                "Yaguang Li | Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting | 10.48550/arXiv.1707.01926",
+                "Zonghan Wu | Graph WaveNet for Deep Spatial-Temporal Graph Modeling | 10.24963/ijcai.2019/264",
+                "Ling Zhao | T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction | 10.1109/TITS.2019.2935152",
+                "Chao Song | Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting | 10.1609/aaai.v34i01.5438"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3207124298",
+        "model": "anthropic",
+        "question": "How does the integration of crowdsourced social media data with real-time meteorological inputs compare to traditional geostatistical modeling in enhancing situational awareness and victim localization during urban flash floods across diverse global metropolitan environments?",
+        "response": {
+            "references": [
+                "Sarah Vieweg | Microblogging During Two Natural Hazards Events: What Twitter May Contribute to Situational Awareness | 10.1145/1753326.1753486",
+                "Muhammad Imran | Processing Social Media Messages in Mass Emergency: A Survey | 10.1145/2771588",
+                "Guy Schumann | A First Large-Scale Flood Inundation Forecasting Model | 10.1002/wrcr.20521",
+                "Jie Yin | Using Social Media to Enhance Emergency Situation Awareness | 10.1109/MIS.2012.6",
+                "Fernanda Rosser | Extracting Flood-Related Information from Social Media Using a Deep Learning Approach | 10.1016/j.ijdrr.2021.102282"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386376808",
+        "model": "anthropic",
+        "question": "How do the representation learning capabilities of contrastive versus generative self-supervised pre-training frameworks compare when transferring to sparse, real-world LiDAR point cloud downstream tasks such as 3D object detection and semantic segmentation?",
+        "response": {
+            "references": [
+                "Ting Chen | A Simple Framework for Contrastive Learning of Visual Representations | 10.48550/arXiv.2002.05709",
+                "Kaiming He | Masked Autoencoders Are Scalable Vision Learners | 10.1109/CVPR52688.2022.01553",
+                "Saining Xie | PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding | 10.1007/978-3-030-58580-8_34",
+                "Yin Zhou | VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection | 10.1109/CVPR.2018.00472",
+                "Charles R. Qi | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation | 10.1109/CVPR.2017.16"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410218045",
+        "model": "anthropic",
+        "question": "How does the performance of conditional generative adversarial networks (cGANs) compare to alternative deep learning architectures, such as U-Net or Mask R-CNN, when segmenting specialty crops under highly variable and adverse field illumination conditions?",
+        "response": {
+            "references": [
+                "Phillip Isola | Image-to-Image Translation with Conditional Adversarial Networks | 10.1109/CVPR.2017.632",
+                "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | 10.1007/978-3-319-24574-4_28",
+                "Kaiming He | Mask R-CNN | 10.1109/ICCV.2017.322",
+                "Ian J. Goodfellow | Generative Adversarial Nets | 10.48550/arXiv.1406.2661",
+                "Andreas Kamilaris | Deep learning in agriculture: A survey | 10.1016/j.compag.2018.02.016"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385597400",
+        "model": "anthropic",
+        "question": "How do Euclidean distance-based parameter reduction techniques for interval-valued fuzzy soft sets compare to other distance- and similarity-measure-based reduction frameworks in terms of computational complexity, success rates, and decision-making stability across diverse real-world applications?",
+        "response": {
+            "references": [
+                "P. K. Maji | Fuzzy soft sets | 10.5555/2274042.2274043",
+                "P. K. Maji | Soft set theory | 10.1016/S0898-1221(03)00016-6",
+                "D. Molodtsov | Soft set theory\u2014First results | 10.1016/S0898-1221(99)00056-5",
+                "Naim \u00c7a\u011fman | Soft set theory and uni\u2013int decision making | 10.1016/j.ejor.2010.05.004",
+                "Xibei Yang | Combination of interval-valued fuzzy set and soft set | 10.1016/j.camwa.2008.11.009"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386566926",
+        "model": "anthropic",
+        "question": "How do emerging boosting-based, distribution-free probabilistic regression frameworks compare to established non-parametric approaches, such as quantile regression forests and conformal prediction, regarding their predictive accuracy, computational scalability, and robustness when modeling highly skewed or multimodal target distributions?",
+        "response": {
+            "references": [
+                "Tianqi Chen | XGBoost: A Scalable Tree Boosting System | 10.1145/2939672.2939785",
+                "Nicolai Meinshausen | Quantile Regression Forests | 10.5555/1248547.1248582",
+                "Vladimir Vovk | Algorithmic Learning in a Random World | 10.1007/b106715",
+                "Jerome H. Friedman | Greedy function approximation: A gradient boosting machine | 10.1214/aos/1013203451",
+                "Tilmann Gneiting | Strictly Proper Scoring Rules, Prediction, and Estimation | 10.1198/016214506000001437"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387558203",
+        "model": "anthropic",
+        "question": "How does the integration of interval-valued multi-fuzzy hypersoft sets for personal protective equipment material selection compare with alternative hybrid fuzzy decision-making frameworks in terms of computational scalability, flexibility, and robustness under varying levels of decision-maker uncertainty?",
+        "response": {
+            "references": [
+                "D. Molodtsov | Soft set theory\u2014First results | 10.1016/S0898-1221(99)00056-5",
+                "P. K. Maji | Fuzzy soft sets | 10.5555/2274042.2274043",
+                "Muhammad Saeed | Theory of hypersoft sets | 10.1016/j.matcom.2020.11.001",
+                "L. A. Zadeh | Fuzzy sets | 10.1016/S0019-9958(65)90241-X",
+                "Krassimir T. Atanassov | Intuitionistic fuzzy sets | 10.1016/S0165-0114(86)80034-3"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416933760",
+        "model": "anthropic",
+        "question": "How do various cooperative coevolutionary and divide-and-conquer paradigms in evolutionary feature selection compare in their ability to balance computational complexity and classification accuracy across high-dimensional datasets?",
+        "response": {
+            "references": [
+                "Isabelle Guyon | An Introduction to Variable and Feature Selection | 10.5555/944919.944968",
+                "Mitchell A. Potter | A Cooperative Coevolutionary Approach to Function Optimization | 10.1007/3-540-58484-6_269",
+                "Xiaodong Li | Cooperatively Coevolving Particle Swarms for Large Scale Optimization | 10.1109/TEVC.2011.2112662",
+                "Kenneth A. De Jong | Learning concept classification rules using genetic algorithms | 10.5555/1631542.1631564",
+                "Zhenyu Yang | Large scale evolutionary optimization using cooperative coevolution | 10.1016/j.ins.2008.02.017"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7139972851",
+        "model": "anthropic",
+        "question": "How does the performance of human-in-the-loop, multi-agent architectures for dynamic knowledge graph construction and querying compare to fully automated retrieval-augmented generation (RAG) pipelines in maintaining factual accuracy within rapidly evolving scientific domains?",
+        "response": {
+            "references": [
+                "Patrick Lewis | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | 10.48550/arXiv.2005.11401",
+                "Tom B. Brown | Language Models are Few-Shot Learners | 10.48550/arXiv.2005.14165",
+                "Shirui Pan | Unifying Large Language Models and Knowledge Graphs: A Roadmap | 10.1109/TKDE.2024.3352100",
+                "Kurt Bollacker | Freebase: a collaboratively created graph database for structuring human knowledge | 10.1145/1376616.1376746",
+                "Shunyu Yao | ReAct: Synergizing Reasoning and Acting in Language Models | 10.48550/arXiv.2210.03629"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399786935",
+        "model": "anthropic",
+        "question": "How does the integration of real-world geographic and demographic data, as opposed to traditional synthetic benchmarks, influence the comparative performance and scalability of heuristic versus exact optimization methods for the Capacitated Dispersion Problem and related spatial facility location variants?",
+        "response": {
+            "references": [
+                "Roberto Aringhieri | The dispersion problem: a survey | 10.1016/j.cor.2015.06.001",
+                "Erhan Erkut | The discrete p-dispersion problem | 10.1016/0377-2217(90)90297-O",
+                "Fred Glover | Tabu Search\u2014Part I | 10.1287/ijoc.1.3.190",
+                "\u00c1ngel Corber\u00e1n | Heuristics for the Capacitated Dispersion Problem | 10.1111/itor.13052",
+                "M. G. C. Resende | Greedy Randomized Adaptive Search Procedures | 10.1007/BF01096763"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388934520",
+        "model": "anthropic",
+        "question": "How do hybrid image-processing algorithms utilizing color-space segmentation and geometric feature extraction compare to deep learning-based models in balancing computational efficiency and false-positive reduction for real-time fire detection?",
+        "response": {
+            "references": [
+                "Turgay Celik | Fire Detection in Video Sequences Using a Generic Color Model | https://doi.org/10.1016/j.firesaf.2008.07.005",
+                "Punam Kumar Gaur | Video Flame and Smoke Based Fire Detection Algorithms: A Literature Review | https://doi.org/10.1007/s10694-020-00986-y",
+                "Khan Muhammad | Convolutional Neural Networks Based Fire Detection in Surveillance Videos | https://doi.org/10.1109/ACCESS.2018.2812835",
+                "Byoung Chul Ko | Fire Detection Based on Vision Sensor and Support Vector Machines | https://doi.org/10.1016/j.firesaf.2009.01.004",
+                "Pu Li | Image Fire Detection Algorithms Based on Convolutional Neural Networks | https://doi.org/10.1016/j.csite.2020.100625"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417092725",
+        "model": "anthropic",
+        "question": "How do deep learning-based segmentation architectures, particularly generative adversarial networks and U-Net variations, compare to traditional atlas-based and manual segmentation methods in their capacity to generalize across diverse immunohistochemical staining modalities for the accurate delineation of hippocampal subregions in rodent models of neuropathology?",
+        "response": {
+            "references": [
+                "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | https://doi.org/10.1007/978-3-319-24574-4_28",
+                "Ian Goodfellow | Generative Adversarial Networks | https://doi.org/10.1145/3422622",
+                "Phillip Isola | Image-to-Image Translation with Conditional Adversarial Networks | https://doi.org/10.1109/CVPR.2017.632",
+                "Fausto Milletari | V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation | https://doi.org/10.1109/3DV.2016.79",
+                "Zhengxin Zhang | Road Extraction by Deep Residual U-Net | https://doi.org/10.1109/LGRS.2018.2802944"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4220672625",
+        "model": "anthropic",
+        "question": "How do various machine learning and deep learning methodologies applied to high-resolution LiDAR data compare in their ability to map artificial drainage networks across diverse wetland ecosystems, and what are their implications for regional greenhouse gas accounting?",
+        "response": {
+            "references": [
+                "Volodymyr Mnih | Learning to Detect Roads in High-Resolution Aerial Images | https://doi.org/10.1007/978-3-642-15567-3_16",
+                "Jonathan Long | Fully Convolutional Networks for Semantic Segmentation | https://doi.org/10.1109/CVPR.2015.7298965",
+                "Anthony Roulin | Detecting Tile Drainage Networks Using LiDAR | https://doi.org/10.1016/j.agwat.2020.106360",
+                "Kaiming He | Deep Residual Learning for Image Recognition | https://doi.org/10.1109/CVPR.2016.90",
+                "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | https://doi.org/10.1007/978-3-319-24574-4_28"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387122045",
+        "model": "anthropic",
+        "question": "How do size-adaptive loss functions and feature-retention networks compare with alternative multi-scale feature fusion and attention-based mechanisms in mitigating localization and feature-loss challenges for small object detection in autonomous driving datasets?",
+        "response": {
+            "references": [
+                "Tsung-Yi Lin | Focal Loss for Dense Object Detection | https://doi.org/10.1109/ICCV.2017.324",
+                "Tsung-Yi Lin | Feature Pyramid Networks for Object Detection | https://doi.org/10.1109/CVPR.2017.106",
+                "Jie Hu | Squeeze-and-Excitation Networks | https://doi.org/10.1109/CVPR.2018.00745",
+                "Sanghyun Woo | CBAM: Convolutional Block Attention Module | https://doi.org/10.1007/978-3-030-01234-2_1",
+                "Joseph Redmon | You Only Look Once: Unified, Real-Time Object Detection | https://doi.org/10.1109/CVPR.2016.91"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4304944821",
+        "model": "anthropic",
+        "question": "How have modern deep learning architectures evolved to handle the spatial-temporal complexities of sign language translation across benchmark datasets like RWTH-PHOENIX-2014T, and what systematic challenges must still be addressed to facilitate their practical deployment on resource-constrained portable devices?",
+        "response": {
+            "references": [
+                "Necati Cihan Camg\u00f6z | Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation | https://doi.org/10.1109/CVPR42600.2020.01004",
+                "Necati Cihan Camg\u00f6z | Neural Sign Language Translation | https://doi.org/10.1109/CVPR.2018.00812",
+                "Ashish Vaswani | Attention Is All You Need | https://doi.org/10.48550/arXiv.1706.03762",
+                "Oscar Koller | Continuous Sign Language Recognition: Towards Large Vocabulary Statistical Recognition Systems Handling Multiple Signers | https://doi.org/10.1016/j.cviu.2015.09.013",
+                "Dongxu Li | Word-Level Deep Sign Language Recognition from Video: A New Large-Scale Dataset and Methods Comparison | https://doi.org/10.1109/WACV45572.2020.9093512"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4380854485",
+        "model": "anthropic",
+        "question": "How do emerging business-oriented and profit-centric evaluation metrics for recommender systems compare to traditional offline machine-learning metrics in their ability to capture long-term user engagement and operational cost-effectiveness across diverse digital platforms?",
+        "response": {
+            "references": [
+                "Dietmar Jannach | Escaping the McNamara Fallacy: Towards More Impactful Recommender Systems Research | https://doi.org/10.1609/aimag.v41i4.5312",
+                "Maurizio Ferrari Dacrema | Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches | https://doi.org/10.1145/3298689.3347058",
+                "Marius Kaminskas | Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems | https://doi.org/10.1145/2926720",
+                "Paolo Cremonesi | Performance of Recommender Algorithms on Top-N Recommendation Tasks | https://doi.org/10.1145/1864708.1864721",
+                "Xiangnan He | Neural Collaborative Filtering | https://doi.org/10.1145/3038912.3052569"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406615729",
+        "model": "anthropic",
+        "question": "How does the integration of progressive contrastive learning and self-calibrating attention mechanisms in MSD-Net align with, or advance beyond, contemporary methodologies for addressing spatially non-uniform degradations in the broader literature of low-level image restoration?",
+        "response": {
+            "references": [
+                "Ting Chen | A Simple Framework for Contrastive Learning of Visual Representations | https://doi.org/10.48550/arXiv.2002.05709",
+                "Kaiming He | Momentum Contrast for Unsupervised Visual Representation Learning | https://doi.org/10.1109/CVPR42600.2020.00975",
+                "Syed Waqas Zamir | Restormer: Efficient Transformer for High-Resolution Image Restoration | https://doi.org/10.1109/CVPR52688.2022.00564",
+                "Xueyang Fu | Removing Rain from Single Images via a Deep Detail Network | https://doi.org/10.1109/CVPR.2017.186",
+                "Boyi Li | AOD-Net: All-in-One Dehazing Network | https://doi.org/10.1109/ICCV.2017.511"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406410407",
+        "model": "anthropic",
+        "question": "How do deep learning-based approaches utilizing near-infrared periocular imaging compare in their efficacy and robustness when distinguishing between different sources of central nervous system impairment, such as fatigue versus substance-induced intoxication, across diverse environmental and demographic cohorts?",
+        "response": {
+            "references": [
+                "Damon L. Woodard | Periocular Region Appearance Cues for Biometric Identification | https://doi.org/10.1109/CVPRW.2010.5544621",
+                "Fernando Alonso-Fernandez | A Survey on Periocular Biometrics Research | https://doi.org/10.1016/j.patrec.2015.08.006",
+                "Trevor Cohen | Deep Learning for Driver Drowsiness Detection | https://doi.org/10.1016/j.eswa.2019.03.011",
+                "Anirudh Nair | Detecting Alcohol Intoxication from Facial and Ocular Features Using Deep Learning | https://doi.org/10.1109/ACCESS.2020.3010845",
+                "Karen Simonyan | Very Deep Convolutional Networks for Large-Scale Image Recognition | https://doi.org/10.48550/arXiv.1409.1556"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4306180768",
+        "model": "anthropic",
+        "question": "How do multimodal deep learning architectures that integrate raw EEG signals with time-frequency representations via gated fusion mechanisms compare to single-modality or traditional machine learning approaches in terms of classification accuracy and generalization across diverse, real-world clinical epilepsy datasets?",
+        "response": {
+            "references": [
+                "U. Rajendra Acharya | Deep Convolutional Neural Network for the Automated Detection and Diagnosis of Seizure Using EEG Signals | https://doi.org/10.1016/j.compbiomed.2017.09.017",
+                "Ihsan Ullah | An Automated System for Epilepsy Detection Using EEG Brain Signals Based on Deep Learning Approach | https://doi.org/10.1016/j.eswa.2018.04.021",
+                "Ramy Hussein | Optimized Deep Neural Network Architecture for Robust Detection of Epileptic Seizures Using EEG Signals | https://doi.org/10.1016/j.clinph.2018.10.010",
+                "Ye Yuan | A Multi-View Deep Learning Framework for EEG Seizure Detection | https://doi.org/10.1109/JBHI.2018.2871678",
+                "Alexander Craik | Deep Learning for Electroencephalogram (EEG) Classification Tasks: A Review | https://doi.org/10.1088/1741-2552/ab0ab5"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7156865305",
+        "model": "anthropic",
+        "question": "How does the integration of hybrid swarm intelligence-based feature selection algorithms with semi-supervised learning frameworks compare to deep representation learning approaches in addressing severe class imbalance for rare attack detection in network intrusion detection systems?",
+        "response": {
+            "references": [
+                "Nour Moustafa | UNSW-NB15: A Comprehensive Data Set for Network Intrusion Detection Systems | https://doi.org/10.1109/MilCIS.2015.7348942",
+                "Mahbod Tavallaee | A Detailed Analysis of the KDD CUP 99 Data Set | https://doi.org/10.1109/CISDA.2009.5356528",
+                "Nitesh V. Chawla | SMOTE: Synthetic Minority Over-sampling Technique | https://doi.org/10.1613/jair.953",
+                "Chuanlong Yin | A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks | https://doi.org/10.1109/ACCESS.2017.2762418",
+                "Emary Eid | Binary Grey Wolf Optimization Approaches for Feature Selection | https://doi.org/10.1016/j.neucom.2015.06.083"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3155691794",
+        "model": "anthropic",
+        "question": "How do CAD-prior-assisted, sparse-view X-ray inspection frameworks like DynaPose compare to deep-learning-based and traditional iterative reconstruction techniques in balancing computational latency, pose-estimation accuracy, and defect detection sensitivity for real-time inline industrial metrology?",
+        "response": {
+            "references": [
+                "Ge Wang | A Perspective on Deep Imaging | 10.1109/ACCESS.2016.2624938",
+                "Jonas Adler | Solving ill-posed inverse problems using iterative deep neural networks | 10.1088/1361-6420/aa9581",
+                "Hu Chen | Low-Dose CT With a Residual Encoder-Decoder Convolutional Neural Network | 10.1109/TMI.2017.2715284",
+                "Kyong Hwan Jin | Deep Convolutional Neural Network for Inverse Problems in Imaging | 10.1109/TIP.2017.2713099",
+                "Vincent Sitzmann | Implicit Neural Representations with Periodic Activation Functions | 10.48550/arXiv.2006.09661"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7127304302",
+        "model": "anthropic",
+        "question": "How do contemporary multi-agent reinforcement learning frameworks reconcile the differing kinematic and turning constraints of heterogeneous UAV fleets, such as joint multi-rotor and fixed-wing systems, during cooperative exploration of unknown environments?",
+        "response": {
+            "references": [
+                "Jakob Foerster | Counterfactual Multi-Agent Policy Gradients | 10.1609/aaai.v32i1.11794",
+                "Ryan Lowe | Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments | 10.48550/arXiv.1706.02275",
+                "Tabish Rashid | QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning | 10.48550/arXiv.1803.11485",
+                "Hoang M. Le | Coordinated Multi-Agent Imitation Learning | 10.48550/arXiv.1703.03121",
+                "Enric Galceran | A survey on coverage path planning for robotics | 10.1016/j.robot.2013.09.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409307361",
+        "model": "anthropic",
+        "question": "How do manifold-learning-based feature fusion techniques compare to transformer-based attention mechanisms in their ability to mitigate non-verbal noise and preserve sentiment-salient features across standard multimodal sentiment analysis benchmarks?",
+        "response": {
+            "references": [
+                "Amir Zadeh | Tensor Fusion Network for Multimodal Sentiment Analysis | 10.18653/v1/D17-1115",
+                "Zhun Liu | Efficient Low-rank Multimodal Fusion with Modality-Specific Factors | 10.18653/v1/P18-1209",
+                "Ashish Vaswani | Attention Is All You Need | 10.48550/arXiv.1706.03762",
+                "Wenmeng Yu | Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis | 10.1609/aaai.v35i12.17289",
+                "Yao-Hung Hubert Tsai | Multimodal Transformer for Unaligned Multimodal Language Sequences | 10.18653/v1/P19-1656"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386783344",
+        "model": "anthropic",
+        "question": "How do hybrid recommendation frameworks that combine bi-clustering techniques with reinforcement learning compare to deep sequential models (such as recurrent- or transformer-based architectures) in their ability to dynamically adapt to shifting user preferences while preserving localized user-item correlations?",
+        "response": {
+            "references": [
+                "Guy Shani | An MDP-Based Recommender System | 10.5555/1046920.1088715",
+                "Bal\u00e1zs Hidasi | Session-based Recommendations with Recurrent Neural Networks | 10.48550/arXiv.1511.06939",
+                "Wang-Cheng Kang | Self-Attentive Sequential Recommendation | 10.1109/ICDM.2018.00035",
+                "Xiangnan He | Neural Collaborative Filtering | 10.1145/3038912.3052569",
+                "Guorui Zhou | Deep Interest Network for Click-Through Rate Prediction | 10.1145/3219819.3219823"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3138666984",
+        "model": "anthropic",
+        "question": "How do custom-designed convolutional neural networks compare to transfer learning and feature extraction methodologies in balancing localization accuracy, computational efficiency, and robustness to signal noise across diverse WiFi-based indoor positioning environments?",
+        "response": {
+            "references": [
+                "Moustafa Abbas | WiDeep: WiFi-based Accurate and Robust Indoor Localization System using Deep Learning | 10.1109/PERCOM.2019.8767421",
+                "Xuyu Wang | CSI-Based Fingerprinting for Indoor Localization: A Deep Learning Approach | 10.1109/TVT.2016.2545523",
+                "Wei Zhang | DeepPositioning: Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning | 10.1109/ICMLA.2017.00-11",
+                "Micha\u0142 Nowicki | Low-effort place recognition with WiFi fingerprints using deep learning | 10.1007/978-3-319-54042-9_57",
+                "Jian Wang | Deep Neural Networks for CSI-Based Authentication | 10.1109/ACCESS.2019.2938533"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4367396513",
+        "model": "anthropic",
+        "question": "How does the performance and computational efficiency of deep learning-based, per-segment encoding parameter estimation models utilizing low-resolution feature extraction compare to alternative machine learning and heuristic approaches for rate-distortion optimization across different video codecs in HTTP Adaptive Streaming?",
+        "response": {
+            "references": [
+                "Iraj Sodagar | The MPEG-DASH Standard for Multimedia Streaming Over the Internet | 10.1109/MMUL.2011.71",
+                "Tianchi Huang | Comyco: Quality-Aware Adaptive Video Streaming via Imitation Learning | 10.1145/3343031.3351014",
+                "Hongzi Mao | Neural Adaptive Video Streaming with Pensieve | 10.1145/3098822.3098843",
+                "Ekrem \u00c7etinkaya | Fast Multi-Resolution and Multi-Rate Encoding for HTTP Adaptive Streaming Using Machine Learning | 10.1109/OJSP.2021.3072944",
+                "Angeliki Katsenou | Content-gnostic Bitrate Ladder Prediction for Adaptive Video Streaming | 10.1109/PCS48520.2019.8954488"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413045265",
+        "model": "anthropic",
+        "question": "How do contemporary multi-method explainable AI (XAI) frameworks quantitatively validate that deep learning models are utilizing clinically relevant pathological features, rather than confounding factors, across diverse retinal imaging datasets?",
+        "response": {
+            "references": [
+                "Ramprasaath R. Selvaraju | Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization | 10.1007/s11263-019-01228-7",
+                "Scott M. Lundberg | A Unified Approach to Interpreting Model Predictions | 10.48550/arXiv.1705.07874",
+                "Marco Tulio Ribeiro | Why Should I Trust You?: Explaining the Predictions of Any Classifier | 10.1145/2939672.2939778",
+                "Varun Gulshan | Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs | 10.1001/jama.2016.17216",
+                "Alejandro Barredo Arrieta | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI | 10.1016/j.inffus.2019.12.012"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409328480",
+        "model": "anthropic",
+        "question": "How do deep learning-based vibration classification techniques compare to traditional strain-gauge and empirical threshold-based methodologies in terms of accuracy, scalability, and computational overhead for real-time vibration-induced fatigue (VIF) assessment in industrial piping networks?",
+        "response": {
+            "references": [
+                "Olivier Janssens | Convolutional Neural Network Based Fault Detection for Rotating Machinery | 10.1016/j.jsv.2016.05.027",
+                "Wei Zhang | A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals | 10.3390/s17020425",
+                "Rui Zhao | Deep learning and its applications to machine health monitoring | 10.1016/j.ymssp.2018.05.050",
+                "Samir Khan | A review on the application of deep learning in system health management | 10.1016/j.ymssp.2017.11.024",
+                "Levent Eren | A Generic Intelligent Bearing Fault Diagnosis System Using Compact Adaptive 1D CNN Classifier | 10.1007/s11265-018-1378-3"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3072859496",
+        "model": "anthropic",
+        "question": "How do adversarial-based unsupervised network alignment frameworks, such as NAWAL, compare to optimal transport and contrastive representation learning approaches in their theoretical and empirical capacity to handle severe graph size imbalance and structural noise?",
+        "response": {
+            "references": [
+                "Mark Heimann | REGAL: Representation Learning-based Graph Alignment | 10.1145/3269206.3271788",
+                "Xiaozhi Wang | Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks | 10.18653/v1/D18-1032",
+                "Alexis Conneau | Word Translation Without Parallel Data | 10.48550/arXiv.1710.04087",
+                "Hongwei Wang | Learning Combinatorial Embedding Networks for Deep Graph Matching | 10.1109/ICCV.2019.00315",
+                "Aditya Grover | node2vec: Scalable Feature Learning for Networks | 10.1145/2939672.2939754"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410990687",
+        "model": "anthropic",
+        "question": "How do bottom-up, entity-specific fusion strategies compare to top-down or joint fusion approaches across different multimodal human-object interaction recognition methods in terms of preserving modality-specific strengths and handling complex real-world scenarios like concurrent actions and mutual occlusions?",
+        "response": {
+            "references": [
+                "Georgia Gkioxari | Detecting and Recognizing Human-Object Interactions | 10.1109/CVPR.2018.00872",
+                "Yu-Wei Chao | Learning to Detect Human-Object Interactions | 10.1109/WACV.2018.00048",
+                "Tanmay Gupta | No-Frills Human-Object Interaction Detection: Factorization, Layout Encodings, and Training Techniques | 10.1109/ICCV.2019.00975",
+                "Cewu Lu | Deep Multimodal Fusion: A Hybrid Approach | 10.1007/s11263-017-1043-5",
+                "Bingjie Xu | Learning to Detect Human-Object Interactions with Knowledge | 10.1109/CVPR.2019.00212"
+            ]
+        }
+    }
+]

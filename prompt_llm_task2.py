@@ -84,6 +84,25 @@ Return one result for every question provided.
 Preserve each question's id exactly.
 """
 
+# no answer, only max 5 references, with only the information needed for verification.
+prompt_base_v4 = """For EACH scientific question provided, you MUST return exactly 5 scientific references that are relevant to answering the question.
+
+Do not provide an answer, reasoning, commentary, or explanation for why references were selected.
+
+For each reference, provide ONLY:
+1. First author's full name
+2. Article title
+3. DOI
+
+Do NOT include any other information. Do NOT return an empty references array.
+
+Each reference MUST follow this format:
+First Author's Full Name | Article Title | DOI
+
+Return one result for every question provided.
+Preserve each question's id exactly.
+"""
+
 ANTHROPIC_RESPONSE_SCHEMA = {
     "type": "object",
     "properties": {
@@ -403,6 +422,10 @@ def batch_generate_responses(
 
             result = results_by_id[qid]
 
+            if not result["references"]:
+                print(f"  [{qid}] EMPTY REFERENCES")
+                continue
+
             new_entry = {
                 "id": qid,
                 "model": llm,
@@ -434,11 +457,11 @@ def batch_generate_responses(
 
 if __name__ == "__main__":
     batch_generate_responses(
-        questions_file="data/questions/questions_S9692511.json",
-        output_file="data/responses/anthropic/responses_anthr_S9692511_frontierspsych.json",
+        questions_file="data/questions/questions_S13144211.json",
+        output_file="data/responses/anthropic/responses_anthr_S13144211_expertsysapp.json",
         llm="anthropic",
-        prompt_base=prompt_base_v3,
-        batch_size=20
+        prompt_base=prompt_base_v4,
+        batch_size=10
     )
 
     # # calling on anthropic and abstracts_S24807848.json (Physical Review Letters)
