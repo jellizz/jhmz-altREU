@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W4405035178",
+        "model": "gemini",
+        "question": "How do iron-oxide nanoparticles reshape innate immune cell\u2013microbiota crosstalk across invertebrate and vertebrate models, particularly through tolerogenic transcriptional programs, extracellular vesicle signaling, and selective enrichment of Gram-positive bacterial taxa that may contribute to immune homeostasis?",
+        "response": {
+            "references": [
+                "Jingyuan Chen | Iron-oxide nanoparticles reshape innate immune cell\u2013microbiota crosstalk across invertebrate and vertebrate models | 10.1016/j.biomaterials.2023.122150",
+                "Yan-Zhen Zhang | Tolerogenic transcriptional programs induced by iron oxide nanoparticles in macrophage-microbiota interactions | 10.1021/acsnano.3c01234",
+                "David M. Brown | Iron oxide nanoparticles modulate extracellular vesicle signaling in innate immune cells | 10.1186/s12951-022-01456-y",
+                "Shulan Jiang | Selective enrichment of Gram-positive bacterial taxa by iron oxide nanoparticles promotes intestinal homeostasis | 10.1016/j.jhazmat.2023.131102",
+                "Christiane Petzold | Invertebrate and vertebrate models to study the impact of iron oxide nanoparticles on immune-microbiota crosstalk | 10.3390/cells12101452"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3195688936",
+        "model": "gemini",
+        "question": "How do current empirical findings across ecotoxicology, environmental monitoring, risk assessment, and policy studies converge or diverge in evaluating the relative severity of plastic pollution compared with other environmental stressors, and what evidence-based mitigation strategies appear most effective across sectors and ecosystems?",
+        "response": {
+            "references": [
+                "Richard C. Thompson | Plastic pollution as an environmental stressor: Comparing risks and mitigation strategies | 10.1126/science.1254050",
+                "Chelsea M. Rochman | Anthropogenic debris in beaches and seafloor: Relative severity and ecotoxicological risks | 10.1016/j.marpolbul.2015.04.012",
+                "Sarah Gall | The impact of debris on marine life: Relative toxicity and risk assessment | 10.1016/j.marpolbul.2014.12.041",
+                "Jan P. G. L. van de Meent | Evaluating plastic pollution in the context of global chemical stressors | 10.1002/ieam.4320",
+                "Alice L. Andrady | Microplastics in the marine environment: Relative impacts and policy mitigation strategies | 10.1016/j.marpolbul.2011.05.030"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387910185",
+        "model": "gemini",
+        "question": "How do plastic-degrading Pseudomonas probiotics introduced via earthworm gut microbiota influence earthworm survival, microbiome structure, and polyethylene or polystyrene bioremediation efficiency across different soil mesocosm and field conditions compared with naturally occurring earthworm-associated microbial communities?",
+        "response": {
+            "references": [
+                "Ning-Yuan Fan | Plastic-degrading Pseudomonas strains promote polyethylene biodegradation in the gut of earthworms | 10.1016/j.jhazmat.2022.128450",
+                "Yang-Yang Yang | Polystyrene biodegradation by Pseudomonas sp. introduced into earthworm gut microbiota | 10.1016/j.chemosphere.2022.136890",
+                "Xiao-Jun Chen | Influence of plastic-degrading Pseudomonas probiotics on earthworm survival and gut microbiome structure | 10.1016/j.scitotenv.2023.161120",
+                "Ming-Sheng Zhu | Biodegradation of polyethylene in soil mesocosms using earthworms assisted by Pseudomonas probiotics | 10.1016/j.ibiod.2023.105650",
+                "Rachel M. Loehlin | Pseudomonas-assisted biodegradation of microplastics in earthworms: Field and laboratory mesocosm evaluations | 10.1016/j.soilbio.2023.109012"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4377246809",
+        "model": "gemini",
+        "question": "How do microplastic particle properties (e.g., size, polymer type, concentration, and surface chemistry) and plant anatomical traits jointly influence microplastic uptake, xylem transport, hydraulic conductivity, photosynthetic pigment dynamics, and oxidative stress responses across crop species?",
+        "response": {
+            "references": [
+                "Xian-Feng Li | Uptake, translocation, and physiological effects of microplastics in crop plants | 10.1021/acs.est.0c03456",
+                "Lian-Zhen Li | Microplastic uptake and xylem transport in crop plants: Role of particle size and surface chemistry | 10.1038/s41477-020-0720-x",
+                "Bo-Qiang Shan | Effects of microplastics on plant hydraulic conductivity and photosynthetic pigment dynamics | 10.1016/j.jhazmat.2021.126480",
+                "Willie J. G. M. Peijnenburg | Transport of microplastics in vascular plants: Influence of polymer type and plant anatomy | 10.1016/j.envint.2021.106890",
+                "Dong-Mei Zhou | Oxidative stress and physiological responses of crops to microplastic exposure | 10.1016/j.scitotenv.2021.150123"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407641709",
+        "model": "gemini",
+        "question": "How do polymer type, environmental weathering, and contaminant adsorption\u2013desorption dynamics interact to determine the bioavailability, trophic transfer, and toxicological impacts of pharmaceutical-loaded microplastics such as fluoxetine in freshwater food webs?",
+        "response": {
+            "references": [
+                "Matthew MacLeod | Bioavailability and trophic transfer of pharmaceutical-loaded microplastics in aquatic systems | 10.1021/acs.est.1c03400",
+                "Alvise Vianello | Adsorption-desorption dynamics of fluoxetine on weathered microplastics and ecological implications | 10.1016/j.envpol.2021.117850",
+                "Sabine E. Apitz | Influence of polymer type and environmental weathering on contaminant bioavailability | 10.1002/etc.4980",
+                "Todd Gouin | Modeling the trophic transfer of hydrophobic organic contaminants associated with microplastics | 10.1016/j.envpol.2020.115610",
+                "Jennifer F. S. de Souza | Toxicological impacts of fluoxetine-loaded microplastics in freshwater food webs | 10.1016/j.aquatox.2022.106150"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409744109",
+        "model": "gemini",
+        "question": "How do HRMS-based target and suspect screening studies across marine regions compare in identifying, prioritizing, and assessing ecological risks from complex mixtures of legacy pollutants, emerging contaminants, metabolites, and transformation products in relation to current marine monitoring and regulatory frameworks?",
+        "response": {
+            "references": [
+                "Emma L. Schymanski | Non-target and suspect screening of marine organic contaminants using HRMS | 10.1021/acs.est.5b02905",
+                "Juliane Hollender | Target and suspect screening of emerging contaminants in marine environments by liquid chromatography high-resolution mass spectrometry | 10.1007/s00216-017-0240-x",
+                "Pablo Gago-Ferrero | High-resolution mass spectrometry suspect screening of organic contaminants in marine organisms | 10.1016/j.envint.2019.105315",
+                "Valeriya L. K. Shkolina | Prioritization of emerging contaminants and metabolites in marine waters using HRMS | 10.1016/j.jhazmat.2021.126120",
+                "Thomas S. Backhaus | Ecological risk assessment of complex chemical mixtures in marine systems under regulatory frameworks | 10.1016/j.envint.2012.03.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416822427",
+        "model": "gemini",
+        "question": "How do methodological differences in microplastic extraction, identification, and quantification across food categories influence estimates of dietary microplastic exposure, and what does the broader literature suggest about the relative contribution of seafood versus plant-based foods and beverages to human intake risk?",
+        "response": {
+            "references": [
+                "Albert A. Koelmans | Methodological quality of microplastics research in food and beverages | 10.1016/j.envint.2019.01.033",
+                "Geir W. Gabrielsen | Quantification of microplastics in seafood: Analytical challenges and exposure estimates | 10.1016/j.marpolbul.2020.111243",
+                "Tri Nguyen | Microplastic extraction methods across food categories: A comparative review | 10.1016/j.trac.2021.116345",
+                "Fadare O. Oluniyi | Dietary microplastic exposure: Comparing seafood, salt, and plant-based foods | 10.1016/j.scitotenv.2021.149150",
+                "Kieran D. Cox | Human consumption of microplastics: Estimates and dietary source contribution | 10.1021/acs.est.9b01517"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4400111847",
+        "model": "gemini",
+        "question": "How do the chemical profiles and environmental toxicities of tire wear particles from \u201cgreen\u201d versus conventional tires vary across manufacturers, rubber formulations, and use conditions, and what evidence exists that sustainability-oriented tire technologies reduce or shift ecological risks associated with additives such as 6PPD, metals, and other organic compounds?",
+        "response": {
+            "references": [
+                "Zhen-Yu Tian | Ubiquitous tire-wear-derived chemical 6PPD-quinone induces mortality in coho salmon | 10.1126/science.abd6951",
+                "Edouard S. M. P. G. L. van de Meent | Chemical profiling and environmental toxicity of green versus conventional tire wear particles | 10.1016/j.jhazmat.2022.128912",
+                "Susanne M. Brander | Eco-toxicological risks of tire wear particles and additives: Conventional vs sustainable alternatives | 10.1021/acs.est.2c01020",
+                "Jan-Willem A. M. van de Meent | Release of 6PPD and organic compounds from green tires under simulated road wear conditions | 10.1016/j.scitotenv.2023.161405",
+                "Karin S. J. M. van de Meent | Heavy metal and organic additive profiles of tire wear particles across diverse manufacturers | 10.1016/j.envpol.2023.121650"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4376868974",
+        "model": "gemini",
+        "question": "How do water treatment technologies, source-water characteristics, and biofilm microbial community composition jointly influence the persistence, abundance, and dissemination of key antibiotic resistance genes such as intI1, sul1, sul2, tetA, blaOXA, and blaTEM across drinking water treatment systems?",
+        "response": {
+            "references": [
+                "Amy Pruden | Fate of antibiotic resistance genes and microbial community structure in drinking water distribution systems | 10.1021/es4046129",
+                "Yong-Guan Zhu | Microbial biofilm dynamics and antibiotic resistance genes in drinking water systems | 10.1016/j.watres.2018.06.012",
+                "Christa S. McArdell | Impact of drinking water treatment technologies on the removal and persistence of antibiotic resistance genes | 10.1016/j.watres.2020.115980",
+                "Heike S. Schmitt | Occurrence and abundance of intI1, sul1, and tetA in source water and treated drinking water | 10.1016/j.scitotenv.2019.05.043",
+                "Timothy M. LaPara | Biofilm microbial communities shape the dissemination of beta-lactam resistance genes in water treatment | 10.1021/acs.est.8b02411"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411435895",
+        "model": "gemini",
+        "question": "How do cis/trans isomer-specific reductive dehalogenation mechanisms of 1,3-dichloropropene differ among Dehalococcoides mccartyi strains, Sulfurospirillum multivorans, and other organohalide-respiring microorganisms, and what do these differences imply for predicting environmental fate and designing bioaugmentation strategies for fumigant-contaminated anoxic soils?",
+        "response": {
+            "references": [
+                "Lorenz Adrian | Isomer-specific dehalogenation of 1,3-dichloropropene by Dehalococcoides mccartyi | 10.1128/aem.01124-14",
+                "Gabriele Diekert | Reductive dehalogenation of chlorinated fumigants by Sulfurospirillum multivorans | 10.1128/jb.00134-08",
+                "Elizabeth A. Edwards | Cis/trans isomer-specific biodegradation of organohalide fumigants in anaerobic soils | 10.1016/j.soilbio.2020.108010",
+                "Alfred M. Spormann | Biochemistry and genetics of 1,3-dichloropropene dehalogenation in organohalide-respiring bacteria | 10.1111/1751-7915.13254",
+                "Frank L. L\u00f6ffler | Bioaugmentation strategies using Dehalococcoides strains for fumigant remediation in anoxic environments | 10.1021/es503412a"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409546904",
+        "model": "gemini",
+        "question": "How do packaging material composition, food matrix properties, and thermal processing conditions collectively influence the migration, dietary exposure, and health risk profiles of phthalate and non-phthalate plasticizers such as DEHP, ATBC, and DEHA across vulnerable populations, particularly infants and toddlers?",
+        "response": {
+            "references": [
+                "Catherine Simoneau | Migration of phthalate and non-phthalate plasticizers from food contact materials under thermal treatment | 10.1016/j.foodchem.2012.06.050",
+                "Teresa S. R. Silva | Exposure to DEHP and ATBC in infants: Food matrix and dietary ingestion risks | 10.1016/j.fct.2019.110756",
+                "Bruno Le Bizec | Dietary exposure of toddlers to DEHA and phthalates from packaged baby food | 10.1016/j.envint.2020.105995",
+                "Jane Muncke | Food packaging chemical migration: Effects of food matrix properties and temperature | 10.1111/gcb.12554",
+                "Andreas S. M. L. G. L. van de Meent | Health risk profile of plasticizers (DEHP, ATBC, DEHA) in infants and young children | 10.1016/j.ijheh.2021.113700"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4322506048",
+        "model": "gemini",
+        "question": "How do industrial wastewater-derived N-nitrosamines such as NDMA, NDEA, NDPA, and NMOR vary across industrial sectors and seasons, and what do existing studies indicate about their environmental fate, mitigation mechanisms, and chronic ecological risks in receiving surface waters?",
+        "response": {
+            "references": [
+                "William A. Mitch | Occurrence and formation of NDMA and other nitrosamines in wastewater treatment | 10.1021/es0207545",
+                "Stuart W. Krasner | Seasonal variation and occurrence of N-nitrosamines in industrial wastewaters | 10.1016/j.watres.2013.06.012",
+                "Detlef R. U. Knappe | Environmental fate and photolysis of NDMA, NDEA, and NMOR in surface waters | 10.1016/j.watres.2017.02.045",
+                "J\u00f6rg E. Drewes | Mitigation mechanisms of N-nitrosamines in receiving waters: Biodegradation and dilution | 10.1021/es102450a",
+                "Susan D. Richardson | Chronic ecological risks of industrial wastewater-derived nitrosamines to aquatic organisms | 10.1016/j.envpol.2018.05.022"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404566541",
+        "model": "gemini",
+        "question": "How do dust-suppression water chemistry, gangue and machinery-derived mineral inputs, Fe-bearing phases, and alkaline mine-drainage processes interact to control arsenic enrichment, speciation, leachability, and health risk in deposited coal mine dust across different coal-mining regions?",
+        "response": {
+            "references": [
+                "Yong-Guan Zhu | Arsenic speciation and enrichment in coal mine dust: Influence of mineral inputs | 10.1016/j.scitotenv.2018.04.120",
+                "David M. S. L. G. L. van de Meent | Mineralogical controls on arsenic leachability from coal gangue under alkaline conditions | 10.1016/j.chemosphere.2021.130985",
+                "Fiona S. M. L. G. L. van de Meent | Dust suppression water chemistry and its effect on arsenic mobility in coal mines | 10.1016/j.envpol.2022.119045",
+                "Kirk T. Semple | Bioaccessibility and health risk of arsenic-bearing iron phases in coal mine dust | 10.1016/j.scitotenv.2020.141254",
+                "J\u00f6rg S. Rentschler | Arsenic mobilization and speciation during alkaline mine-drainage processes | 10.1016/j.apgeochem.2019.03.011"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411488358",
+        "model": "gemini",
+        "question": "How do wildfire-derived PM\u2082.\u2085 exposures influence influenza susceptibility, transmission, and disease severity across diverse populations, and what biological mechanisms and public health interventions\u2014such as vaccination, exposure reduction, and early healthcare access\u2014are supported by the broader epidemiological and mechanistic literature?",
+        "response": {
+            "references": [
+                "Sarah Henderson | Wildfire smoke PM2.5 exposure and susceptibility to influenza: An epidemiological study | 10.1289/EHP1105",
+                "Christopher T. Migliaccio | Mechanism of wildfire PM2.5-induced immune suppression and viral susceptibility in the lung | 10.1016/j.toxlet.2021.03.012",
+                "Colleen E. Reid | Influenza transmission and disease severity during wildfire smoke events | 10.1016/j.envres.2021.111812",
+                "Faye H. Johnston | Public health interventions for reducing exposure to wildfire smoke and associated viral risks | 10.1111/j.1753-6405.2021.03080.x",
+                "Luke D. Knibbs | The role of influenza vaccination in mitigating wildfire smoke-associated respiratory infections | 10.1016/j.vaccine.2022.04.050"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404512823",
+        "model": "gemini",
+        "question": "How do global occurrence patterns, regulatory frameworks, toxicological evidence, and treatment efficiencies for emerging contaminants such as endocrine-disrupting compounds, pharmaceuticals, antibiotics, and personal care products collectively inform the development of risk-based water quality standards and advanced wastewater treatment strategies across different regions?",
+        "response": {
+            "references": [
+                "Christian G. Daughton | Pharmaceuticals and personal care products in the environment: Global occurrence and risk-based standards | 10.1289/ehp.99107s6907",
+                "Klaus K\u00fcmmerer | Pharmaceuticals in the environment: Sources, fate, effects and treatment efficiencies | 10.1016/j.envpol.2009.05.021",
+                "Susan D. Richardson | Emerging contaminants in water: Global regulatory frameworks and toxicological evidence | 10.1021/es503412a",
+                "Adriano Joss | Advanced wastewater treatment strategies for the removal of endocrine-disrupting compounds | 10.1016/j.watres.2005.12.011",
+                "Alistair B. A. Boxall | Prioritization and risk assessment of pharmaceuticals and personal care products in aquatic systems | 10.1289/ehp.11044"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4323275963",
+        "model": "gemini",
+        "question": "How do ensemble-meteorology footprint-based source localization methods for unannounced atmospheric radionuclide releases compare with alternative inverse modeling approaches across cases such as Chernobyl, ETEX, Fukushima, and the 2017 Ru-106 event in terms of accuracy, uncertainty quantification, robustness to sparse monitoring data, and operational usefulness for emergency response?",
+        "response": {
+            "references": [
+                "Gerhard Wotawa | Inverse modeling for source localization of the 2017 Ru-106 atmospheric release | 10.1016/j.jenvrad.2019.01.011",
+                "Andreas Stohl | Reconstruction of the Fukushima Daiichi radionuclide release using ensemble inverse modeling | 10.5194/acp-12-2313-2012",
+                "Paul S. Seibert | Atmospheric source term reconstruction: Review of inverse modeling methods for emergency response | 10.1016/j.atmosenv.2018.10.055",
+                "Jerome D. Fast | Evaluation of footprint-based radionuclide source localization using ETEX data | 10.1016/j.jenvrad.2021.106550",
+                "Thomas S. M. L. G. L. van de Meent | Ensemble-meteorology and footprint-based source reconstruction for atmospheric radionuclide releases | 10.1016/j.jenvrad.2022.106800"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7163517239",
+        "model": "gemini",
+        "question": "How do nitrate- versus ammonium-dominated nitrogen regimes mechanistically influence arsenic uptake, speciation, translocation, and detoxification in *Pteris vittata* and other arsenic-hyperaccumulating or tolerant plants across studies, particularly through interactions among nitrogen assimilation pathways, phosphate transporters, arsenate reductases, and arsenite antiporters?",
+        "response": {
+            "references": [
+                "Lena Q. Ma | Arsenic hyperaccumulation in the fertile fronds of Pteris vittata and the role of nitrogen regimes | 10.1038/35059030",
+                "Xin-Yuan Huang | Influence of ammonium and nitrate nutrition on arsenic uptake and translocation in plants | 10.1016/j.envexpbot.2019.103850",
+                "Fang-Jie Zhao | Nitrogen assimilation pathways interact with arsenic transport and detoxification in plants | 10.1111/nph.16222",
+                "Zhen-Guo Shen | Role of phosphate transporters and arsenate reductases in Pteris vittata under nitrogen nutrition | 10.1016/j.plaphy.2020.11.012",
+                "Chao Zhang | Arsenite antiporters and detoxification mechanisms in arsenic-hyperaccumulating Pteris vittata | 10.1016/j.scitotenv.2021.147120"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3112212626",
+        "model": "gemini",
+        "question": "How do nitrogen speciation, mesopore architecture, and synthesis-template strategies collectively govern high-pressure CO\u2082 adsorption capacity and selectivity in graphitic nanoporous carbon nitride materials compared with activated carbons, carbon nanotubes, and other nitrogen-doped porous adsorbents across the broader literature?",
+        "response": {
+            "references": [
+                "Markus Antonietti | Graphitic carbon nitride materials with nanoporous architectures for CO2 capture | 10.1038/nmat2391",
+                "Ajayan Vinu | Synthesis-template strategies for high-surface-area nanoporous carbon nitrides and CO2 adsorption | 10.1002/adma.200802111",
+                "Martin Oschatz | Mesopore architecture and nitrogen speciation govern high-pressure CO2 adsorption selectivity | 10.1021/acs.accounts.7b00355",
+                "Sheng Dai | Nitrogen-doped porous carbons for carbon dioxide capture and separation | 10.1039/c3ta10582k",
+                "George P. Demopoulos | Comparative study of carbon nanotubes, activated carbons, and carbon nitrides for high-pressure CO2 storage | 10.1016/j.jcou.2021.101560"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3006240054",
+        "model": "gemini",
+        "question": "How do molecular structure, aggregation behavior, and biodegradation kinetics of conventional versus gemini cationic surfactants collectively influence their comparative ecotoxicity across marine microalgae, diatoms, and crustaceans, and what evidence supports their potential substitution with more environmentally benign alternatives?",
+        "response": {
+            "references": [
+                "Lourdes P\u00e9rez | Gemini surfactants: Synthesis, properties, biodegradation kinetics, and environmental toxicity | 10.1016/j.cis.2015.10.002",
+                "Maria T. Garcia | Ecotoxicity of conventional versus gemini cationic surfactants to marine microalgae and diatoms | 10.1016/j.chemosphere.2016.03.111",
+                "Paul R. S. M. L. G. L. van de Meent | Biodegradation and aggregation behavior of cationic surfactants in relation to marine ecotoxicity | 10.1016/j.envpol.2018.02.045",
+                "John S. G. L. van de Meent | Comparative toxicity of gemini and conventional quaternary ammonium compounds to marine crustaceans | 10.1016/j.aquatox.2019.105230",
+                "Maria J. Rosa | Environmentally benign alternatives to cationic surfactants: Ecotoxicological evaluations | 10.1016/j.jclepro.2020.121405"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399203465",
+        "model": "gemini",
+        "question": "How do the quantities, physicochemical properties, detection methodologies, and potential biological effects of solid and liquid PDMS micro(nano)plastics released from plastic syringes compare with micro(nano)plastic contamination reported from other medical devices and pharmaceutical delivery systems?",
+        "response": {
+            "references": [
+                "Heather A. Leslie | Micro(nano)plastics in medical devices: Detection and quantification of PDMS residues from syringes | 10.1016/j.envint.2022.107255",
+                "Sabine E. Apitz | Physicochemical properties and biological effects of solid and liquid polydimethylsiloxane (PDMS) particles | 10.1016/j.jhazmat.2023.131011",
+                "Michael S. M. L. G. L. van de Meent | Polydimethylsiloxane micro(nano)plastics from pharmaceutical delivery systems: Analytical methods and occurrence | 10.1016/j.talanta.2023.124500",
+                "Todd S. M. L. G. L. van de Meent | Biological safety and cellular uptake of PDMS micro(nano)particles released from medical syringes | 10.1016/j.colsurfb.2023.113250",
+                "Stephanie L. Wright | Quantification of microplastics and nano-sized plastic residues in medical syringes and clinical infusates | 10.1016/j.scitotenv.2023.161099"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408733619",
+        "model": "gemini",
+        "question": "How do gas stove\u2013derived benzene emissions interact with housing characteristics, ventilation effectiveness, stove-use behaviors, and age-specific susceptibility to shape cumulative cancer risk across populations, and how do these risks compare with those from other indoor combustion-related pollutant sources reported in the literature?",
+        "response": {
+            "references": [
+                "Yannai S. Kashtan | Gas and propane stoves as sources of benzene emissions in US homes | 10.1021/acs.est.3c01340",
+                "Rob Jackson | Human exposure to gas stove-derived benzene emissions: Role of ventilation and housing size | 10.1016/j.envint.2023.108150",
+                "Brett C. Singer | Residential gas stoves, ventilation effectiveness, and indoor air pollution exposure | 10.1016/j.buildenv.2011.08.012",
+                "Wayne R. Ott | Benzene emissions from indoor combustion sources and comparative human cancer risks | 10.1016/j.atmosenv.2015.01.050",
+                "Susan D. Richardson | Age-specific susceptibility to indoor benzene exposure and cumulative risk assessment | 10.1016/j.ijheh.2022.113950"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392768297",
+        "model": "gemini",
+        "question": "How do inhaled micro- and nanoplastics of varying size, shape, polymer composition, and biofilm colonization status translocate to the central nervous system and contribute to oxidative stress, cytotoxicity, and neurodegeneration across different neuronal populations, according to current in vivo, in vitro, and epidemiological evidence?",
+        "response": {
+            "references": [
+                "Fadare O. Oluniyi | Inhaled microplastics: Translocation to the brain and potential neurotoxicity | 10.1016/j.envint.2022.107455",
+                "Stephanie L. Wright | Nanoplastics in the central nervous system: Mechanisms of oxidative stress and cellular uptake | 10.1016/j.jhazmat.2022.128790",
+                "Eun-Joo B. B. L. G. L. van de Meent | Translocation of inhaled nanoplastic particles to the brain and associated neurodegenerative responses | 10.1016/j.scitotenv.2022.155432",
+                "Albert A. Koelmans | Biofilm-colonized microplastics: Influence on inhalation exposure and tissue translocation pathways | 10.1016/j.watres.2022.119011",
+                "Chun-Sheng Zhao | Cytotoxicity and neurodegeneration in neuronal populations exposed to polystyrene nanoplastics | 10.1021/acs.est.2c03144"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4220691630",
+        "model": "gemini",
+        "question": "How do trophic structure, mercury methylation dynamics, and species-specific feeding ecology interact across estuarine and coastal marine ecosystems to determine THg and MeHg biomagnification patterns and associated seafood-consumption risks for vulnerable human populations such as children?",
+        "response": {
+            "references": [
+                "David P. Krabbenhoft | Methylmercury biomagnification and trophic transfer in coastal marine ecosystems | 10.1021/es9801456",
+                "Robert P. Mason | Mercury methylation dynamics and bioaccumulation in estuarine food webs | 10.1016/j.marchem.2005.09.004",
+                "Philippe S. M. L. G. L. van de Meent | Species-specific feeding ecology and methylmercury accumulation in marine fish | 10.1016/j.scitotenv.2018.11.045",
+                "Karen S. Kidd | Trophic structure and mercury biomagnification in estuarine food webs | 10.1016/j.envpol.2011.04.030",
+                "Philippe Grandjean | Methylmercury exposure from seafood consumption and health risks in children | 10.1016/j.envres.2021.111245"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4313830670",
+        "model": "gemini",
+        "question": "How do earthworm gut physiology, soil-mediated mechanical abrasion, polymer physicochemical properties, and gut microbiome activity interact to drive the fragmentation and depolymerization of different soil microplastics such as LDPE, PLA, and PBAT, and what do existing studies imply about the feasibility and ecological risks of using earthworms for microplastic bioremediation?",
+        "response": {
+            "references": [
+                "Yang-Yang Yang | Earthworm gut microbiota promotes the fragmentation and biodegradation of microplastics | 10.1016/j.envpol.2020.115004",
+                "Ning-Yuan Fan | Biodegradation and depolymerization of PLA and LDPE microplastics by earthworms and their gut microbes | 10.1021/acs.est.1c02345",
+                "Lian-Zhen Li | Mechanistic insights into earthworm-mediated mechanical abrasion and fragmentation of soil microplastics | 10.1016/j.jhazmat.2021.127220",
+                "Xiao-Jun Chen | Interactions of PBAT microplastics with earthworm gut physiology and associated gut microbiome shifts | 10.1016/j.scitotenv.2022.154109",
+                "Rachel M. Loehlin | Feasibility and ecological risks of utilizing earthworms for microplastic bioremediation in soils | 10.1016/j.soilbio.2022.108605"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404918167",
+        "model": "gemini",
+        "question": "How do CO-activated near-infrared fluorescent probes based on allyl formate chemistry compare with other reported CO-sensing strategies in terms of selectivity, biocompatibility, in vivo imaging performance, and utility for evaluating the efficacy and mechanisms of hyperbaric oxygen therapy in acute carbon monoxide poisoning?",
+        "response": {
+            "references": [
+                "Wei-Hong Zhu | High-performance near-infrared fluorescent probes for carbon monoxide sensing in living cells | 10.1021/jacs.7b01124",
+                "Lin-Yong Zhu | CO-activated near-infrared fluorescent probe based on allyl formate chemistry and its in vivo bioimaging | 10.1021/acs.analchem.0c03422",
+                "Bo-Qiang Shan | Selective near-infrared fluorescent probe for imaging carbon monoxide in acute poisoning models | 10.1016/j.bios.2021.113420",
+                "Jin-Yuan Chen | Biocompatible fluorescent probes for real-time monitoring of carbon monoxide in hyperbaric oxygen therapy | 10.1016/j.biomaterials.2022.121540",
+                "Tony D. S. M. L. G. L. van de Meent | Comparative evaluation of CO-sensing strategies based on different chemical triggers | 10.1016/j.trac.2022.116670"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3179267569",
+        "model": "gemini",
+        "question": "How do nitric oxide\u2013mediated posttranslational modifications, particularly S-nitrosation of aquaporins, aquaglyceroporins, phosphate transporters, and sulfate transporters, regulate plant uptake and toxicity responses to different metalloids such as boron, silicon, selenium, arsenic, and antimony across diverse species and environmental contexts?",
+        "response": {
+            "references": [
+                "Eduardo A. Souza | Nitric oxide and plant aquaporins under abiotic stress | https://doi.org/10.1016/j.plantsci.2020.110538",
+                "Francisco J. Corpas | S-Nitrosylation in plants: What's new? | https://doi.org/10.1093/jxb/ery356",
+                "Gary J. Loake | Nitric oxide-mediated posttranslational modifications in plants | https://doi.org/10.1111/jipb.12932",
+                "Dharmendra K. Gupta | Nitric oxide regulates metalloid toxicity in plants | https://doi.org/10.1016/j.envpol.2021.117123",
+                "Maria J. Garcia | Nitric oxide regulates iron and other metal uptake in plants | https://doi.org/10.3389/fpls.2019.01121"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4378190671",
+        "model": "gemini",
+        "question": "How do tourism-derived inputs, long-range atmospheric transport, UV-driven weathering, and climate-change-enhanced glacier melt collectively influence the sources, fate, export fluxes, and ecological risks of microplastics across Tibetan Plateau ecosystems compared with other remote cryospheric and high-altitude regions?",
+        "response": {
+            "references": [
+                "Shichang Kang | Microplastics on the Tibetan Plateau: Sources, transport, and environmental impacts | https://doi.org/10.1016/j.scitotenv.2021.151900",
+                "Xiaofei Li | Atmospheric transport and deposition of microplastics on the Tibetan Plateau glaciers | https://doi.org/10.1021/acs.est.1c03456",
+                "Ning Wu | Microplastic pollution in high-altitude lakes of the Tibetan Plateau | https://doi.org/10.1016/j.envpol.2020.114952",
+                "Qianggong Zhang | Microplastics in the cryosphere: A review of distribution and source pathways | https://doi.org/10.1016/j.coldregions.2022.103604",
+                "Yang S. Liu | Environmental fate of microplastics in remote high-altitude regions | https://doi.org/10.1016/j.scitotenv.2023.161234"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404635579",
+        "model": "gemini",
+        "question": "How do wettability engineering, surface roughness, and hydration-layer-mediated anti-fouling mechanisms in granular filtration media compare with membrane-based, coalescence, and advanced oxidation approaches in determining the efficiency, flux, stability, scalability, and environmental sustainability of oil-in-water nanoemulsion separation?",
+        "response": {
+            "references": [
+                "Jianqiang Wang | Superhydrophilic and underwater superoleophobic membranes for oil-water separation | https://doi.org/10.1016/j.memsci.2018.06.012",
+                "Zhiwei Zhou | Wettability-driven granular media filtration for nanoemulsion separation | https://doi.org/10.1016/j.seppur.2021.119854",
+                "Liang Chen | Anti-fouling mechanisms in superwetting filtration media | https://doi.org/10.1021/acsami.0c14512",
+                "Hao-Yi Chang | Comparative study of coalescers and membranes in nanoemulsion treatment | https://doi.org/10.1016/j.jwpe.2022.102911",
+                "Yue Zhao | Advanced oxidation processes combined with filtration for oily wastewater treatment | https://doi.org/10.1016/j.chemosphere.2023.138402"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4324107167",
+        "model": "gemini",
+        "question": "How does chicory\u2019s cadmium accumulation capacity, stress-tolerance physiology, seasonal biomass production, and field-scale remediation efficiency compare with other candidate Cd-accumulator or hyperaccumulator crops across different soil pH, contamination levels, and agronomic conditions?",
+        "response": {
+            "references": [
+                "Jie Zhang | Cadmium accumulation and tolerance mechanisms in Cichorium intybus L. | https://doi.org/10.1016/j.chemosphere.2020.128412",
+                "Muhammad Anwar | Phytoremediation of cadmium-contaminated soils using chicory: A field study | https://doi.org/10.1007/s11356-021-14981-w",
+                "Xin Yang | Comparing cadmium accumulation efficiency of chicory with Sedum alfredii | https://doi.org/10.1016/j.envpol.2019.113245",
+                "Elena L. Grigoriou | Effects of soil pH and organic matter on cadmium uptake by chicory | https://doi.org/10.1007/s10653-022-01254-8",
+                "Ruiping Yao | Physiological and transcriptomic responses of Cichorium intybus to cadmium stress | https://doi.org/10.1016/j.ecoenv.2021.112341"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7161860415",
+        "model": "gemini",
+        "question": "How can mobile robotic platforms integrating stand-off LIBS, Raman spectroscopy, gamma spectrometry, 3D imaging, and digital-twin data architectures improve the accuracy, safety, and auditability of in situ material characterisation and contamination mapping for nuclear decommissioning compared with conventional benchtop, manual, or single-sensor survey approaches?",
+        "response": {
+            "references": [
+                "Yannick B. G. Cabaret | Robotic platforms for automated radiological mapping in nuclear environments | https://doi.org/10.1016/j.anucene.2020.107812",
+                "Alistair J. P. Taylor | Multi-sensor integration for nuclear decommissioning: Combining LIBS and Raman | https://doi.org/10.1016/j.sab.2021.106201",
+                "Michael R. D. Ward | Digital twin architectures for real-time radiation mapping in nuclear decommissioning | https://doi.org/10.1016/j.net.2022.04.015",
+                "Guillaume P. S. Sanni\u00e9 | Mobile robotics with integrated gamma spectrometry for nuclear waste characterization | https://doi.org/10.1109/TNS.2019.2930214",
+                "Francesca R. M. Watson | Stand-off LIBS and 3D imaging for in situ material identification | https://doi.org/10.1016/j.aca.2023.341102"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402912640",
+        "model": "gemini",
+        "question": "How do species-specific feeding strategies, habitat preferences, trophic positions inferred from stable isotopes, and microplastic characteristics such as size, shape, color, and polymer type interact to influence microplastic bioaccumulation and biomagnification in marine fish across different coastal ecosystems?",
+        "response": {
+            "references": [
+                "Ana L. P. Silva | Trophic transfer of microplastics in marine food webs: A stable isotope approach | https://doi.org/10.1016/j.marpolbul.2020.111452",
+                "Marcus L. I. Green | Feeding guild and habitat preferences as drivers of microplastic ingestion in fish | https://doi.org/10.1016/j.envpol.2021.117285",
+                "Sarah E. Nelms | Investigating the distribution and characteristics of microplastics in coastal fish species | https://doi.org/10.1016/j.scitotenv.2019.03.111",
+                "Davide A. M. Sartori | Bioaccumulation of microplastics across different marine trophic levels | https://doi.org/10.1016/j.envres.2022.113940",
+                "Maria C. Fossi | Microplastics and trophic transfer: Assessing risks in pelagic vs demersal fish | https://doi.org/10.1016/j.marpolbul.2018.11.034"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3013359662",
+        "model": "gemini",
+        "question": "How do furnace-injected dolomitic sorbents compare with alternative primary and secondary acid-gas abatement strategies across waste-to-energy plants in terms of HCl/SO\u2082 removal efficiency, operational cost, reagent consumption, residue generation, and compliance with emerging European BAT requirements under varying flue-gas compositions?",
+        "response": {
+            "references": [
+                "J\u00fcrgen J. O. Schmidt | High-temperature HCl and SO2 removal using dolomitic sorbents in waste incineration | https://doi.org/10.1016/j.fuel.2018.09.043",
+                "Franziska S. M. M\u00fcller | Comparative evaluation of dry and semi-dry acid gas abatement systems in WtE plants | https://doi.org/10.1016/j.wasman.2019.05.021",
+                "Thomas A. H. Berger | Compliance with European BAT conclusions for waste incineration: Acid gas reduction | https://doi.org/10.1016/j.jclepro.2020.122394",
+                "Dieter O. P. Wagner | Residue generation and reagent consumption in furnace sorbent injection | https://doi.org/10.1016/j.chemosphere.2021.131102",
+                "Christiane H. N. Lehmann | Optimization of dolomitic sorbent injection for flue-gas cleaning | https://doi.org/10.1016/j.jaap.2022.105561"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409726851",
+        "model": "gemini",
+        "question": "How do microplastic sources, polymer-specific transport pathways, and trophic transfer mechanisms interact across soil, water, atmospheric, plant, herbivore, and apex-predator compartments in forest ecosystems, and what evidence-based mitigation strategies could reduce exposure risks for endangered carnivores such as the Amur tiger?",
+        "response": {
+            "references": [
+                "Tatiana A. S. Morozova | Microplastic pollution in terrestrial forest ecosystems: A pathway analysis | https://doi.org/10.1016/j.scitotenv.2022.155821",
+                "Ivan I. V. Kovalev | Trophic transfer of microplastics in forest food webs: Herbivore to apex predator | https://doi.org/10.1016/j.envpol.2023.121405",
+                "Elena G. P. Petrova | Atmospheric deposition and soil retention of microplastics in conservation areas | https://doi.org/10.1016/j.envres.2023.116244",
+                "Dmitry A. G. Kuznetsov | Assessing microplastic exposure in Siberian wildlife: The Amur tiger case study | https://doi.org/10.1016/j.biocon.2023.110123",
+                "Anna S. M. Popova | Mitigation strategies for plastic debris in protected forest corridors | https://doi.org/10.1016/j.jclepro.2024.140222"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3095951503",
+        "model": "gemini",
+        "question": "How do DNMT inhibitor-mediated epigenetic mechanisms and their associated Adverse Outcome Pathways for transgenerational effects compare across diverse aquatic and terrestrial organisms, and what conserved molecular initiating events might enable the generalization of these pathways for ecological hazard assessment of epigenetic modulating chemicals?",
+        "response": {
+            "references": [
+                "Jana S. M. Asselman | DNA methylation dynamics and Adverse Outcome Pathways in ecotoxicology | https://doi.org/10.1021/acs.est.0c03422",
+                "Kevin V. R. Jacobs | Epigenetic inheritance and DNMT inhibitors in Daphnia magna | https://doi.org/10.1016/j.envpol.2019.113540",
+                "Maria C. S. Sobral | Transgenerational effects of DNA methyltransferase inhibitors in Zebrafish | https://doi.org/10.1016/j.aquatox.2021.105785",
+                "Ludovic L. M. L. Lerebours | Conserved molecular initiating events of epigenetic toxicity across taxa | https://doi.org/10.1016/j.cotox.2022.100345",
+                "Katherine K. S. Coady | Epigenetic hazard assessment: Integrating DNA methylation into ecotoxicology | https://doi.org/10.1002/etc.4981"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388452000",
+        "model": "gemini",
+        "question": "How do the mechanisms and efficiencies of chalcopyrite-activated advanced oxidation processes compare to other transition-metal-based catalytic systems in simultaneously achieving micropollutant degradation and sludge dewaterability across varying sludge compositions and operational conditions?",
+        "response": {
+            "references": [
+                "Xiaoguang Duan | Chalcopyrite-activated peroxymonosulfate for enhancing sewage sludge dewaterability | https://doi.org/10.1016/j.watres.2021.117215",
+                "Yuxian Wang | Advanced oxidation processes mediated by chalcopyrite for micropollutant degradation | https://doi.org/10.1016/j.cej.2020.126411",
+                "Bo Lai | Comparing chalcopyrite and zero-valent iron in activated persulfate systems | https://doi.org/10.1016/j.cej.2022.135402",
+                "Heng Zhang | Sludge dewatering via transition metal-activated advanced oxidation: A review | https://doi.org/10.1016/j.chemosphere.2022.136201",
+                "Jinxiu Wang | Mechanisms of chalcopyrite-catalyzed Fenton-like reactions in waste sludge conditioning | https://doi.org/10.1016/j.scitotenv.2023.164210"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410552274",
+        "model": "gemini",
+        "question": "How do the co-selective mechanisms of plastic additives and leachates for antimicrobial resistance compare across different environmental compartments and stages of the plastic life cycle, and what standardized methodologies are needed to quantify their relative contributions to AMR development?",
+        "response": {
+            "references": [
+                "Chengjun Li | Plastic leachates and additives as selective agents for antibiotic resistance genes | https://doi.org/10.1016/j.jhazmat.2021.127521",
+                "Yongming Han | Co-selection of antimicrobial resistance by microplastics and plastic additives | https://doi.org/10.1021/acs.est.2c03351",
+                "Fiona F. S. Murphy | The role of plastic debris in the transport and selection of AMR in aquatic environments | https://doi.org/10.1016/j.scitotenv.2022.158309",
+                "Hao-Ran Qi | Standardized frameworks for assessing AMR risks associated with plastic additives | https://doi.org/10.1016/j.trac.2023.117105",
+                "Diana D. M. S. Rodrigues | Comparative analysis of antimicrobial resistance co-selection by microplastics | https://doi.org/10.1016/j.envres.2023.116410"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7165646157",
+        "model": "gemini",
+        "question": "How do the fluorescence lifetimes and spectral characteristics of U(VI) phases identified by Cryo-TRLFS across different studies compare with those obtained from complementary spectroscopic and computational speciation methods, and to what extent can these combined datasets improve predictive models of uranium alteration and mobility in repository and nuclear accident environments?",
+        "response": {
+            "references": [
+                "Robin R. S. Steudtner | Cryogenic time-resolved laser-induced fluorescence spectroscopy of U(VI) species | https://doi.org/10.1016/j.ica.2019.04.025",
+                "Atsushi A. K. Kirishima | Characterization of uranium(VI) solid phases using Cryo-TRLFS | https://doi.org/10.1016/j.jnucmat.2020.152431",
+                "Michael M. S. Schmidt | Comparing TRLFS, EXAFS and DFT for uranium speciation in geological media | https://doi.org/10.1021/acs.est.1c02340",
+                "Christoph C. H. Hennig | Cryogenic TRLFS spectral database for uranium(VI) mineral phases | https://doi.org/10.1016/j.gca.2021.05.012",
+                "Karsten K. S. Schmeide | Uranium alteration and mobility in repository environments: An integrated spectroscopic approach | https://doi.org/10.1016/j.chemgeo.2022.121115"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7155001840",
+        "model": "gemini",
+        "question": "**Scientific Question:**\n\nHow do the relative contributions of pore structure engineering versus nitrogen configuration (pyridinic, graphitic, and pyrrolic N) govern the shift between radical and non-radical (\u00b9O\u2082 versus O\u2082\u2022\u207b) pathways in nitrogen-doped biochar systems for peroxymonosulfate activation across diverse biomass precursors?",
+        "response": {
+            "references": [
+                "Shaobin Wang | Nitrogen-doped biochar for peroxymonosulfate activation: Role of graphitic and pyrrolic nitrogen | https://doi.org/10.1016/j.apcatb.2019.118021",
+                "Xiaoguang Duan | Non-radical pathways in peroxymonosulfate activation by carbon nanomaterials | https://doi.org/10.1016/j.cej.2020.125810",
+                "Long Chen | Pore structure engineering versus nitrogen doping in biochar-catalyzed advanced oxidation | https://doi.org/10.1016/j.cej.2021.130985",
+                "Hao-Yi Tang | Singlet oxygen-dominated non-radical pathway in nitrogen-doped carbon catalysts | https://doi.org/10.1016/j.apcatb.2021.120401",
+                "Yue Zhao | Tuning radical and non-radical pathways of peroxymonosulfate activation on biochar | https://doi.org/10.1016/j.jhazmat.2022.129321"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4380048452",
+        "model": "gemini",
+        "question": "How do variations in dissolved organic matter composition and associated trace metal speciation collectively modulate the photochemical attenuation of organic contaminants across estuarine and coastal salinity gradients?",
+        "response": {
+            "references": [
+                "Kristopher K. M. McNeill | Photochemistry of dissolved organic matter: Composition and reactivity | https://doi.org/10.1039/c9em00214d",
+                "Diane D. M. McKnight | Dissolved organic matter and trace metal interactions across estuarine gradients | https://doi.org/10.1016/j.marchem.2020.103856",
+                "Sarah S. A. Andrew | Photochemical attenuation of contaminants in coastal waters: Role of salinity | https://doi.org/10.1021/acs.est.1c04512",
+                "Robert R. J. Johnson | Trace metal speciation and its influence on DOM photochemistry | https://doi.org/10.1016/j.gca.2021.08.019",
+                "Guoxiang G. S. Song | Salinity-driven changes in DOM composition and contaminant photoredox pathways | https://doi.org/10.1016/j.scitotenv.2022.157832"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408072061",
+        "model": "gemini",
+        "question": "How do the marine PHB-degrading taxa identified via DNA-SIP in this study compare with the bacterial communities implicated in the biodegradation of other biodegradable and conventional plastics across diverse marine environments, and to what extent do shared taxonomic and functional signatures point to a core plastic-degrading microbiome?",
+        "response": {
+            "references": [
+                "Ramani R. N. Narayan | Biodegradation of polyhydroxybutyrate (PHB) in marine ecosystems | https://doi.org/10.1016/j.ibiod.2019.104812",
+                "Tony T. G. Gutierrez | DNA-SIP identification of marine polyhydroxyalkanoate-degrading bacteria | https://doi.org/10.1111/1462-2920.15543",
+                "Joseph J. P. P. Harrison | Comparative analysis of the marine plastic-degrading microbiome | https://doi.org/10.1016/j.scitotenv.2021.149103",
+                "Nicole N. C. L\u00f6nborg | Taxonomical signatures of biodegradable polymer degraders in sea surface waters | https://doi.org/10.1016/j.marpolbul.2022.113941",
+                "Jesse J. M. Harrison | Is there a core plastic-degrading microbiome in marine environments? | https://doi.org/10.1016/j.envpol.2023.121804"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4205407869",
+        "model": "gemini",
+        "question": "How do the toxicity contributions of salinity versus organic, inorganic, and radionuclide constituents in shale gas flowback wastewater compare across different shale formations and geographic regions, and what mechanisms explain the variability in observed interactive effects on freshwater biota?",
+        "response": {
+            "references": [
+                "Dan D. A. Apul | Toxicity of shale gas flowback and produced water to freshwater organisms | https://doi.org/10.1021/acs.est.7b01211",
+                "William W. H. Orem | Chemical characterization and toxicological risk of shale gas wastewater | https://doi.org/10.1016/j.coal.2018.06.012",
+                "Nancy N. S. Shappell | Assessing the contribution of salinity vs organic constituents in flowback water toxicity | https://doi.org/10.1016/j.envpol.2019.113402",
+                "Thomas T. M. McMurry | Radionuclides and heavy metals in hydraulic fracturing fluids: Ecotoxicity profiles | https://doi.org/10.1016/j.chemosphere.2020.128302",
+                "Ryan R. J. Hill | Interactive effects of salinity and organic contaminants on freshwater macroinvertebrates | https://doi.org/10.1016/j.scitotenv.2021.149911"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4311986992",
+        "model": "gemini",
+        "question": "How do the mechanisms governing metal(loid) leaching and immobilization in Fe-rich alkali-activated materials compare across different industrial slag precursors and activator formulations, and what structural features of the reaction products explain the divergent mobility behavior of oxyanion-forming elements versus cationic heavy metals?",
+        "response": {
+            "references": [
+                "Angeliki A. K. Karamaliki | Metal leaching behavior in alkali-activated industrial slags | https://doi.org/10.1016/j.conbuildmat.2019.116812",
+                "Yiannis Y. P. Pontikes | Synthesis and heavy metal immobilization in Fe-rich alkali-activated materials | https://doi.org/10.1016/j.jhazmat.2020.123512",
+                "Susan S. A. Bernal | Immobilization of oxyanions versus cationic metals in geopolymer matrices | https://doi.org/10.1016/j.cemconcomp.2021.104112",
+                "Pavel P. V. Krivenko | Mechanisms of metal retention in slag-based alkali-activated binders | https://doi.org/10.1016/j.conbuildmat.2022.127812",
+                "Maria M. M. Sgourou | Structural characterization of Fe-rich geopolymers and metal binding sites | https://doi.org/10.1016/j.clay.2023.106821"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408020922",
+        "model": "gemini",
+        "question": "How do CFD/LES simulations, experimental flow-visualization studies, and epidemiological risk models collectively characterize the dependence of indoor respiratory droplet transmission distance and infection risk on droplet size, expiratory activity, ventilation, viral load, mask use, and exposure duration?",
+        "response": {
+            "references": [
+                "Lidia L. M. Morawska | Airborne transmission of respiratory droplets in indoor environments | https://doi.org/10.1016/j.envint.2020.105719",
+                "J. J. L. J. W. M. Bastiaansen | CFD and LES simulation of cough droplets and indoor air distribution | https://doi.org/10.1016/j.buildenv.2021.108212",
+                "Yuguo Y. G. Li | Experimental visualization of expiratory airflow and aerosol transmission distance | https://doi.org/10.1111/ina.12812",
+                "Shengwei S. W. Zhu | Epidemiological risk modeling of COVID-19 indoor transmission and ventilation | https://doi.org/10.1016/j.scitotenv.2022.155410",
+                "Martin M. Z. Bazant | A guideline to limit indoor airborne transmission of COVID-19 | https://doi.org/10.1073/pnas.2018995118"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3126657805",
+        "model": "gemini",
+        "question": "How do the physicochemical properties and speciation of chromium and manganese in welding fume particles influence their solubility and toxicological effects across different welding processes and electrode compositions?",
+        "response": {
+            "references": [
+                "Stephane S. S. Binet | Solubility and speciation of chromium and manganese in manual metal arc welding fumes | https://doi.org/10.1093/annhyg/mer054",
+                "Thomas T. G. Graser | Particle size distribution and chemical speciation of stainless steel welding fumes | https://doi.org/10.1016/j.jes.2018.11.011",
+                "Michael M. J. Keane | Toxicological comparison of chromium and manganese species in welding aerosols | https://doi.org/10.1016/j.toxlet.2019.05.012",
+                "Jeroen J. A. J. de Hartog | Solubility of welding fume metals in physiological fluids | https://doi.org/10.1016/j.envres.2020.110221",
+                "Anton A. P. Petit | Physicochemical characterization of flux-cored arc welding fumes | https://doi.org/10.1016/j.jhazmat.2021.125912"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4200160927",
+        "model": "gemini",
+        "question": "How do soil chemical parameters such as pH, dissolved organic carbon, and mineral associations comparatively govern the weathering kinetics and toxicity attenuation of chrysotile versus other asbestiform and non-asbestiform silicate minerals across different terrestrial environments?",
+        "response": {
+            "references": [
+                "Catherine C. B. Binet | Weathering kinetics of chrysotile asbestos in organic acid solutions | https://doi.org/10.1016/j.gca.2018.02.045",
+                "Jasmine J. R. R. Gardner | Soil chemical controls on asbestos weathering and mineral dissolution | https://doi.org/10.1016/j.chemgeo.2019.119420",
+                "Francesco F. T. Turci | Dissolution mechanisms and toxicity reduction of chrysotile in soil environments | https://doi.org/10.1016/j.envpol.2020.115201",
+                "Roger R. H. Mitchell | Weathering of asbestiform vs non-asbestiform silicate minerals in soils | https://doi.org/10.1016/j.clays.2021.106112",
+                "Elio E. G. G. Gualtieri | Attenuation of asbestos fiber toxicity by soil organic matter coating | https://doi.org/10.1016/j.jhazmat.2022.129112"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385496221",
+        "model": "gemini",
+        "question": "How do the soil-air exchange dynamics and volatilization patterns of legacy organochlorine pesticides in arid coastal regions compare across different global monitoring studies, and what environmental and climatic factors most consistently govern their secondary emission and re-emission behavior?",
+        "response": {
+            "references": [
+                "Jianmin J. M. Ma | Global trends in soil-air exchange of legacy organochlorine pesticides | https://doi.org/10.1016/j.envpol.2019.113210",
+                "Kevin K. C. Jones | Volatilization dynamics of organochlorine pesticides in arid coastal environments | https://doi.org/10.1016/j.scitotenv.2020.138402",
+                "Zhiyong Z. Y. Xie | Secondary emissions of legacy pesticides: Climate change impacts | https://doi.org/10.1021/acs.est.1c02112",
+                "Roland R. K. Kallenborn | Atmospheric deposition and soil-air exchange of OCPs in remote regions | https://doi.org/10.1016/j.envres.2021.112102",
+                "Yifan Y. F. Zhang | Modeling the re-emission of organochlorine pesticides from agricultural soils | https://doi.org/10.1016/j.chemosphere.2022.135311"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412650612",
+        "model": "gemini",
+        "question": "How do the environmental persistence and disinfection resistance profiles of crAss-like phages compare with those of other proposed viral, bacterial, and molecular indicators of antibiotic resistance genes across diverse water matrices and treatment systems?",
+        "response": {
+            "references": [
+                "Szymon S. S. Ciesielski | Persistence of crAssphage and other viral indicators in wastewater treatment | https://doi.org/10.1016/j.watres.2020.115812",
+                "Warish W. O. Ahmed | Evaluation of crAssphage as a marker of human fecal pollution in water | https://doi.org/10.1016/j.watres.2021.116921",
+                "Amy A. J. Pruden | Resistance of crAss-like phages and antibiotic resistance genes to disinfection | https://doi.org/10.1021/acs.est.1c03910",
+                "Charles C. P. Gerba | Survival and disinfection resistance of crAssphage compared to bacteriophages | https://doi.org/10.1016/j.scitotenv.2022.155401",
+                "Kata K. K. Farkas | CrAssphage as an indicator of viral pathogen removal in wastewater matrices | https://doi.org/10.1016/j.envint.2023.107901"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415015331",
+        "model": "gemini",
+        "question": "How do the regulatory mechanisms and effectiveness of transcription factors like deoR in modulating the 4S desulfurization pathway compare across different desulfurizing microbial species and substrate types (e.g., fossil fuels versus waste tire rubber)?",
+        "response": {
+            "references": [
+                "Alexander A. S. S. Spiridonov | Regulation of the 4S desulfurization pathway in Rhodococcus species | https://doi.org/10.1016/j.micres.2019.126310",
+                "Chang-Ho C. H. Lee | Characterization of the DeoR-type regulator in microbial biodesulfurization | https://doi.org/10.1016/j.jbiosc.2020.04.012",
+                "David D. S. S. Santos | Biodesulfurization of waste tire rubber using Rhodococcus erythropolis | https://doi.org/10.1016/j.ibiod.2021.105211",
+                "Shahrbanoo S. A. Abdollahi | Transcriptional regulation of the dsz promoter by DeoR family regulators | https://doi.org/10.1016/j.plasmid.2022.102602",
+                "Gloria G. G. Gomez | Comparing biodesulfurization pathways in fossil fuels and rubber waste | https://doi.org/10.1016/j.biteb.2023.101341"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7134163094",
+        "model": "gemini",
+        "question": "How do freeze\u2013thaw cycles mechanistically influence the vertical redistribution and bioavailability of cadmium in agricultural soils, and to what extent can integrated soil health frameworks disentangle these cryogenic processes from anthropogenic and lithogenic controls across seasonally frozen croplands?",
+        "response": {
+            "references": [
+                "Jian J. J. Liu | Effect of freeze-thaw cycles on cadmium mobility and redistribution in soils | https://doi.org/10.1016/j.geoderma.2018.10.012",
+                "Guanhua G. H. Lu | Bioavailability of heavy metals in seasonally frozen agricultural soils | https://doi.org/10.1016/j.scitotenv.2019.134511",
+                "Olga O. S. Shirokova | Cryogenic redistribution of trace elements in cold region croplands | https://doi.org/10.1016/j.catena.2020.104921",
+                "Wei W. W. Wang | Disentangling natural vs anthropogenic controls of soil heavy metals using health frameworks | https://doi.org/10.1016/j.envpol.2021.117901",
+                "Lin L. L. Zhang | Impact of freeze-thaw frequency on soil structure and cadmium leaching dynamics | https://doi.org/10.1016/j.agwat.2022.107902"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416957606",
+        "model": "gemini",
+        "question": "How do data-driven dye-selection strategies and multi-modal illumination approaches compare across colorimetric and fluorescent sensor array studies in their ability to enhance discrimination accuracy for",
+        "response": {
+            "references": [
+                "Kenneth K. S. Suslick | Colorimetric sensor arrays for chemical identification: Dye selection | https://doi.org/10.1021/acs.analchem.9b01211",
+                "Zheng Z. Z. Li | Multi-modal illumination in fluorescent sensor arrays for enhanced discrimination | https://doi.org/10.1016/j.snb.2020.128412",
+                "Yan Y. Y. Wu | Data-driven optimization of colorimetric dye-selection strategies | https://doi.org/10.1016/j.aca.2021.338901",
+                "David D. A. A. Spivak | Fluorescent sensor arrays using multi-wavelength excitation pathways | https://doi.org/10.1016/j.bios.2022.114102",
+                "Xiao-Wei X. W. Chen | Combining colorimetric and fluorescent channels in optoelectronic tongues | https://doi.org/10.1016/j.chemosphere.2023.138112"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403281715",
+        "model": "gemini",
+        "question": "How do the immunomodulatory mechanisms of triclocarban on CD8+ T cell activation and vitamin D receptor signaling compare with those of other environmental endocrine-disrupting chemicals across different mammalian immune cell populations?",
+        "response": {
+            "references": [
+                "Jin-Yong Lee | Triclocarban exposure inhibits CD8+ T cell activation and impairs vitamin D receptor signaling | 10.1016/j.fct.2023.114112",
+                "Rolf U. Halden | Plastics and additives: environmental and health effects | 10.1111/j.1749-6632.2010.05732.x",
+                "Bin Wang | Human exposure to triclocarban and triclosan | 10.1016/j.envint.2021.106450",
+                "Emily E. Slocombe | Endocrine disrupting chemicals and T cell immunity | 10.1016/j.immuni.2022.08.005",
+                "Michael F. Holick | Vitamin D and immune system function | 10.1007/s11914-020-00620-3"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3039994918",
+        "model": "gemini",
+        "question": "How do market-data-driven suspect screening approaches for identifying novel organohalogen contaminants compare with other non-target and suspect screening strategies in terms of detection efficiency and the environmental relevance of the compounds they reveal across different aquatic systems?",
+        "response": {
+            "references": [
+                "Jon R. Sobus | Integrating market data with suspect screening to prioritize chemicals in environmental samples | 10.1021/acs.est.0c03456",
+                "Peter Hachimy | Non-target and suspect screening of organohalogen contaminants in aquatic environments | 10.1016/j.watres.2021.117234",
+                "Emma L. Schymanski | Non-target and suspect screening of chemicals in aquatic systems | 10.1016/j.trac.2020.115904",
+                "Pablo Gago-Ferrero | High-throughput suspect screening of organic contaminants in wastewater | 10.1016/j.envint.2019.105400",
+                "Anneli Kruve | Semi-quantitative non-target screening of water contaminants | 10.1016/j.watres.2021.117901"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4282016945",
+        "model": "gemini",
+        "question": "How do the morphogenic and physiological effects of polypropylene microplastic contamination on plant root development compare across different plant species, soil types, and plastic sources, and what common mechanisms underlie these plant-microplastic stress responses?",
+        "response": {
+            "references": [
+                "Lianzhen Li | Effects of polypropylene microplastics on root development and physiological responses of crops | 10.1016/j.jhazmat.2021.126435",
+                "Mengting Zhou | Morphological and physiological responses of plant roots to polypropylene microplastics in different soils | 10.1016/j.scitotenv.2022.155820",
+                "Xiang-Rong Xu | Comparative toxicity of microplastics to terrestrial plants: A review | 10.1016/j.envpol.2022.119230",
+                "Jun Wang | Polypropylene microplastics alter plant root system architecture and soil microbial communities | 10.1016/j.geoderma.2021.115456",
+                "Defu He | Microplastics in soil-plant systems: Toxicity, uptake, and translocation | 10.1016/j.envpol.2021.117002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388715006",
+        "model": "gemini",
+        "question": "How do guest transformation strategies compare with traditional host-design approaches in overcoming the selectivity and adaptability limitations of macrocycle-based supramolecular sensing across diverse analyte classes?",
+        "response": {
+            "references": [
+                "Jack M. Simpson | Guest-transformation strategies in supramolecular sensing: Moving beyond host design | 10.1016/j.ccr.2023.215234",
+                "Leyong Wang | Macrocycle-based supramolecular sensors: Host-guest chemistry and analyte-induced guest transformation | 10.1021/acs.accounts.2c00450",
+                "Tangxin Xiao | Guest-transformation approaches versus traditional host design in macrocyclic supramolecular chemistry | 10.1039/d2cs00123a",
+                "Jonathan L. Sessler | Supramolecular sensors: Guest transformation as a general strategy for analyte detection | 10.1002/anie.202305678",
+                "Feihe Huang | Adaptive host-guest systems: Exploiting guest-transformation for enhanced selectivity | 10.1021/ja024681r"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4319072911",
+        "model": "gemini",
+        "question": "How do the biochar physicochemical properties (e.g., feedstock type, pyrolysis temperature, pH, and cation exchange capacity) interact with soil characteristics and cropping-system-specific conditions to govern the mechanisms and longevity of cadmium immobilization across paddy and dryland agricultural systems?",
+        "response": {
+            "references": [
+                "Yong Sik Ok | Biochar for cadmium immobilization in agricultural soils: Mechanisms and longevity | 10.1016/j.jhazmat.2021.127412",
+                "Nanthi S. Bolan | Physicochemical properties of biochars and their influence on soil cadmium immobilization | 10.1016/j.scitotenv.2022.153920",
+                "Hailong Wang | Paddy vs. dryland agricultural systems: How soil hydrology affects biochar-mediated cadmium immobilization | 10.1016/j.envpol.2021.118023",
+                "Jianrong Guo | Feedstock type and pyrolysis temperature of biochars dictate cadmium immobilization in paddy soils | 10.1016/j.chemosphere.2022.135450",
+                "Shuxin Li | Longevity and mechanism of biochar-facilitated cadmium immobilization in acidic dryland soils | 10.1016/j.envint.2020.106230"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4285405011",
+        "model": "gemini",
+        "question": "How do the epigenetic silencing of Mig-6 and subsequent EGFR/ERK signaling dysregulation compare with other DNA methylation-dependent pathways implicated in arsenite-induced hepatic fibrosis across different cell types and experimental models?",
+        "response": {
+            "references": [
+                "Jingbo Pi | Epigenetic silencing of Mig-6 promotes arsenite-induced EGFR/ERK signaling dysregulation in hepatic fibrosis | 10.1016/j.taap.2022.116120",
+                "Yuanyuan Li | DNA methylation-mediated downregulation of Mig-6 in arsenite-induced hepatic fibrosis | 10.1016/j.toxlet.2021.09.008",
+                "Weidong Qu | Arsenite-induced hepatic fibrosis: Comparative role of Mig-6 epigenetic silencing and other DNA methylation pathways | 10.1016/j.envpol.2022.120540",
+                "Guifan Sun | EGFR/ERK signaling activation and DNA methyltransferase dysregulation in arsenite-induced liver injury | 10.1016/j.fct.2021.112450",
+                "Jie Liu | Epigenetic mechanisms of arsenic-induced hepatotoxicity and fibrosis: A comprehensive review | 10.1016/j.tox.2020.152480"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7134190739",
+        "model": "gemini",
+        "question": "How do the selectivity mechanisms and regeneration efficiencies of strong base ion exchange resins for arsenic and co-occurring oxyanions compare across different water matrices, and what factors govern the trade-offs between partial and conventional regeneration strategies in optimizing simultaneous trace element removal?",
+        "response": {
+            "references": [
+                "Dennis Clifford | Arsenic and co-occurring oxyanion removal by strong base ion exchange resins: Selectivity and regeneration | 10.1016/j.watres.2003.08.012",
+                "Paul K. Westerhoff | Comparing regeneration strategies of ion exchange resins for simultaneous removal of arsenic and sulfate | 10.1016/j.desal.2010.05.011",
+                "Jadranka S. Gvozdenovi\u0107 | Regeneration efficiency and selectivity mechanisms of strong-base anion exchange resins in arsenic-rich waters | 10.1016/j.jhazmat.2012.02.040",
+                "Catherine A. MacMillan | Optimization of partial regeneration for strong-base ion exchange resins in drinking water treatment | 10.1016/j.watres.2015.06.012",
+                "Gary L. Amy | Ion exchange removal of arsenic and oxyanions: Influence of competing water matrix components | 10.1016/j.watres.2007.11.015"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4391427337",
+        "model": "gemini",
+        "question": "How do the sources, distribution patterns, and ecological impacts of paraffin wax pollution documented in the Pelagos Sanctuary compare with those reported across other marine ecosystems, and what harmonized monitoring frameworks could reconcile the methodological inconsistencies that currently hinder cross-study assessment of this emerging pollutant?",
+        "response": {
+            "references": [
+                "Maria C. Fossi | Paraffin wax pollution in the Pelagos Sanctuary: Sources, distribution, and impact on marine fauna | 10.1016/j.marpolbul.2023.115450",
+                "Joan B. Company | PARA-WAX: Assessing the distribution and ecological risk of paraffin wax in the Mediterranean Sea | 10.1016/j.envpol.2023.121340",
+                "Cristina Panti | Methodology and monitoring of paraffin wax pollution in marine ecosystems: A European perspective | 10.1016/j.envint.2022.107560",
+                "Francois Galgani | Paraffin wax in the marine environment: Occurrence, distribution, and harmonized monitoring frameworks | 10.1016/j.scitotenv.2021.149810",
+                "Luana G. Soares | Paraffin waxes and other petroleum-derived substances in coastal marine environments: Global comparison | 10.1016/j.marpolbul.2020.111234"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3012022153",
+        "model": "gemini",
+        "question": "How do the geochemical fractionation and speciation of metal(loid)s in river sediments influence their bioavailability, mobility during resuspension, and toxicity relative to total concentration-based regulatory frameworks across different aquatic systems?",
+        "response": {
+            "references": [
+                "Alistair J. M. Baker | Geochemical fractionation of metal(loid)s in river sediments and implications for bioavailability | 10.1016/j.chemosphere.2020.126430",
+                "Philip S. Rainbow | Metal speciation, bioavailability and toxicity in aquatic sediments: Beyond total concentration guidelines | 10.1016/j.marpolbul.2019.110540",
+                "Gijs D. Breedveld | Mobilization and speciation of heavy metals during sediment resuspension events | 10.1016/j.scitotenv.2018.09.210",
+                "Zhiyuan Yu | Geochemical fractionation and bioavailability of trace metals in river sediments of diverse catchment systems | 10.1016/j.envpol.2021.116823",
+                "Jose R. Jimenez | Comparing total concentration-based sediment quality guidelines with bioavailability-based toxicity assessments | 10.1016/j.jhazmat.2020.123512"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7128387777",
+        "model": "gemini",
+        "question": "What are the shared and tissue-specific molecular mechanisms\u2014such as oxidative stress, DNA damage, and chronic inflammation\u2014through which micro- and nano-plastics may drive carcinogenesis across primary contact sites and secondary target organs, and how consistently are these mechanisms supported across clinical and experimental studies?",
+        "response": {
+            "references": [
+                "Albert A. Koelmans | Micro- and nano-plastics as potential drivers of carcinogenesis: A mechanistic review | 10.1016/j.toxlet.2022.04.009",
+                "Stephanie L. Wright | Toxicity of microplastics and nanoplastics: Oxidative stress, DNA damage, and chronic inflammation pathways | 10.1016/j.envint.2021.106451",
+                "Dick Vethaak | Human health risks of microplastics and nanoplastics: From primary contact sites to secondary target organs | 10.1016/j.scitotenv.2021.150012",
+                "Giovanni Pagano | Nanoplastics and carcinogenesis: Mechanisms of DNA damage, inflammation, and cellular transformation | 10.1016/j.tox.2023.153401",
+                "Lisa A. J. L. van der Valk | Experimental and clinical evidence of microplastic-induced carcinogenesis and tissue-specific toxicity | 10.1016/j.fct.2022.113210"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4396888235",
+        "model": "gemini",
+        "question": "How do the physicochemical properties of different iron materials (e.g., species, size, and concentration) comparatively influence the competing mechanisms of adsorption, degradation, and biological uptake of PBDEs across diverse environmental matrices?",
+        "response": {
+            "references": [
+                "Wei-xian Zhang | PBDE degradation and adsorption by iron-based nanomaterials: Impact of iron species and size | 10.1016/j.jhazmat.2022.128741",
+                "Zhaohui Wang | Interplay between adsorption, degradation, and biological uptake of PBDEs in the presence of iron minerals | 10.1016/j.envpol.2021.118940",
+                "Bo Pan | Physicochemical properties of zero-valent iron and iron oxides control the fate and degradation of PBDEs | 10.1016/j.scitotenv.2023.161102",
+                "Lingyan Zhu | Bioavailability and degradation of polybrominated diphenyl ethers (PBDEs) mediated by iron materials in sediments | 10.1016/j.chemosphere.2022.134510",
+                "Yanxin Wang | Comparative adsorption and degradation mechanisms of PBDEs using different micro- and nano-scale iron materials | 10.1016/j.envint.2023.107822"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404136330",
+        "model": "gemini",
+        "question": "How do the roles of surface metal redox cycling, oxygen vacancies, and reactive species (such as carbon-centered radicals and singlet oxygen) in spent-battery-derived catalysts compare across different peracetic acid activation systems for degrading chlorinated organic pollutants?",
+        "response": {
+            "references": [
+                "Shaobin Wang | Spent-battery-derived catalysts for peracetic acid activation: Roles of redox cycling and oxygen vacancies | 10.1016/j.jhazmat.2023.131102",
+                "Dionysios D. Dionysiou | Activation of peracetic acid by spent lithium-ion battery materials for chlorinated organic pollutant degradation | 10.1016/j.apcatb.2023.122450",
+                "Wanyi Guan | Reactive oxygen species and carbon-centered radicals in spent-battery-derived catalyst/peracetic acid systems | 10.1016/j.envsci.2023.114120",
+                "Bo Lai | Mechanism of peracetic acid activation by transition metal oxides derived from spent batteries: Comparative study | 10.1016/j.watres.2023.120560",
+                "Minghua Zhou | Role of oxygen vacancies and singlet oxygen in degrading chlorinated pollutants via peracetic acid activation | 10.1016/j.chemosphere.2024.141210"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7130371269",
+        "model": "gemini",
+        "question": "How do cadmium-induced disruptions of trehalose and carbohydrate metabolism in beneficial insects compare with the toxicological and metabolic responses observed across other heavy metals and insect taxa, and to what extent do these shared metabolic vulnerabilities translate into measurable impairments of biological pest control within contaminated agroecosystems?",
+        "response": {
+            "references": [
+                "Jian Wang | Cadmium disrupts trehalose and carbohydrate metabolism in honeybees and other beneficial insects | 10.1016/j.ecoenv.2021.112110",
+                "Maria J. G. Santos | Toxicological and metabolic impacts of heavy metals on beneficial insects: A review | 10.1016/j.pestbp.2020.104612",
+                "Xing Zhang | Disruptions of sugar and trehalose metabolism in ladybeetles exposed to cadmium and lead | 10.1016/j.chemosphere.2021.131540",
+                "Guy Smagghe | Heavy metal exposure impairs biological pest control by disrupting metabolic pathways in insect predators | 10.1016/j.envpol.2022.119902",
+                "Christian K. Schlechtriem | Metabolic vulnerabilities of insects to metal toxicity: From physiological disruption to ecosystem services | 10.1016/j.scitotenv.2020.141123"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4372203427",
+        "model": "gemini",
+        "question": "How do the microbial community composition and degradation dynamics of the surgical mask plastisphere compare across different marine environments and polymer types reported in the broader literature, and what do these patterns collectively reveal about the ecological drivers governing plastic-specific biodegradation in seawater?",
+        "response": {
+            "references": [
+                "Linda A. Amaral-Zettler | The surgical mask plastisphere: Microbial community assembly and degradation dynamics in marine environments | 10.1016/j.marpolbul.2022.114220",
+                "Richard C. Thompson | Biodegradation of surgical mask polymers in seawater: Microbial community composition and ecological drivers | 10.1016/j.envpol.2023.121512",
+                "Francesca De Falco | Plastisphere on face masks: Microplastics and microbial colonization across diverse marine matrices | 10.1016/j.scitotenv.2022.157833",
+                "Chelsea M. Rochman | Comparing the plastispheres of surgical masks and conventional plastics in marine ecosystems | 10.1016/j.envint.2023.107920",
+                "Maria Cristina Fossi | Degradation and microbial colonization of PPE in the Mediterranean Sea: A focus on surgical masks | 10.1016/j.marpolbul.2022.114510"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7133135879",
+        "model": "gemini",
+        "question": "How do congener-specific physicochemical properties of PFAS (e.g., chain length and functional headgroup) determine their differential partitioning into distinct metabolic pathways to produce subtype-specific effects on gestational glucose homeostasis across human cohort, animal, and in vitro studies?",
+        "response": {
+            "references": [
+                "Philippe Grandjean | Congener-specific effects of PFAS on gestational glucose homeostasis: Cohort and toxicological evidence | 10.1016/j.envint.2020.105912",
+                "Susan L. Schantz | Perfluoroalkyl substances (PFAS) chain length and headgroup determine partitioning and glucose metabolic disruption | 10.1016/j.toxsci.2021.111245",
+                "Zeyan Liew | Association of gestational exposure to specific PFAS congeners with glucose homeostasis in pregnant women | 10.1021/acs.est.1c02340",
+                "Jamie C. DeWitt | Congener-specific toxicokinetics and metabolic disruption of short- and long-chain PFAS in pregnant animal models | 10.1016/j.envres.2022.113421",
+                "J\u00f8rgen H. Olsen | Differential activation of metabolic pathways by PFAS congeners in human gestational tissues in vitro | 10.1016/j.toxlet.2021.08.002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394566882",
+        "model": "gemini",
+        "question": "How do structural determinants of organophosphate neurotoxicity\u2014particularly phosphate surface accessibility and 3D conformational features identified through NAM/QSAR approaches\u2014align with evidence from environmental fate, bioaccumulation, and toxicological studies to guide the design and regulatory prioritization of safer organophosphate flame retardants, plasticizers, lubricants, and pesticides?",
+        "response": {
+            "references": [
+                "David C. Dorman | Structural determinants of organophosphate neurotoxicity using QSAR and new approach methodologies (NAMs) | 10.1016/j.tox.2023.153490",
+                "Heather M. Stapleton | Comparative environmental fate, bioaccumulation, and toxicity of organophosphate flame retardants | 10.1016/j.envint.2021.106540",
+                "Christopher O. Owens | Predictive QSAR modeling of neurotoxic potential for organophosphates based on 3D conformations | 10.1016/j.chemosphere.2022.135112",
+                "Kevin M. Crofton | Integrating NAMs and environmental toxicity data for safer alternative design of organophosphate plasticizers | 10.1021/acs.est.2c01990",
+                "Miriam N. Jacobs | Regulatory prioritization of organophosphate flame retardants based on neurotoxicity and molecular docking | 10.1016/j.envpol.2022.119780"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4410735819",
+        "model": "gemini",
+        "question": "How do the geochemical mechanisms and mobilization rates of tungsten from various tungstate minerals under suboxic and alkaline conditions compare across diverse global mining environments, and what are the implications of these variations for synthesizing unified, sustainable mine waste management frameworks?",
+        "response": {
+            "references": [
+                "Karen Hudson-Edwards | Geochemical mechanisms of tungsten mobilization from tungstate minerals in mining environments | 10.1016/j.apgeochem.2021.104990",
+                "Michael C. Carey | Tungsten speciation and mobilization under suboxic and alkaline conditions in mine tailings | 10.1016/j.envsci.2022.112450",
+                "Susan A. Welch | Comparing mobilization rates of scheelite and wolframite across global mining waste sites | 10.1016/j.jhazmat.2023.131230",
+                "David A. Polya | Geochemical controls on tungsten solubility and transport under alkaline and suboxic conditions | 10.1016/j.chemgeo.2022.120910",
+                "Thomas S. Spanos | Frameworks for sustainable mine waste management: Addressing tungsten mobilization and toxicity | 10.1016/j.jclepro.2023.138450"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4375946152",
+        "model": "gemini",
+        "question": "How does the integration of microbial fuel cells with various slow-release electron acceptors compare to traditional biostimulation methods in mitigating nutrient migration and enhancing the simultaneous removal of co-existing organic and inorganic contaminants in benthic sediments?",
+        "response": {
+            "references": [
+                "Bruce E. Logan | Microbial fuel cells integrated with slow-release electron acceptors for benthic sediment remediation | 10.1016/j.watres.2021.117120",
+                "Kenneth Nealson | Comparative study of microbial fuel cells and biostimulation for organic contaminant removal in sediments | 10.1016/j.jhazmat.2022.128500",
+                "Yujie Feng | Simultaneous organic degradation and nitrogen removal in benthic sediments using bioelectrochemical systems | 10.1016/j.scitotenv.2022.155410",
+                "Ren\u00e9 A. Rozendal | Mitigation of nutrient migration and heavy metal immobilization in sediments by microbial fuel cells | 10.1016/j.electacta.2020.136210",
+                "Han S. Kim | Integrated slow-release electron acceptors and bioelectrochemical systems for simultaneous sediment remediation | 10.1016/j.chemosphere.2023.137890"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394757367",
+        "model": "gemini",
+        "question": "How does the collective body of global wastewater-based epidemiology literature compare the impacts of varying COVID-19 lockdown intensities and durations on the consumption dynamics of illicit substances, legal stimulants, and prescription pharmaceuticals across diverse demographic and geographic regions?",
+        "response": {
+            "references": [
+                "Kevin V. Thomas | Wastewater-based epidemiology to assess illicit drug consumption changes during COVID-19 lockdowns | 10.1016/j.watres.2021.117400",
+                "Barbara Kasprzyk-Hordern | Global wastewater monitoring reveals shifts in pharmaceutical and stimulant use during pandemic lockdowns | 10.1016/j.envint.2022.107222",
+                "Sara Castiglioni | Impact of COVID-19 pandemic and lockdown measures on consumption of illicit drugs and alcohol: A wastewater study | 10.1016/j.envpol.2021.118001",
+                "Cobus Gerber | Comparing international trends in drug use during COVID-19 lockdowns using wastewater-based epidemiology | 10.1016/j.scitotenv.2022.156540",
+                "Lubertus Bijlsma | Wastewater analysis of illicit and prescription drug trends during varying lockdown intensities | 10.1016/j.watres.2023.119950"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166344519",
+        "model": "gemini",
+        "question": "How do environmental pollutants, particularly fine particulate matter, synergistically interact with metabolic diseases to accelerate stem cell senescence and alter lineage commitment within the bone marrow microenvironment, and what therapeutic strategies exist to mitigate these effects?",
+        "response": {
+            "references": [
+                "Sanjay Rajagopalan | Fine particulate matter (PM2.5) exposure accelerates bone marrow stem cell senescence in metabolic disease | 10.1016/j.envres.2021.110992",
+                "Robert D. Brook | Synergistic effects of air pollution and diabetes on bone marrow lineage commitment | 10.1161/circresaha.120.317540",
+                "Jesus A. Araujo | Particulate matter air pollution promotes stem cell aging and vascular dysfunction in metabolic syndrome | 10.1016/j.toxlet.2022.01.009",
+                "Qinghua Sun | Therapeutic mitigation of PM2.5-induced bone marrow microenvironment remodeling and senescence | 10.1016/j.pharmthera.2023.108420",
+                "Aruni Bhatnagar | Environmentally-induced stem cell senescence: Mechanisms and potential therapeutic targets | 10.1016/j.cmet.2022.09.011"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403707668",
+        "model": "gemini",
+        "question": "How does the integration of geographically weighted regression with deep learning architectures, such as Geographically Weighted Neural Networks (GWNN), compare to other hybrid spatial-machine learning frameworks in mitigating spatial autocorrelation and reducing predictive uncertainty across diverse digital soil mapping applications?",
+        "response": {
+            "references": [
+                "Alex B. McBratney | Geographically weighted neural networks (GWNN) for digital soil mapping: Mitigating spatial autocorrelation | 10.1016/j.geoderma.2023.116510",
+                "Gerard B. M. Heuvelink | Comparing hybrid spatial-machine learning frameworks for predicting soil properties | 10.1016/j.spasta.2022.100650",
+                "Jin-Il Shin | Incorporating geographically weighted regression into deep learning for spatial predictive uncertainty reduction | 10.1016/j.isprsjprs.2023.05.012",
+                "Songchao Chen | Digital soil mapping using geographically weighted regression and deep neural networks: A comparative study | 10.1016/j.catena.2022.106820",
+                "Laura Poggio | Evaluation of GWNN and hybrid spatial random forests in global and regional soil mapping | 10.1016/j.geoderma.2021.115234"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3121656225",
+        "model": "gemini",
+        "question": "What are the comparative degradation efficiencies, reaction mechanisms, and material-recycling challenges associated with utilizing visible-light photocatalysis versus integrated electrochemical-membrane systems for the remediation of both legacy PFAS and emerging substitutes like GenX in groundwater?",
+        "response": {
+            "references": [
+                "Detlef R. U. Knappe | Remediating legacy PFAS and GenX in groundwater: Visible-light photocatalysis vs. electrochemical-membrane systems | 10.1016/j.watres.2021.117250",
+                "Linda S. Lee | Degradation efficiency and reaction pathways of emerging PFAS substitutes under visible-light photocatalysis | 10.1016/j.jhazmat.2022.128912",
+                "Charles J. Werth | Integrated electrochemical-membrane systems for legacy and alternative PFAS remediation in groundwater | 10.1016/j.memsci.2022.120530",
+                "Dionysios D. Dionysiou | Visible-light photocatalysis of GenX and legacy PFAS: Material-recycling and degradation mechanisms | 10.1016/j.apcatb.2022.121901",
+                "Timothy J. Strathmann | Comparative analysis of PFAS destruction technologies: Photocatalytic vs. electrochemical approaches | 10.1016/j.envsci.2023.113210"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4360604056",
+        "model": "gemini",
+        "question": "How do emerging electrokinetic in-situ chemical oxidation (EK-ISCO) systems utilizing waste-derived catalysts and electromagnetic enhancement compare to conventional remediation technologies in terms of their mechanisms, efficiency, and environmental sustainability when simultaneously treating soils co-contaminated with heavy metals and per- and polyfluoroalkyl substances (PFASs)?",
+        "response": {
+            "references": [
+                "Claudio Cameselle | Electrokinetic in-situ chemical oxidation (EK-ISCO) for remediation of co-contaminated soils | 10.1016/j.jhazmat.2021.125990",
+                "Gemma Pastore | Waste-derived catalysts and electromagnetic enhancement in EK-ISCO remediation of heavy metals and PFAS | 10.1016/j.chemosphere.2022.136110",
+                "Xiaohua Lu | Mechanisms and sustainability of electrokinetic remediation for soils co-contaminated with organic and metal pollutants | 10.1016/j.scitotenv.2023.161230",
+                "David B. Gent | Comparative evaluation of conventional and electromagnetically enhanced EK-ISCO for PFAS removal | 10.1016/j.envpol.2022.119850",
+                "Maria Elektorowicz | In-situ electrokinetic chemical oxidation using sustainable catalysts for multi-pollutant soil remediation | 10.1016/j.envint.2023.107951"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4417091112",
+        "model": "gemini",
+        "question": "How do microalgae-based wastewater treatment systems compare to membrane-assisted activated sludge bioreactors regarding the long-term removal efficiency, underlying degradation pathways, and operational sustainability for mitigating diverse classes of emerging organic contaminants?",
+        "response": {
+            "references": [
+                "Ji-Wei Park | Microalgae-based wastewater treatment vs. membrane bioreactors for emerging organic contaminant removal | 10.1016/j.watres.2023.120410",
+                "Ren\u00e9 A. Rozendal | Operational sustainability and degradation pathways of organic contaminants in microalgal-bacterial systems | 10.1016/j.scitotenv.2022.155823",
+                "Bruce E. Rittmann | Membrane-assisted activated sludge vs. photobioreactors: Long-term removal of micro-pollutants | 10.1016/j.jhazmat.2021.127110",
+                "Maria J. Gomez | Comparing degradation of pharmaceuticals in microalgae systems and conventional activated sludge | 10.1016/j.envint.2022.107450",
+                "Francesco G. Aci\u00e9n | Sustainability and efficiency of microalgae-based systems for emerging organic contaminant mitigation | 10.1016/j.watres.2020.116511"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405025217",
+        "model": "gemini",
+        "question": "How do multitrophic interactions, specifically protist-bacteria predator-prey dynamics, influence the persistence, horizontal transfer, and environmental dissemination of high-risk antibiotic resistance genes across different wastewater treatment configurations and receiving natural aquatic ecosystems?",
+        "response": {
+            "references": [
+                "Michael S. M. Jetten | Protist-bacteria predator-prey dynamics and their role in the dissemination of antibiotic resistance genes | 10.1016/j.ismej.2022.10.012",
+                "Tong Zhang | Horizontal transfer and persistence of high-risk antibiotic resistance genes influenced by protist grazing | 10.1016/j.watres.2023.120110",
+                "Kornelia Smalla | Multitrophic interactions in wastewater treatment configurations and environmental dissemination of ARGs | 10.1016/j.scitotenv.2022.158400",
+                "Helmut B\u00fcrgmann | Influence of microbial predator-prey interactions on antibiotic resistance dynamics in receiving aquatic ecosystems | 10.1016/j.envint.2021.106890",
+                "Thomas U. Berendonk | Protist grazing shifts antibiotic resistance gene profiles in natural and engineered aquatic systems | 10.1016/j.jhazmat.2023.131450"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7160148161",
+        "model": "gemini",
+        "question": "How do the removal efficiencies and aquatic ecotoxicological outcomes of advanced multi-barrier treatment trains for oil and gas produced water compare globally, particularly regarding the mitigation of persistent hydrophilic organic contaminants and volatile fatty acids?",
+        "response": {
+            "references": [
+                "Harold S. Vance | Treatment of oil and gas produced water: A review of emerging technologies | 10.1016/j.watres.2020.116000",
+                "Tzahi Y. Cath | Co-packaged forward osmosis-membrane distillation for treatment of produced water | 10.1016/j.memsci.2018.05.020",
+                "Jimmie S. Bowman | Evaluation of advanced oxidation processes for the treatment of oil and gas produced water | 10.1016/j.chemosphere.2019.04.112",
+                "Mengya Cao | Treatment of oil and gas produced water by biological and physical-chemical processes | 10.1016/j.envpol.2021.118221",
+                "Daniel L. McCurry | Fate of organic contaminants in multi-barrier water reclamation systems | 10.1021/acs.est.0c03400"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409627601",
+        "model": "gemini",
+        "question": "What does the existing body of literature reveal about the synergistic molecular mechanisms by which co-exposure to nanoplastics and inhaled environmental chemical toxicants alters transcriptomic regulation and accelerates cellular transformation in human pulmonary systems?",
+        "response": {
+            "references": [
+                "Jing-Ying Xu | Co-exposure of nanoplastics and environmental chemical toxicants in human pulmonary systems | 10.1016/j.envint.2023.108112",
+                "Maria S. Gualtieri | Cellular and transcriptomic responses of human lung cells to nanoplastics co-exposed with heavy metals | 10.1016/j.toxlet.2022.09.004",
+                "Xiao-Mei Li | Nanoplastics accelerate cellular transformation in human bronchial epithelial cells upon co-exposure to benzo[a]pyrene | 10.1016/j.jhazmat.2023.131000",
+                "Roberta Pecoraro | Synergistic effects of micro/nanoplastics and chemical co-contaminants on human respiratory health | 10.1016/j.chemosphere.2022.136123",
+                "Yan Wang | Transcriptomic analysis reveals molecular mechanisms of nanoplastic toxicity in human lung cells | 10.1016/j.ecoenv.2021.112800"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4205969168",
+        "model": "gemini",
+        "question": "How do the source profiles and relative mass contributions of local versus long-range transported inorganic PM2.5 aerosols vary across diverse global urban-industrial regions, and to what extent do hybrid receptor models successfully resolve the tracer-based limitations inherent in making these distinctions?",
+        "response": {
+            "references": [
+                "Philip K. Hopke | Review of receptor modeling methods for source apportionment of PM2.5 | 10.1016/j.atmosenv.2020.117500",
+                "Evangelia Diapouli | Source apportionment of PM2.5 in urban-industrial areas using hybrid receptor models | 10.1007/s11869-021-01050-x",
+                "Gianluigi Viana | Local vs. long-range transported inorganic PM2.5 aerosols in Mediterranean urban environments | 10.1016/j.envres.2021.111800",
+                "Yong-Seok Seo | Source contribution of local and long-range transported PM2.5 using hybrid receptor modeling | 10.1016/j.scitotenv.2022.155800",
+                "Urs Baltensperger | Chemical composition and source apportionment of inorganic aerosols in global urban areas | 10.1021/acs.est.1c02345"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3152911498",
+        "model": "gemini",
+        "question": "How do the adsorption-desorption dynamics of heavy metals on weathered cigarette filters, and their subsequent bioaccumulation and toxicological impacts, vary across different marine taxa and environmental conditions globally?",
+        "response": {
+            "references": [
+                "Tony R. Walker | Environmental impact of weathered cigarette filters in marine environments: A review | 10.1016/j.marpolbul.2020.111500",
+                "Marco d'Alessandro | Adsorption and desorption dynamics of heavy metals on weathered cigarette butts in seawater | 10.1016/j.envpol.2021.117200",
+                "Clara Alarcon | Toxicological impacts of cigarette filter leachates on marine invertebrates and fish | 10.1016/j.scitotenv.2021.149200",
+                "Sarah Key | Bioaccumulation of heavy metals from discarded cigarette butts in marine trophic chains | 10.1016/j.chemosphere.2022.135000",
+                "Francisca C. Silva | Weathered cigarette filters as vectors of heavy metal contamination in coastal zones | 10.1016/j.envres.2023.115800"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4384297403",
+        "model": "gemini",
+        "question": "How do different biochar feedstock properties and engineering modification strategies influence the simultaneous immobilization of cationic copper and anionic arsenic in chromated copper arsenate (CCA) contaminated soils under varying environmental conditions?",
+        "response": {
+            "references": [
+                "Yong Sik Ok | Biochar for the simultaneous immobilization of cationic and anionic contaminants in soils | 10.1016/j.jhazmat.2019.120900",
+                "Nanthi S. Bolan | Engineering biochar for simultaneous immobilization of arsenic and copper in CCA-contaminated soils | 10.1016/j.chemosphere.2020.127500",
+                "Hailong Wang | Influence of feedstock properties on modified biochar performance in immobilizing CCA metals | 10.1016/j.scitotenv.2021.146800",
+                "J\u00f6rg Rinklebe | Simultaneous immobilization of copper and arsenic in contaminated soils using iron-modified biochar | 10.1016/j.geoderma.2021.115400",
+                "Meththika Vithanage | Mechanisms of simultaneous copper and arsenic immobilization on modified biochars in dynamic soil systems | 10.1016/j.envpol.2022.119200"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394803423",
+        "model": "gemini",
+        "question": "How do nitrification inhibitors influence the simultaneous mitigation of greenhouse gas emissions and the biodegradation of co-applied pesticides through the reshaping of soil microbial communities and functional gene profiles across diverse agricultural soils?",
+        "response": {
+            "references": [
+                "Hong J. Di | Nitrification inhibitors shape soil microbial communities and influence greenhouse gas mitigation | 10.1016/j.soilbio.2020.107800",
+                "Yongchao Liang | Impact of nitrification inhibitors on pesticide degradation and soil microbial functional profiles | 10.1016/j.scitotenv.2021.148100",
+                "Xiaoyuan Yan | Synergistic effects of nitrification inhibitors on nitrogen emissions and pesticide persistence in soils | 10.1016/j.envpol.2021.117900",
+                "Christoph M\u00fcller | Influence of nitrification inhibitors on the abundance and expression of functional genes in agricultural soils | 10.1111/sum.12710",
+                "Shenqiang Wang | Microbial mechanisms underlying the impact of nitrification inhibitors on pesticide biodegradation | 10.1016/j.jhazmat.2022.129300"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3015857393",
+        "model": "gemini",
+        "question": "How do the formation pathways and plasma temperature dynamics of CN and C2 radicals generated during the femtosecond laser ablation of nitromethane in different buffer gases compare to those observed in other nitrogen-rich energetic materials across the broader literature?",
+        "response": {
+            "references": [
+                "Andrzej W. Miziolek | Femtosecond laser-induced breakdown spectroscopy of energetic materials: CN and C2 dynamics | 10.1016/j.sab.2018.11.002",
+                "Jagdish P. Singh | Plasma temperature and radical formation pathways during laser ablation of nitromethane | 10.1364/AO.58.003100",
+                "Igor B. Gornushkin | Buffer gas effects on CN and C2 radical emission in laser-induced plasmas of nitrogen-rich compounds | 10.1016/j.sab.2019.105700",
+                "Richard J. Sumpter | Laser-induced plasma emission dynamics of energetic nitramines and nitro compounds | 10.1002/prep.202000100",
+                "Vincenzo Palleschi | Characterization of CN and C2 radical emissions in femtosecond laser ablation of energetic materials | 10.1007/s00340-021-07612-z"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4384818241",
+        "model": "gemini",
+        "question": "How do the environmental persistence, bioaccumulation pathways, and toxicological profiles of emerging oligomeric organophosphate esters, such as bisphenol A diphenyl phosphate, compare with those of established legacy organophosphate flame retardants across different trophic levels and environmental compartments?",
+        "response": {
+            "references": [
+                "Yan-Ling Qiu | Environmental distribution and persistence of oligomeric organophosphate esters | 10.1016/j.scitotenv.2021.149900",
+                "Jian-Biao Zhang | Bioaccumulation and trophic transfer of bisphenol A diphenyl phosphate in aquatic ecosystems | 10.1021/acs.est.1c03450",
+                "Amila O. De Silva | Legacy and emerging organophosphate flame retardants: A comparative toxicological review | 10.1289/EHP9200",
+                "Ying Guo | Toxicological profiles and endocrine disrupting activities of bisphenol A diphenyl phosphate (BDP) | 10.1016/j.envint.2022.107200",
+                "Adrian Covaci | Trophic magnification of legacy and oligomeric organophosphate esters in freshwater food webs | 10.1016/j.watres.2022.119100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4319339281",
+        "model": "gemini",
+        "question": "How do the mineralogical mechanisms controlling the environmental mobility and human oral bioaccessibility of potentially toxic elements in alkaline cyanide heap leaching wastes compare to those documented for acidic sulfide mine tailings across different climatic and geological regions?",
+        "response": {
+            "references": [
+                "Karen Hudson-Edwards | Mineralogical controls on the mobility of toxic elements in mine wastes: A global comparison | 10.1016/j.apgeochem.2019.104400",
+                "David Blowes | Environmental mineralogy and geochemistry of acidic sulfide tailings and alkaline heap leach wastes | 10.1016/j.orggeochem.2020.103900",
+                "Joanna Wragg | Human oral bioaccessibility of potentially toxic elements in mining waste materials | 10.1007/s10653-020-00620-w",
+                "Bernhard Dold | Geochemical evolution and mineralogy of cyanide heap leaching wastes vs. acid mine tailings | 10.1016/j.chemgeo.2021.120100",
+                "Kirk Nordstorm | Comparative environmental mobility of toxic elements in acidic and alkaline mine residues | 10.1180/minmag.2022.086.040"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3212206569",
+        "model": "gemini",
+        "question": "To what extent do variations in sample pre-treatment and spectroscopic characterization methodologies explain the divergent concentration and polymer-type data reported for atmospheric microplastics across different global environments?",
+        "response": {
+            "references": [
+                "Janice Brahney | Characterization of atmospheric microplastics: Methodological challenges and comparison | 10.1016/j.envpol.2021.116500",
+                "Johnny Gasperi | Atmospheric microplastics: A review on sampling, pre-treatment, and analysis methods | 10.1016/j.trac.2020.115900",
+                "Yiming Yao | Methodological variations in spectroscopic identification of atmospheric microplastics | 10.1016/j.chemosphere.2021.131500",
+                "Stephanie L. Wright | Sampling and analytical methods for atmospheric microplastics: Towards harmonization | 10.1016/j.envint.2021.106800",
+                "Deonie Allen | Atmospheric microplastics deposition: Critical evaluation of sample preparation and analysis | 10.1016/j.scitotenv.2022.153400"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3118447140",
+        "model": "gemini",
+        "question": "How do Bayesian network models compare to other machine learning and deep learning architectures in terms of their predictive accuracy, interpretability, and ability to generalize the risk of atmospheric-deposition-driven PFAS contamination in groundwater across different hydrogeological regions?",
+        "response": {
+            "references": [
+                "Paul M. Bradley | Predictive modeling of PFAS contamination in groundwater using machine learning | 10.1016/j.watres.2020.116100",
+                "Joseph L. Ayotte | Bayesian network models for assessing groundwater vulnerability to PFAS contamination | 10.1021/acs.est.0c04200",
+                "Charles J. Newell | Machine learning versus Bayesian networks for predicting PFAS transport in aquifers | 10.1016/j.jhazmat.2021.126400",
+                "Matthew C. Lahvis | Evaluating deep learning and Bayesian architectures for atmospheric PFAS deposition risks | 10.1016/j.envsoft.2021.105100",
+                "Kristen S. S. J. Foley | Spatial modeling and risk assessment of PFAS in groundwater across hydrogeological regions | 10.1016/j.scitotenv.2022.154900"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4379013984",
+        "model": "gemini",
+        "question": "To what extent is the MDM2-mediated Mic60 ubiquitination and mitochondrial dysfunction pathway a conserved mechanism of developmental neurotoxicity across various metal oxide nanoparticles during prenatal exposure?",
+        "response": {
+            "references": [
+                "Jun-Dong Wang | MDM2-mediated Mic60 ubiquitination drives mitochondrial dysfunction in developmental neurotoxicity | 10.1016/j.redox.2023.102700",
+                "Yue-Bin Sun | Metal oxide nanoparticles induce developmental neurotoxicity via mitochondrial dysfunction pathways | 10.1016/j.scitotenv.2022.158200",
+                "Ling-Ling Wu | Prenatal exposure to titanium dioxide nanoparticles induces MDM2 activation and mitochondrial damage | 10.1016/j.jhazmat.2023.131200",
+                "Xiang-Jun Chen | Conservency of Mic60 ubiquitination-induced neurotoxicity across zinc and copper oxide nanoparticles | 10.1016/j.toxlet.2023.08.002",
+                "Wei-Hong Wang | MDM2/Mic60 pathway mediates prenatal metal nanoparticle-induced developmental neurotoxicity in mouse offspring | 10.1016/j.chemosphere.2023.139400"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4412013230",
+        "model": "gemini",
+        "question": "How do the morphological variations among different macroalgal species globally influence their capacity to trap microplastics relative to ambient waters, and what are the systemic ecological trade-offs of harvesting these macroalgae for coastal plastic bioremediation?",
+        "response": {
+            "references": [
+                "Fiona L. Henriquez | Morphological traits of macroalgae determine their capacity to trap microplastics | 10.1016/j.marpolbul.2021.112900",
+                "Clara M. Diaz | Macroalgae as bioindicators and sinks for microplastics in coastal ecosystems | 10.1016/j.envpol.2022.119400",
+                "S. Sgier | Ecological trade-offs of harvesting wild macroalgae for plastic bioremediation | 10.1016/j.scitotenv.2023.162100",
+                "Javier G. Garcia | Global assessment of microplastic trapping efficiency by different seaweed morphotypes | 10.1016/j.chemosphere.2023.138800",
+                "Elena S. M. Costa | Seaweed-based microplastic remediation: Interplay of morphology, trapping, and ecosystem impacts | 10.1016/j.scitotenv.2023.165200"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7167901854",
+        "model": "gemini",
+        "question": "What are the conserved physiological, molecular, and ecological mechanisms by which symbiotic arbuscular mycorrhizal fungi simultaneously restrict toxic metalloid accumulation in harvestable tissues and stimulate the biosynthesis of high-value secondary metabolites across different medicinal plant taxa?",
+        "response": {
+            "references": [
+                "Yong-Guan Zhu | Arbuscular mycorrhizal fungi restrict arsenic and metalloid translocation in plants | 10.1111/nph.15000",
+                "Abdul Latif Khan | Mycorrhizal symbiosis modulates secondary metabolites and metal tolerance in medicinal plants | 10.1016/j.plaphy.2020.08.010",
+                "Shuo-Xing Zhang | Molecular mechanisms of AM fungi-mediated metalloid exclusion and phytomedicine enhancement | 10.1016/j.jhazmat.2021.125800",
+                "Ming Tang | Arbuscular mycorrhiza enhances secondary metabolite production under heavy metal stress | 10.1016/j.phytochem.2021.112900",
+                "Ru-Mei Liu | Conserved physiological pathways in AMF-associated medicinal plants for metalloid mitigation | 10.1016/j.ecoenv.2022.113600"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4398146537",
+        "model": "gemini",
+        "question": "How do the synergistic mechanisms of rhizosphere metabolic reprogramming and carbon mineralization mediated by plant growth-promoting rhizobacteria (PGPR) vary across different submerged macrophyte species and heavy metal contaminants in aquatic ecosystems?",
+        "response": {
+            "references": [
+                "Sheng-Bing He | PGPR-mediated heavy metal remediation and rhizosphere metabolic alterations in submerged macrophytes | 10.1016/j.jhazmat.2021.126500",
+                "Wei-Xian Zhang | Synergistic mechanisms of carbon mineralization and heavy metal immobilization in aquatic macrophyte rhizospheres | 10.1016/j.scitotenv.2022.155500",
+                "Yan-Hua Zhao | Plant growth-promoting rhizobacteria (PGPR) alter root exudates and metabolic pathways in submerged plants | 10.1016/j.envpol.2022.120200",
+                "Zhi-Hui Yang | Metabolic reprogramming in the rhizosphere of submerged macrophytes under heavy metal stress: PGPR interactions | 10.1016/j.chemosphere.2023.137900",
+                "Jin-Tian Li | Carbon mineralization and nutrient dynamics in heavy metal-contaminated aquatic sediment mediated by PGPR | 10.1016/j.watres.2023.120400"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4407903458",
+        "model": "gemini",
+        "question": "How do the uptake kinetics and innate immunotoxicological impacts of nanoplastics\u2014specifically regarding the downregulation of interferon-stimulated pathways\u2014differ between healthy and compromised intestinal barriers across diverse in vitro biomimetic and in vivo models?",
+        "response": {
+            "references": [
+                "Tanja Busch | Uptake and translocation of nanoplastics across healthy and inflamed intestinal barriers | 10.1016/j.envint.2021.106600",
+                "Sandra G. V. Rocha | Immunotoxicological effects of nanoplastics: Focus on interferon-stimulated genes in intestinal models | 10.1016/j.scitotenv.2022.157800",
+                "Xue-Qiang Shen | Uptake kinetics of polystyrene nanoplastics in biomimetic models of healthy and compromised human gut | 10.1021/acs.est.2c03900",
+                "Lisa C. M. Schmidt | Innate immune response disruption by nanoplastics: Downregulation of interferon pathways in vivo | 10.1016/j.jhazmat.2023.131100",
+                "Jun-Hyeok Park | Comparative immunotoxicity of nanoplastics in healthy and compromised intestinal barrier systems | 10.1016/j.toxlet.2023.06.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4382051664",
+        "model": "gemini",
+        "question": "How do the genomic structures and auxiliary metabolic gene profiles of groundwater viral communities compare across globally diverse oligotrophic aquifers, and what does this reveal about their evolutionary adaptations to nutrient-limited subsurface ecosystems?",
+        "response": {
+            "references": [
+                "Kristopher M. Anantharaman | Genomic diversity and auxiliary metabolic genes of groundwater viruses | 10.1038/s41467-020-17900-y",
+                "Jillian F. Banfield | Viral communities in oligotrophic aquifers: Genomic structures and metabolic potential | 10.1128/mBio.02100-20",
+                "Ru-Xuan Zhang | Evolutionary adaptations and auxiliary metabolic genes in deep subsurface aquifers | 10.1016/j.scitotenv.2021.149100",
+                "Emily D. Graham | Characterization of groundwater viral communities across diverse oligotrophic aquifers | 10.1038/s41396-022-01250-x",
+                "Brett J. Baker | Viral-host metabolic interactions and evolutionary adaptations in subsurface ecosystems | 10.1016/j.tim.2023.01.002"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405284304",
+        "model": "gemini",
+        "question": "How do host intrinsic factors, such as sex and body condition, interact with pesticide exposure to shape the gut microbiota of wild birds, and what are the implications of these dynamics for utilizing avian species as biosentinels of ecosystem health?",
+        "response": {
+            "references": [
+                "Karen D. L. Almas | Intrinsic host factors and pesticide exposure shape the gut microbiome of wild birds | 10.1016/j.envpol.2021.118100",
+                "Sarah A. M. Jenkins | Wild birds as biosentinels: Interaction of body condition and pesticide toxicity on gut microbiota | 10.1016/j.scitotenv.2022.155100",
+                "Ming-Xiao Liu | Sex-dependent effects of pesticide exposure on the gut microbiota of migratory birds | 10.1016/j.chemosphere.2022.136800",
+                "Corinne L. R. Giraud | Avian gut microbiota as biosentinels of agricultural chemical exposure | 10.1016/j.envres.2023.115900",
+                "Thomas S. B. Williams | Interplay between body condition, sex, and organophosphate exposure in shaping wild avian microbiomes | 10.1128/msystems.00200-23"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401838322",
+        "model": "gemini",
+        "question": "How does the efficiency and mechanistic pathway of heterogeneous electro-Fenton-activated persulfate systems utilizing iron-sulfide-modified cathodes compare to other advanced oxidation processes in the degradation and complete mineralization of various microplastic and nanoplastic polymers in aqueous environments?",
+        "response": {
+            "references": [
+                "Ming-Hua Zhou | Heterogeneous electro-Fenton degradation of microplastics using modified carbon cathodes | 10.1016/j.watres.2021.117100",
+                "Xin-Yuan Zhang | Persulfate activation by iron sulfide-modified cathodes for the degradation of nanoplastics | 10.1016/j.jhazmat.2022.128700",
+                "Bo-Yang Lai | Advanced oxidation processes for microplastic and nanoplastic degradation: A review | 10.1016/j.cej.2022.139200",
+                "Juan L. Garcia | Mechanistic pathways of polymer mineralization in electro-Fenton-activated persulfate systems | 10.1016/j.apcatb.2023.122600",
+                "Yan Wang | Comparison of electro-Fenton, persulfate, and other AOPs for microplastic degradation | 10.1016/j.chemosphere.2023.138100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392977640",
+        "model": "gemini",
+        "question": "How do the taxonomic shifts and metabolic pathway disruptions induced by sulfate-radical-based advanced oxidation processes compare across various membrane-based resource recovery systems in mitigating extracellular polymeric substance (EPS)-mediated biofouling?",
+        "response": {
+            "references": [
+                "Zhigang Liu | Sulfate radical-based advanced oxidation processes for biofouling control in membrane systems | 10.1016/j.memsci.2020.118500",
+                "Xiao-Mao Wang | Mitigating extracellular polymeric substance (EPS)-mediated fouling using sulfate-radical AOPs | 10.1016/j.watres.2021.117400",
+                "Jing-Ying Zhang | Microbial taxonomic shifts and metabolic disruptions during sulfate radical oxidation for biofouling control | 10.1016/j.jhazmat.2022.128900",
+                "S. P. S. Bhatia | Extracellular polymeric substances (EPS) degradation and metabolic pathway alteration by SR-AOPs in membrane bioreactors | 10.1016/j.cej.2022.139500",
+                "Jun-Wei Huang | Comparison of biofouling mitigation strategies in membrane-based resource recovery systems: Focus on AOPs | 10.1016/j.desal.2023.116500"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4388784568",
+        "model": "gemini",
+        "question": "How do the morphological characteristics and release dynamics of microplastics generated by the rapid, high-energy rupture of elastomeric materials like balloons compare to those produced via the long-term environmental weathering of rigid polymers, and what are the consensus analytical frameworks in current literature for scaling up their localized quantification?",
+        "response": {
+            "references": [
+                "Chelsea M. Rochman | Microplastic release dynamics from weathered rigid polymers vs. elastomeric materials | 10.1016/j.envint.2021.106700",
+                "Richard C. Thompson | Characterization of microplastics generated from rapid rupture of elastomeric balloons | 10.1016/j.marpolbul.2022.113500",
+                "Natalie S. Welden | Analytical frameworks for local-to-global quantification of atmospheric and aquatic microplastics | 10.1016/j.scitotenv.2022.156200",
+                "Sarah L. Gall | Weathering mechanisms and fragmentation kinetics of flexible vs. rigid plastic waste | 10.1016/j.envpol.2022.120600",
+                "Fabienne Lagarde | Standardizing microplastic quantification: Comparative analysis of elastomeric and thermoplastic fragments | 10.1016/j.trac.2023.117100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4390700326",
+        "model": "gemini",
+        "question": "How does the integration of silane counterions in quaternary ammonium compounds (Si-QACs) compare to other structural modification strategies in balancing broad-spectrum antimicrobial efficacy with reduced eukaryotic toxicity and environmental persistence?",
+        "response": {
+            "references": [
+                "Peter A. C. S. S. Cooper | Antimicrobial efficacy and safety of silane-containing quaternary ammonium compounds | 10.1016/j.colsurfb.2019.110400",
+                "Jeffrey F. Williams | Silane counterions in quaternary ammonium compounds: Balancing antimicrobial activity and toxicity | 10.1016/j.biomaterials.2020.120100",
+                "Maria G. L. L. Sobral | Structural modification of quaternary ammonium compounds for reduced environmental persistence | 10.1016/j.envpol.2021.118000",
+                "Kenichi Kuroda | Comparative evaluation of Si-QACs and polymer-derived biocides on eukaryotic cells | 10.1021/acs.biomac.1c01200",
+                "Gregory L. Baker | Synthesis and antimicrobial evaluation of silane quaternary ammonium salts | 10.1016/j.eurpolymj.2022.111400"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4394719467",
+        "model": "gemini",
+        "question": "How do varying thermal treatment parameters\u2014such as temperature, residence time, and reactor technology\u2014affect the trade-off between the destruction efficiencies of persistent organic pollutants like PFAS and the environmental partitioning of heavy metals during sewage sludge valorization?",
+        "response": {
+            "references": [
+                "Thabet Tolaymat | Destruction of PFAS and partitioning of heavy metals during thermal treatment of sewage sludge | 10.1016/j.jhazmat.2021.126800",
+                "Stephen R. L. R. S. S. Jenkins | Influence of temperature and residence time on PFAS destruction during pyrolysis of sewage sludge | 10.1016/j.scitotenv.2021.150400",
+                "Linda S. Lee | Environmental partitioning of heavy metals and destruction of organic pollutants during sludge gasification | 10.1016/j.wasman.2022.04.015",
+                "Hong-Min Park | Reactor technologies for sewage sludge valorization: Trade-offs between PFAS elimination and metal retention | 10.1016/j.envres.2022.114100",
+                "Daniel S. Alessi | Thermal destruction of PFAS in biosolid matrices: Mechanisms and metal volatilization dynamics | 10.1016/j.cej.2023.141600"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7135174909",
+        "model": "gemini",
+        "question": "How do the predictive accuracies and parameter sensitivities of different numerical models for radon transport in multi-layered porous covers compare across various industrial waste repositories, such as phosphogypsum and uranium tailings, in contemporary literature?",
+        "response": {
+            "references": [
+                "Christian Kunze | Modeling radon transport in multi-layered covers for uranium mill tailings | 10.1016/j.jenvrad.2018.06.012",
+                "G. S. S. S. Sener | Radon diffusion and transport models through phosphogypsum and soil cover systems | 10.1007/s10967-019-06500-w",
+                "W. H. Zhang | Sensitivity analysis of radon transport parameters in multi-layered porous covers for mining wastes | 10.1016/j.apgeochem.2020.104600",
+                "Charles D. Shackelford | Numerical modeling of radon gas mitigation in engineered multi-layer covers | 10.1016/j.conbuildmat.2021.122800",
+                "Mostafa Mostafa | Comparison of numerical models for predicting radon flux from uranium tailings repositories | 10.1016/j.watres.2022.118900"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7128997066",
+        "model": "gemini",
+        "question": "How do transcriptomic-based points of departure (PoDs) derived from in vitro-to-in vivo extrapolation (IVIVE) methodologies compare to traditional in vivo apical endpoints in terms of sensitivity, biological relevance, and predictive accuracy for human health risk assessments across the broader class of per- and polyfluoroalkyl substances (PFAS)?",
+        "response": {
+            "references": [
+                "Russell S. Thomas | Comparing transcriptomic-based points of departure with traditional apical endpoints for PFAS | 10.1093/toxsci/kfaa050",
+                "Julia E. Rager | Transcriptomic points of departure and IVIVE of per- and polyfluoroalkyl substances (PFAS) in human cells | 10.1016/j.fct.2020.111800",
+                "Richard S. Judson | In vitro-to-in vivo extrapolation (IVIVE) of PFAS for chemical risk assessment | 10.1016/j.toxlet.2021.03.010",
+                "Shuaizhang Li | Quantitative in vitro-to-in vivo extrapolation (qIVIVE) of transcriptomic responses to PFAS exposure | 10.1016/j.scitotenv.2021.151200",
+                "Keith Houck | Biological relevance and predictive accuracy of transcriptomic PoDs in PFAS risk assessment | 10.1289/EHP10200"
+            ]
+        }
+    }
+]

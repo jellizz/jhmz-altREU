@@ -103,7 +103,7 @@ Return one result for every question provided.
 Preserve each question's id exactly.
 """
 
-ANTHROPIC_RESPONSE_SCHEMA = {
+RESPONSE_SCHEMA = {
     "type": "object",
     "properties": {
         "results": {
@@ -165,13 +165,21 @@ def build_prompt(question, prompt_base=prompt_base_v1):
     return f"{prompt_base}. Answer this specific question: {question}"
 '''
 
-def batch_build_prompt(questions, prompt_base=prompt_base_v2):
+def batch_build_prompt(questions, prompt_base=prompt_base_v4):
+    simplified_questions = [
+        {
+            "id": q["id"],
+            "question": q["question"]
+        }
+        for q in questions
+    ]
+
     return f"""
 {prompt_base}
 
-Here are the questions:
+Questions:
 
-{json.dumps(questions, indent=2)}
+{json.dumps(simplified_questions, indent=2)}
 """
 
 # 3. Make call to LLM API to prompt
@@ -241,6 +249,7 @@ def batch_prompt_llm(prompt, llm):
 
     if llm == "anthropic":
         client = anthropic_client
+
         response = client.messages.create(
             model="claude-opus-4-8",
             max_tokens=16000,
@@ -253,10 +262,11 @@ def batch_prompt_llm(prompt, llm):
             output_config={
                 "format": {
                     "type": "json_schema",
-                    "schema": ANTHROPIC_RESPONSE_SCHEMA,
+                    "schema": RESPONSE_SCHEMA,
                 }
             },
         )
+
         print(
             f"Input tokens: {response.usage.input_tokens:,} | "
             f"Output tokens: {response.usage.output_tokens:,} | "
@@ -284,6 +294,48 @@ def batch_prompt_llm(prompt, llm):
             f"GPT response received."
         )
         return json.loads(response.output_text)
+
+    elif llm == "gemini":
+        client = gemini_client
+
+        response = client.interactions.create(
+            model="gemini-3.5-flash",
+            input=prompt,
+
+            response_format={
+                "type": "text",
+                "mime_type": "application/json",
+                "schema": RESPONSE_SCHEMA,
+            },
+
+            generation_config={
+                "max_output_tokens": 65536,
+            },
+        )
+
+        print("OUTPUT TEXT LENGTH:", len(response.output_text))
+
+        print(
+            f"Input tokens: {response.usage.total_input_tokens:,} | "
+            f"Output tokens: {response.usage.total_output_tokens:,}"
+        )
+
+        print("Response object:")
+        print("OUTPUT TEXT LENGTH:", len(response.output_text))
+        print("OUTPUT TEXT END:")
+        print(response.output_text[-2000:])
+
+        print("STATUS:", response.status)
+        print("OUTPUT TOKENS:", response.usage.total_output_tokens)
+        print("OUTPUT LENGTH:", len(response.output_text))
+        try:
+            return json.loads(response.output_text)
+        except json.JSONDecodeError as e:
+            print("Gemini returned invalid/truncated JSON.")
+            print("Output length:", len(response.output_text))
+            print("Last 1000 characters:")
+            print(response.output_text[-1000:])
+            raise
 
     else:
         raise ValueError(
@@ -378,9 +430,9 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 def batch_generate_responses(
     questions_file,
     output_file,
-    llm="testing",
-    prompt_base=prompt_base_v3,
-    batch_size=10
+    llm="gemini",
+    prompt_base=prompt_base_v4,
+    batch_size=20
 ):
     """
     Reads lit-review questions from questions_file, sends them to the LLM
@@ -582,9 +634,9 @@ def batch_generate_responses(
 if __name__ == "__main__":
     # Claude completed
     batch_generate_responses(
-        questions_file="data/questions/questions_S49861241.json",
-        output_file="data/responses/anthropic/responses_anthr_S49861241.json",
-        llm="anthropic",
+        questions_file="data/questions/questions_S4210175523.json",
+        output_file="data/responses/gemini/responses_gem_S4210175523_IEEEneuralnet.json",
+        llm="gemini",
         prompt_base=prompt_base_v4,
         batch_size=50
     )
