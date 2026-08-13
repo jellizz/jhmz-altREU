@@ -1,14 +1,25 @@
 """
-For a verified file of references, identifies the gender of the first author
-and edits the JSON to provide information about gender and probability.
+For a verified file of references (already processed by id_author.py, so
+each reference carries an "identified_authors" list), identifies the
+gender of the author and edits the JSON to provide information about
+gender and probability.
 
 For each reference:
-1. If "matched_database_author" exists, compare it to "ref_authors"[0].
-2. Choose the more information-rich version of the name.
-3. If "matched_database_author" does not exist, use "ref_authors"[0].
-   This is still genderized even if the author was not verified.
-4. Send the selected names to genderize.io.
-5. Add:
+1. Take the cited author, ref_authors[0] — this is the ONLY author
+   listed for a reference (ref_authors always has exactly one entry),
+   not merely the first of several. Look up its matching entry in
+   "identified_authors" (matched by "cited_name").
+2. From that entry, choose the LONGER of "cited_name" and "fullest_name"
+   (fullest_name is only used if the author was actually found, i.e.
+   "author_exists" is true).
+3. If no "identified_authors" entry is available at all (e.g. the file
+   hasn't been through id_author.py, or the author wasn't found), fall
+   back to the previous behavior: compare "matched_database_author" to
+   "ref_authors"[0] and pick whichever is more information-rich.
+4. If available, "organization_country_id" is passed to genderize.io as
+   an extra (optional) signal to improve accuracy. It is never required.
+5. Send the selected names (+ optional country) to genderize.io.
+6. Add:
        "gender": ...
        "gender_probability": ...
    to each reference.
@@ -52,6 +63,9 @@ def name_information_score(name):
     """
     Gives a rough score for how information-rich an author name is.
     Mostly, full names are preferred over initials.
+
+    Only used as a FALLBACK, for references that don't have an
+    "identified_authors" entry to work from.
     """
 
     if not name:
@@ -80,26 +94,93 @@ def name_information_score(name):
     return score
 
 
-def choose_best_author_name(reference):
+def get_identified_author(reference):
     """
-    Selects the most information-rich first-author name.
+    Return the "identified_authors" entry (dict) that corresponds to the
+    cited author, ref_authors[0] — the only author on the reference.
 
-    Priority:
-
-    1. Compare "matched_database_author" and "ref_authors"[0]
-       if both are available.
-    2. Choose the more information-rich name.
-    3. If only one exists, use that one.
-    4. If no matched database author exists, use ref_authors[0].
-
-    Returns the selected author name.
+    "identified_authors" is positional: entry[0] corresponds to
+    ref_authors[0]. We match by position rather than by a "cited_name"
+    field, since that field is redundant (it would just duplicate
+    ref_authors[0]) and id_author.py no longer writes it. This also
+    keeps this function working on older files that still happen to
+    carry a "cited_name" field, since we never look at it.
     """
 
     ref_authors = reference.get("ref_authors", [])
-    ref_author = None
 
-    if ref_authors:
-        ref_author = ref_authors[0]
+    if not ref_authors:
+        return None
+
+    identified_authors = reference.get(
+        "identified_authors", []
+    ) or []
+
+    if not identified_authors:
+        return None
+
+    return identified_authors[0]
+
+
+def choose_best_author_name_and_country(reference):
+    """
+    Selects the most information-rich name for the reference's (sole)
+    cited author, plus an optional organization country to help
+    genderize.io.
+
+    Priority:
+
+    1. If an "identified_authors" entry exists (identified_authors[0],
+       matched positionally to ref_authors[0]), pick the LONGER of
+       ref_authors[0] and "fullest_name" (fullest_name only counts if
+       "author_exists" is true). "organization_country_id" from that
+       entry is returned alongside, if available.
+    2. Otherwise, fall back to comparing "matched_database_author" and
+       "ref_authors"[0] via name_information_score, as before. No
+       country is available in this fallback path.
+
+    Returns a tuple: (name, organization_country_id)
+    Either element may be None.
+    """
+
+    entry = get_identified_author(reference)
+
+    if entry:
+
+        ref_authors = reference.get("ref_authors", [])
+        cited_name = ref_authors[0] if ref_authors else None
+
+        fullest_name = None
+        if entry.get("author_exists"):
+            fullest_name = entry.get("fullest_name")
+
+        country_id = entry.get(
+            "organization_country_id"
+        )  # optional; may be None
+
+        if cited_name and fullest_name:
+            name = (
+                cited_name
+                if len(cited_name) >= len(fullest_name)
+                else fullest_name
+            )
+        elif fullest_name:
+            name = fullest_name
+        else:
+            name = cited_name
+
+        if name:
+            return name, country_id
+
+        # Fall through to the legacy fallback if the entry was
+        # somehow empty.
+
+    # ------------------------------------------------------------------
+    # Fallback: no identified_authors entry available.
+    # ------------------------------------------------------------------
+
+    ref_authors = reference.get("ref_authors", [])
+    ref_author = ref_authors[0] if ref_authors else None
 
     matched_author = reference.get("matched_database_author")
 
@@ -107,31 +188,38 @@ def choose_best_author_name(reference):
         ref_score = name_information_score(ref_author)
         matched_score = name_information_score(matched_author)
 
-        if matched_score > ref_score:
-            return matched_author
+        name = (
+            matched_author
+            if matched_score > ref_score
+            else ref_author
+        )
 
-        return ref_author
+        return name, None
 
-    # cases w/ only 1 name
     if matched_author:
-        return matched_author
+        return matched_author, None
 
     if ref_author:
-        return ref_author
+        return ref_author, None
 
-    # edge case no names
-    return None
+    return None, None
 
 
-def _build_params(names_batch):
+def _build_params(pairs_batch):
     """
     Builds genderize.io request parameters.
+
+    pairs_batch is a list of (name, country_id) tuples. country_id is
+    optional and only added to the request when present.
     """
 
     params = {}
 
-    for i, name in enumerate(names_batch):
+    for i, (name, country_id) in enumerate(pairs_batch):
         params[f"name[{i}]"] = name
+
+        if country_id:
+            params[f"country_id[{i}]"] = country_id
 
     if GENDERIZE_API_KEY:
         params["apikey"] = GENDERIZE_API_KEY
@@ -139,20 +227,23 @@ def _build_params(names_batch):
     return params
 
 
-def get_gender_bulk(names, max_retries=3):
+def get_gender_bulk(name_country_pairs, max_retries=3):
     """
     Queries genderize.io in batches of 10.
-    Returns results in the same order as the input names.
+
+    name_country_pairs is a list of (name, country_id) tuples, where
+    country_id may be None. Returns results in the same order as the
+    input pairs.
     """
 
     results = []
 
     for i in range(
         0,
-        len(names),
+        len(name_country_pairs),
         BULK_BATCH_SIZE
     ):
-        batch = names[
+        batch = name_country_pairs[
             i:i + BULK_BATCH_SIZE
         ]
 
@@ -161,7 +252,7 @@ def get_gender_bulk(names, max_retries=3):
         print(
             f"\nGenderizing names "
             f"{i + 1}-{i + len(batch)} "
-            f"of {len(names)}..."
+            f"of {len(name_country_pairs)}..."
         )
 
         for attempt in range(max_retries):
@@ -200,12 +291,18 @@ def get_gender_bulk(names, max_retries=3):
 
                 results.extend(batch_results)
 
-                for name, result in zip(
+                for (name, country_id), result in zip(
                     batch,
                     batch_results
                 ):
+                    country_note = (
+                        f", country={country_id}"
+                        if country_id
+                        else ""
+                    )
+
                     print(
-                        f"  {name} -> "
+                        f"  {name}{country_note} -> "
                         f"{result.get('gender')} "
                         f"({result.get('probability')})"
                     )
@@ -244,11 +341,58 @@ def get_gender_bulk(names, max_retries=3):
                                 "gender": None,
                                 "probability": None
                             }
-                            for name in batch
+                            for name, _country_id in batch
                         ]
                     )
 
     return results
+
+
+def find_reference_dicts(node):
+    """
+    Recursively locate every reference dict within an arbitrarily-shaped
+    JSON structure.
+
+    A "reference dict" is identified by having a "ref_authors" key —
+    that's the one field that's always present on a reference, in every
+    shape this file might come in:
+
+      - the normal shape: a list of paper records, each with a
+        "references" list of reference dicts.
+      - a flat list of reference dicts directly (e.g. a hand-built test
+        file with no paper-record wrapper).
+      - a dict wrapped in a common container key ("results", "data",
+        "items", "records").
+
+    This makes the script robust to shape mismatches instead of
+    silently finding zero references to process.
+    """
+
+    found = []
+
+    if isinstance(node, dict):
+
+        if "ref_authors" in node:
+            found.append(node)
+
+        elif "references" in node:
+            found.extend(
+                find_reference_dicts(node["references"])
+            )
+
+        else:
+            for key in ("results", "data", "items", "records"):
+                if key in node:
+                    found.extend(
+                        find_reference_dicts(node[key])
+                    )
+
+    elif isinstance(node, list):
+
+        for item in node:
+            found.extend(find_reference_dicts(item))
+
+    return found
 
 
 # ----------------------------------------------------------------------
@@ -257,9 +401,9 @@ def get_gender_bulk(names, max_retries=3):
 
 def add_gender_to_verified_file(input_file):
     """
-    Loads a verified-reference JSON file, identifies the first author
-    of every reference, queries genderize.io, and adds gender information
-    directly to the existing JSON file.
+    Loads a verified-reference JSON file, identifies the (sole) cited
+    author of every reference, queries genderize.io, and adds gender
+    information directly to the existing JSON file.
 
     Added fields:
 
@@ -280,74 +424,88 @@ def add_gender_to_verified_file(input_file):
 
     data = load_file(input_file)
 
-    if not isinstance(data, list):
+    if not isinstance(data, (list, dict)):
         raise ValueError(
-            "Expected the input JSON to contain a list of records."
+            "Expected the input JSON to contain a list or dict."
         )
 
     # --------------------------------------------------------------
-    # Collect first-author names
+    # Discover every reference dict, regardless of nesting shape.
     # --------------------------------------------------------------
 
-    names_to_genderize = []
-    reference_locations = []
-
-    for record_index, record in enumerate(data):
-
-        references = record.get(
-            "references",
-            []
-        )
-
-        for reference_index, reference in enumerate(
-            references
-        ):
-
-            # If gender has already been added, skip this reference.
-            if (
-                "gender" in reference
-                and "gender_probability" in reference
-            ):
-                print(
-                    f"  Skipping already genderized: "
-                    f"{record_index}, {reference_index}"
-                )
-                continue
-
-            author_name = choose_best_author_name(
-                reference
-            )
-
-            if not author_name:
-
-                print(
-                    f"\nWARNING: No author found for "
-                    f"record {record_index}, "
-                    f"reference {reference_index}"
-                )
-
-                reference["gender"] = None
-                reference["gender_probability"] = None
-
-                continue
-
-            names_to_genderize.append(
-                author_name
-            )
-
-            reference_locations.append(
-                (
-                    record_index,
-                    reference_index
-                )
-            )
+    all_references = find_reference_dicts(data)
 
     print(
-        f"\nFound {len(names_to_genderize)} "
+        f"Found {len(all_references)} total reference entries "
+        f"in the file."
+    )
+
+    if not all_references:
+
+        print(
+            "No reference entries were found — check that the input "
+            "file actually contains \"ref_authors\" fields somewhere "
+            "in its structure."
+        )
+
+        return
+
+    # --------------------------------------------------------------
+    # Collect cited-author names (+ optional country)
+    # --------------------------------------------------------------
+
+    author_country_pairs = []
+    reference_objects = []
+
+    skipped = 0
+    no_author = 0
+
+    for reference in all_references:
+
+        # If gender has already been added, skip this reference.
+        if (
+            "gender" in reference
+            and "gender_probability" in reference
+        ):
+            skipped += 1
+            continue
+
+        author_name, country_id = choose_best_author_name_and_country(
+            reference
+        )
+
+        if not author_name:
+
+            no_author += 1
+
+            print(
+                f"\nWARNING: No author found for reference: "
+                f"{reference.get('citation', '<unknown citation>')}"
+            )
+
+            reference["gender"] = None
+            reference["gender_probability"] = None
+
+            continue
+
+        author_country_pairs.append(
+            (author_name, country_id)
+        )
+
+        reference_objects.append(reference)
+
+    if skipped:
+        print(f"Skipped {skipped} already-genderized reference(s).")
+
+    if no_author:
+        print(f"Skipped {no_author} reference(s) with no usable author name.")
+
+    print(
+        f"\nFound {len(author_country_pairs)} "
         f"author names to genderize."
     )
 
-    if not names_to_genderize:
+    if not author_country_pairs:
 
         print(
             "No new author names to genderize."
@@ -360,7 +518,7 @@ def add_gender_to_verified_file(input_file):
     # --------------------------------------------------------------
 
     gender_results = get_gender_bulk(
-        names_to_genderize
+        author_country_pairs
     )
 
     # --------------------------------------------------------------
@@ -368,7 +526,7 @@ def add_gender_to_verified_file(input_file):
     # --------------------------------------------------------------
 
     if len(gender_results) != len(
-        reference_locations
+        reference_objects
     ):
 
         print(
@@ -376,27 +534,22 @@ def add_gender_to_verified_file(input_file):
         )
 
         print(
-            f"Expected {len(reference_locations)} "
+            f"Expected {len(reference_objects)} "
             f"gender results, but received "
             f"{len(gender_results)}."
         )
 
     # --------------------------------------------------------------
-    # Add results to references
+    # Add results to references (each `reference` here IS the same
+    # dict object living inside `data`, so mutating it in place
+    # updates `data` directly — no index bookkeeping needed, and it
+    # works regardless of how deeply/oddly the JSON is nested).
     # --------------------------------------------------------------
 
-    for location, result in zip(
-        reference_locations,
+    for reference, result in zip(
+        reference_objects,
         gender_results
     ):
-
-        record_index, reference_index = location
-
-        reference = data[
-            record_index
-        ]["references"][
-            reference_index
-        ]
 
         reference["gender"] = result.get(
             "gender"
@@ -424,33 +577,28 @@ def add_gender_to_verified_file(input_file):
     high_confidence = 0
     unknown = 0
 
-    for record in data:
+    for reference in all_references:
 
-        for reference in record.get(
-            "references",
-            []
+        total += 1
+
+        gender = reference.get(
+            "gender"
+        )
+
+        probability = reference.get(
+            "gender_probability"
+        )
+
+        if gender:
+            gender_found += 1
+        else:
+            unknown += 1
+
+        if (
+            probability is not None
+            and probability >= 0.8
         ):
-
-            total += 1
-
-            gender = reference.get(
-                "gender"
-            )
-
-            probability = reference.get(
-                "gender_probability"
-            )
-
-            if gender:
-                gender_found += 1
-            else:
-                unknown += 1
-
-            if (
-                probability is not None
-                and probability >= 0.8
-            ):
-                high_confidence += 1
+            high_confidence += 1
 
     print(
         f"\n{'=' * 50}"
