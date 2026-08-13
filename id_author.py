@@ -12,15 +12,9 @@ For each author:
       "author_exists": boolean
       "fullest_name": fullest plausible name from the SAME OpenAlex author
       "h_index": OpenAlex h-index
+      "works_count": OpenAlex total works count for the author
       "organization_country_id": country code of their organization, if available
 4. Modify the original JSON file in place.
-
-Important:
-- We prioritize precision over recall.
-- We do NOT perform additional broad searches just to find a fuller name.
-- If OpenAlex only provides initials for the matched author, initials are kept.
-- We never switch to a different author merely because that author has a
-  fuller-looking name.
 """
 
 from __future__ import annotations
@@ -52,7 +46,7 @@ REQUEST_TIMEOUT = 15
 #
 # Increased from 0.25 seconds because this script is intended for
 # high-volume processing.
-REQUEST_DELAY = 0.10
+REQUEST_DELAY = 0.5
 
 # Retry settings for rate limiting / temporary failures.
 MAX_RETRIES = 5
@@ -443,12 +437,6 @@ def get_work_topic(work_id):
         or {}
     )
 
-    topic = (
-        primary_topic.get(
-            "id"
-        )
-    )
-
     topic_id = (
         primary_topic.get(
             "id"
@@ -491,10 +479,6 @@ def get_work_topic(work_id):
             "display_name"
         ),
     }
-
-    # `topic` is not otherwise needed, but retaining the variable above
-    # makes it easy to inspect during debugging.
-    _ = topic
 
     work_cache[cache_key] = result
 
@@ -915,6 +899,7 @@ def process_file(path):
                     "author_exists": False,
                     "fullest_name": None,
                     "h_index": None,
+                    "works_count": None,
                     "organization_country_id": None,
                 }
 
@@ -941,6 +926,14 @@ def process_file(path):
                         "h_index"
                     ] = summary_stats.get(
                         "h_index"
+                    )
+
+                    # OpenAlex reports this directly on the author
+                    # record as their total number of works.
+                    author_info[
+                        "works_count"
+                    ] = author.get(
+                        "works_count"
                     )
 
                     # OpenAlex's current institutions.
