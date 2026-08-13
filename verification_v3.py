@@ -694,9 +694,8 @@ def validate_references(input_file, output_file):
 
 
 if __name__ == "__main__":
-
     
     validate_references(
-        input_file="data/responses/gpt/responses_gpt_S4210175523.json",
-        output_file="data/verification/gpt/checked_gpt_S4210175523.json"
+        input_file="data/responses/gemini/responses_gem_S1980519_astrophys.json",
+        output_file="data/verification/gemini/checked_gem_S1980519_astrophys.json"
     )
