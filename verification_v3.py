@@ -699,6 +699,3 @@ if __name__ == "__main__":
         input_file="data/responses/gemini/responses_gem_S1980519_astrophys.json",
         output_file="data/verification/gemini/checked_gem_S1980519_astrophys.json"
     )
-    
-    
-
