@@ -430,7 +430,7 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 def batch_generate_responses(
     questions_file,
     output_file,
-    llm="gemini",
+    llm="anthropic",
     prompt_base=prompt_base_v4,
     batch_size=20
 ):
@@ -634,9 +634,9 @@ def batch_generate_responses(
 if __name__ == "__main__":
     # Claude completed
     batch_generate_responses(
-        questions_file="data/questions/questions_S4210175523.json",
-        output_file="data/responses/gemini/responses_gem_S4210175523_IEEEneuralnet.json",
-        llm="gemini",
+        questions_file="data/responses/anthropic/responses_anthr_S110447773_cell.json",
+        output_file="data/responses/anthropic/responses_anthr_S110447773_cell.json",
+        llm="anthropic",
         prompt_base=prompt_base_v4,
-        batch_size=50
+        batch_size=1
     )
