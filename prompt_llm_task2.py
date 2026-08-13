@@ -103,7 +103,7 @@ Return one result for every question provided.
 Preserve each question's id exactly.
 """
 
-ANTHROPIC_RESPONSE_SCHEMA = {
+RESPONSE_SCHEMA = {
     "type": "object",
     "properties": {
         "results": {
@@ -165,13 +165,21 @@ def build_prompt(question, prompt_base=prompt_base_v1):
     return f"{prompt_base}. Answer this specific question: {question}"
 '''
 
-def batch_build_prompt(questions, prompt_base=prompt_base_v2):
+def batch_build_prompt(questions, prompt_base=prompt_base_v4):
+    simplified_questions = [
+        {
+            "id": q["id"],
+            "question": q["question"]
+        }
+        for q in questions
+    ]
+
     return f"""
 {prompt_base}
 
-Here are the questions:
+Questions:
 
-{json.dumps(questions, indent=2)}
+{json.dumps(simplified_questions, indent=2)}
 """
 
 # 3. Make call to LLM API to prompt
@@ -229,6 +237,7 @@ def prompt_llm(prompt, llm):
 def batch_prompt_llm(prompt, llm):
     if llm == "anthropic":
         client = anthropic_client
+
         response = client.messages.create(
             model="claude-opus-4-8",
             max_tokens=10000,
@@ -241,10 +250,11 @@ def batch_prompt_llm(prompt, llm):
             output_config={
                 "format": {
                     "type": "json_schema",
-                    "schema": ANTHROPIC_RESPONSE_SCHEMA,
+                    "schema": RESPONSE_SCHEMA,
                 }
             },
         )
+
         print(
             f"Input tokens: {response.usage.input_tokens:,} | "
             f"Output tokens: {response.usage.output_tokens:,} | "
@@ -252,6 +262,48 @@ def batch_prompt_llm(prompt, llm):
         )
 
         return json.loads(response.content[0].text)
+
+    elif llm == "gemini":
+        client = gemini_client
+
+        response = client.interactions.create(
+            model="gemini-3.5-flash",
+            input=prompt,
+
+            response_format={
+                "type": "text",
+                "mime_type": "application/json",
+                "schema": RESPONSE_SCHEMA,
+            },
+
+            generation_config={
+                "max_output_tokens": 65536,
+            },
+        )
+
+        print("OUTPUT TEXT LENGTH:", len(response.output_text))
+
+        print(
+            f"Input tokens: {response.usage.total_input_tokens:,} | "
+            f"Output tokens: {response.usage.total_output_tokens:,}"
+        )
+
+        print("Response object:")
+        print("OUTPUT TEXT LENGTH:", len(response.output_text))
+        print("OUTPUT TEXT END:")
+        print(response.output_text[-2000:])
+
+        print("STATUS:", response.status)
+        print("OUTPUT TOKENS:", response.usage.total_output_tokens)
+        print("OUTPUT LENGTH:", len(response.output_text))
+        try:
+            return json.loads(response.output_text)
+        except json.JSONDecodeError as e:
+            print("Gemini returned invalid/truncated JSON.")
+            print("Output length:", len(response.output_text))
+            print("Last 1000 characters:")
+            print(response.output_text[-1000:])
+            raise
 
     else:
         return "QUESTION:\nWhat is a pineapple?\nANSWER:\nA fruit.\nREFERENCES:\n[1] Doe, John. (2026). Pineapple. Pineapple Journal, 1(23), 45-67. DOI: pineapple.com.\n[2] Doe, Jane. (1234). Original Pineapple. Pineapple Origins, 1(23), 45-67. DOI: pineapple.og.com."
@@ -345,9 +397,9 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 def batch_generate_responses(
     questions_file,
     output_file,
-    llm="anthropic",
-    prompt_base=prompt_base_v3,
-    batch_size=10
+    llm="gemini",
+    prompt_base=prompt_base_v4,
+    batch_size=20
 ):
     """
     Reads lit-review questions from questions_file, sends them to the LLM
@@ -399,7 +451,7 @@ def batch_generate_responses(
         # Structured output should already be a Python dictionary
         results = raw_response["results"]
 
-        # Make lookup by id so we can match Claude's references
+        # Make lookup by id so we can match LLM's references
         # to the original questions
         results_by_id = {
             result["id"]: result
@@ -458,12 +510,14 @@ def batch_generate_responses(
 if __name__ == "__main__":
     # Claude completed
     batch_generate_responses(
-        questions_file="data/questions/questions_S23254222.json",
-        output_file="data/responses/anthropic/responses_anthr_S23254222_americaneconomic.json",
-        llm="anthropic",
+        questions_file="data/questions/questions_S4210175523.json",
+        output_file="data/responses/gemini/responses_gem_S4210175523_IEEEneuralnet.json",
+        llm="gemini",
         prompt_base=prompt_base_v4,
-        batch_size=20
+        batch_size=25
     )
+
+
 
     # # calling on anthropic and abstracts_S24807848.json (Physical Review Letters)
     # generate_responses(
