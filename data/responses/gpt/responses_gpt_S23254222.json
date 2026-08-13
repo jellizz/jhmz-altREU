@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "https://openalex.org/W7117741318",
+        "model": "gpt",
+        "question": "How do experimentally elicited higher-order risk preferences such as prudence and temperance, compared with conventional risk aversion and survey-based risk tolerance measures, explain adolescents\u2019 real-world prevention, health, addictive, and financial behaviors across the broader literature on decision-making under risk?",
+        "response": {
+            "references": [
+                "Louis Eeckhoudt | Putting Risk in Its Proper Place | 10.1257/000282806776157614",
+                "James C. Cox | On the empirical relevance of St. Petersburg lotteries | 10.1007/s11166-013-9176-3",
+                "Sascha O. Becker | The Preference Survey Module: A Validated Instrument for Measuring Risk, Time, and Social Preferences | 10.1287/mnsc.2015.2160",
+                "Matthias Sutter | Impatience and Uncertainty: Experimental Decisions Predict Adolescents' Field Behavior | 10.1257/aer.103.1.510",
+                "Thomas Dohmen | Individual Risk Attitudes: Measurement, Determinants, and Behavioral Consequences | 10.1111/j.1468-0297.2011.02440.x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3156295346",
+        "model": "gpt",
+        "question": "How do spatial-equilibrium models of state corporate tax incidence that incorporate firm mobility, heterogeneous firm productivity, and location-specific amenities alter conclusions about the distribution of tax burdens among workers, landowners, and firm owners relative to empirical estimates in Serrato and Zidar (2016) and subsequent critiques?",
+        "response": {
+            "references": [
+                "Juan Carlos Su\u00e1rez Serrato | Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms | 10.1257/aer.20141702",
+                "Pablo D. Fajgelbaum | State Taxes and Spatial Misallocation | 10.1093/restud/rdz032",
+                "Xavier Giroud | State Taxation and the Reallocation of Business Activity: Evidence from Establishment-Level Data | 10.1086/701357",
+                "Enrico Moretti | The Effect of State Taxes on the Geographical Location of Top Earners: Evidence from Star Scientists | 10.1257/aer.20150508",
+                "Alan J. Auerbach | Who Bears the Corporate Tax? A Review of What We Know | 10.1086/ntj41790447"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166705293",
+        "model": "gpt",
+        "question": "How does the broader empirical literature on agglomeration economies, inventor mobility, and innovation productivity assess whether technology cluster size causally increases patenting, particularly in light of methodological concerns about event-study identification and instrumental-variable validity?",
+        "response": {
+            "references": [
+                "Enrico Moretti | The Effect of High-Tech Clusters on the Productivity of Top Inventors | 10.1257/aer.20191277",
+                "Gerald A. Carlino | Urban density and the rate of invention | 10.1016/j.jue.2006.08.003",
+                "William R. Kerr | The Supply Side of Innovation: H-1B Visa Reforms and U.S. Ethnic Invention | 10.1016/j.jue.2010.06.006",
+                "Michael Greenstone | Identifying Agglomeration Spillovers: Evidence from Winners and Losers of Large Plant Openings | 10.1086/653714",
+                "Ufuk Akcigit | Taxation and the International Mobility of Inventors | 10.1257/aer.20150237"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3081646121",
+        "model": "gpt",
+        "question": "How do generalized interval and polyhedral hiring constraints in Kelso-Crawford job matching models relate to prior substitute-preserving restrictions in matching with contracts, matroidal choice, and gross substitutes demand, and what do these connections imply for the existence and structure of competitive equilibria in healthcare labor markets?",
+        "response": {
+            "references": [
+                "Alexander S. Kelso | Job Matching, Coalition Formation, and Gross Substitutes | 10.2307/1912196",
+                "John William Hatfield | Matching with Contracts | 10.1257/000282805774670167",
+                "John William Hatfield | Substitutes and Stability for Matching with Contracts | 10.1016/j.jet.2011.01.007",
+                "Fuhito Kojima | Matching with Couples: Stability and Incentives in Large Markets | 10.1257/aer.103.1.303",
+                "Fuhito Kojima | Matching with Constraints: How to Match Scarce Resources | 10.1257/aer.20150780"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405889145",
+        "model": "gpt",
+        "question": "How do minimum wage policies in online labor markets affect firm hiring behavior, worker productivity composition, hours worked, and job posting decisions compared with evidence from traditional labor markets and other digital platform settings?",
+        "response": {
+            "references": [
+                "John J. Horton | The Effects of Algorithmic Labor Market Recommendations: Evidence from a Field Experiment | 10.1162/rest_a_00485",
+                "Arindrajit Dube | Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties | 10.1162/REST_a_00039",
+                "Ekaterina Jardim | Minimum Wage Increases and Individual Employment Trajectories | 10.1257/pol.20180578",
+                "Jeffrey Clemens | The Minimum Wage and the Great Recession: Evidence of Effects on the Employment and Income Trajectories of Low-Skilled Workers | 10.1016/j.jpubeco.2019.104089",
+                "M. Keith Chen | The Value of Flexible Work: Evidence from Uber Drivers | 10.1086/702171"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166679339",
+        "model": "gpt",
+        "question": "How does market transparency interact with liquidity supplier composition and strategic complementarities in order flow to influence the emergence, severity, and welfare consequences of liquidity crises such as flash crashes across different market microstructure models and empirical settings?",
+        "response": {
+            "references": [
+                "Markus K. Brunnermeier | Market Liquidity and Funding Liquidity | 10.1093/rfs/hhn098",
+                "Andrei Kirilenko | The Flash Crash: High-Frequency Trading in an Electronic Market | 10.1111/jofi.12498",
+                "Albert S. Kyle | Continuous Auctions and Insider Trading | 10.2307/1913210",
+                "Darrell Duffie | Over-the-Counter Markets | 10.1111/j.1540-6261.2005.00784.x",
+                "Thierry Foucault | Market Liquidity: Theory, Evidence, and Policy | 10.1093/acprof:oso/9780199936243.001.0001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413790712",
+        "model": "gpt",
+        "question": "How do theoretical results on nested bundling under one-dimensional consumer heterogeneity compare with broader bundling, screening, and nonlinear pricing models in determining when nested menus are optimal and how minimal optimal product menus should be constructed?",
+        "response": {
+            "references": [
+                "R. Preston McAfee | Multiproduct Monopoly, Commodity Bundling, and Correlation of Values | 10.2307/1912560",
+                "Yannis Bakos | Bundling Information Goods: Pricing, Profits, and Efficiency | 10.1287/mnsc.45.12.1613",
+                "Jean-Charles Rochet | A Theory of Incentives in Procurement and Regulation | 10.2307/1912312",
+                "Mark Armstrong | Multiproduct Nonlinear Pricing | 10.1111/1468-0262.00377",
+                "S. Nageeb Ali | Optimal Bundling with Heterogeneous Consumers | 10.1257/mic.20150102"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403893140",
+        "model": "gpt",
+        "question": "How do government-led payment digitization interventions affect two-sided market coordination, merchant technology adoption, consumer financial inclusion, and distributional outcomes across income groups and firm types in emerging economies?",
+        "response": {
+            "references": [
+                "Tavneet Suri | The Long-Run Poverty and Gender Impacts of Mobile Money | 10.1126/science.aah5309",
+                "William Jack | Risk Sharing and Transactions Costs: Evidence from Kenya's Mobile Money Revolution | 10.1257/aer.104.1.183",
+                "Sumit Agarwal | Mobile Payments and Consumption: Evidence from Singapore | 10.1016/j.jfineco.2019.07.009",
+                "Raghuram Rajan | The Anatomy of a Credit Crisis: The Boom and Bust in Farm Land Prices in the United States in the 1920s | 10.1257/aer.105.4.1439",
+                "Ariel BenYishay | Community-Based Monitoring and Technology in Development | 10.1016/j.jdeveco.2016.11.005"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2952572411",
+        "model": "gpt",
+        "question": "How does the magnitude and transmission mechanism of the stock-market-driven consumption wealth effect documented through local nontradable employment and payroll responses compare with evidence from other asset-price wealth shocks, such as housing wealth, across heterogeneous households, regions, and monetary policy environments?",
+        "response": {
+            "references": [
+                "Gabriel Chodorow-Reich | Stock Market Wealth and the Real Economy: A Local Labor Market Approach | 10.1257/aer.20180886",
+                "Atif Mian | House Prices, Home Equity-Based Borrowing, and the U.S. Household Leverage Crisis | 10.1257/aer.101.5.2132",
+                "Atif Mian | What Explains the 2007\u20132009 Drop in Employment? | 10.3982/ECTA10451",
+                "Karl E. Case | Comparing Wealth Effects: The Stock Market versus the Housing Market | 10.2202/1544-6123.1235",
+                "Jonathan A. Parker | Consumer Spending and the Economic Stimulus Payments of 2008 | 10.1257/aer.103.6.2530"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3096991995",
+        "model": "gpt",
+        "question": "How do shifts in perceived social norms following salient political events influence individuals\u2019 willingness to publicly express stigmatized attitudes, such as xenophobia, and how do these shifts alter social sanctioning processes across different political and cultural contexts?",
+        "response": {
+            "references": [
+                "Leonardo Bursztyn | From Extreme to Mainstream: The Erosion of Social Norms | 10.1257/aer.20171175",
+                "Timur Kuran | Now Out of Never: The Element of Surprise in the East European Revolution of 1989 | 10.1016/0167-2681(91)90021-X",
+                "Elizabeth Levy Paluck | Prejudice Reduction: What Works? A Review and Assessment of Research and Practice | 10.1146/annurev.psych.60.110707.163607",
+                "Betsy Levy Paluck | Peer Effects in the Classroom: Changing Adolescent Intergroup Norms and Behavior | 10.1037/a0039295",
+                "Cass R. Sunstein | Social Norms and Social Roles | 10.2307/1341856"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415699634",
+        "model": "gpt",
+        "question": "How do theoretical and empirical findings across diffusion models and real-world social networks reconcile the apparent limitations of optimal centrality-based seeding under the independent cascade model with evidence that random or near-random seeding strategies can sometimes produce comparable or greater aggregate diffusion?",
+        "response": {
+            "references": [
+                "David Kempe | Maximizing the Spread of Influence through a Social Network | 10.1145/956750.956769",
+                "Matthew O. Jackson | The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors | 10.1515/9781400889877",
+                "Eytan Bakshy | Everyone's an Influencer: Quantifying Influence on Twitter | 10.1145/1935826.1935845",
+                "Abhijit Banerjee | The Diffusion of Microfinance | 10.1126/science.1236498",
+                "Sinan Aral | Identifying Influential and Susceptible Members of Social Networks | 10.1126/science.1215842"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4226360662",
+        "model": "gpt",
+        "question": "How does incorporating strategic buyer expectations of future surplus capture alter equilibrium selection in dynamic price competition with learning-by-doing, and how do these mechanisms compare across the broader literature on buyer behavior, market tipping, and antitrust policy in dynamic oligopoly models?",
+        "response": {
+            "references": [
+                "Drew Fudenberg | Learning-by-Doing and Market Performance | 10.2307/1883526",
+                "Drew Fudenberg | Dynamic limit pricing and entry deterrence | 10.2307/1912635",
+                "Paul Klemperer | Markets with Consumer Switching Costs | 10.2307/1913567",
+                "Joseph Farrell | Installed Base and Compatibility: Innovation, Product Preannouncements, and Predation | 10.2307/2555445",
+                "Glenn Ellison | Coordination and Lock-In: Competition with Switching Costs and Network Effects | 10.1016/S0167-2681(00)00081-7"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4387096937",
+        "model": "gpt",
+        "question": "How do theoretical and empirical findings across quantitative trade models with scale economies, markups, and sectoral misallocation explain the relative ineffectiveness of unilateral trade or industrial policies compared with internationally coordinated industrial-policy agreements in improving welfare and correcting misallocation?",
+        "response": {
+            "references": [
+                "Marc J. Melitz | The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity | 10.1111/1468-0262.00467",
+                "Oleg Itskhoki | Firm Heterogeneity and Costly Trade: A New Estimation Strategy and Policy Experiments | 10.1257/aer.20110314",
+                "Costas Arkolakis | New Trade Models, Same Old Gains? | 10.1257/aer.102.1.94",
+                "Dave Donaldson | Railroads of the Raj: Estimating the Impact of Transportation Infrastructure | 10.1257/aer.20101199",
+                "Pablo D. Fajgelbaum | The Economic Effects of Trump's Trade War | 10.1093/qje/qjaa031"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4288074152",
+        "model": "gpt",
+        "question": "How do ICT-enabled citizen reporting and social media\u2013based election monitoring interventions compare with traditional observer-based monitoring across different political contexts in reducing electoral irregularities, altering candidate behavior, and improving electoral accountability?",
+        "response": {
+            "references": [
+                "Paul Collier | Votes and Violence: Evidence from a Field Experiment in Nigeria | 10.1111/j.1468-0297.2011.02437.x",
+                "Susan D. Hyde | The Observer Effect in International Politics: Evidence from a Natural Experiment | 10.1017/S000305541000012X",
+                "Eric C. C. Chang | Electoral Systems, District Magnitude and Corruption | 10.1017/S0007123406000257",
+                "Gianmarco Le\u00f3n | Turnout, Political Preferences and Information: Experimental Evidence from Per\u00fa | 10.1016/j.jdeveco.2017.06.002",
+                "Josh A. West | Digital Monitoring and Electoral Fraud: Evidence from a Field Experiment | 10.1017/S0003055419000517"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7144276671",
+        "model": "gpt",
+        "question": "How does the literature on Bayesian learning under model misspecification explain the persistence of simple but incorrect models relative to correctly specified complex models, particularly in terms of asymptotic predictive accuracy, prior tightness or entrenchment, and equilibrium feedback from observed outcomes?",
+        "response": {
+            "references": [
+                "Drew Fudenberg | Learning in Games with Unstable Equilibria | 10.2307/2951643",
+                "Dilip Mookherjee | Learning and Decision Costs in Experimental Constant Sum Games | 10.2307/2951693",
+                "Thomas Esponda | Berk-Nash Equilibrium: A Framework for Modeling Agents with Misspecified Models | 10.3982/ECTA12609",
+                "Sergiu Hart | Adaptive Heuristics | 10.3982/ECTA12018",
+                "Roland G. Fryer | A Model of Rational Expectations with Misspecified Beliefs | 10.3982/ECTA9455"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401066709",
+        "model": "gpt",
+        "question": "How do learning-by-doing spillovers, grid emissions heterogeneity, and revenue-recycling effects alter comparative welfare assessments of clean energy subsidies, electric vehicle incentives, conservation nudges, fuel taxes, and cap-and-trade policies across the broader climate policy literature?",
+        "response": {
+            "references": [
+                "Severin Borenstein | The Private and Public Economics of Renewable Electricity Generation | 10.1257/jep.26.1.67",
+                "Kenneth Gillingham | The Rebound Effect and Energy Efficiency Policy | 10.1093/reep/rev017",
+                "Joseph E. Aldy | The Promise and Problems of Pricing Carbon: Theory and Experience | 10.1257/jep.26.1.152",
+                "David S. Rapson | The Economics of Electric Vehicles | 10.1093/reep/rez013",
+                "Carolyn Fischer | Environmental and Technology Policies for Climate Mitigation | 10.1016/j.jeem.2008.06.001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413790562",
+        "model": "gpt",
+        "question": "How do dynamic returns to effort and job-switching mechanisms identified in administrative tax studies alter estimates of taxable earnings elasticities over the life cycle compared with traditional short-run labor supply models across different institutional and tax-policy contexts?",
+        "response": {
+            "references": [
+                "Raj Chetty | Bounds on Elasticities with Optimization Frictions: A Synthesis of Micro and Macro Evidence on Labor Supply | 10.3982/ECTA9043",
+                "Emmanuel Saez | The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review | 10.1257/jel.50.1.3",
+                "Henrik Jacobsen Kleven | How Can Scandinavians Tax So Much? | 10.1257/jep.28.4.77",
+                "Magne Mogstad | The Causal Interpretation of Two-Stage Least Squares with Multiple Instrumental Variables | 10.1257/aer.20190221",
+                "Erik Hurst | Measuring the Elasticity of Taxable Income | 10.1257/pol.6.4.1"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3123506444",
+        "model": "gpt",
+        "question": "How does the literature reconcile evidence on global saving-glut-driven capital flows, sectoral reallocation toward nontradables, and endogenous innovation-led growth to explain the observed slowdown in U.S. and global productivity growth?",
+        "response": {
+            "references": [
+                "Ben S. Bernanke | The Global Saving Glut and the U.S. Current Account Deficit | 10.2139/ssrn.2072874",
+                "Ricardo J. Caballero | A Model of Global Imbalances and Low Interest Rates | 10.1257/aer.98.1.358",
+                "Gianluca Benigno | Capital Inflows, Sectoral Allocation, and Economic Performance | 10.1016/j.jinteco.2015.12.004",
+                "Daron Acemoglu | Directed Technical Change | 10.1093/restud/69.4.781",
+                "Nicholas Bloom | Are Ideas Getting Harder to Find? | 10.1257/aer.20180338"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7160214867",
+        "model": "gpt",
+        "question": "How does the empirical tendency to prioritize avoiding individuals\u2019 least-preferred outcomes over maximizing top-ranked outcomes relate to existing theories and evidence on ordinal social choice, cardinal utility inference, fairness norms, and strategy-proof mechanism design across different political and cultural contexts?",
+        "response": {
+            "references": [
+                "Kenneth J. Arrow | A Difficulty in the Concept of Social Welfare | 10.1086/256963",
+                "Amartya Sen | The Impossibility of a Paretian Liberal | 10.1086/259614",
+                "Allan Gibbard | Manipulation of Voting Schemes: A General Result | 10.2307/1914083",
+                "Herv\u00e9 Moulin | On Strategy-Proofness and Single Peakedness | 10.2307/1911129",
+                "Benjamin E. Hermalin | The Limits of Fairness: A Formal Theory of Normative Social Choice | 10.1257/mic.20150039"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385367893",
+        "model": "gpt",
+        "question": "How does the alignment versus conflict of producer-lobby interests across countries shape the welfare effects of international regulatory cooperation on product and process standards, and how do these theoretical predictions compare with empirical evidence from trade, environmental, and industrial regulation literatures?",
+        "response": {
+            "references": [
+                "Kyle Bagwell | The Simple Economics of Labor Standards and the GATT | 10.3386/w6604",
+                "Giovanni Maggi | International Agreements on Product Standards: An Economic Theory | 10.1111/j.1468-0262.1999.tb00042.x",
+                "Gene M. Grossman | Protection for Sale | 10.1257/aer.84.4.833",
+                "Henrik Horn | The WTO Dispute Settlement System 1995\u20132006: Some Descriptive Statistics | 10.1016/j.worlddev.2010.10.004",
+                "Arik Levinson | Environmental Regulations and Manufacturers' Location Choices: Evidence from the Census of Manufactures | 10.1006/jeem.1996.0010"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4402924231",
+        "model": "gpt",
+        "question": "How do studies of worker sorting, industry wage premia, technological change, and low-wage service-sector expansion collectively explain the growing role of between-industry wage dispersion in U.S. earnings inequality since the 1990s?",
+        "response": {
+            "references": [
+                "David H. Autor | The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market | 10.1257/aer.103.5.1553",
+                "Jae Song | Firming Up Inequality | 10.1093/qje/qjx047",
+                "David Card | Firms and Labor Market Inequality: Evidence and Some Theory | 10.1086/707628",
+                "David H. Autor | The Skill Content of Recent Technological Change: An Empirical Exploration | 10.1162/003355303322552801",
+                "John Bound | Changes in the Structure of Wages in the 1980's: An Evaluation of Alternative Explanations | 10.1257/jep.6.1.3"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408054547",
+        "model": "gpt",
+        "question": "How do local ownership policies in weak-state extractive sectors reshape firms\u2019 access to state protection, reduce resource theft, and affect aggregate welfare relative to foreign ownership, particularly through political connections, corruption, and law-enforcement incentives?",
+        "response": {
+            "references": [
+                "Nathan Nunn | The Long-Term Effects of Africa's Slave Trades | 10.1162/qjec.2008.123.1.139",
+                "Daron Acemoglu | The Colonial Origins of Comparative Development: An Empirical Investigation | 10.1257/aer.91.5.1369",
+                "Benjamin A. Olken | Corruption and the Costs of Redistribution: Micro Evidence from Indonesia | 10.1016/j.jpubeco.2005.05.004",
+                "Jakob Svensson | Who Must Pay Bribes and How Much? Evidence from a Cross Section of Firms | 10.1162/003355303321675466",
+                "Raymond Fisman | Estimating the Value of Political Connections | 10.1257/000282801753218116"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3151584765",
+        "model": "gpt",
+        "question": "How does the distinction between hidden and transparent instruments in employer-learning models reshape empirical estimates of private versus social returns to education, and how do findings from compulsory-schooling reforms in Norway compare with evidence from other institutional contexts on productivity-enhancing versus signaling components of schooling?",
+        "response": {
+            "references": [
+                "Andrew Weiss | Human Capital vs. Signalling Explanations of Wages | 10.1257/jep.9.4.133",
+                "Joseph G. Altonji | Employer Learning, Statistical Discrimination and Occupational Attainment | 10.1257/000282803321455430",
+                "David Card | The Causal Effect of Education on Earnings | 10.1016/S1573-4463(99)03011-4",
+                "Kevin Lang | The Returns to Education: A Meta-Analysis | 10.1016/j.labeco.2010.12.002",
+                "Patrick J. Bayer | Employer Learning and the Dynamics of Returns to Universities: Evidence from Norway | 10.1257/aer.20191073"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404760661",
+        "model": "gpt",
+        "question": "How did branch banking and internal capital markets influence local credit resilience, property values, labor reallocation, and wage growth during the Great Depression, and how do these mechanisms compare with evidence from other historical banking crises and regional financial systems?",
+        "response": {
+            "references": [
+                "Mark Carlson | Branch Banking as a Device for Discipline: Competition and Bank Survivorship during the Great Depression | 10.1086/380770",
+                "Charles W. Calomiris | Financial Factors in the Great Depression | 10.1257/jep.7.2.61",
+                "Ben S. Bernanke | Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression | 10.2307/1808111",
+                "Kris James Mitchener | Shadowy Banks and Financial Contagion during the Great Depression: A Retrospective on Friedman and Schwartz | 10.1257/aer.20170634",
+                "Efraim Benmelech | The Credit Market Consequences of Job Displacement | 10.1162/rest_a_00772"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4231254642",
+        "model": "gpt",
+        "question": "How do alternative representations of carbon-cycle dynamics and temperature inertia across integrated assessment models influence optimal carbon tax trajectories and abatement costs, and what does the comparison between Lemoine and Rudik (2017), Mattauch et al. (2020), and subsequent climate-modeling evidence imply for the robustness of climate policy recommendations?",
+        "response": {
+            "references": [
+                "Derek Lemoine | Steering the Climate System: Using Inertia to Lower the Cost of Policy | 10.1257/aer.20150986",
+                "Linus Mattauch | Steering the Climate System: Comment | 10.1257/aer.20181360",
+                "William D. Nordhaus | Revisiting the Social Cost of Carbon | 10.1073/pnas.1609244114",
+                "Michael Greenstone | Developing a Social Cost of Carbon for US Regulatory Analysis: A Methodology and Interpretation | 10.1111/j.1465-7287.2012.00334.x",
+                "Thomas F. Stocker | The Closing Door of Climate Targets | 10.1126/science.1232468"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7166696648",
+        "model": "gpt",
+        "question": "How do countercyclical idiosyncratic risk and endogenous natural-rate fluctuations alter equilibrium determinacy conditions in HANK models relative to representative-agent New Keynesian frameworks, and what does the broader literature imply about the comparative effectiveness of active monetary policy versus fiscal-policy regimes in eliminating self-fulfilling business-cycle fluctuations?",
+        "response": {
+            "references": [
+                "Gauti B. Eggertsson | Zero Bound on Interest Rates and Optimal Monetary Policy | 10.1353/eca.2003.0010",
+                "Greg Kaplan | Monetary Policy According to HANK | 10.1257/aer.20160042",
+                "Adrien Auclert | Monetary Policy and the Redistribution Channel | 10.1257/aer.20160137",
+                "Jess Benhabib | The Perils of Taylor Rules | 10.1006/jeth.2001.2585",
+                "Mark Gertler | Government Debt and Social Security in a Life-Cycle Economy | 10.1016/0304-3932(90)90022-Z"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3126008261",
+        "model": "gpt",
+        "question": "How do electricity market liberalization and regional market integration affect generation costs, dispatch efficiency, cross-area electricity trade, and reliability outcomes across different regulatory contexts and grid systems?",
+        "response": {
+            "references": [
+                "Severin Borenstein | Measuring Market Inefficiencies in California's Restructured Wholesale Electricity Market | 10.1257/aer.92.5.1376",
+                "Frank A. Wolak | Measuring Unilateral Market Power in Wholesale Electricity Markets: The California Market, 1998\u20132000 | 10.1257/aer.93.2.425",
+                "Paul L. Joskow | Markets for Power in the United States: An Interim Assessment | 10.5547/ISSN0195-6574-EJ-27-1-1",
+                "Natalia Fabra | Market Design and Investment Incentives | 10.1111/j.1468-0297.2011.02429.x",
+                "Erin T. Mansur | Vertical Integration in Restructured Electricity Markets: Measuring Market Efficiency and Firm Conduct | 10.1086/649855"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4312883125",
+        "model": "gpt",
+        "question": "How do conflict-induced disruptions and perceived insecurity along transportation networks affect market integration, staple food prices, and downstream welfare outcomes across fragile-state settings, and what does the broader literature suggest about the relative effectiveness of route diversification versus targeted corridor security interventions?",
+        "response": {
+            "references": [
+                "James D. Fearon | Ethnicity, Insurgency, and Civil War | 10.1017/S0003055403000534",
+                "Jenny C. Aker | Rainfall Shocks, Markets, and Food Crises: The Effect of Drought on Grain Markets in Niger | 10.1016/j.jdeveco.2010.08.005",
+                "Dave Donaldson | Railroads of the Raj: Estimating the Impact of Transportation Infrastructure | 10.1257/aer.20101199",
+                "Edward Miguel | Economic Shocks and Civil Conflict: An Instrumental Variables Approach | 10.1086/421174",
+                "David Atkin | Trade, Tastes, and Nutrition in India | 10.1257/aer.20160270"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386265232",
+        "model": "gpt",
+        "question": "How do commitment-enhanced pre-play communication institutions compare with nonbinding cheap talk, gradual commitment mechanisms, and other coordination devices across experimental minimum-effort and related coordination games in reducing persistent coordination failure and selecting efficient equilibria?",
+        "response": {
+            "references": [
+                "John B. Van Huyck | Tacit Coordination Games, Strategic Uncertainty, and Coordination Failure | 10.2307/2938316",
+                "Russell Cooper | Communication in Coordination Games | 10.2307/2118208",
+                "Gary Charness | Pre-play Communication and Coordination in Games | 10.1111/j.1467-8284.2000.tb00010.x",
+                "Vincent P. Crawford | A Survey of Experiments on Communication via Cheap Talk | 10.1016/S0899-8256(05)80015-9",
+                "Roberto A. Weber | 'Learning' with No Feedback in a Competitive Guessing Game | 10.1006/game.2002.0762"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3039364047",
+        "model": "gpt",
+        "question": "How has Esther Duflo\u2019s Nobel Prize Lecture been interpreted in relation to the broader literature on randomized controlled trials, causal inference, and evidence-based policy design in development economics?",
+        "response": {
+            "references": [
+                "Esther Duflo | Field Experiments and the Practice of Policy | 10.1257/aer.110.7.1952",
+                "Abhijit V. Banerjee | The Experimental Approach to Development Economics | 10.1146/annurev.economics.050708.143235",
+                "Esther Duflo | Using Randomization in Development Economics Research: A Toolkit | 10.1016/S1573-4471(07)04061-2",
+                "Michael Kremer | Randomized Evaluations of Educational Programs in Developing Countries: Some Lessons | 10.1257/aer.93.2.102",
+                "Angus Deaton | Instruments, Randomization, and Learning about Development | 10.1257/jel.48.2.424"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3186232651",
+        "model": "gpt",
+        "question": "How does noisy mediator-facilitated communication compare with other mechanisms in the reputational bargaining and conflict-resolution literature\u2014such as cheap talk, arbitration, screening, and private offers\u2014in improving efficiency, payoffs, and agreement rates under incomplete information?",
+        "response": {
+            "references": [
+                "Robert H. Mnookin | Bargaining in the Shadow of the Law: The Case of Divorce | 10.2307/3053180",
+                "Joel Sobel | Cheap Talk and Repeated Games | 10.2307/1911300",
+                "Vincent P. Crawford | Strategic Information Transmission | 10.2307/1913390",
+                "James D. Fearon | Rationalist Explanations for War | 10.2307/2944797",
+                "Robert Powell | Bargaining Theory and International Conflict | 10.1146/annurev.polisci.5.092601.141138"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2960279029",
+        "model": "gpt",
+        "question": "How do different forms of elite social ties\u2014such as shared hometown, college, workplace, factional, or patron-client connections\u2014shape promotion, exclusion, and intra-factional competition within authoritarian political institutions, particularly in China\u2019s Politburo selection process?",
+        "response": {
+            "references": [
+                "Victor Shih | Getting Ahead in the Communist Party: Explaining the Advancement of Central Committee Members in China | 10.1017/S0305741006000286",
+                "Cheng Li | The End of the CCP's Resilient Authoritarianism? A Tripartite Assessment of Shifting Power in China | 10.1017/S0305741012000012",
+                "Pierre F. Landry | The Determinants of Provincial Leaders' Tenure in China | 10.1017/S0305741003000363",
+                "Hongbin Li | Political Turnover and Economic Performance: The Incentive Role of Personnel Control in China | 10.1016/j.jpubeco.2004.06.009",
+                "Yuhua Wang | Beyond Local Protectionism: China's State\u2013Business Relations in the Last Two Decades | 10.1017/S0305741013000663"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4386265217",
+        "model": "gpt",
+        "question": "How do cross-national differences and political-ideological variation in second-best fairness preferences\u2014particularly relative tolerance for false positives versus false negatives\u2014shape public support for social insurance and redistributive policy across experimental, behavioral, and political economy literatures?",
+        "response": {
+            "references": [
+                "Christina M. Fong | Social Preferences, Self-Interest, and the Demand for Redistribution | 10.1016/S0047-2727(01)00091-9",
+                "Alberto Alesina | Preferences for Redistribution in the Land of Opportunities | 10.1016/S0047-2727(03)00069-7",
+                "Ernst Fehr | The Economics of Fairness, Reciprocity and Altruism | 10.1016/S1574-0714(06)01008-6",
+                "Benjamin Enke | What You See Is All There Is | 10.1093/qje/qjz034",
+                "Stefanie Stantcheva | Understanding Tax Policy: How Do People Reason? | 10.1093/qje/qjaa029"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2973080784",
+        "model": "gpt",
+        "question": "How do pseudo-market mechanisms with price-internalized pecuniary externalities compare to alternative constrained allocation approaches (such as deferred acceptance and other matching mechanisms) in terms of achieving efficiency, fairness, and incentive compatibility across diverse constrained resource allocation settings?",
+        "response": {
+            "references": [
+                "Atila Abdulkadiro\u011flu | The New York City High School Match | 10.1257/000282805774670167",
+                "Alvin E. Roth | The College Admissions Problem is Not Equivalent to the Marriage Problem | 10.1016/0899-8256(85)90006-1",
+                "Parag A. Pathak | The Mechanism Design Approach to Student Assignment | 10.1257/jep.25.4.107",
+                "Fuhito Kojima | Matching with Constraints: How to Match Scarce Resources | 10.1257/aer.20150780",
+                "Herve Moulin | Fair Division and Collective Welfare | 10.7551/mitpress/2954.001.0001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4408054571",
+        "model": "gpt",
+        "question": "How do the mechanisms of price discrimination through two-part tariffs in mortgage markets compare across different countries and regulatory regimes, and to what extent do unconventional monetary policies systematically alter these pricing strategies in ways that affect credit access and consumer welfare?",
+        "response": {
+            "references": [
+                "Susan E. Woodward | Consumer Confusion in the Mortgage Market | 10.1257/aer.100.2.511",
+                "Andreas Fuster | The Role of Technology in Mortgage Lending | 10.1093/rfs/hhz018",
+                "Christopher Mayer | The Rise in Mortgage Defaults | 10.1257/jep.23.1.27",
+                "Sumit Agarwal | Learning in the Credit Card Market | 10.1257/aer.105.1.536",
+                "Ricardo Reis | The Mystery of the Printing Press: Monetary Policy and Self-Fulfilling Debt Crises | 10.1016/j.jmoneco.2013.08.001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3121979493",
+        "model": "gpt",
+        "question": "How does the interaction between religious institutions and educational curricula mediate the long-term relationship between religiosity and economic development across different historical and cultural contexts?",
+        "response": {
+            "references": [
+                "Sascha O. Becker | Was Weber Wrong? A Human Capital Theory of Protestant Economic History | 10.1093/qje/qjp004",
+                "Robert J. Barro | Religion and Economic Growth across Countries | 10.2307/30035774",
+                "Jared Rubin | Printing and Protestants: An Empirical Test of the Role of Printing in the Reformation | 10.1162/REST_a_00368",
+                "Davide Cantoni | The Economic Effects of the Protestant Reformation: Testing the Weber Hypothesis in the German Lands | 10.1016/j.jue.2014.12.001",
+                "Philippe Aghion | Education and Military Rivalry | 10.3386/w18049"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3045787610",
+        "model": "gpt",
+        "question": "How do land use regulations and transit infrastructure interact to shape the spatial form of cities, and what are the resulting welfare implications across different urban contexts and levels of economic development?",
+        "response": {
+            "references": [
+                "Edward L. Glaeser | The Impact of Zoning on Housing Affordability | 10.3386/w8835",
+                "Matthew A. Turner | A Simple Theory of Smart Growth and Sprawl | 10.1016/j.jue.2006.05.006",
+                "Gilles Duranton | The Fundamental Law of Road Congestion: Evidence from US Cities | 10.1257/aer.101.6.2616",
+                "Nathaniel Baum-Snow | Did Highways Cause Suburbanization? | 10.1162/qjec.122.2.775",
+                "Chang-Tai Hsieh | Housing Constraints and Spatial Misallocation | 10.1257/mac.20170388"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3031883595",
+        "model": "gpt",
+        "question": "How do the deterrence effects of regulatory transparency and public disclosure compare across different domains of corporate misconduct, and what mechanisms explain variation in their effectiveness at inducing compliance?",
+        "response": {
+            "references": [
+                "Archon Fung | The Political Economy of Transparency: What Makes Disclosure Policies Effective? | 10.1017/S1537592705050016",
+                "Mary Graham | Regulation by Shaming | 10.2307/3648620",
+                "Madhu Khanna | Corporate Environmental Management: Regulatory and Market-Based Incentives | 10.1016/S0095-0696(03)00022-8",
+                "Michael W. Toffel | The Impact of Corporate Sustainability on Organizational Processes and Performance | 10.1287/mnsc.2014.1984",
+                "Lori Snyder Bennear | The Effectiveness of Mandatory Information Disclosure: Evidence from the Toxics Release Inventory | 10.1016/j.jeem.2008.10.003"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4415699610",
+        "model": "gpt",
+        "question": "How do the mechanisms and magnitudes of knowledge spillovers from quid pro quo policies in China's automobile industry compare with those documented for other technology-transfer arrangements and industries across developing economies?",
+        "response": {
+            "references": [
+                "Wolfgang Keller | International Technology Diffusion | 10.1257/0022051042177685",
+                "Nicholas Bloom | Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity | 10.1093/restud/rdx053",
+                "Ann E. Harrison | Multinationals and Anti-Sweatshop Activism | 10.1257/aer.100.1.247",
+                "Beata Javorcik | Does Foreign Direct Investment Increase the Productivity of Domestic Firms? In Search of Spillovers through Backward Linkages | 10.1257/000282804322970813",
+                "Chang-Tai Hsieh | The Life Cycle of Plants in India and Mexico | 10.1093/qje/qju014"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4327632554",
+        "model": "gpt",
+        "question": "How do the relative magnitudes and welfare implications of distributive versus collateral pecuniary externalities compare across different macro-finance models of firm heterogeneity and financial frictions, and what does this imply for the optimal design of investment subsidies?",
+        "response": {
+            "references": [
+                "Bengt Holmstr\u00f6m | Financial Intermediation, Loanable Funds, and the Real Sector | 10.2307/2951642",
+                "Nobuhiro Kiyotaki | Credit Cycles | 10.1086/262072",
+                "Mark Gertler | Agency Costs, Net Worth, and Business Fluctuations | 10.1257/aer.79.1.14",
+                "Ricardo J. Caballero | Pecuniary Externalities in Economies with Financial Frictions | 10.1016/j.jedc.2012.01.005",
+                "Emmanuel Farhi | A Theory of Macroprudential Policies in the Presence of Nominal Rigidities | 10.3982/ECTA11445"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4367321241",
+        "model": "gpt",
+        "question": "How do the mechanisms by which credit-market frictions amplify and propagate economic shocks compare across severe financial crises and ordinary business cycles, and what does this reveal about the generalizability of the financial accelerator framework?",
+        "response": {
+            "references": [
+                "Ben S. Bernanke | The Financial Accelerator and the Flight to Quality | 10.2307/2118204",
+                "Nobuhiro Kiyotaki | Credit Cycles | 10.1086/262072",
+                "Mark Gertler | Financial Intermediation and Credit Policy in Business Cycle Analysis | 10.1016/B978-0-444-53454-5.00011-9",
+                "Gary Gorton | Slapped by the Invisible Hand: The Panic of 2007 | 10.1093/acprof:oso/9780199734153.001.0001",
+                "Simon Gilchrist | Credit Market Shocks and Economic Fluctuations: Evidence from Corporate Bond and Stock Markets | 10.1016/j.jmoneco.2012.10.005"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4406965600",
+        "model": "gpt",
+        "question": "How do start-up costs and other intertemporal operating constraints affect the measurement and interpretation of market power in electricity markets across different studies, and to what extent does the integration of intermittent renewable generation systematically alter the competitive dynamics and profitability of conventional generators?",
+        "response": {
+            "references": [
+                "Severin Borenstein | Measuring Market Inefficiencies in California's Restructured Wholesale Electricity Market | 10.1257/aer.92.5.1376",
+                "Frank A. Wolak | Measuring Unilateral Market Power in Wholesale Electricity Markets: The California Market, 1998\u20132000 | 10.1257/aer.93.2.425",
+                "Natalia Fabra | Market Power in Electricity Markets: Evidence from the Spanish Electricity Market | 10.1111/j.1467-937X.2006.00405.x",
+                "James B. Bushnell | Vertical Arrangements, Market Structure, and Competition: An Analysis of Restructured US Electricity Markets | 10.1257/aer.98.1.237",
+                "Meredith Fowlie | What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program | 10.1257/aer.102.2.965"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411811818",
+        "model": "gpt",
+        "question": "How do the effects of specialized legal aid interventions like Mi Abogado on foster care duration and child well-being outcomes compare across different institutional and cultural contexts, and what mechanisms explain variation in their cost-effectiveness?",
+        "response": {
+            "references": [
+                "Mark E. Courtney | Midwest Evaluation of the Adult Functioning of Former Foster Youth: Outcomes at Age 26 | 10.1086/667976",
+                "Joseph J. Doyle | Child Protection and Child Outcomes: Measuring the Effects of Foster Care | 10.1257/aer.97.5.1583",
+                "Emily Leslie | The Effect of a Child's Health Insurance Coverage on Foster Care Placement | 10.1016/j.jpubeco.2017.06.003",
+                "Max Schanzenbach | The Long-Run Impacts of Childhood Access to the Safety Net | 10.1257/aer.20130375",
+                "Christopher Wildeman | The Cumulative Prevalence of Termination of Parental Rights for U.S. Children, 2000\u20132016 | 10.1016/j.childyouth.2020.105166"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4414662318",
+        "model": "gpt",
+        "question": "How does the phenomenon of investors' gradual Bayesian learning about structural economic shifts, as observed in the mispricing of software companies, compare with learning dynamics and return anomalies documented across other technological or industrial transformations throughout financial history?",
+        "response": {
+            "references": [
+                "Nicholas Barberis | A Model of Investor Sentiment | 10.1016/S0304-405X(98)00027-0",
+                "Stefano Giglio | Five Facts about Beliefs and Portfolios | 10.1257/aer.20161741",
+                "Ulrike Malmendier | Depression Babies: Do Macroeconomic Experiences Affect Risk Taking? | 10.1093/qje/qjq004",
+                "Lubos Pastor | Technological Revolutions and Stock Prices | 10.1257/aer.99.4.1451",
+                "Stefan Nagel | Learning from Inflation Experiences | 10.1093/qje/qju040"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2766190141",
+        "model": "gpt",
+        "question": "How do the mechanisms linking firm size to business cycle sensitivity\u2014such as industry diversification versus financial frictions\u2014compare across studies using different data sources and firm-size definitions, and what accounts for divergent findings on the role of financial strength?",
+        "response": {
+            "references": [
+                "Jeffrey R. Campbell | Firm-Level Volatility and Business Cycles | 10.1257/aer.20110511",
+                "Steven J. Davis | Measuring the Dynamics of Young and Small Businesses: Integrating the Employer and Nonemployer Universes | 10.3386/w13226",
+                "Teresa C. Fort | How Firms Respond to Business Cycles: The Role of Firm Age and Firm Size | 10.1111/imre.12118",
+                "Lucia Foster | Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability? | 10.1257/aer.98.1.394",
+                "Mehdi Sedl\u00e1\u010dek | The Growth Potential of Startups over the Business Cycle | 10.1257/aer.20141280"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4405889121",
+        "model": "gpt",
+        "question": "How do dynamic spatial equilibrium models incorporate the long-term risks of environmental change and sea-level rise when evaluating the optimal geographic allocation of infrastructure investments across coastal and inland regions?",
+        "response": {
+            "references": [
+                "Klaus Desmet | Evaluating the Economic Cost of Coastal Flooding | 10.1257/mac.20180366",
+                "Matthew E. Kahn | The Long-Term Labor Market Consequences of Graduating from College in a Bad Economy | 10.1016/j.labeco.2010.06.002",
+                "Esteban Rossi-Hansberg | Optimal Urban Land Use and Zoning | 10.1111/j.1468-0262.2004.00520.x",
+                "David Albouy | Climate Amenities, Climate Change, and American Quality of Life | 10.1086/713756",
+                "Solomon M. Hsiang | Estimating Economic Damage from Climate Change in the United States | 10.1126/science.aal4369"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3196983488",
+        "model": "gpt",
+        "question": "How do different methodological approaches for incorporating risk aversion, uncertainty, and skewness in climate and economic parameters compare in their estimates of the social cost of carbon across the integrated assessment modeling literature?",
+        "response": {
+            "references": [
+                "Martin L. Weitzman | On Modeling and Interpreting the Economics of Catastrophic Climate Change | 10.1162/rest.91.1.1",
+                "Nicholas Stern | The Economics of Climate Change | 10.1257/aer.98.2.1",
+                "William D. Nordhaus | Revisiting the Social Cost of Carbon | 10.1073/pnas.1609244114",
+                "Robert S. Pindyck | Climate Change Policy: What Do the Models Tell Us? | 10.1257/jel.51.3.860",
+                "Frances C. Moore | Uncertainty and Climate Change: The Influence of Ambiguity Aversion on Policy | 10.1007/s10640-012-9583-7"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4400086555",
+        "model": "gpt",
+        "question": "How do interventions that reveal individuals' implicit biases compare to other debiasing strategies in achieving durable, long-term reductions in discriminatory behavior across educational and organizational settings?",
+        "response": {
+            "references": [
+                "Patricia G. Devine | Long-term reduction in implicit race bias: A prejudice habit-breaking intervention | 10.1016/j.jesp.2012.06.003",
+                "Patrick S. Forscher | A Meta-Analysis of Procedures to Change Implicit Measures | 10.1037/pspa0000160",
+                "Calvin K. Lai | Reducing implicit racial preferences: I. A comparative investigation of 17 interventions | 10.1037/a0036260",
+                "Elizabeth Levy Paluck | Prejudice Reduction: What Works? A Review and Assessment of Research and Practice | 10.1146/annurev.psych.60.110707.163607",
+                "Corinne A. Moss-Racusin | Science faculty's subtle gender biases favor male students | 10.1073/pnas.1211286109"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3203280048",
+        "model": "gpt",
+        "question": "How do firm-specific pay-setting and hiring practices compare across different national labor markets in shaping racial wage gaps, and to what extent are skill-based versus discriminatory sorting mechanisms mediated by institutional and educational contexts?",
+        "response": {
+            "references": [
+                "Patrick M. Kline | Systemic Discrimination among Large U.S. Employers | 10.1093/qje/qjad034",
+                "David Card | Firms and Labor Market Inequality: Evidence and Some Theory | 10.1086/707628",
+                "Marianne Bertrand | Are Emily and Greg More Employable than Lakisha and Jamal? | 10.1257/0002828042002561",
+                "Francine D. Blau | The Gender Wage Gap: Extent, Trends, and Explanations | 10.1257/jel.20160995",
+                "Kerwin Kofi Charles | Prejudice and Wages: An Empirical Assessment of Becker's The Economics of Discrimination | 10.1086/379799"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4399177966",
+        "model": "gpt",
+        "question": "How does the safety-driven exorbitant privilege and negative dollar risk premium identified in this model compare with alternative theoretical mechanisms and empirical estimates of the dollar's special role across the international finance literature?",
+        "response": {
+            "references": [
+                "Pierre-Olivier Gourinchas | The U.S. External Balance Sheet and the Exorbitant Privilege | 10.3386/w11563",
+                "H\u00e9l\u00e8ne Rey | Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy Independence | 10.3386/w21162",
+                "Matteo Maggiori | Financial Intermediation, International Risk Sharing, and Reserve Currencies | 10.1257/aer.20130479",
+                "Emmanuel Farhi | An Equilibrium Model of the International Monetary System | 10.1146/annurev-economics-080213-041427",
+                "Ricardo J. Caballero | An Equilibrium Model of 'Global Imbalances' and Low Interest Rates | 10.1257/aer.98.1.358"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4403893207",
+        "model": "gpt",
+        "question": "How do the mechanisms linking polity size to public goods provision\u2014such as civic engagement, political accountability, and elite capture\u2014vary across different institutional and socioeconomic contexts in the broader decentralization literature?",
+        "response": {
+            "references": [
+                "Alberto Alesina | The Size of Nations | 10.7551/mitpress/6261.001.0001",
+                "Remy Prud'homme | The Dangers of Decentralization | 10.1093/wbro/10.2.201",
+                "Jean-Paul Faguet | Does Decentralization Increase Government Responsiveness to Local Needs? Evidence from Bolivia | 10.1016/S0304-3878(02)00185-8",
+                "Daron Acemoglu | Kleptocracy and Divide-and-Rule: A Model of Personal Rule | 10.1016/j.euroecorev.2003.09.003",
+                "Bardhan Pranab | Decentralization of Governance and Development | 10.1257/jep.16.4.185"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416694456",
+        "model": "gpt",
+        "question": "How do the roles of fixed labor costs versus upward-sloping labor supply curves in mediating the wage effects of trade shocks compare across different institutional and labor market contexts studied in the broader trade and labor economics literature?",
+        "response": {
+            "references": [
+                "David H. Autor | Importing Political Polarization? The Electoral Consequences of Rising Trade Exposure | 10.1257/aer.20170011",
+                "David H. Autor | The China Syndrome: Local Labor Market Effects of Import Competition in the United States | 10.1257/aer.103.6.2121",
+                "Penny Goldberg | Distributional Effects of Globalization in Developing Countries | 10.1257/jel.45.1.39",
+                "Amit Khandelwal | The Long and Short of Quality Ladders | 10.1093/restud/rdq007",
+                "Elhanan Helpman | Trade and Inequality: From Theory to Estimation | 10.1093/restud/rdv027"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4396512492",
+        "model": "gpt",
+        "question": "How do the dual innovation dimensions of automation and productivity in capital-embodied technological progress reconcile the empirical tensions between micro-level observations of innovation and macro-level balanced growth across different theoretical frameworks in the growth and structural transformation literature?",
+        "response": {
+            "references": [
+                "Daron Acemoglu | Directed Technical Change | 10.1093/restud/69.4.781",
+                "Daron Acemoglu | The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment | 10.1257/aer.20160696",
+                "Charles I. Jones | The Shape of Production Functions and the Direction of Technical Change | 10.1093/qje/qjs032",
+                "Philippe Aghion | Endogenous Growth Theory | 10.7551/mitpress/6395.001.0001",
+                "Jakub Growiec | Directed Technical Change and the Kaldor Facts | 10.1111/j.1468-0297.2011.02471.x"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126181318",
+        "model": "gpt",
+        "question": "How do the predictions of supply-function-based models of aggregate supply compare with those of alternative price-setting frameworks\u2014such as menu-cost, rational-inattention, and Calvo-pricing models\u2014in explaining the observed time-varying slope of the Phillips curve across different macroeconomic regimes?",
+        "response": {
+            "references": [
+                "Guido Lorenzoni | A Theory of Demand Shocks | 10.1257/aer.99.5.2050",
+                "N. Gregory Mankiw | Small Menu Costs and Large Business Cycles: A Macroeconomic Model of Monopoly | 10.2307/1884515",
+                "Christopher A. Sims | Implications of Rational Inattention | 10.1016/S0304-3932(03)00029-1",
+                "Guillermo A. Calvo | Staggered Prices in a Utility-Maximizing Framework | 10.1016/0304-3932(83)90060-0",
+                "Emi Nakamura | Five Facts about Prices: A Reevaluation of Menu Cost Models | 10.1162/qjec.2008.123.4.1415"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3201688646",
+        "model": "gpt",
+        "question": "How do the identification strategies and experimental designs for disentangling direct treatment effects from market-equilibrium spillovers in this paper compare to and improve upon alternative approaches\u2014such as cluster-randomized designs, structural equilibrium models, and network-based interference frameworks\u2014developed across the broader literature on interference and general equilibrium effects in field experiments?",
+        "response": {
+            "references": [
+                "Paul J. Gertler | Using Randomized Experiments to Estimate the General Equilibrium Impacts of Social Programs | 10.1257/app.20200387",
+                "Michael Kremer | Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities | 10.1111/1468-0262.00404",
+                "Charles F. Manski | Identification of Endogenous Social Effects: The Reflection Problem | 10.2307/2118483",
+                "Edward Miguel | Networks, Migration, and Investment: Insiders and Outsiders in Tirupur's Production Cluster | 10.1257/app.6.3.1",
+                "Susan Athey | Exact p-Values for Network Interference | 10.1080/01621459.2017.1340885"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4413790833",
+        "model": "gpt",
+        "question": "How do informational and psychological mechanisms of belief formation interact with electoral accountability to explain the persistence of populist support despite policies that demonstrably harm the very voters who endorse them?",
+        "response": {
+            "references": [
+                "Sergei Guriev | Informational Autocrats | 10.1257/jep.33.4.100",
+                "Rafael Di Tella | The Political Economy of Beliefs: Why Fiscal and Social Conservatives and Liberals Come Hand-in-Hand | 10.3386/w13842",
+                "Alberto Alesina | The Power of Partisan Beliefs | 10.1086/676394",
+                "Gino Gancia | Populism and the Decline of Social Mobility | 10.1093/jeea/jvaa019",
+                "Benjamin Enke | Moral Values and Voting | 10.1086/715263"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411811712",
+        "model": "gpt",
+        "question": "How do rising domestic corporate asset valuations and the resulting cross-border equity ownership patterns affect national welfare and external sustainability across advanced economies, and what mechanisms explain differences from the U.S. experience?",
+        "response": {
+            "references": [
+                "Thomas Piketty | Capital is Back: Wealth-Income Ratios in Rich Countries 1700\u20132010 | 10.1093/qje/qju018",
+                "Pierre-Olivier Gourinchas | The U.S. External Balance Sheet and the Exorbitant Privilege | 10.3386/w11563",
+                "Atif Mian | The Saving Glut of the Rich | 10.3386/w26941",
+                "Loukas Karabarbounis | The Global Decline of the Labor Share | 10.1093/qje/qjt032",
+                "Matteo Maggiori | International Currencies and Capital Allocation | 10.1086/718347"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411811828",
+        "model": "gpt",
+        "question": "How do the effects of mission-motivation interventions on public sector worker performance compare with those of alternative incentive mechanisms, such as financial rewards or monitoring, across different institutional and cultural contexts in low-income countries?",
+        "response": {
+            "references": [
+                "Orianna Bandiera | Meaningful Work and Worker Performance: Evidence from a Field Experiment in India | 10.1257/aer.20191328",
+                "Nava Ashraf | Do-Gooders and Go-Getters: Career Incentives, Selection, and Performance in Public Service Delivery | 10.1257/aer.20180341",
+                "Imran Rasul | Management of Bureaucrats and Public Service Delivery: Evidence from the Nigerian Civil Service | 10.1111/ecoj.12120",
+                "Ernesto Dal B\u00f3 | Strengthening State Capabilities: The Role of Financial Incentives in the Call to Public Service | 10.1093/qje/qjt008",
+                "Claudio Ferraz | Motivating Politicians: The Impacts of Monetary Incentives on Quality and Performance | 10.1093/restud/rdt011"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3191193480",
+        "model": "gpt",
+        "question": "How does the relationship between the employee share of employment and the expansion of the income tax base compare across different institutional and enforcement contexts, and to what extent do third-party information reporting mechanisms explain variation in tax capacity beyond structural labor market transformation?",
+        "response": {
+            "references": [
+                "Henrik Jacobsen Kleven | Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark | 10.3982/ECTA9113",
+                "Timothy Besley | Taxation and Development | 10.1016/B978-0-444-52944-2.00013-7",
+                "Anders Jensen | Employment Structure and the Rise of the Modern Tax System | 10.1257/aer.20191599",
+                "Dina Pomeranz | No Taxation without Information: Deterrence and Self-Enforcement in the Value Added Tax | 10.1257/aer.20130393",
+                "Joana Naritomi | Consumers as Tax Auditors | 10.1257/aer.20160658"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411811755",
+        "model": "gpt",
+        "question": "How does demographic diversity within academic institutions influence the thematic direction and inclusiveness of scientific research agendas across different disciplines and national contexts?",
+        "response": {
+            "references": [
+                "Richard B. Freeman | Collaborating with People Like Me: Ethnic Coauthorship within the United States | 10.1086/599247",
+                "Scott E. Page | The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies | 10.1515/9781400830282",
+                "Bas Hofstra | The Diversity\u2013Innovation Paradox in Science | 10.1073/pnas.1915378117",
+                "Wei Cheng | Gender Diversity in Academic Research | 10.1371/journal.pone.0226688",
+                "Yang Yang | Gendered Citation Patterns among the Scientific Elite | 10.1073/pnas.2012208117"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2922131771",
+        "model": "gpt",
+        "question": "How does the degree of nominal wage rigidity documented in administrative payroll data compare with estimates derived from survey-based and other data sources across different countries and macroeconomic regimes, and what do these discrepancies imply for the calibration of business cycle models?",
+        "response": {
+            "references": [
+                "Ernst Fehr | Does Money Illusion Matter? | 10.1257/aer.91.5.1239",
+                "Truman F. Bewley | Why Wages Don't Fall during a Recession | 10.4159/9780674020904",
+                "Mary C. Daly | Downward Nominal Wage Rigidities Bend the Phillips Curve | 10.1016/j.jmoneco.2012.12.005",
+                "Elsby Michael W. L. | Downward Nominal Wage Rigidity in the United States and the United Kingdom | 10.1016/j.jmacro.2015.02.008",
+                "Steinar Holden | Wage Setting under Different Monetary Regimes | 10.1111/1468-0297.00633"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4221066757",
+        "model": "gpt",
+        "question": "How do the welfare and labor-share implications of oligopsonistic labor market power derived from general equilibrium models with concentrated markets compare to estimates from alternative theoretical frameworks and empirical approaches for measuring monopsony power across the literature?",
+        "response": {
+            "references": [
+                "Alan Manning | Monopsony in Motion: Imperfect Competition in Labor Markets | 10.1515/9781400850679",
+                "Jos\u00e9 Azar | Concentration in US Labor Markets: Evidence from Online Vacancy Data | 10.1016/j.labeco.2019.01.006",
+                "David Berger | Labor Market Power | 10.1257/aer.20191521",
+                "Suresh Naidu | Antitrust Remedies for Labor Market Power | 10.1093/ilj/jxz015",
+                "Arindrajit Dube | Monopsony in Online Labor Markets | 10.1257/aer.20181269"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2183349456",
+        "model": "gpt",
+        "question": "How do endogenous private school entry and exit responses to public education funding reforms compare across different institutional and geographic contexts, and what market structure factors mediate the magnitude of these supply-side effects on enrollment outcomes?",
+        "response": {
+            "references": [
+                "Jesse Rothstein | Good Principals or Good Peers? Parental Valuation of School Characteristics, Tiebout Equilibrium, and the Incentive Effects of Competition among Jurisdictions | 10.1257/aer.96.4.1333",
+                "Caroline M. Hoxby | Does Competition among Public Schools Benefit Students and Taxpayers? | 10.1257/aer.90.5.1209",
+                "David N. Figlio | School Accountability and Student Performance | 10.1086/428390",
+                "Rajashri Chakrabarti | Can Increasing Private School Participation and Monetary Loss in a Voucher Program Affect Public School Performance? | 10.1257/pol.5.2.44",
+                "Francisco Gallego | Voucher-School Competition, Incentives, and Outcomes: Evidence from Chile | 10.1016/j.jpubeco.2012.11.007"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4221074652",
+        "model": "gpt",
+        "question": "How do the relative contributions of contextual (place-based) versus individual factors to voter behavior identified in value-added mobility models compare with findings from studies on neighborhood effects, political socialization, and residential self-selection across different institutional and geographic settings?",
+        "response": {
+            "references": [
+                "Jens Ludwig | Neighborhood Effects on the Long-Term Well-Being of Low-Income Adults | 10.1126/science.1224648",
+                "Raj Chetty | The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment | 10.1257/aer.20150572",
+                "Dora L. Costa | The Effects of Neighborhoods on Political Participation | 10.1086/379817",
+                "Diana C. Mutz | Cross-Cutting Social Networks: Testing Democratic Theory in Practice | 10.2307/3088433",
+                "Ryan D. Enos | What the Demolition of Public Housing Teaches Us about the Impact of Racial Threat on Political Behavior | 10.1111/ajps.12156"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4398152315",
+        "model": "gpt",
+        "question": "How does the influence of ideological alignment between information sources and policymakers on evidence-based policy adoption compare across different political systems, policy domains, and institutional contexts, and what mechanisms beyond selective exposure and belief updating might mediate this relationship?",
+        "response": {
+            "references": [
+                "David P. Baron | Persistent Media Bias | 10.1016/j.jpubeco.2005.09.006",
+                "Matthew Gentzkow | Media Bias and Reputation | 10.1086/499414",
+                "Stefano DellaVigna | The Fox News Effect: Media Bias and Voting | 10.1093/qje/qjp010",
+                "Ethan Bueno de Mesquita | Politics and the Effectiveness of Foreign Aid | 10.1017/S0003055412000324",
+                "Abhijit V. Banerjee | The Experimental Approach to Development Economics | 10.1146/annurev.economics.050708.143235"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2560792582",
+        "model": "gpt",
+        "question": "How do the long-run health and economic returns to childhood Medicaid eligibility documented here compare with those estimated for other early-life public investments\u2014such as nutritional assistance, cash transfers, and educational interventions\u2014and what do these comparisons reveal about the relative cost-effectiveness of investing in children's health versus other domains?",
+        "response": {
+            "references": [
+                "Sarah Miller | The Long-Term Effects of Early Life Medicaid Coverage | 10.1257/aer.20171671",
+                "Hilary W. Hoynes | Long-Run Impacts of Childhood Access to the Safety Net | 10.1257/aer.20130375",
+                "Douglas Almond | Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes | 10.1162/rest.2011.11441",
+                "Raj Chetty | How Does Your Kindergarten Classroom Affect Your Earnings? Evidence from Project STAR | 10.1093/qje/qjr041",
+                "Nathaniel Hendren | Measuring the Welfare Effects of Government Policies | 10.1093/qje/qjaa006"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4416694440",
+        "model": "gpt",
+        "question": "How does the broader macroeconomic literature reconcile this model's theoretical prediction that income inequality contracts fiscal space at the zero lower bound with empirical findings on the relationship between wealth distribution, aggregate demand, and sovereign debt sustainability across advanced economies?",
+        "response": {
+            "references": [
+                "Adrien Auclert | Inequality and Aggregate Demand | 10.3982/ECTA17491",
+                "Atif Mian | Indebted Demand | 10.1093/qje/qjv007",
+                "Ludwig Straub | The Saving Glut of the Rich | 10.1257/mac.20200254",
+                "Olivier J. Blanchard | Public Debt and Low Interest Rates | 10.1257/aer.109.4.1197",
+                "Gauti B. Eggertsson | The Rise of Inequality, the Decline in r*, and the Increase in Default Risk | 10.1257/aer.20180167"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4382726429",
+        "model": "gpt",
+        "question": "How does the broader international macroeconomics literature evaluate the optimal design of monetary policy and capital controls under the dominant currency paradigm, particularly regarding the tension between unilateral inflation targeting and coordinated global policy?",
+        "response": {
+            "references": [
+                "Gita Gopinath | Dominant Currency Paradigm | 10.1257/aer.20171201",
+                "H\u00e9l\u00e8ne Rey | Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy Independence | 10.3386/w21162",
+                "Emmanuel Farhi | A Theory of Macroprudential Policies in the Presence of Nominal Rigidities | 10.3982/ECTA11445",
+                "Anton Korinek | Regulating Capital Flows to Emerging Markets: An Externality View | 10.1016/j.jinteco.2010.05.005",
+                "Maurice Obstfeld | Financial Stability, the Trilemma, and International Reserves | 10.1257/mac.2.2.57"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4298012915",
+        "model": "gpt",
+        "question": "How do alternative models of information cost in the rational inattention literature compare with the assumption of posterior separability in terms of their theoretical tractability, empirical validity, and capacity to explain behavioral anomalies in experimental decision-making?",
+        "response": {
+            "references": [
+                "Christopher A. Sims | Implications of Rational Inattention | 10.1016/S0304-3932(03)00029-1",
+                "Filip Mat\u011bjka | Rational Inattention to Discrete Choices: A New Foundation for the Multinomial Logit Model | 10.1257/aer.20130047",
+                "Andrew Caplin | Measuring Beliefs and Rewards: A Neuroeconomic Approach | 10.1093/qje/qjs002",
+                "Mark Dean | Rational Inattention and State Dependent Stochastic Choice | 10.3982/ECTA13703",
+                "Xavier Gabaix | Behavioral Inattention | 10.1016/j.hec.2019.02.001"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4401996807",
+        "model": "gpt",
+        "question": "How does the broader empirical literature on psychometric credit scoring and machine learning-driven underwriting compare to traditional firm-level risk assessments in mitigating the negative impacts of entrepreneurial overoptimism and optimizing credit allocation across diverse developing economies?",
+        "response": {
+            "references": [
+                "Dean Karlan | Expanding Microenterprise Credit Access: Using Randomized Supply Decisions to Estimate the Impacts in Manila | 10.1093/restud/rdt033",
+                "Julapa Jagtiani | The Roles of Alternative Data and Machine Learning in Fintech Lending: Evidence from the LendingClub Consumer Platform | 10.1111/fima.12295",
+                "Tobias Berg | On the Rise of FinTechs: Credit Scoring Using Digital Footprints | 10.1093/rfs/hhz099",
+                "Suresh de Mel | Returns to Capital in Microenterprises: Evidence from a Field Experiment | 10.1093/qje/qjn018",
+                "Antoinette Schoar | The Divide between Subsistence and Transformational Entrepreneurship | 10.1086/657144"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2751256296",
+        "model": "gpt",
+        "question": "How does the empirical literature on multidimensional voter preferences and diverse political institutions across democratic regimes validate or limit the generalizability of median voter models when predicting the political feasibility of monotonic income tax reforms?",
+        "response": {
+            "references": [
+                "Allan H. Meltzer | A Rational Theory of the Size of Government | 10.1086/261013",
+                "Thomas Piketty | Social Mobility and Redistributive Politics | 10.2307/2951272",
+                "Torsten Persson | Is Inequality Harmful for Growth? | 10.2307/2118470",
+                "Alberto Alesina | Distributive Politics and Economic Growth | 10.2307/2138580",
+                "Thomas Romer | Individual Welfare, Majority Voting, and the Properties of a Linear Income Tax | 10.1016/0047-2727(75)90016-X"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4226301049",
+        "model": "gpt",
+        "question": "To what extent does the finding that market outcomes remain invariant under different configurations of data broker power challenge or align with prevailing economic literature on vertical integration, information design, and consumer surplus in data-driven markets?",
+        "response": {
+            "references": [
+                "Dirk Bergemann | Markets for Information: An Introduction | 10.1146/annurev-economics-080315-015439",
+                "Alessandro Acquisti | The Economics of Privacy | 10.1257/jel.54.2.442",
+                "Benjamin E. Hermalin | Privacy, Property Rights and Efficiency: The Economics of Privacy as Secrecy | 10.1007/s11151-005-9004-6",
+                "Curtis R. Taylor | Consumer Privacy and the Market for Customer Information | 10.1111/1468-0262.00408",
+                "Jin-Hyuk Kim | Information Design in Data Markets | 10.1287/mnsc.2020.3801"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4404760632",
+        "model": "gpt",
+        "question": "How do social image concerns and varying levels of audience sophistication influence the divergence between private beliefs and public discourse across different institutional, cultural, and organizational contexts?",
+        "response": {
+            "references": [
+                "Roland B\u00e9nabou | Incentives and Prosocial Behavior | 10.1257/aer.96.5.1652",
+                "Leonardo Bursztyn | Understanding Mechanisms Underlying Peer Effects: Evidence from a Field Experiment on Financial Decisions | 10.3982/ECTA11991",
+                "Matthew Gentzkow | Ideological Segregation Online and Offline | 10.1093/qje/qjr044",
+                "Timur Kuran | Private Truths, Public Lies: The Social Consequences of Preference Falsification | 10.2307/j.ctv1m592jn",
+                "Andrew T. Little | Communication Technology and Protest | 10.1017/S0003055416000498"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126193704",
+        "model": "gpt",
+        "question": "How do physician equity holdings in outpatient facilities influence the trade-off between cost-saving efficiencies and potential self-referral biases across different clinical specialties and healthcare systems?",
+        "response": {
+            "references": [
+                "Jean M. Mitchell | Physician Ownership of Specialty Hospitals: A Threat to Community Hospitals? | 10.1377/hlthaff.24.4.926",
+                "Lawrence P. Casalino | Physician Self-Referral and Physician-Owned Specialty Facilities | 10.1001/jama.289.4.500",
+                "Jean M. Mitchell | Effect of Physician Ownership of Specialty Hospitals and Ambulatory Surgery Centers on Frequency of Use of Outpatient Orthopedic Surgery | 10.1001/archsurg.2010.149",
+                "Atul Gawande | The Cost Conundrum | 10.1056/NEJMp0905149",
+                "Daniel P. Kessler | Is Hospital Competition Socially Wasteful? | 10.1093/qje/115.2.577"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3152373893",
+        "model": "gpt",
+        "question": "To what extent does the broader political economy literature on voter turnout and party competition support the theoretical prediction that dominant parties strategically design redistributive tax policies to demobilize opposition voters rather than to mobilize their own base?",
+        "response": {
+            "references": [
+                "Alberto Alesina | Partisan Politics, Divided Government, and the Economy | 10.1017/CBO9780511720477",
+                "Timothy Besley | The Origins of State Capacity: Property Rights, Taxation, and Politics | 10.1257/aer.99.4.1218",
+                "John D. Huber | Redistribution and the Politics of Taxation in Presidential and Parliamentary Democracies | 10.1017/S0003055410000507",
+                "Torsten Persson | Separation of Powers and Political Accountability | 10.2307/2951599",
+                "Daron Acemoglu | Political Losers as a Barrier to Economic Development | 10.1257/0002828054825478"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409963028",
+        "model": "gpt",
+        "question": "How does the empirical evidence across diverse healthcare systems compare regarding the long-term impact of post-emergency psychiatric appointment delays on patient retention and mortality?",
+        "response": {
+            "references": [
+                "Jeffrey M. Pyne | Cost-Effectiveness of Collaborative Care for Depression in Primary Care | 10.1001/archpsyc.60.10.991",
+                "Gregory E. Simon | Initial Antidepressant Choice in Primary Care: Effectiveness and Cost of Fluoxetine vs Tricyclic Antidepressants | 10.1001/jama.275.24.1897",
+                "Benjamin G. Druss | Understanding Excess Mortality in Persons with Mental Illness | 10.1097/MLR.0b013e3181ca4332",
+                "Marcus T. Bohnert | Association between Opioid Prescribing Patterns and Opioid Overdose-Related Deaths | 10.1001/jama.2011.370",
+                "Kenneth B. Wells | Caring for Depression | 10.1001/jama.283.2.212"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4385162000",
+        "model": "gpt",
+        "question": "How does the broader body of empirical literature assess the efficacy of Pigouvian regulatory instruments in mitigating localized ecological and hydrological externalities within decentralized environmental offset markets without undermining their economic viability?",
+        "response": {
+            "references": [
+                "Thomas H. Tietenberg | Tradable Permits in Principle and Practice | 10.1016/S0095-0696(02)00016-3",
+                "James Salzman | Creating Markets for Ecosystem Services: Notes from the Field | 10.14763/2018.1.789",
+                "Stephen Polasky | Where to Put Things? Spatial Land Management to Sustain Biodiversity and Economic Returns | 10.1016/j.biocon.2008.03.022",
+                "Paul J. Ferraro | The Future of Payments for Environmental Services | 10.1111/j.1467-6419.2011.00675.x",
+                "Sheila M. Olmstead | The Economics of Managing Scarce Water Resources | 10.1093/reep/rep007"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3136638687",
+        "model": "gpt",
+        "question": "To what extent does the broader historical and macroeconomic literature support the consensus that abandoning fixed exchange rate regimes, such as the gold standard, promotes economic recovery primarily by shifting inflationary expectations and lowering real interest rates?",
+        "response": {
+            "references": [
+                "Barry Eichengreen | The Gold Standard and the Great Depression | 10.3386/w6060",
+                "Peter Temin | The Macroeconomics of the Great Depression | 10.1017/CBO9780511778249",
+                "Ben S. Bernanke | The Macroeconomics of the Great Depression: A Comparative Approach | 10.2307/2118204",
+                "Christina D. Romer | The Great Crash and the Onset of the Great Depression | 10.2307/2937945",
+                "Gauti B. Eggertsson | Great Expectations and the End of the Depression | 10.1257/aer.98.4.1476"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3091274080",
+        "model": "gpt",
+        "question": "How do informational interventions aimed at correcting misperceived social norms influence intra-household bargaining and female labor force participation across different patriarchal economies?",
+        "response": {
+            "references": [
+                "Leonardo Bursztyn | Misperceived Social Norms: Female Labor Force Participation in Saudi Arabia | 10.1257/aer.20180975",
+                "Seema Jayachandran | The Roots of Gender Inequality in Developing Countries | 10.1146/annurev-economics-080614-115404",
+                "Rachel Heath | Manufacturing Growth and the Lives of Bangladeshi Women | 10.1016/j.jdeveco.2014.04.006",
+                "Erica Field | On Her Own Account: How Strengthening Women's Financial Control Affects Labor Supply and Gender Norms | 10.1257/aer.20200705",
+                "Naila Kabeer | Resources, Agency, Achievements: Reflections on the Measurement of Women's Empowerment | 10.1111/1467-7660.00125"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4411811737",
+        "model": "gpt",
+        "question": "To what extent does the broader empirical literature support the thesis that public R&D spending yields a significantly more persistent and positive multiplier effect on long-term productivity and private investment than other categories of public investment and consumption across different macroeconomic contexts and national innovation systems?",
+        "response": {
+            "references": [
+                "Jonathan Gruber | Fiscal Policy in the Shadow of Debt: Surplus Keynesianism in Japan | 10.1257/jep.34.1.45",
+                "Davide Furceri | The Effects of Public Investment on Private Investment and Productivity | 10.1016/j.jmacro.2018.09.004",
+                "Nicholas Bloom | Are Ideas Getting Harder to Find? | 10.1257/aer.20180338",
+                "Pierre Azoulay | Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules | 10.1093/restud/rdz050",
+                "Charles I. Jones | R&D-Based Models of Economic Growth | 10.1086/261725"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2185872490",
+        "model": "gpt",
+        "question": "How do the mechanisms of civilian mobilization identified in this study\u2014namely, the strategic deployment of armed groups and the exploitation of obedience\u2014compare to the mobilization strategies and peer-effect dynamics documented across other historical cases of state-sponsored mass violence?",
+        "response": {
+            "references": [
+                "Christopher R. Browning | Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland | 10.2307/j.ctv39x6v6",
+                "Scott Straus | What Is the Relationship between Hate Radio and Violence? Rethinking Rwanda's 'Radio Machete' | 10.1017/S0003055410000354",
+                "Omar Shahabudin McDoom | The Micro-Politics of Mass Violence: Authority, Opportunity, and Security in Rwanda's Genocide | 10.1080/14623528.2013.789204",
+                "Benjamin A. Valentino | Final Solutions: Mass Killing and Genocide in the Twentieth Century | 10.7591/9780801467164",
+                "Stathis N. Kalyvas | The Ontology of Political Violence: Action and Identity in Civil Wars | 10.1017/S0003055403000698"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7117670261",
+        "model": "gpt",
+        "question": "Given that conventional diagnostic tests fail to detect widespread monotonicity violations in judicial panels, how does the broader empirical economics literature reconcile the theoretical necessity of the monotonicity assumption with the observed resilience of judge-instrumental variable estimates to these violations?",
+        "response": {
+            "references": [
+                "Joshua D. Angrist | Identification of Causal Effects Using Instrumental Variables | 10.1080/01621459.1996.10476902",
+                "Alberto Abadie | Semiparametric Instrumental Variable Estimation of Treatment Response Models | 10.1016/S0304-4076(02)00201-4",
+                "Guido W. Imbens | Better LATE Than Nothing: Some Comments on Deaton (2009) and Heckman and Urzua (2009) | 10.1257/jel.48.2.399",
+                "Magne Mogstad | The Causal Interpretation of Two-Stage Least Squares with Multiple Instrumental Variables | 10.1257/aer.20190221",
+                "Joseph J. Doyle | Child Protection and Child Outcomes: Measuring the Effects of Foster Care | 10.1257/aer.97.5.1583"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4293568569",
+        "model": "gpt",
+        "question": "How do different empirical research designs in the social sciences systematically differ in their susceptibility to p-hacking, and how robust are meta-analytic methods of detecting these publication biases when accounting for statistical artifacts like rounding errors?",
+        "response": {
+            "references": [
+                "John P. A. Ioannidis | Why Most Published Research Findings Are False | 10.1371/journal.pmed.0020124",
+                "Joseph P. Simmons | False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant | 10.1177/0956797611417632",
+                "Annie Franco | Publication Bias in the Social Sciences: Unlocking the File Drawer | 10.1126/science.1255484",
+                "Uri Simonsohn | p-Curve: A Key to the File-Drawer | 10.1037/a0033242",
+                "Anne-Wil Harzing | The Publish or Perish Book | 10.1080/14786435.2012.684125"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3194604013",
+        "model": "gpt",
+        "question": "How does the newly proposed $tF$ standard error adjustment compare to established weak-instrument-robust inference methods, such as the Anderson-Rubin and conditional likelihood ratio tests, in terms of size control, statistical power, and length of confidence intervals across diverse empirical applications in economics?",
+        "response": {
+            "references": [
+                "Theodore W. Anderson | Estimation of the Parameters of a Single Equation in a Complete System of Stochastic Equations | 10.1214/aoms/1177729679",
+                "James H. Stock | Testing for Weak Instruments in Linear IV Regression | 10.1017/CBO9780511614491.006",
+                "Donald W. K. Andrews | Inference with Weak Instruments | 10.3982/ECTA9122",
+                "Isaiah Andrews | Weak Instruments in Instrumental Variables Regression: Theory and Practice | 10.1146/annurev-economics-080218-025643",
+                "Isaiah Andrews | Valid Two-Step Identification-Robust Confidence Sets for GMM | 10.1093/restud/rdw052"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4392296252",
+        "model": "gpt",
+        "question": "How does empirical evidence across labor and marriage markets support or challenge the theoretical prediction that global increases in match synergy, driven by technological convexity and learning dynamics, systematically lead to greater positive assortative matching?",
+        "response": {
+            "references": [
+                "Gary S. Becker | A Theory of Marriage: Part I | 10.1086/260084",
+                "Jeremy Greenwood | Marry Your Like: Assortative Mating and Income Inequality | 10.1257/aer.104.5.348",
+                "Aloysius Siow | Differential Fecundity, Markets, and Gender Roles | 10.1086/261782",
+                "Pierre-Andr\u00e9 Chiappori | Matching with Transfers: The Economics of Love and Marriage | 10.3982/ECTA10850",
+                "Gautam Gowrisankaran | Estimating the Returns to Assortative Matching in the Market for CEOs | 10.1016/j.jfineco.2012.07.007"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409962861",
+        "model": "gpt",
+        "question": "How does the broader literature in urban economics and environmental science reconcile the causal impact of \"place effects\" on household carbon emissions with the confounding factor of residential self-selection across different geographic and institutional contexts?",
+        "response": {
+            "references": [
+                "Edward L. Glaeser | The Greenness of Cities: Carbon Dioxide Emissions and Urban Development | 10.1016/j.jue.2009.05.006",
+                "Matthew E. Kahn | The Environmental Impact of Suburbanization | 10.1016/j.jue.2006.04.006",
+                "David M. Levinson | The Full Cost of Intercity Transportation | 10.1016/S0965-8564(97)00013-0",
+                "Severin Borenstein | The Private and Public Economics of Renewable Electricity Generation | 10.1257/jep.26.1.67",
+                "Raj Chetty | The Effects of Exposure to Better Neighborhoods on Children | 10.1257/aer.20150572"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7126269175",
+        "model": "gpt",
+        "question": "How does the empirical literature across diverse organizational contexts and industries explain the systemic divergence between subjective assessments of employee \"potential\" and objective performance metrics in perpetuating gender disparities in promotion and compensation?",
+        "response": {
+            "references": [
+                "Shelley J. Correll | Getting a Job: Is There a Motherhood Penalty? | 10.1086/511799",
+                "Corinne A. Moss-Racusin | Science faculty's subtle gender biases favor male students | 10.1073/pnas.1211286109",
+                "Iris Bohnet | Performance Evaluations and Gender Bias | 10.1287/mnsc.2015.2186",
+                "Claudia Goldin | Orchestrating Impartiality: The Impact of 'Blind' Auditions on Female Musicians | 10.1257/aer.90.4.715",
+                "Linda Babcock | Gender Differences in Accepting and Receiving Requests for Tasks with Low Promotability | 10.1257/aer.107.3.714"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3190305424",
+        "model": "gpt",
+        "question": "How do contemporary theoretical and empirical literatures in financial economics reconcile the microeconomic efficiency of benchmark-based incentive contracts for individual fund managers with the systemic welfare losses and pecuniary externalities, such as crowded trades and asset price distortions, that these contracts collectively generate in equilibrium?",
+        "response": {
+            "references": [
+                "Jonathan B. Berk | Mutual Fund Flows and Performance in Rational Markets | 10.1086/426093",
+                "Dimitri Vayanos | Flight to Quality, Flight to Liquidity, and the Pricing of Risk | 10.1093/rfs/hhn090",
+                "Andrea Frazzini | Benchmarking and Asset Manager Compensation: Implications for Asset Prices | 10.1093/rfs/hhw013",
+                "Harrison Hong | Social Interaction and Stock-Market Participation | 10.1111/1540-6261.00592",
+                "Adrian Buss | The Equilibrium Effects of Benchmarking | 10.1111/jofi.12745"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3125075771",
+        "model": "gpt",
+        "question": "How does the broader empirical and theoretical literature on housing search-and-matching models account for the role of buyer heterogeneity and market segmentation in the spatial transmission and mitigation of localized macroeconomic shocks?",
+        "response": {
+            "references": [
+                "Edward L. Glaeser | Housing Dynamics | 10.1016/j.jue.2005.11.005",
+                "Fernando Ferreira | Housing Busts and Household Mobility | 10.1016/j.jue.2010.12.007",
+                "Charles Nathanson | Trickle-Down Housing Economics | 10.1093/restud/rdz012",
+                "Erik Hurst | The Social Security Early Entitlement Age in a Structural Model of Retirement and Wealth | 10.1016/j.jpubeco.2005.01.002",
+                "Amir Kermani | Financial Frictions, Housing, and Labor Markets | 10.1016/j.jfineco.2015.09.004"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7143745190",
+        "model": "gpt",
+        "question": "How does the integration of market power into intermediary asset pricing models alter the broader theoretical and empirical consensus regarding the impact of relaxed financial constraints on asset pricing and market liquidity dynamics across different asset classes?",
+        "response": {
+            "references": [
+                "Markus K. Brunnermeier | Market Liquidity and Funding Liquidity | 10.1093/rfs/hhn098",
+                "Dimitri Vayanos | A Preferred-Habitat Model of the Term Structure of Interest Rates | 10.3982/ECTA7727",
+                "Darrell Duffie | Over-the-Counter Markets | 10.1111/j.1540-6261.2005.00784.x",
+                "Andrea Eisfeldt | Financial Intermediation and Asset Prices | 10.1111/j.1540-6261.2004.00684.x",
+                "Tobias Adrian | Intermediary Asset Pricing and the Financial Crisis | 10.1146/annurev-financial-110613-034420"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4361278552",
+        "model": "gpt",
+        "question": "How do the estimated impacts of credit market reforms on aggregate allocative efficiency and total factor productivity differ when analyzed through reduced-form, quasi-experimental aggregation frameworks versus traditional structural general equilibrium models across various empirical settings?",
+        "response": {
+            "references": [
+                "Chang-Tai Hsieh | Misallocation and Manufacturing TFP in China and India | 10.1093/qje/qjp014",
+                "Sebastian Galiani | The Deregulation of the Argentine Electricity Sector: Evidence from Power Generators | 10.1016/j.jpubeco.2005.08.001",
+                "Abhijit V. Banerjee | The Shape of Temptation: Implications for the Economic Lives of the Poor | 10.3386/w15973",
+                "Raghuram G. Rajan | Financial Dependence and Growth | 10.1257/aer.88.3.559",
+                "Virgiliu Midrigan | Finance and Misallocation: Evidence from Plant-Level Data | 10.1257/aer.104.2.422"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7131826288",
+        "model": "gpt",
+        "question": "How does the empirical literature reconcile the varying macroeconomic mechanisms\u2014such as trade disruptions, capital destruction, and productivity shocks\u2014that drive the international transmission of war-induced stagflation to third-party economies across different historical eras?",
+        "response": {
+            "references": [
+                "Mark Harrison | The Economics of World War II: Six Great Powers in International Comparison | 10.1017/CBO9780511497339",
+                "Steven J. Davis | Economic Activity and the Short-Term Credit Markets in the Great Depression | 10.1017/S0022050700024686",
+                "Yuriy Gorodnichenko | The Effects of World War II on Economic and Health Outcomes across Europe | 10.1162/REST_a_00353",
+                "David S. Jacks | From Boom to Bust: A Typology of Real Commodity Prices in the Long Run | 10.3386/w18874",
+                "Barry Eichengreen | The Interwar Gold Standard in Operation | 10.1017/S0022050700042678"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409476181",
+        "model": "gpt",
+        "question": "How does the broader scientific literature on academic peer effects reconcile the mechanisms of homophily and social influence in shaping student political socialization, particularly regarding whether social interactions foster active ideological convergence or merely prevent further opinion divergence?",
+        "response": {
+            "references": [
+                "Robert M. Bond | A 61-Million-Person Experiment in Social Influence and Political Mobilization | 10.1038/nature11421",
+                "Diana C. Mutz | Cross-Cutting Social Networks: Testing Democratic Theory in Practice | 10.2307/3088433",
+                "David E. Campbell | The Young and the Realigning: A Test of the Socialization Theory of Realignment | 10.1093/poq/nfp025",
+                "Ryan D. Enos | Causal Effect of Intergroup Contact on Exclusionary Attitudes | 10.1073/pnas.1317670111",
+                "Matthew Gentzkow | Ideological Segregation Online and Offline | 10.1093/qje/qjr044"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W7160030214",
+        "model": "gpt",
+        "question": "How does the broader empirical literature on the heterogeneity of taxable income elasticities within specific income brackets impact the validity of using sufficient-statistics tests to justify Pareto-efficient tax policies under non-extreme utilitarian welfare functions?",
+        "response": {
+            "references": [
+                "Emmanuel Saez | Using Elasticities to Derive Optimal Income Tax Rates | 10.3386/w7628",
+                "Emmanuel Saez | The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review | 10.1257/jel.50.1.3",
+                "Raj Chetty | Bounds on Elasticities with Optimization Frictions | 10.3982/ECTA9043",
+                "Thomas Piketty | Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities | 10.1257/pol.20110558",
+                "Stefanie Stantcheva | Optimal Taxation and Human Capital Policies over the Life Cycle | 10.1086/696239"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4226150730",
+        "model": "gpt",
+        "question": "How does the empirical literature on regulated insurance markets reconcile the theoretical benefits of consumer choice with findings that vertical choice offers negligible welfare gains in the presence of minimum coverage standards?",
+        "response": {
+            "references": [
+                "Liran Einav | Selection on Moral Hazard in Health Insurance | 10.1257/aer.103.1.178",
+                "Keith Marzilli Ericson | Consumer Inertia and Firm Pricing in the Medicare Part D Prescription Drug Insurance Exchange | 10.1257/pol.6.1.38",
+                "Benjamin R. Handel | Adverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts | 10.1257/aer.103.7.2643",
+                "Michael Geruso | Demand Heterogeneity in Insurance Markets: Implications for Equity and Efficiency | 10.3982/ECTA13418",
+                "Amanda Starc | Insurer Pricing and Consumer Welfare: Evidence from Medigap | 10.1257/aer.20120115"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W3168661866",
+        "model": "gpt",
+        "question": "How does the contemporary macroeconomic literature evaluate the relative efficacy of targeted fiscal transfers versus conventional monetary policy in restoring effective demand during economic crises characterized by sector-specific disruptions to the circular flow of payments?",
+        "response": {
+            "references": [
+                "Veronica Guerrieri | Macroeconomic Implications of COVID-19: Can Negative Supply Shocks Cause Demand Shortages? | 10.1257/aer.20201063",
+                "Emmanuel Farhi | Fiscal Multipliers: Liquidity Traps and Currency Unions | 10.3386/w18381",
+                "Gauti B. Eggertsson | Zero Bound on Interest Rates and Optimal Monetary Policy | 10.1353/eca.2003.0010",
+                "Christina D. Romer | The Macroeconomic Effects of Tax Changes: Estimates Based on a New Measure of Fiscal Shocks | 10.1257/aer.100.3.763",
+                "Adrien Auclert | Monetary Policy and the Redistribution Channel | 10.1257/aer.20160137"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W2596669114",
+        "model": "gpt",
+        "question": "To what extent can network formation models parameterized by Aggregated Relational Data (ARD) reliably substitute for census-level network data when estimating peer effects and diffusion dynamics across diverse social and economic contexts?",
+        "response": {
+            "references": [
+                "Matthew O. Jackson | Social and Economic Networks | 10.1515/9781400833993",
+                "Arun G. Chandrasekhar | Econometrics of Sampled Networks | 10.1093/ectj/utw001",
+                "Bryan S. Graham | An Econometric Model of Network Formation with Degree Heterogeneity | 10.3982/ECTA12679",
+                "Arun G. Chandrasekhar | Using Aggregated Relational Data to Feasibly Identify Network Structure without Network Data | 10.1257/aer.20170849",
+                "Elena Manresa | Estimating the Structure of Social Interactions Using Panel Data | 10.3982/ECTA14246"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4226038371",
+        "model": "gpt",
+        "question": "To what extent does the empirical and theoretical literature support the hypothesis that public redistributive policies crowd out firm-provided wage insurance against worker- and firm-specific productivity shocks across different institutional and macroeconomic contexts?",
+        "response": {
+            "references": [
+                "Thomas J. Sargent | The Ends of Four Big Inflations | 10.3386/w0158",
+                "Robert E. Hall | The Value of Life and the Rise in Health Spending | 10.1162/003355303321675437",
+                "Robert Shimer | The Cyclical Behavior of Equilibrium Unemployment and Vacancies | 10.1257/000282805775014640",
+                "Fatih Guvenen | Firming Up Inequality | 10.1093/qje/qjx047",
+                "David Card | Firms and Labor Market Inequality: Evidence and Some Theory | 10.1086/707628"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4298012868",
+        "model": "gpt",
+        "question": "How does the broader political economy literature conceptualize and empirically validate the mitigating role of economic development and capital accumulation in preventing the democratic \"death spirals\" triggered by populist demagoguery?",
+        "response": {
+            "references": [
+                "Daron Acemoglu | Economic Origins of Dictatorship and Democracy | 10.1017/CBO9780511510809",
+                "Daron Acemoglu | Persistence of Power, Elites, and Institutions | 10.1257/aer.98.1.267",
+                "Alberto Alesina | Inequality and Democratic Redistribution | 10.1257/aer.94.2.348",
+                "Sharun W. Mukand | The Political Economy of Liberal Democracy | 10.1093/jeea/jvx043",
+                "Sergei Guriev | Informational Autocrats | 10.1257/jep.33.4.100"
+            ]
+        }
+    },
+    {
+        "id": "https://openalex.org/W4409963015",
+        "model": "gpt",
+        "question": "How does the empirical literature across different subscription industries distinguish between consumer inattention and switching costs as drivers of inertia, and what consensus exists regarding the welfare impacts of regulatory policies aimed at reducing these renewal frictions?",
+        "response": {
+            "references": [
+                "Xavier Gabaix | Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets | 10.1162/qjec.2006.121.2.505",
+                "Stefano DellaVigna | Paying Not to Go to the Gym | 10.1257/aer.96.3.694",
+                "Michael D. Grubb | Selling to Overconfident Consumers | 10.1257/aer.99.5.1770",
+                "Benjamin R. Handel | Adverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts | 10.1257/aer.103.7.2643",
+                "Keith Marzilli Ericson | Consumer Inertia and Firm Pricing in the Medicare Part D Prescription Drug Insurance Exchange | 10.1257/pol.6.1.38"
+            ]
+        }
+    }
+]

@@ -227,11 +227,23 @@ def prompt_llm(prompt, llm):
      '''   
 
 def batch_prompt_llm(prompt, llm):
+    """
+    Sends a batch prompt to the selected LLM and returns:
+    {
+        "results": [
+            {
+                "id": "...",
+                "references": [...]
+            }
+        ]
+    }
+    """
+
     if llm == "anthropic":
         client = anthropic_client
         response = client.messages.create(
             model="claude-opus-4-8",
-            max_tokens=15000,
+            max_tokens=16000,
             messages=[
                 {
                     "role": "user",
@@ -250,12 +262,33 @@ def batch_prompt_llm(prompt, llm):
             f"Output tokens: {response.usage.output_tokens:,} | "
             f"Stop reason: {response.stop_reason}"
         )
-
         return json.loads(response.content[0].text)
 
-    else:
-        return "QUESTION:\nWhat is a pineapple?\nANSWER:\nA fruit.\nREFERENCES:\n[1] Doe, John. (2026). Pineapple. Pineapple Journal, 1(23), 45-67. DOI: pineapple.com.\n[2] Doe, Jane. (1234). Original Pineapple. Pineapple Origins, 1(23), 45-67. DOI: pineapple.og.com."
 
+    elif llm == "gpt":
+        client = openai_client
+        response = client.responses.create(
+            model="gpt-5.5",
+            input=prompt,
+            text={
+                "format": {
+                    "type": "json_schema",
+                    "name": "reference_results",
+                    "schema": ANTHROPIC_RESPONSE_SCHEMA,
+                    "strict": True,
+                }
+            },
+        )
+
+        print(
+            f"GPT response received."
+        )
+        return json.loads(response.output_text)
+
+    else:
+        raise ValueError(
+            f"Unsupported LLM: {llm}"
+        )
 
 # 4. Store response, along with other info, into new JSON
 # breaks the response into 'question', 'answer', 'references'
@@ -345,7 +378,7 @@ def generate_responses(questions_file, output_file, llm="testing", prompt_base=p
 def batch_generate_responses(
     questions_file,
     output_file,
-    llm="anthropic",
+    llm="testing",
     prompt_base=prompt_base_v3,
     batch_size=10
 ):
@@ -354,10 +387,21 @@ def batch_generate_responses(
     in batches, and saves each completed batch immediately.
 
     Skips question ids that are already present in output_file.
+    Automatically creates the output directory if it doesn't exist.
     """
 
+    # Directory check
+    output_dir = os.path.dirname(output_file)
+
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+
+    # load Qs and check which are done
     questions = load_file(questions_file)
-    done_ids = set(completed_questions(output_file))
+
+    done_ids = set(
+        completed_questions(output_file)
+    )
 
     # Only send unfinished questions to the API
     remaining_questions = [
@@ -369,10 +413,16 @@ def batch_generate_responses(
         print("All questions already completed.")
         return
 
-    print(f"{len(remaining_questions)} questions remaining.")
+    print(
+        f"{len(remaining_questions)} questions remaining."
+    )
 
-    # Split remaining questions into smaller batches
-    for batch_start in range(0, len(remaining_questions), batch_size):
+    # batch processing by LLM
+    for batch_start in range(
+        0,
+        len(remaining_questions),
+        batch_size
+    ):
 
         batch = remaining_questions[
             batch_start:batch_start + batch_size
@@ -380,50 +430,108 @@ def batch_generate_responses(
 
         print(
             f"\nSending batch "
-            f"{batch_start + 1}-{batch_start + len(batch)} "
+            f"{batch_start + 1}-"
+            f"{batch_start + len(batch)} "
             f"of {len(remaining_questions)}..."
         )
 
+        # Build prompt for this batch
         prompt = batch_build_prompt(
             batch,
             prompt_base=prompt_base
         )
 
+        # call llms
         try:
-            raw_response = batch_prompt_llm(prompt, llm)
+
+            raw_response = batch_prompt_llm(
+                prompt,
+                llm
+            )
+
         except Exception as e:
-            print(f"ERROR calling {llm} for this batch: {e}")
-            print("Moving to the next batch.")
+
+            print(
+                f"\nERROR calling {llm} "
+                f"for batch "
+                f"{batch_start + 1}-"
+                f"{batch_start + len(batch)}:"
+            )
+
+            print(
+                f"    {type(e).__name__}: {e}"
+            )
+
+            print(
+                "    Moving to the next batch.\n"
+            )
+
             continue
 
-        # Structured output should already be a Python dictionary
-        results = raw_response["results"]
+        # -----------------------------------------------------
+        # Structured output should already be a Python dict
+        # -----------------------------------------------------
+        try:
 
-        # Make lookup by id so we can match Claude's references
-        # to the original questions
+            results = raw_response["results"]
+
+        except (TypeError, KeyError) as e:
+
+            print(
+                f"\nERROR: {llm} returned an unexpected "
+                f"response format."
+            )
+            print(
+                f"    {type(e).__name__}: {e}"
+            )
+            print(
+                f"    Response: {raw_response}"
+            )
+            print(
+                "    Moving to the next batch.\n"
+            )
+
+            continue
+
+        # -----------------------------------------------------
+        # Make lookup by ID
+        # -----------------------------------------------------
         results_by_id = {
             result["id"]: result
             for result in results
         }
 
-        # Load the file again immediately before saving.
-        # This makes sure we preserve everything already saved.
+        # -----------------------------------------------------
+        # Load output file again immediately before saving
+        # -----------------------------------------------------
         output_data = load_file(output_file)
 
         saved_count = 0
 
+        # -----------------------------------------------------
+        # Save each result from this batch
+        # -----------------------------------------------------
         for q in batch:
 
             qid = q["id"]
 
             if qid not in results_by_id:
-                print(f"  [{qid}] MISSING FROM CLAUDE RESPONSE")
+
+                print(
+                    f"  [{qid}] "
+                    f"MISSING FROM {llm.upper()} RESPONSE"
+                )
+
                 continue
 
             result = results_by_id[qid]
 
             if not result["references"]:
-                print(f"  [{qid}] EMPTY REFERENCES")
+
+                print(
+                    f"  [{qid}] EMPTY REFERENCES"
+                )
+
                 continue
 
             new_entry = {
@@ -436,38 +544,95 @@ def batch_generate_responses(
             }
 
             output_data.append(new_entry)
+
             saved_count += 1
 
-            print(f"  [{qid}] done")
+            print(
+                f"  [{qid}] done"
+            )
 
+        # -----------------------------------------------------
         # SAVE THIS BATCH IMMEDIATELY
-        with open(output_file, "w") as f:
-            json.dump(output_data, f, indent=4)
+        # -----------------------------------------------------
+        with open(
+            output_file,
+            "w"
+        ) as f:
+
+            json.dump(
+                output_data,
+                f,
+                indent=4
+            )
 
         print(
             f"Saved {saved_count} responses "
-            f"from this batch to {output_file}"
+            f"from this batch to "
+            f"{output_file}"
         )
 
-    print(f"\nDone. Responses saved to {output_file}")
-
+    print(
+        f"\nDone. Responses saved to "
+        f"{output_file}"
+    )
 
 # 5. Repeat
 # write main loop in here, later combine everything outside in main.py?
 
 if __name__ == "__main__":
+    # batch_generate_responses(
+    #     questions_file="data/questions/questions_S13144211.json",
+    #     output_file="data/responses/anthropic/responses_anthr_S13144211_expertsysapp.json",
+    #     llm="anthropic",
+    #     prompt_base=prompt_base_v4,
+    #     batch_size=10
+    # )
+
+    # GPT calls!
+    # batch_generate_responses(
+    #     questions_file="data/questions/questions_S1980519.json",
+    #     output_file="data/responses/gpt/responses_gpt_S1980519_expertsysapp.json",
+    #     llm="gpt",
+    #     prompt_base=prompt_base_v4,
+    #     batch_size=10
+    # )
+    
+    # batch_generate_responses(
+    #     questions_file="data/questions/questions_S9692511.json",
+    #     output_file="data/responses/gpt/responses_gpt_S9692511.json",
+    #     llm="gpt",
+    #     prompt_base=prompt_base_v4,
+    #     batch_size=50
+    # )
+    
+    # batch_generate_responses(
+    #     questions_file="data/questions/questions_S13144211.json",
+    #     output_file="data/responses/gpt/responses_gpt_S13144211.json",
+    #     llm="gpt",
+    #     prompt_base=prompt_base_v4,
+    #     batch_size=100
+    # )
+    
+    # batch_generate_responses(
+    #     questions_file="data/questions/questions_S23254222.json",
+    #     output_file="data/responses/gpt/responses_gpt_S23254222.json",
+    #     llm="gpt",
+    #     prompt_base=prompt_base_v4,
+    #     batch_size=100
+    # )
+    
+    # batch_generate_responses(
+    #     questions_file="data/questions/questions_S24807848.json",
+    #     output_file="data/responses/gpt/responses_gpt_S24807848.json",
+    #     llm="gpt",
+    #     prompt_base=prompt_base_v4,
+    #     batch_size=100
+    # )
+    
     batch_generate_responses(
-        questions_file="data/questions/questions_S13144211.json",
-        output_file="data/responses/anthropic/responses_anthr_S13144211_expertsysapp.json",
+        questions_file="data/questions/questions_S49861241.json",
+        output_file="data/responses/anthropic/responses_anthr_S49861241.json",
         llm="anthropic",
         prompt_base=prompt_base_v4,
-        batch_size=10
+        batch_size=50
     )
-
-    # # calling on anthropic and abstracts_S24807848.json (Physical Review Letters)
-    # generate_responses(
-    #     questions_file="data/abstracts_S24807848.json",
-    #     output_file="data/responses_physics_prl_anthropic.json",
-    #     llm="anthropic",
-    #     prompt_base=prompt_base_v2
-    # )
