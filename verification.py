@@ -2,6 +2,7 @@
 Verfies that citations exist, given a list of citations in APA formatting.
 Checks if citation components can be found in OpenAlex.
 
+
 Verification is based on:
     Title
     First Author
