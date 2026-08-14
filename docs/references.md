@@ -1,11 +1,13 @@
 # References & Tools
 
 ## Research Papers  
-- Zhao, Z., Wang, Y., Stuart, T., Vaan, M.D., Ginsparg, P.H., & Yin, Y. (2026). LLM hallucinations in the wild: Large-scale evidence from non-existent citations. https://doi.org/10.48550/arXiv.2605.07723.  
+- Asai, A., He, J., Shao, R. et al. Synthesizing scientific literature with retrieval-augmented language models. Nature 650, 857–863 (2026). https://doi.org/10.1038/s41586-025-10072-4. 
 
 - Chakraborty, S., Chowdhury, R., Shuvo, S.R. et al. A scalable framework for evaluating multiple language models through cross-domain generation and hallucination detection. Sci Rep 15, 29981 (2025). https://doi.org/10.1038/s41598-025-15203-5.  
 
-- Asai, A., He, J., Shao, R. et al. Synthesizing scientific literature with retrieval-augmented language models. Nature 650, 857–863 (2026). https://doi.org/10.1038/s41586-025-10072-4. 
+- Topaz, M., Roguin, N., Gupta, P., Zhang, Z., & Peltonen, L. M. (2026). Fabricated citations: an audit across 2·5 million biomedical papers. Lancet (London, England), 407(10541), 1779–1781. https://doi.org/10.1016/S0140-6736(26)00603-3
+
+- Zhao, Z., Wang, Y., Stuart, T., Vaan, M.D., Ginsparg, P.H., & Yin, Y. (2026). LLM hallucinations in the wild: Large-scale evidence from non-existent citations. https://doi.org/10.48550/arXiv.2605.07723.  
 
 
 ## Tools & Software   
