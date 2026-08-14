@@ -48,7 +48,7 @@ REQUEST_TIMEOUT = 15
 #
 # Increased from 0.25 seconds because this script is intended for
 # high-volume processing.
-REQUEST_DELAY = 0.1
+REQUEST_DELAY = 0.05
 
 # Retry settings for rate limiting / temporary failures.
 MAX_RETRIES = 5
@@ -1080,10 +1080,8 @@ def process_file(path):
 if __name__ == "__main__":
 
     files_to_process = [
-        "data/verification/anthr/checked_anthr_S4210175523_IEEEneuralnet.json"
+        "data/verification/gemini/checked_gem_S24807848_physreview.json"
 
-        # Add more files here:
-        # "data/verification/gpt/checked_gpt_S110447773.json",
     ]
 
     if (
