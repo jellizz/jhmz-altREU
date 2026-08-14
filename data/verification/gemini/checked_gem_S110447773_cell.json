@@ -2,7 +2,7 @@
   {
     "id": "https://openalex.org/W4225248781",
     "model": "gemini",
-    "question": "How do long-range GABAergic projections from the prefrontal cortex to hippocampal interneuron subtypes integrate with other known prefrontal–hippocampal pathways to regulate disinhibition, signal-to-noise optimization, spatial encoding, and exploratory behavior across cognitive and behavioral contexts?",
+    "question": "How do long-range GABAergic projections from the prefrontal cortex to hippocampal interneuron subtypes integrate with other known prefrontal\u2013hippocampal pathways to regulate disinhibition, signal-to-noise optimization, spatial encoding, and exploratory behavior across cognitive and behavioral contexts?",
     "references": [
       {
         "citation": "Rishi Malik | Top-down control of hippocampal signal-to-noise by prefrontal long-range inhibition | 10.1016/j.neuron.2021.12.011",
@@ -26,7 +26,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "S. Melzer | Long-range-projecting GABAergic neurons of the hippocampus | 10.1126/science.1217142",
@@ -53,7 +55,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       },
       {
         "citation": "Joydeep Basu | Gating of hippocampal activity, plasticity, and memory by entorhinal cortex stellate cells | 10.1126/science.aaa0394",
@@ -80,7 +84,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "J. Jin | Prefrontal-to-hippocampal pathways in memory | 10.1038/s41583-020-00383-x",
@@ -107,7 +113,9 @@
             "works_count": 1238,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.73
       },
       {
         "citation": "F. T. Sparks | Hippocampal-prefrontal coupling during spatial navigation | 10.1016/j.neuron.2020.08.012",
@@ -133,7 +141,9 @@
             "works_count": 37,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -166,7 +176,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Takashi Karigo | Distinct hypothalamic control of same-sex offensive versus defensive behaviors | 10.1016/j.cell.2020.12.002",
@@ -193,7 +205,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ananitha Nair | An attractor-like dynamical system in the hypothalamus that scales with aggressive motivation | 10.1016/j.cell.2022.12.022",
@@ -221,7 +235,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.85
       },
       {
         "citation": "Ann L. Falkner | Hierarchical control of social behaviors by the medial amygdala | 10.1038/s41593-020-0627-2",
@@ -247,7 +263,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ann Kennedy | Stimulus-dependent locus of social representation in the hypothalamus | 10.1016/j.cell.2020.09.002",
@@ -273,7 +291,9 @@
             "works_count": 61,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.63
       }
     ]
   },
@@ -308,7 +328,9 @@
             "works_count": 101,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "L. Garofano | Pathway-based classification of glioblastoma uncovers a mitochondrial subtype with distinct therapeutic vulnerabilities | 10.1016/j.ccell.2021.01.011",
@@ -335,7 +357,9 @@
             "works_count": 157,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "C. Neftel | An integrative model of cellular states, plasticity, and genetics in glioblastoma | 10.1016/j.cell.2019.06.024",
@@ -360,7 +384,9 @@
             "works_count": 18,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "A. C. Greenwald | Multi-scale spatial transcriptomics of glioblastoma | 10.1038/s41467-023-36526-y",
@@ -387,7 +413,9 @@
             "works_count": 100,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "R. Alouta | Hypoxia-driven spatial gradients in the glioblastoma microenvironment | 10.1186/s13046-022-02350-w",
@@ -413,7 +441,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.74
       }
     ]
   },
@@ -447,7 +477,9 @@
             "works_count": 95,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andreas P. Schuller | The structures of the nuclear pore complex | 10.1126/science.abm9129",
@@ -473,7 +505,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daniel H. Lin | Architecture of the nuclear pore complex | 10.1126/science.abg3067",
@@ -500,7 +534,9 @@
             "works_count": 27,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Valentin Duheron | Molecular architecture of the nuclear basket | 10.1016/j.jmb.2022.167812",
@@ -526,7 +562,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "C. Patrick Lusk | Mlp proteins and the nuclear basket: guardians of the pore | 10.1016/j.ceb.2021.03.003",
@@ -552,7 +590,9 @@
             "works_count": 96,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -585,7 +625,9 @@
             "works_count": 31,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Dario R. Valenzano | The genome of the African turquoise killifish provides insights into the evolution of lifespan | 10.1016/j.cell.2015.11.008",
@@ -612,7 +654,9 @@
             "works_count": 139,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Kathrin Reichwald | Insights into sex-biased genes and diapause from the genome of the annual killifish | 10.1186/s13059-015-0837-2",
@@ -638,7 +682,9 @@
             "works_count": 59,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "R. A. Wilschut | Epigenetic regulation of diapause in annual killifish | 10.1038/s41437-021-00456-y",
@@ -664,7 +710,9 @@
             "works_count": 71,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "S. Priyadarshini | Evolution of the REST/NRSF gene regulatory network in vertebrates | 10.1093/gbe/evy251",
@@ -690,7 +738,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -723,7 +773,9 @@
             "works_count": 236,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian Anders | Structural basis of PAM-dependent target DNA recognition by the Cas9 endonuclease | 10.1038/nature13579",
@@ -747,7 +799,9 @@
             "works_count": 89,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "F. Jiang | Structures of a CRISPR-Cas9 R-loop complex in the active state | 10.1126/science.aad6314",
@@ -773,7 +827,9 @@
             "works_count": 701,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       },
       {
         "citation": "J. H. Hu | Engineered Cas9 variants with broad PAM recognition | 10.1038/nature25477",
@@ -800,7 +856,9 @@
             "works_count": 388,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "G. Gasiunas | Cas9-crRNA ribonucleoprotein complex mediates specific DNA cleavage | 10.1073/pnas.1208514109",
@@ -819,12 +877,14 @@
           {
             "cited_name": "G. Gasiunas",
             "author_exists": true,
-            "fullest_name": "Gasiūnas, Giedrius,",
+            "fullest_name": "Gasi\u016bnas, Giedrius,",
             "h_index": 26,
             "works_count": 54,
             "organization_country_id": "LT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -859,7 +919,9 @@
             "works_count": 37,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ryuta Uraki | Characterization and antiviral susceptibility of SARS-CoV-2 Omicron BA.1 and BA.2 in rodents | 10.1038/s41586-022-04865-0",
@@ -886,7 +948,9 @@
             "works_count": 87,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bo Meng | Altered TMPRSS2 usage by SARS-CoV-2 Omicron impacts infectivity and fusogenicity | 10.1038/s41586-022-04474-x",
@@ -910,7 +974,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       },
       {
         "citation": "Joseph P. Evans | Neutralization of SARS-CoV-2 Omicron sublineages BA.1 and BA.2 | 10.1056/NEJMc2202092",
@@ -937,7 +1003,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yunlong Cao | Omicron separates itself from other variants by its severe neutralization resistance | 10.1038/s41586-021-04385-3",
@@ -964,14 +1032,16 @@
             "works_count": 140,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
   {
     "id": "https://openalex.org/W7126099653",
     "model": "gemini",
-    "question": "How do converging findings from intracranial recordings, neuroimaging, lesion studies, and deep brain stimulation trials support a causal role for orbitofrontal cortex–basal ganglia circuit gamma activity in the moment-to-moment generation and therapeutic modulation of obsessive-compulsive disorder symptoms?",
+    "question": "How do converging findings from intracranial recordings, neuroimaging, lesion studies, and deep brain stimulation trials support a causal role for orbitofrontal cortex\u2013basal ganglia circuit gamma activity in the moment-to-moment generation and therapeutic modulation of obsessive-compulsive disorder symptoms?",
     "references": [
       {
         "citation": "Martijn Figee | Deep brain stimulation restores frontostriatal network connectivity in obsessive-compulsive disorder | 10.1038/nn.3344",
@@ -997,7 +1067,9 @@
             "works_count": 208,
             "organization_country_id": "PT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Eric Burguiere | Optogenetic stimulation of lateral orbitofrontal cortex-striatum pathway suppresses compulsive behavior | 10.1126/science.1237145",
@@ -1018,12 +1090,14 @@
           {
             "cited_name": "Eric Burguiere",
             "author_exists": true,
-            "fullest_name": "Burguière, Eric",
+            "fullest_name": "Burgui\u00e8re, Eric",
             "h_index": 15,
             "works_count": 49,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Susan E. Ahmari | Repeated cortico-striatal stimulation generates persistent compulsive-like behavior | 10.1126/science.1234733",
@@ -1049,7 +1123,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "David L. Pauls | Obsessive-compulsive disorder: an integrative genetic and neurobiological perspective | 10.1038/nrn3829",
@@ -1073,7 +1149,9 @@
             "works_count": 185,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Suzanne N. Haber | Cognitive and limbic circuits: the role of the amygdala and orbitofrontal cortex in OCD | 10.1016/j.bpsc.2016.11.004",
@@ -1101,14 +1179,16 @@
             "works_count": 238,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4404395545",
     "model": "gemini",
-    "question": "How do histone chaperone–mediated nucleosome assembly pathways, replication-coupled chromatin accessibility dynamics, and locus-specific transcription factor–nucleosome competition collectively shape the restoration or reprogramming of epigenetic states on newly replicated chromatin across different genomic regulatory elements?",
+    "question": "How do histone chaperone\u2013mediated nucleosome assembly pathways, replication-coupled chromatin accessibility dynamics, and locus-specific transcription factor\u2013nucleosome competition collectively shape the restoration or reprogramming of epigenetic states on newly replicated chromatin across different genomic regulatory elements?",
     "references": [
       {
         "citation": "K. R. Stewart-Morgan | Chromatin replication and epigenetic inheritance | 10.1016/j.gde.2020.02.012",
@@ -1134,7 +1214,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
         "citation": "C. Alabert | Two distinct phases of chromatin assembly associate with DNA replication | 10.1038/ncb3101",
@@ -1161,7 +1243,9 @@
             "works_count": 58,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Anja Groth | Regulation of replication-coupled histone assembly in eukaryotes | 10.1146/annurev-biochem-061516-121853",
@@ -1187,7 +1271,9 @@
             "works_count": 111,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Albert Serra-Cardona | Histone chaperones: guardians of the epigenome during DNA replication | 10.1101/cshperspect.a040303",
@@ -1214,7 +1300,9 @@
             "works_count": 23,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shivarajan Ramachandran | Dynamics of nucleosome assembly and positioning | 10.1146/annurev-biophys-051013-022941",
@@ -1241,14 +1329,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       }
     ]
   },
   {
     "id": "https://openalex.org/W7126111491",
     "model": "gemini",
-    "question": "How have refinements of the “hallmarks of cancer” framework over the past 25 years reshaped mechanistic models of tumor initiation, microenvironmental adaptation, systemic interactions, and therapeutic co-targeting strategies across diverse cancer types?",
+    "question": "How have refinements of the \u201challmarks of cancer\u201d framework over the past 25 years reshaped mechanistic models of tumor initiation, microenvironmental adaptation, systemic interactions, and therapeutic co-targeting strategies across diverse cancer types?",
     "references": [
       {
         "citation": "Douglas Hanahan | The hallmarks of cancer | 10.1016/S0092-8674(00)81683-9",
@@ -1275,7 +1365,9 @@
             "works_count": 399,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Douglas Hanahan | Hallmarks of cancer: the next generation | 10.1016/j.cell.2011.02.013",
@@ -1299,7 +1391,9 @@
             "works_count": 399,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Douglas Hanahan | Hallmarks of cancer: new dimensions | 10.1016/j.ccell.2022.01.003",
@@ -1326,7 +1420,9 @@
             "works_count": 399,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yasmine A. Fouad | Multidimensional hallmarks of cancer: the second generation | 10.1186/s13045-017-0399-2",
@@ -1353,7 +1449,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.96
       },
       {
         "citation": "S. S. Senga | Hallmarks of cancer: the complexity of a simplified model | 10.1002/onco.13754",
@@ -1379,14 +1477,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.9
       }
     ]
   },
   {
     "id": "https://openalex.org/W3008383377",
     "model": "gemini",
-    "question": "How do de novo-designed single-nucleotide-specific riboregulators such as SNIPRs compare with established nucleic acid discrimination platforms—including CRISPR-based diagnostics, allele-specific PCR, molecular beacons, and toehold-switch sensors—in terms of mechanistic specificity, programmability, sensitivity in complex biological samples, and suitability for point-of-care detection of clinically relevant mutations and viral variants?",
+    "question": "How do de novo-designed single-nucleotide-specific riboregulators such as SNIPRs compare with established nucleic acid discrimination platforms\u2014including CRISPR-based diagnostics, allele-specific PCR, molecular beacons, and toehold-switch sensors\u2014in terms of mechanistic specificity, programmability, sensitivity in complex biological samples, and suitability for point-of-care detection of clinically relevant mutations and viral variants?",
     "references": [
       {
         "citation": "Alexander A. Green | Toehold switches: de novo-designed regulators of gene expression | 10.1016/j.cell.2014.10.002",
@@ -1410,7 +1510,9 @@
             "works_count": 184,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Keith Pardee | Paper-based synthetic gene networks | 10.1016/j.cell.2014.10.004",
@@ -1438,7 +1540,9 @@
             "works_count": 74,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicolas M. Angenent-Mari | A deep learning approach to designing toehold switches | 10.1038/s41467-020-17901-w",
@@ -1464,7 +1568,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicolas M. Angenent-Mari | De novo-designed single-nucleotide-specific riboregulators | 10.1038/s41587-020-0584-2",
@@ -1491,7 +1597,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jonathan S. Gootenberg | Nucleic acid detection with CRISPR-Cas13a/C2c2 | 10.1126/science.aam9321",
@@ -1515,14 +1623,16 @@
             "works_count": 120,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3015560610",
     "model": "gemini",
-    "question": "How do structural features of MtrAB–MtrC and homologous multiheme cytochrome complexes across diverse electroactive microorganisms determine the efficiency, substrate specificity, and ecological roles of extracellular electron transfer to minerals, metals, and electrodes?",
+    "question": "How do structural features of MtrAB\u2013MtrC and homologous multiheme cytochrome complexes across diverse electroactive microorganisms determine the efficiency, substrate specificity, and ecological roles of extracellular electron transfer to minerals, metals, and electrodes?",
     "references": [
       {
         "citation": "Marcus J. Edwards | The structure of the decaheme cytochrome complex MtrAB-MtrC | 10.1038/s41564-019-0599-y",
@@ -1548,7 +1658,9 @@
             "works_count": 58,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Liang Shi | Extracellular electron transfer mechanisms between microorganisms and minerals | 10.1038/nrmicro.2016.93",
@@ -1572,7 +1684,9 @@
             "works_count": 247,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.51
       },
       {
         "citation": "Thomas A. Clarke | Structure of a molecular wire associated with bacterial extracellular electron transfer | 10.1073/pnas.1102467108",
@@ -1599,7 +1713,9 @@
             "works_count": 150,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gesa F. White | Rapid electron transfer through multi-heme glycoproteins in Shewanella oneidensis | 10.1073/pnas.1220074110",
@@ -1625,7 +1741,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       },
       {
         "citation": "X. Jiang | Extracellular electron transfer of electroactive biofilms | 10.1016/j.chemolink.2021.100112",
@@ -1651,7 +1769,9 @@
             "works_count": 652,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       }
     ]
   },
@@ -1685,7 +1805,9 @@
             "works_count": 763,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.84
       },
       {
         "citation": "Eric W. Deutsch | The ProteomeXchange consortium in 2020 | 10.1093/nar/gkz1020",
@@ -1709,32 +1831,36 @@
             "works_count": 345,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Mathias Uhlén | Tissue-based map of the human proteome | 10.1126/science.1260419",
+        "citation": "Mathias Uhl\u00e9n | Tissue-based map of the human proteome | 10.1126/science.1260419",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Mathias Uhlén"
+          "Mathias Uhl\u00e9n"
         ],
         "found_authors_count": 36,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Mathias Uhlén",
+        "matched_database_author": "Mathias Uhl\u00e9n",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Mathias Uhlén",
+            "cited_name": "Mathias Uhl\u00e9n",
             "author_exists": true,
-            "fullest_name": "Mathias Uhlén",
+            "fullest_name": "Mathias Uhle\u0301n",
             "h_index": 133,
             "works_count": 1136,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Philipp E. Geyer | Plasma proteomics | 10.1146/annurev-biochem-062917-012724",
@@ -1760,7 +1886,9 @@
             "works_count": 129,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Valur Emilsson | Co-regulatory networks of human plasma proteins and complexity of disease | 10.1038/s41588-018-0131-4",
@@ -1786,7 +1914,9 @@
             "works_count": 139,
             "organization_country_id": "IS"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1819,7 +1949,9 @@
             "works_count": 277,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hyuna Sung | Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality | 10.3322/caac.21660",
@@ -1843,7 +1975,9 @@
             "works_count": 194,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.95
       },
       {
         "citation": "Lorne J. Hofseth | Early-onset colorectal cancer: initial clues and future directions | 10.1038/s41575-020-0311-z",
@@ -1869,7 +2003,9 @@
             "works_count": 256,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "N. Keum | Energetic balance, dietary habits, and the risk of early-onset cancers | 10.1111/nyas.14512",
@@ -1895,7 +2031,9 @@
             "works_count": 86,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.75
       },
       {
         "citation": "S. Wu | Substantial contribution of extrinsic factors to cancer risk | 10.1038/nature16166",
@@ -1922,14 +2060,16 @@
             "works_count": 875,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.7
       }
     ]
   },
   {
     "id": "https://openalex.org/W4406760403",
     "model": "gemini",
-    "question": "How do spatial organization strategies for multienzyme systems—such as enzyme fusion, scaffold-based colocalization, compartmentalization, and computationally guided architecture design—comparatively influence catalytic efficiency, metabolic flux, and scalability across diverse applications in synthetic biology, green chemistry, and biomanufacturing?",
+    "question": "How do spatial organization strategies for multienzyme systems\u2014such as enzyme fusion, scaffold-based colocalization, compartmentalization, and computationally guided architecture design\u2014comparatively influence catalytic efficiency, metabolic flux, and scalability across diverse applications in synthetic biology, green chemistry, and biomanufacturing?",
     "references": [
       {
         "citation": "Ian Wheeldon | Nanostructured scaffolds for enzymes | 10.1038/nchem.2407",
@@ -1955,7 +2095,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "K. H. Siu | Synthetic co-localization of enzymes on DNA scaffolds | 10.1016/j.cbpa.2015.06.026",
@@ -1981,7 +2123,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.5
       },
       {
         "citation": "R. J. Conrado | DNA-guided assembly of metabolic pathways | 10.1093/nar/gkq518",
@@ -2008,7 +2152,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "H. Lee | Compartmentalization strategies in synthetic biology | 10.1016/j.copbio.2018.01.012",
@@ -2034,7 +2180,9 @@
             "works_count": 592,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John E. Dueber | Synthetic protein scaffolds provide modular control over metabolic flux | 10.1038/nbt.1557",
@@ -2058,14 +2206,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W4327575309",
     "model": "gemini",
-    "question": "How do coupled ribosomes mechanistically modulate bacterial RNA polymerase elongation dynamics, pausing, termination, and transcriptional fidelity, and how do these effects integrate with known models of transcription–translation coupling, RNAP backtracking, and cellular fitness under conditions that promote prolonged transcriptional arrest?",
+    "question": "How do coupled ribosomes mechanistically modulate bacterial RNA polymerase elongation dynamics, pausing, termination, and transcriptional fidelity, and how do these effects integrate with known models of transcription\u2013translation coupling, RNAP backtracking, and cellular fitness under conditions that promote prolonged transcriptional arrest?",
     "references": [
       {
         "citation": "Michael W. Webster | Structural basis of transcription-translation coupling and collision in bacteria | 10.1126/science.abb5036",
@@ -2092,7 +2242,9 @@
             "works_count": 323,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Reinhard Kohler | Structural basis of transcription-translation coupling | 10.1126/science.aal3536",
@@ -2118,7 +2270,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "C. Wang | Structural basis of transcription-translation coupling in Escherichia coli | 10.1126/science.aay9861",
@@ -2143,7 +2297,9 @@
             "works_count": 197,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "S. Proshkin | Cooperation between translating ribosomes and RNA polymerase in transcription elongation | 10.1126/science.1184939",
@@ -2168,7 +2324,9 @@
             "works_count": 19,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Washburn | Transcription termination factor Rho coordination with translation | 10.1128/jb.00318-18",
@@ -2195,7 +2353,9 @@
             "works_count": 27,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2227,7 +2387,9 @@
             "works_count": 69,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sandile Cele | Escape of SARS-CoV-2 501Y.V2 from neutralization by convalescent plasma | 10.1038/nature29760",
@@ -2254,7 +2416,9 @@
             "works_count": 42,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Pengfei Wang | Antibody resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7 | 10.1038/s41586-021-03398-2",
@@ -2279,7 +2443,9 @@
             "works_count": 724,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "D. A. Collier | Sensitivity of SARS-CoV-2 B.1.1.7 to mRNA vaccine-elicited antibodies | 10.1038/s41586-021-03412-7",
@@ -2303,7 +2469,9 @@
             "works_count": 927,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shabir A. Madhi | Efficacy of the ChAdOx1 nCoV-19 Covid-19 Vaccine against the B.1.351 Variant | 10.1056/NEJMoa2102214",
@@ -2327,14 +2495,16 @@
             "works_count": 988,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4399538493",
     "model": "gemini",
-    "question": "How do newly discovered archaeal [FeFe] hydrogenases—including ultraminimal DPANN enzymes and hybrid [FeFe]–[NiFe] complexes—reshape current models of hydrogenase evolution, H₂ metabolism in anoxic ecosystems, and the evolutionary relationships among archaea, bacteria, and eukaryotes?",
+    "question": "How do newly discovered archaeal [FeFe] hydrogenases\u2014including ultraminimal DPANN enzymes and hybrid [FeFe]\u2013[NiFe] complexes\u2014reshape current models of hydrogenase evolution, H\u2082 metabolism in anoxic ecosystems, and the evolutionary relationships among archaea, bacteria, and eukaryotes?",
     "references": [
       {
         "citation": "S. E. Lewis | Minimal and hybrid [FeFe]-hydrogenases in DPANN archaea | 10.1101/2023.01.15.524103",
@@ -2361,7 +2531,9 @@
             "works_count": 860,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chris Greening | Diversity, distribution, and ecological significance of hydrogenases | 10.1111/1462-2920.13122",
@@ -2388,7 +2560,9 @@
             "works_count": 268,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "John W. Peters | [FeFe]- and [NiFe]-hydrogenase diversity, mechanism, and evolution | 10.1016/j.bbabio.2015.01.015",
@@ -2414,7 +2588,9 @@
             "works_count": 328,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "J. N. Castelle | Genomic expansion of domain Archaea highlights roles for organisms from new phyla in anaerobic carbon cycling | 10.1016/j.curbio.2015.02.049",
@@ -2441,7 +2617,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.72
       },
       {
         "citation": "A. L. Jaffe | Ecology and evolution of archaeal hydrogenases | 10.1101/2021.05.10.443512",
@@ -2467,14 +2645,16 @@
             "works_count": 276,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4405531879",
     "model": "gemini",
-    "question": "How do structural features and intermolecular interactions within the CCHFV GP38–Gn–Gc glycoprotein complex, including glycan-mediated stabilization of prefusion Gc, compare with entry-glycoprotein architectures, immune epitopes, and vaccine-antigen design principles reported for other bunyaviruses and hemorrhagic fever viruses?",
+    "question": "How do structural features and intermolecular interactions within the CCHFV GP38\u2013Gn\u2013Gc glycoprotein complex, including glycan-mediated stabilization of prefusion Gc, compare with entry-glycoprotein architectures, immune epitopes, and vaccine-antigen design principles reported for other bunyaviruses and hemorrhagic fever viruses?",
     "references": [
       {
         "citation": "R. G. Gaudet | Structure of Crimean-Congo hemorrhagic fever virus glycoprotein GP38 | 10.1126/science.abe1427",
@@ -2502,7 +2682,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "S. Halldorsson | Structure of Crimean-Congo hemorrhagic fever virus GP38 and its neutralization by a monoclonal antibody | 10.1038/s41467-021-22340-7",
@@ -2528,7 +2710,9 @@
             "works_count": 19,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "J. N. Faraone | Structural basis of Crimean-Congo hemorrhagic fever virus entry | 10.1126/science.ade3456",
@@ -2554,7 +2738,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.91
       },
       {
         "citation": "A. Zeltina | Structural basis of CCHFV neutralization by antibody targeting the GP38 domain | 10.1016/j.chom.2022.03.011",
@@ -2580,7 +2766,9 @@
             "works_count": 31,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "K. Pyrc | Bunyavirus entry into host cells | 10.1016/j.coviro.2020.10.005",
@@ -2606,14 +2794,16 @@
             "works_count": 205,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4317708751",
     "model": "gemini",
-    "question": "How do p53-dependent cell-cycle checkpoints and senescence programs interact with cyclin E1–driven replication stress, ATR/Chk1 signaling, Wee1 activity, and APC/C-Cdh1 activation across different tumor contexts to either suppress or promote whole-genome duplication and subsequent aneuploid cancer evolution?",
+    "question": "How do p53-dependent cell-cycle checkpoints and senescence programs interact with cyclin E1\u2013driven replication stress, ATR/Chk1 signaling, Wee1 activity, and APC/C-Cdh1 activation across different tumor contexts to either suppress or promote whole-genome duplication and subsequent aneuploid cancer evolution?",
     "references": [
       {
         "citation": "R. J. Quinton | Whole-genome duplication increases vulnerability to KIF18A inhibition | 10.1038/s41586-021-03156-x",
@@ -2640,7 +2830,9 @@
             "works_count": 21,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "S. Lopez | Interplay between whole-genome duplication and genome stability | 10.1016/j.gde.2020.05.011",
@@ -2667,7 +2859,9 @@
             "works_count": 269,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "T. I. Zack | Pan-cancer patterns of somatic copy number alteration | 10.1038/ng.2760",
@@ -2692,7 +2886,9 @@
             "works_count": 103,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "E. Bielski | Genome duplication in cancer | 10.1038/s41568-018-0045-6",
@@ -2718,7 +2914,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "S. Gemble | Centrosome amplification favors survival of polyploid cells | 10.1038/s41467-020-19112-x",
@@ -2745,7 +2943,9 @@
             "works_count": 35,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -2778,7 +2978,9 @@
             "works_count": 179,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "V. Gorgoulis | Cellular senescence: defining a path forward | 10.1016/j.cell.2019.10.005",
@@ -2802,7 +3004,9 @@
             "works_count": 520,
             "organization_country_id": "GR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "A. Hernandez-Segura | Hallmarks of cellular senescence | 10.1016/j.tcb.2018.02.001",
@@ -2826,31 +3030,35 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
-        "citation": "D. Muñoz-Espín | Cellular senescence: from physiology to pathology | 10.1038/nrm3680",
+        "citation": "D. Mu\u00f1oz-Esp\u00edn | Cellular senescence: from physiology to pathology | 10.1038/nrm3680",
         "status": "mismatch",
         "title_found": true,
         "author_matched": false,
         "ref_authors": [
-          "D. Muñoz-Espín"
+          "D. Mu\u00f1oz-Esp\u00edn"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['D. Muñoz-Espín'], database had 2 author(s) on record",
+        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['D. Mu\u00f1oz-Esp\u00edn'], database had 2 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "D. Muñoz-Espín",
+            "cited_name": "D. Mu\u00f1oz-Esp\u00edn",
             "author_exists": true,
             "fullest_name": "Munoz-Espin, Daniel",
             "h_index": 22,
             "works_count": 66,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "J. Campisi | Cellular senescence: putting the paradoxes together | 10.1146/annurev-physiol-030212-183710",
@@ -2877,14 +3085,16 @@
             "works_count": 519,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3138631549",
     "model": "gemini",
-    "question": "How do ternary or higher-order receptor–ligand complexes, such as the NEO1–NET1–RGM super-assembly, compare with other axon guidance and cell migration signaling systems in their ability to integrate opposing extracellular cues by modulating receptor clustering, downstream pathway activation, and cellular outcomes?",
+    "question": "How do ternary or higher-order receptor\u2013ligand complexes, such as the NEO1\u2013NET1\u2013RGM super-assembly, compare with other axon guidance and cell migration signaling systems in their ability to integrate opposing extracellular cues by modulating receptor clustering, downstream pathway activation, and cellular outcomes?",
     "references": [
       {
         "citation": "C. H. Bell | Structure of the NEO1-LGM-NET1 complex | 10.1126/science.abi7234",
@@ -2910,7 +3120,9 @@
             "works_count": 122,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "E. Seiradake | Structural basis of axon guidance | 10.1146/annurev-biophys-051013-022920",
@@ -2936,7 +3148,9 @@
             "works_count": 74,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "K. Lai Wing Sun | Netrin-1-mediated axon guidance | 10.1016/j.semcdb.2011.02.011",
@@ -2962,7 +3176,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.54
       },
       {
         "citation": "S. J. Cole | Neogenin and RGMa control cell migration | 10.1016/j.neuron.2007.10.023",
@@ -2988,7 +3204,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "L. I. Finci | The structural basis of netrin-1 receptor interactions | 10.1016/j.neuron.2014.07.010",
@@ -3014,14 +3232,16 @@
             "works_count": 16,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W7147156458",
     "model": "gemini",
-    "question": "How do mechanisms and ecological consequences of arbitrium-mediated cross-communication among bacteriophages compare with other phage and bacterial quorum-sensing systems in shaping lysis–lysogeny decisions, prophage induction, and microbial community dynamics?",
+    "question": "How do mechanisms and ecological consequences of arbitrium-mediated cross-communication among bacteriophages compare with other phage and bacterial quorum-sensing systems in shaping lysis\u2013lysogeny decisions, prophage induction, and microbial community dynamics?",
     "references": [
       {
         "citation": "Z. Erez | A peptide-based communication system decides lysogeny in phages | 10.1038/nature21049",
@@ -3048,7 +3268,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "A. Stokar-Avihail | Discovery of phage communication systems | 10.1016/j.chom.2019.05.007",
@@ -3075,7 +3297,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
         "citation": "N. Aframian | Structural basis of the arbitrium peptide communication system | 10.1038/s41564-020-0720-4",
@@ -3102,7 +3326,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
         "citation": "C. Bernard | Phage-phage communication through the arbitrium system | 10.1016/j.mib.2020.01.015",
@@ -3128,7 +3354,9 @@
             "works_count": 460,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "C. M. Waters | Quorum sensing: cell-to-cell communication in bacteria | 10.1146/annurev.micro.59.030804.121306",
@@ -3153,7 +3381,9 @@
             "works_count": 219,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3186,7 +3416,9 @@
             "works_count": 48,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "S. Lee | NLRC5 regulates PANoptosis and inflammatory cell death | 10.1101/2023.01.20.524890",
@@ -3212,7 +3444,9 @@
             "works_count": 2576,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "P. Samir | DDX3X acts as a scaffold to coordinate NLRP3 inflammasome and PANoptosis | 10.1016/j.molcel.2020.01.025",
@@ -3239,7 +3473,9 @@
             "works_count": 70,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "B. Banoth | ZBP1 promotes PANoptosis during influenza virus infection | 10.1016/j.cell.2020.05.008",
@@ -3265,7 +3501,9 @@
             "works_count": 33,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "S. Christgen | Identification of the PANoptosome: a molecular platform triggering PANoptosis | 10.1016/j.immuni.2020.01.001",
@@ -3292,7 +3530,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       }
     ]
   },
@@ -3327,7 +3567,9 @@
             "works_count": 20,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "B. Shen | Engineering a photorespiratory bypass in rice | 10.1016/j.molp.2018.11.002",
@@ -3353,7 +3595,9 @@
             "works_count": 1112,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.8
       },
       {
         "citation": "S. P. Long | Meeting the global food demand by improving photosynthesis | 10.1111/gcb.12870",
@@ -3379,7 +3623,9 @@
             "works_count": 509,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "A. J. Simkin | Simultaneous over-expression of SBPase, FBPase, and the Rieske FeS protein increases photosynthesis and yield | 10.1093/jxb/ery050",
@@ -3405,7 +3651,9 @@
             "works_count": 4,
             "organization_country_id": "AR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.91
       },
       {
         "citation": "M. Betti | Photorespiration and carbon-concentrating mechanisms in C3 crops | 10.1093/jxb/erx040",
@@ -3431,7 +3679,9 @@
             "works_count": 241,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -3465,7 +3715,9 @@
             "works_count": 183,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.76
       },
       {
         "citation": "Shevan Wilkin | Dairying enabled pastoralism on the Eurasian steppe | 10.1038/s41586-020-2729-2",
@@ -3492,7 +3744,9 @@
             "works_count": 47,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Christina Warinner | Direct evidence of milk consumption from ancient periodontal disease | 10.1038/srep07104",
@@ -3518,7 +3772,9 @@
             "works_count": 237,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joachim Burger | Low prevalence of lactase persistence in Bronze Age Europe | 10.1016/j.cub.2020.08.033",
@@ -3543,7 +3799,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicholas A. Bokulich | A Review of the Molecular Taxonomy and Diversity of Kefir | 10.1111/j.1541-4337.2011.00158.x",
@@ -3570,7 +3828,9 @@
             "works_count": 186,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3605,7 +3865,9 @@
             "works_count": 331,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bing Chen | Membrane fusion and immune evasion by the SARS-CoV-2 Omicron variant | 10.1126/science.abn8090",
@@ -3632,7 +3894,9 @@
             "works_count": 210,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       },
       {
         "citation": "Olivier Schwartz | Reduced sensitivity of SARS-CoV-2 variant Omicron to antibody neutralization | 10.1038/s41586-021-04389-z",
@@ -3659,7 +3923,9 @@
             "works_count": 498,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kei Sato | Virological characteristics of the SARS-CoV-2 Omicron BA.2 variant | 10.1016/j.cell.2022.04.035",
@@ -3686,7 +3952,9 @@
             "works_count": 432,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.51
       },
       {
         "citation": "David D. Ho | Increased resistance of SARS-CoV-2 variant Omicron to antibody neutralization | 10.1038/s41586-022-04470-3",
@@ -3712,7 +3980,9 @@
             "works_count": 561,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3740,12 +4010,14 @@
           {
             "cited_name": "Francisco Martinez-Jimenez",
             "author_exists": true,
-            "fullest_name": "Francisco Martínez-Jiménez (466447)",
+            "fullest_name": "Francisco Mart\u00ednez-Jim\u00e9nez (466447)",
             "h_index": 15,
             "works_count": 83,
             "organization_country_id": "PS"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Hannah Carter | Pan-cancer analysis of biallelic alterations in tumor suppressor genes | 10.1038/s41467-021-21345-5",
@@ -3772,7 +4044,9 @@
             "works_count": 288,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ferdinandos Skoulidis | Co-occurring genomic alterations in non-small-cell lung cancer | 10.1016/j.ccell.2018.04.001",
@@ -3796,7 +4070,9 @@
             "works_count": 460,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael S. Lawrence | Discovery and profiling of somatic mutations in human cancer | 10.1038/nature12912",
@@ -3823,7 +4099,9 @@
             "works_count": 736,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Eliott J. Neal | Pan-cancer profiling of tumor suppressor gene inactivation | 10.1016/j.cell.2023.08.012",
@@ -3849,7 +4127,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -3882,7 +4162,9 @@
             "works_count": 643,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Halassa | Thalamic regulation of cortical state and perception | 10.1016/j.neuron.2018.04.022",
@@ -3909,7 +4191,9 @@
             "works_count": 110,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anita Luthi | Sleep-state-dependent modulation of cortical circuits | 10.1038/nn.4111",
@@ -3930,12 +4214,14 @@
           {
             "cited_name": "Anita Luthi",
             "author_exists": true,
-            "fullest_name": "Lüthi, Anita",
+            "fullest_name": "L\u00fcthi, Anita",
             "h_index": 43,
             "works_count": 108,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yang Dan | Basal forebrain control of sleep and wakefulness | 10.1016/j.neuron.2016.10.024",
@@ -3961,7 +4247,9 @@
             "works_count": 143,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marcello Massimini | Breakdown of cortical effective connectivity during sleep | 10.1126/science.1117256",
@@ -3986,7 +4274,9 @@
             "works_count": 345,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4019,7 +4309,9 @@
             "works_count": 122,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.93
       },
       {
         "citation": "Valeria Cavalli | Epigenetic and metabolic regulation of axonal regeneration | 10.1111/jnc.15234",
@@ -4045,7 +4337,9 @@
             "works_count": 107,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Frank Bradke | Cytoskeletal and metabolic mechanisms of axonal regeneration | 10.1126/science.aay4511",
@@ -4072,7 +4366,9 @@
             "works_count": 133,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zhigang He | Transcriptional and metabolic control of axonal regeneration | 10.1016/j.neuron.2018.09.011",
@@ -4099,7 +4395,9 @@
             "works_count": 198,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.83
       },
       {
         "citation": "Gethin McBean | The pentose phosphate pathway in the brain | 10.1007/s11064-015-1654-x",
@@ -4126,14 +4424,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4307114720",
     "model": "gemini",
-    "question": "How do spatially resolved single-cell epigenomic maps of histone modifications, when integrated with spatial transcriptomics and 3D genome architecture studies, refine our understanding of promoter–enhancer interactions and enhancer hub regulation during mouse brain development and cellular differentiation?",
+    "question": "How do spatially resolved single-cell epigenomic maps of histone modifications, when integrated with spatial transcriptomics and 3D genome architecture studies, refine our understanding of promoter\u2013enhancer interactions and enhancer hub regulation during mouse brain development and cellular differentiation?",
     "references": [
       {
         "citation": "Yanxiang Deng | Spatial-CUT&Tag: Spatially resolved chromatin modification profiling at the cellular level | 10.1126/science.abg7216",
@@ -4161,7 +4461,9 @@
             "works_count": 72,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       },
       {
         "citation": "Bing Ren | Spatially resolved single-cell chromatin accessibility imaging | 10.1038/s41592-021-01202-6",
@@ -4187,7 +4489,9 @@
             "works_count": 554,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "Xiaowei Zhuang | Epigenomic imaging of single cells in space | 10.1126/science.aay0068",
@@ -4213,7 +4517,9 @@
             "works_count": 352,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.7
       },
       {
         "citation": "Rong Fan | High-throughput spatial epigenomics in single cells | 10.1038/s41587-021-00921-y",
@@ -4239,7 +4545,9 @@
             "works_count": 523,
             "organization_country_id": "JO"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.63
       },
       {
         "citation": "Joseph R. Ecker | Spatially resolved single-cell epigenomic maps of the mammalian brain | 10.1038/s41586-021-03211-1",
@@ -4265,14 +4573,16 @@
             "works_count": 536,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4414230536",
     "model": "gemini",
-    "question": "How do LEC2–SPCH-mediated auxin biosynthesis circuits in stomatal-lineage progenitors compare with other known transcriptional and hormonal pathways that induce somatic embryogenesis or totipotency across plant tissues and species?",
+    "question": "How do LEC2\u2013SPCH-mediated auxin biosynthesis circuits in stomatal-lineage progenitors compare with other known transcriptional and hormonal pathways that induce somatic embryogenesis or totipotency across plant tissues and species?",
     "references": [
       {
         "citation": "Keiko U. Torii | Stomatal development and patterning | 10.1146/annurev-arplant-043015-111659",
@@ -4298,7 +4608,9 @@
             "works_count": 167,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dominique Bergmann | Transcriptional control of stomatal development | 10.1111/jipb.12604",
@@ -4324,7 +4636,9 @@
             "works_count": 201,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.76
       },
       {
         "citation": "Sandra L. Stone | LEAFY COTYLEDON2 activation of somatic embryogenesis | 10.1073/pnas.192569199",
@@ -4350,7 +4664,9 @@
             "works_count": 15,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Kim Boutilier | Somatic embryogenesis in plants | 10.1146/annurev-arplant-050718-100234",
@@ -4376,7 +4692,9 @@
             "works_count": 78,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.5
       },
       {
         "citation": "Thomas Laux | Auxin biosynthesis and signaling in somatic embryogenesis | 10.3389/fpls.2019.01124",
@@ -4403,14 +4721,16 @@
             "works_count": 132,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W7164811381",
     "model": "gemini",
-    "question": "How do endogenous immune cell populations—particularly cytotoxic natural killer cells, regulatory T cells, and immunosuppressive myeloid subsets—shape clinical responses and resistance to CAR T cell therapies across glioblastoma and other solid tumors, and what combination immunomodulatory strategies have shown evidence for improving efficacy?",
+    "question": "How do endogenous immune cell populations\u2014particularly cytotoxic natural killer cells, regulatory T cells, and immunosuppressive myeloid subsets\u2014shape clinical responses and resistance to CAR T cell therapies across glioblastoma and other solid tumors, and what combination immunomodulatory strategies have shown evidence for improving efficacy?",
     "references": [
       {
         "citation": "Carl H. June | CAR T cell therapy for solid tumors | 10.1126/science.abb1234",
@@ -4436,7 +4756,9 @@
             "works_count": 1423,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michel Sadelain | Barriers to CAR T cell therapy in solid tumors | 10.1016/j.ccell.2019.11.002",
@@ -4463,7 +4785,9 @@
             "works_count": 652,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Michael Platten | Myeloid-mediated resistance to CAR T cell therapy in glioblastoma | 10.1038/s41590-020-00824-y",
@@ -4489,7 +4813,9 @@
             "works_count": 809,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Christine Brown | CAR T cell therapy for glioblastoma | 10.1056/NEJMoa1610497",
@@ -4515,7 +4841,9 @@
             "works_count": 446,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Crystal L. Mackall | Immunosuppressive mechanisms limiting CAR T cell efficacy | 10.1038/s41571-021-00552-3",
@@ -4542,7 +4870,9 @@
             "works_count": 331,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4576,7 +4906,9 @@
             "works_count": 329,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David C. Chan | Mitochondrial dynamics in development and disease | 10.1016/j.cell.2012.02.009",
@@ -4602,7 +4934,9 @@
             "works_count": 179,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jodi Nunnari | Mitochondrial division and fusion | 10.1126/science.1125234",
@@ -4628,15 +4962,17 @@
             "works_count": 109,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Nils-Göran Larsson | Regulation of mitochondrial DNA copy number | 10.1146/annurev-biochem-060815-014022",
+        "citation": "Nils-G\u00f6ran Larsson | Regulation of mitochondrial DNA copy number | 10.1146/annurev-biochem-060815-014022",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Nils-Göran Larsson"
+          "Nils-G\u00f6ran Larsson"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -4647,14 +4983,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Nils-Göran Larsson",
+            "cited_name": "Nils-G\u00f6ran Larsson",
             "author_exists": true,
-            "fullest_name": "Nils-Göran Larsson (106099)",
+            "fullest_name": "Nils-G\u00f6ran Larsson (106099)",
             "h_index": 98,
             "works_count": 277,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Thomas Langer | Mitochondrial proteases and quality control | 10.1152/physrev.00041.2011",
@@ -4681,7 +5019,9 @@
             "works_count": 257,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4714,7 +5054,9 @@
             "works_count": 293,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gene W. Yeo | eCLIP: Enhanced cross-linking and immunoprecipitation | 10.1038/nmeth.3810",
@@ -4740,7 +5082,9 @@
             "works_count": 1150,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Michael N. Hall | mTOR signaling in growth and metabolism | 10.1016/j.cell.2017.01.037",
@@ -4766,7 +5110,9 @@
             "works_count": 412,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nahum Sonenberg | mTOR-mediated translational control | 10.1101/cshperspect.a011528",
@@ -4792,7 +5138,9 @@
             "works_count": 959,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert B. Darnell | RNA-protein interaction mapping | 10.1146/annurev-biochem-061516-045234",
@@ -4818,14 +5166,16 @@
             "works_count": 304,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4414564053",
     "model": "gemini",
-    "question": "How do the structural and functional properties of astrocyte leaflet Ca²⁺ signaling compare across different brain regions and species, and what mechanisms determine whether these microdomain events remain localized or integrate into larger-scale astrocytic computations that influence distinct neural circuits?",
+    "question": "How do the structural and functional properties of astrocyte leaflet Ca\u00b2\u207a signaling compare across different brain regions and species, and what mechanisms determine whether these microdomain events remain localized or integrate into larger-scale astrocytic computations that influence distinct neural circuits?",
     "references": [
       {
         "citation": "Baljit S. Khakh | Astrocyte calcium signaling: from microdomains to circuits | 10.1146/annurev-neuro-072116-031445",
@@ -4852,7 +5202,9 @@
             "works_count": 173,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.77
       },
       {
         "citation": "Andrea Volterra | Astrocyte calcium signaling: an overview | 10.1016/j.neuron.2014.08.015",
@@ -4879,7 +5231,9 @@
             "works_count": 135,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.92
       },
       {
         "citation": "Alfonso Araque | Tripartite synapses: glia, the unacknowledged partner | 10.1016/S0166-2236(98)01349-8",
@@ -4903,7 +5257,9 @@
             "works_count": 185,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frank Kirchhoff | Astrocyte calcium microdomains modulate circuit function | 10.1038/s41593-021-00835-5",
@@ -4929,7 +5285,9 @@
             "works_count": 486,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard Robitaille | Astrocyte leaflets and synaptic integration | 10.1111/jnc.15112",
@@ -4956,7 +5314,9 @@
             "works_count": 134,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4990,7 +5350,9 @@
             "works_count": 438,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew Dillin | Organelle-specific proteostasis and cellular stress | 10.1016/j.cell.2020.03.011",
@@ -5012,12 +5374,14 @@
           {
             "cited_name": "Andrew Dillin",
             "author_exists": true,
-            "fullest_name": "Andrew Dillin¹",
+            "fullest_name": "Andrew Dillin\u00b9",
             "h_index": 72,
             "works_count": 191,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Ron | Signal integration in the endoplasmic reticulum unfolded protein response | 10.1038/nrm2111",
@@ -5041,7 +5405,9 @@
             "works_count": 440,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Walter | The unfolded protein response: from stress pathway to homeostatic regulation | 10.1126/science.1208351",
@@ -5065,7 +5431,9 @@
             "works_count": 588,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anne Bertolotti | Cell-type-specific differences in proteostatic capacity | 10.1038/s41556-021-00712-4",
@@ -5091,7 +5459,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -5124,7 +5494,9 @@
             "works_count": 546,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Miriam Merad | Single-cell profiling of the NSCLC immune microenvironment | 10.1016/j.cell.2017.04.022",
@@ -5150,7 +5522,9 @@
             "works_count": 781,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Wherry | Molecular signatures of T cell exhaustion | 10.1038/nri.2015.3",
@@ -5176,7 +5550,9 @@
             "works_count": 637,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.53
       },
       {
         "citation": "Charles Swanton | Clonal neoantigens and immune evasion in NSCLC | 10.1126/science.aaf2293",
@@ -5203,7 +5579,9 @@
             "works_count": 1231,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ton N. Schumacher | Neoantigens in cancer immunotherapy | 10.1126/science.aaa4971",
@@ -5230,7 +5608,9 @@
             "works_count": 765,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -5263,7 +5643,9 @@
             "works_count": 742,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laurent Abi-Rached | The shaping of modern human immune systems by multigene families | 10.1146/annurev-genom-090413-025355",
@@ -5289,7 +5671,9 @@
             "works_count": 38,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Lluis Quintana-Murci | Evolutionary genetics of human infectious disease susceptibility | 10.1038/nrg.2016.37",
@@ -5310,12 +5694,14 @@
           {
             "cited_name": "Lluis Quintana-Murci",
             "author_exists": true,
-            "fullest_name": "Lluı́s Quintana-Murci",
+            "fullest_name": "Llu\u0131\u0301s Quintana-Murci",
             "h_index": 96,
             "works_count": 420,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Mary Carrington | KIR3DL1/S1 and HLA-B in HIV-1 control | 10.1038/ni1107-1111",
@@ -5342,7 +5728,9 @@
             "works_count": 626,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah A. Tishkoff | Evolutionary history of immune response genes in humans | 10.1146/annurev-genom-083115-022421",
@@ -5368,7 +5756,9 @@
             "works_count": 244,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5402,7 +5792,9 @@
             "works_count": 247,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hongbo Chi | Metabolic regulation of regulatory T cell function | 10.1038/s41577-020-00405-y",
@@ -5429,7 +5821,9 @@
             "works_count": 322,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.75
       },
       {
         "citation": "Ping-Chih Ho | Metabolic adaptation of intratumoral Tregs | 10.1016/j.cell.2015.08.012",
@@ -5456,7 +5850,9 @@
             "works_count": 240,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Jeffrey Rathmell | Glutaminolysis and metabolic reprogramming in T cells | 10.1172/JCI120888",
@@ -5483,7 +5879,9 @@
             "works_count": 486,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Luke A. O'Neill | Metabolic targets for immunomodulation in cancer | 10.1038/nrd.2016.220",
@@ -5509,7 +5907,9 @@
             "works_count": 708,
             "organization_country_id": "IE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5542,7 +5942,9 @@
             "works_count": 233,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Val C. Sheffield | Molecular mechanisms of ciliopathies | 10.1146/annurev-genom-090413-025322",
@@ -5569,7 +5971,9 @@
             "works_count": 478,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.7
       },
       {
         "citation": "Maxence V. Nachury | The molecular machinery of ciliary transport | 10.1146/annurev-biochem-061516-044810",
@@ -5595,7 +5999,9 @@
             "works_count": 110,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matthias Selbach | Spatial proteomics of the primary cilium | 10.1038/s41592-019-0610-z",
@@ -5621,7 +6027,9 @@
             "works_count": 213,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ronald Roepman | Proteomic landscape of the primary cilium | 10.1016/j.cell.2015.11.023",
@@ -5648,7 +6056,9 @@
             "works_count": 214,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5677,12 +6087,14 @@
           {
             "cited_name": "Christian Doeller",
             "author_exists": true,
-            "fullest_name": "Döller, Christian Fritz Andreas",
+            "fullest_name": "D\u00f6ller, Christian Fritz Andreas",
             "h_index": 55,
             "works_count": 273,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Timothy Behrens | Organizing conceptual knowledge in hippocampal-prefrontal circuits | 10.1016/j.neuron.2018.10.024",
@@ -5710,7 +6122,9 @@
             "works_count": 343,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Neil Burgess | Grid cells and the spatial representation of memory | 10.1038/nrn2331",
@@ -5737,7 +6151,9 @@
             "works_count": 657,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alison R. Preston | Schema-guided learning and the hippocampal-prefrontal network | 10.1016/j.conb.2014.05.006",
@@ -5764,7 +6180,9 @@
             "works_count": 105,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edvard I. Moser | Grid cells and cortical representation of space | 10.1038/nature03721",
@@ -5790,7 +6208,9 @@
             "works_count": 439,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5823,7 +6243,9 @@
             "works_count": 142,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.86
       },
       {
         "citation": "Chris Stringer | Harbin cranium and evolutionary history of East Asian hominins | 10.1016/j.xinn.2021.100132",
@@ -5850,7 +6272,9 @@
             "works_count": 319,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jean-Jacques Hublin | Denisovan mandible from the Tibetan Plateau | 10.1038/s41586-019-1139-x",
@@ -5877,40 +6301,44 @@
             "works_count": 664,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
-        "citation": "Svante Pääbo | Genetic history of an archaic hominin group from Denisova Cave | 10.1038/nature09710",
+        "citation": "Svante P\u00e4\u00e4bo | Genetic history of an archaic hominin group from Denisova Cave | 10.1038/nature09710",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Svante Pääbo"
+          "Svante P\u00e4\u00e4bo"
         ],
         "found_authors_count": 28,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Svante Pääbo'], database match: Svante Pääbo",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Svante P\u00e4\u00e4bo'], database match: Svante P\u00e4\u00e4bo",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Svante Pääbo",
+        "matched_database_author": "Svante P\u00e4\u00e4bo",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Svante Pääbo",
+            "cited_name": "Svante P\u00e4\u00e4bo",
             "author_exists": true,
-            "fullest_name": "Pääbo, Svante 1955-",
+            "fullest_name": "P\u00e4\u00e4bo, Svante 1955-",
             "h_index": 161,
             "works_count": 474,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
-        "citation": "Maria Martinón-Torres | Morphological analysis of Middle Pleistocene hominins in East Asia | 10.1016/j.jhevol.2017.04.002",
+        "citation": "Maria Martin\u00f3n-Torres | Morphological analysis of Middle Pleistocene hominins in East Asia | 10.1016/j.jhevol.2017.04.002",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Maria Martinón-Torres"
+          "Maria Martin\u00f3n-Torres"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -5921,14 +6349,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Maria Martinón-Torres",
+            "cited_name": "Maria Martin\u00f3n-Torres",
             "author_exists": true,
-            "fullest_name": "María Martinón-Torres (418590)",
+            "fullest_name": "Mar\u00eda Martin\u00f3n-Torres (418590)",
             "h_index": 46,
             "works_count": 220,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -5961,7 +6391,9 @@
             "works_count": 51,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Vincent A. Pieribone | Engineering of fluorescent protein-based voltage indicators | 10.1111/jnc.14512",
@@ -5988,7 +6420,9 @@
             "works_count": 172,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Adam E. Cohen | Rhodopsin-based genetically encoded voltage indicators | 10.1038/nmeth.1843",
@@ -6014,7 +6448,9 @@
             "works_count": 305,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert E. Campbell | Design and application of genetically encoded voltage sensors | 10.1113/JP275112",
@@ -6041,15 +6477,17 @@
             "works_count": 391,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
-        "citation": "Stephane Dieudonné | High-speed two-photon imaging of membrane potential | 10.1038/nn.4321",
+        "citation": "Stephane Dieudonn\u00e9 | High-speed two-photon imaging of membrane potential | 10.1038/nn.4321",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Stephane Dieudonné"
+          "Stephane Dieudonn\u00e9"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -6060,14 +6498,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Stephane Dieudonné",
+            "cited_name": "Stephane Dieudonn\u00e9",
             "author_exists": true,
-            "fullest_name": "Dieudonné, Stéphane",
+            "fullest_name": "Dieudonn\u00e9, St\u00e9phane",
             "h_index": 34,
             "works_count": 65,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       }
     ]
   },
@@ -6101,7 +6541,9 @@
             "works_count": 1585,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Neil P. King | De novo design of self-assembling protein nanoparticles | 10.1038/nature11121",
@@ -6128,7 +6570,9 @@
             "works_count": 232,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John R. Mascola | Nanoparticle vaccines eliciting broadly neutralizing antibodies | 10.1016/j.cell.2019.08.012",
@@ -6154,7 +6598,9 @@
             "works_count": 780,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pamela J. Bjorkman | Mosaic nanoparticles elicit cross-reactive antibodies against sarbecoviruses | 10.1126/science.abf6840",
@@ -6181,7 +6627,9 @@
             "works_count": 525,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dennis R. Burton | Broadly neutralizing antibodies and vaccine design | 10.1146/annurev-immunol-041015-055515",
@@ -6207,14 +6655,16 @@
             "works_count": 799,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4372336992",
     "model": "gemini",
-    "question": "**Question:** How does the lipid composition of the plasma membrane modulate β-arrestin preassociation and its subsequent interactions with GPCRs across different receptor subtypes and cellular contexts?",
+    "question": "**Question:** How does the lipid composition of the plasma membrane modulate \u03b2-arrestin preassociation and its subsequent interactions with GPCRs across different receptor subtypes and cellular contexts?",
     "references": [
       {
         "citation": "Robert J. Lefkowitz | Beta-arrestin interactions with GPCRs | 10.1126/science.1102534",
@@ -6240,7 +6690,9 @@
             "works_count": 858,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michel Bouvier | Modulation of GPCR-arrestin interactions by membrane lipids | 10.1016/j.tibs.2020.08.003",
@@ -6266,7 +6718,9 @@
             "works_count": 796,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Brian K. Kobilka | Structural insights into GPCR-arrestin assembly | 10.1016/j.cell.2015.07.022",
@@ -6293,7 +6747,9 @@
             "works_count": 519,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martha Sommer | Role of membrane lipids in arrestin activation and binding | 10.1016/j.sbi.2019.11.002",
@@ -6319,7 +6775,9 @@
             "works_count": 54,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jeffrey L. Benovic | Regulation of G protein-coupled receptor kinases and arrestins | 10.1146/annurev-biophys-101218-110132",
@@ -6345,7 +6803,9 @@
             "works_count": 399,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6380,7 +6840,9 @@
             "works_count": 286,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Leo A. Sazanov | Structure of mitochondrial complex I | 10.1038/nature14022",
@@ -6407,7 +6869,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Judy Hirst | Open and closed conformations of mitochondrial complex I | 10.1038/s41589-020-0524-2",
@@ -6433,7 +6897,9 @@
             "works_count": 248,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Judy Hirst | Mitochondrial complex I: structure, function and pathology | 10.1007/s10863-013-9512-y",
@@ -6459,7 +6925,9 @@
             "works_count": 248,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael P. Murphy | Reactive oxygen species production by mitochondrial complex I | 10.1016/j.bbabio.2015.02.001",
@@ -6486,7 +6954,9 @@
             "works_count": 762,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6520,7 +6990,9 @@
             "works_count": 1666,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Andreas Radbruch | Type I and type II interferons in hematopoietic stem cell regulation | 10.1016/j.immuni.2019.02.012",
@@ -6546,7 +7018,9 @@
             "works_count": 755,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
         "citation": "Katherine Y. King | Interferon-gamma regulates hematopoietic stem cell activation | 10.1038/nature08821",
@@ -6572,7 +7046,9 @@
             "works_count": 194,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ulrich von Andrian | Trained immunity in hematopoietic stem cells | 10.1016/j.cell.2018.01.015",
@@ -6599,7 +7075,9 @@
             "works_count": 426,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Sieweke | Myelopoietic response to chronic infection and inflammation | 10.1038/nri.2017.1",
@@ -6625,7 +7103,9 @@
             "works_count": 110,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6659,7 +7139,9 @@
             "works_count": 129,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Attila Losonczy | Dendritic spikes and behavioral timescale plasticity | 10.1016/j.neuron.2019.04.012",
@@ -6685,7 +7167,9 @@
             "works_count": 138,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard G. Morris | Hebbian synaptic plasticity and hippocampal memory | 10.1098/rstb.2003.1405",
@@ -6711,15 +7195,17 @@
             "works_count": 399,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "György Buzsáki | Hippocampal place cells and memory | 10.1038/nn1440",
+        "citation": "Gy\u00f6rgy Buzs\u00e1ki | Hippocampal place cells and memory | 10.1038/nn1440",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "György Buzsáki"
+          "Gy\u00f6rgy Buzs\u00e1ki"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -6730,14 +7216,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "György Buzsáki",
+            "cited_name": "Gy\u00f6rgy Buzs\u00e1ki",
             "author_exists": true,
-            "fullest_name": "György Buzsáki",
+            "fullest_name": "Gyo\u0308rgy Buzsa\u0301ki",
             "h_index": 169,
             "works_count": 592,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Susumu Tonegawa | Synaptic plasticity and hippocampal memory encoding | 10.1126/science.1074027",
@@ -6763,7 +7251,9 @@
             "works_count": 449,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6796,7 +7286,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Andrea Ablasser | Evolution and regulation of cGAS-STING signaling | 10.1038/s41590-019-0435-6",
@@ -6823,7 +7315,9 @@
             "works_count": 81,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.65
       },
       {
         "citation": "Philip J. Kranzusch | Evolution of cGAS-like receptors in metazoans | 10.1038/s41586-021-04082-1",
@@ -6849,7 +7343,9 @@
             "works_count": 151,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zhijian J. Chen | Regulation of the cGAS-STING pathway in disease | 10.1126/science.aaf3919",
@@ -6876,7 +7372,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Glen N. Barber | STING-dependent cytosolic DNA sensing in health and disease | 10.1038/nri.2015.2",
@@ -6902,7 +7400,9 @@
             "works_count": 297,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -6912,12 +7412,12 @@
     "question": "How do the spatial organization patterns of cellular neighborhoods within the tumor microenvironment, as revealed by multiplexed tissue imaging across different cancer types, correlate with antitumoral immune function and patient clinical outcomes?",
     "references": [
       {
-        "citation": "Christian Schürch | Coordinated Cellular Neighborhoods in the Local Tumor Microenvironment Associated with Myeloid Immunotherapy Response | 10.1016/j.cell.2020.07.005",
+        "citation": "Christian Sch\u00fcrch | Coordinated Cellular Neighborhoods in the Local Tumor Microenvironment Associated with Myeloid Immunotherapy Response | 10.1016/j.cell.2020.07.005",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Christian Schürch"
+          "Christian Sch\u00fcrch"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -6928,14 +7428,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Christian Schürch",
+            "cited_name": "Christian Sch\u00fcrch",
             "author_exists": true,
-            "fullest_name": "Schürch, Christian Martijn",
+            "fullest_name": "Sch\u00fcrch, Christian Martijn",
             "h_index": 42,
             "works_count": 251,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Leeat Keren | Structured Tumor-Immune Microenvironments in Triple-Negative Breast Cancer Revealed by Multiplexed Ion Beam Imaging | 10.1016/j.cell.2018.08.039",
@@ -6960,7 +7462,9 @@
             "works_count": 74,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Noah F. Greenwald | Whole-tissue multiplexed imaging of human breast cancer reveals progressive loss of immunocoordination | 10.1038/s41587-021-01094-0",
@@ -6986,7 +7490,9 @@
             "works_count": 142,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Denis Schapiro | MCMICRO: a scalable, modular image processing pipeline for multiplexed tissue imaging | 10.1038/s41592-021-01308-y",
@@ -7010,7 +7516,9 @@
             "works_count": 112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Arutha Kulasinghe | Spatial profiling of the tumor microenvironment in non-small cell lung cancer | 10.3390/cells10112991",
@@ -7036,7 +7544,9 @@
             "works_count": 217,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       }
     ]
   },
@@ -7065,20 +7575,22 @@
           {
             "cited_name": "Vojtech Zila",
             "author_exists": true,
-            "fullest_name": "Žíla, Vojtěch",
+            "fullest_name": "\u017d\u00edla, Vojt\u011bch",
             "h_index": 17,
             "works_count": 36,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.62
       },
       {
-        "citation": "Alexis de la Peña | Structure of the cytoplasmic face of the nuclear pore complex | 10.1126/science.abm9129",
+        "citation": "Alexis de la Pe\u00f1a | Structure of the cytoplasmic face of the nuclear pore complex | 10.1126/science.abm9129",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Alexis de la Peña"
+          "Alexis de la Pe\u00f1a"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -7090,14 +7602,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Alexis de la Peña",
+            "cited_name": "Alexis de la Pe\u00f1a",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Martin Beck | Structure and assembly of the nuclear pore complex | 10.1146/annurev-biochem-081420-100851",
@@ -7124,7 +7638,9 @@
             "works_count": 259,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas U. Schwartz | The nuclear pore complex: structural insights into nucleocytoplasmic transport | 10.1016/j.jmb.2020.10.001",
@@ -7151,7 +7667,9 @@
             "works_count": 199,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sharan K. | Nuclear entry of HIV-1 capsid | 10.1128/jvi.01021-21",
@@ -7178,7 +7696,9 @@
             "works_count": 213,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7188,7 +7708,7 @@
     "question": "How do the type I interferon signaling pathways and lipid nanoparticle-mediated dendritic cell modulation identified in mRNA vaccines compare with the adjuvant mechanisms of conventional vaccine platforms in balancing the trade-off between robust T follicular helper cell-driven humoral immunity and potential interferon-associated immunopathology?",
     "references": [
       {
-        "citation": "Norbert Pardi | mRNA vaccines — a new era in vaccinology | 10.1038/nrd.2017.243",
+        "citation": "Norbert Pardi | mRNA vaccines \u2014 a new era in vaccinology | 10.1038/nrd.2017.243",
         "status": "mismatch",
         "title_found": true,
         "author_matched": false,
@@ -7211,15 +7731,17 @@
             "works_count": 183,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Karin Loré | Type I interferon signaling in mRNA vaccine immunogenicity | 10.1016/j.coviro.2021.11.002",
+        "citation": "Karin Lor\u00e9 | Type I interferon signaling in mRNA vaccine immunogenicity | 10.1016/j.coviro.2021.11.002",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Karin Loré"
+          "Karin Lor\u00e9"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -7231,14 +7753,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Karin Loré",
+            "cited_name": "Karin Lor\u00e9",
             "author_exists": true,
-            "fullest_name": "Karin Loré",
+            "fullest_name": "Karin Lore\u0301",
             "h_index": 51,
             "works_count": 179,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michelle A. | Lipid nanoparticles for mRNA delivery | 10.1038/s41578-021-00358-0",
@@ -7264,7 +7788,9 @@
             "works_count": 968,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.63
       },
       {
         "citation": "Laura K. | Dendritic cell modulation by mRNA-LNP vaccines | 10.1016/j.immuni.2022.06.002",
@@ -7290,7 +7816,9 @@
             "works_count": 637,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter S. | T follicular helper cells in mRNA vaccination | 10.1126/science.abm4531",
@@ -7316,7 +7844,9 @@
             "works_count": 1414,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7349,7 +7879,9 @@
             "works_count": 528,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       },
       {
         "citation": "Cong Liu | Target protein degradation of protein aggregates | 10.1002/advs.202201103",
@@ -7375,7 +7907,9 @@
             "works_count": 602,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Daniel P. | PROTACs and molecular glues in neurodegeneration | 10.1016/j.tips.2021.08.001",
@@ -7401,7 +7935,9 @@
             "works_count": 830,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rebecca M. | Autophagy-targeting chimeras (AUTACs) for protein degradation | 10.1016/j.chembiol.2021.04.011",
@@ -7427,7 +7963,9 @@
             "works_count": 297,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Haixiang Yu | Targeted degradation of aggregate-prone proteins | 10.1038/s41589-021-00812-y",
@@ -7453,7 +7991,9 @@
             "works_count": 149,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.69
       }
     ]
   },
@@ -7486,7 +8026,9 @@
             "works_count": 776,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Li-Huei Tsai | Cell-type-specific epigenomic dysregulation in Alzheimer's disease | 10.1038/s41586-023-06352-6",
@@ -7512,7 +8054,9 @@
             "works_count": 407,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.76
       },
       {
         "citation": "Hansruedi Mathys | Single-cell transcriptomic analysis of Alzheimer's disease | 10.1038/s41586-019-1195-2",
@@ -7537,7 +8081,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Marcus T. | Epigenomic landscapes of neurodegenerative disorders | 10.1016/j.neuron.2021.09.004",
@@ -7564,7 +8110,9 @@
             "works_count": 735,
             "organization_country_id": "DK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah M. | Shared versus disease-specific epigenomic changes in brain aging | 10.1038/s41588-022-01053-x",
@@ -7591,7 +8139,9 @@
             "works_count": 564,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7624,7 +8174,9 @@
             "works_count": 140,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Qian Wang | Alarming antibody evasion properties of rising SARS-CoV-2 BQ and XBB subvariants | 10.1016/j.cell.2022.12.018",
@@ -7649,7 +8201,9 @@
             "works_count": 2191,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Akiko Iwasaki | Convergent evolution of SARS-CoV-2 Omicron subvariants | 10.1016/j.immuni.2023.01.002",
@@ -7675,7 +8229,9 @@
             "works_count": 633,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Davide Corti | Antibody evasion by BQ and XBB subvariants | 10.1126/science.ade9871",
@@ -7702,7 +8258,9 @@
             "works_count": 305,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Veesler | Broadly neutralizing antibodies against SARS-CoV-2 variants | 10.1126/science.abn8532",
@@ -7728,7 +8286,9 @@
             "works_count": 331,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7764,7 +8324,9 @@
             "works_count": 522,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benoit G. Bruneau | Gene regulatory networks in cardiac organogenesis | 10.1126/science.1221445",
@@ -7785,12 +8347,14 @@
           {
             "cited_name": "Benoit G. Bruneau",
             "author_exists": true,
-            "fullest_name": "Bruneau, Benoit Gaëtan.",
+            "fullest_name": "Bruneau, Benoit Ga\u00ebtan.",
             "h_index": 77,
             "works_count": 265,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Sean M. Wu | Single-cell spatiotemporal analysis of cardiac progenitor cells | 10.1016/j.stem.2022.04.001",
@@ -7816,7 +8380,9 @@
             "works_count": 287,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Ibrahim Domian | Regionalized gene expression during early vertebrate heart development | 10.1016/j.devcel.2021.08.005",
@@ -7842,7 +8408,9 @@
             "works_count": 64,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Neil Chi | Evolutionary conservation and divergence in vertebrate cardiogenesis | 10.1016/j.ydbio.2020.12.001",
@@ -7868,7 +8436,9 @@
             "works_count": 27,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       }
     ]
   },
@@ -7902,7 +8472,9 @@
             "works_count": 648,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Michael P. Snyder | Integrating multi-omics data for virtual cell modeling | 10.1016/j.cels.2022.05.002",
@@ -7928,7 +8500,9 @@
             "works_count": 3219,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah A. Teichmann | Toward a fully functional AI virtual cell | 10.1038/s41587-023-01789-2",
@@ -7954,7 +8528,9 @@
             "works_count": 687,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anne-Claude Gavin | Methodological challenges in multi-scale cell models | 10.1016/j.sbi.2021.09.004",
@@ -7980,7 +8556,9 @@
             "works_count": 145,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fabian J. Theis | AI and omics-based frameworks for cellular predictive modeling | 10.1038/s41587-022-01452-y",
@@ -8006,7 +8584,9 @@
             "works_count": 1100,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -8039,7 +8619,9 @@
             "works_count": 799,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John R. Mascola | B cell ontogeny and vaccine design for HIV-1 bnAbs | 10.1126/science.aay7199",
@@ -8065,7 +8647,9 @@
             "works_count": 780,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "William R. Schief | Vaccine induction of rare somatic hypermutations | 10.1126/science.abj2253",
@@ -8091,7 +8675,9 @@
             "works_count": 278,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Barton F. Haynes | Induction of HIV-1 MPER-targeting broadly neutralizing antibodies | 10.1126/science.abm1203",
@@ -8117,7 +8703,9 @@
             "works_count": 830,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michel C. Nussenzweig | Immunogen design strategies for eliciting MPER bnAbs | 10.1016/j.cell.2023.01.001",
@@ -8143,7 +8731,9 @@
             "works_count": 618,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -8177,7 +8767,9 @@
             "works_count": 353,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Richard S. | The cGAS/STING pathway in gut homeostasis | 10.1038/s41577-020-00412-1",
@@ -8203,7 +8795,9 @@
             "works_count": 759,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jonathan Kipnis | Dietary modulation of the cGAS/STING immune dialog | 10.1016/j.immuni.2022.01.002",
@@ -8230,7 +8824,9 @@
             "works_count": 316,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Akiko Iwasaki | Endogenous retroviruses as mediators of tissue barrier immunity | 10.1126/science.aaz3452",
@@ -8256,7 +8852,9 @@
             "works_count": 633,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Eran Elinav | Gut microbiota, diet, and endogenous retroviral activation | 10.1016/j.chom.2021.09.001",
@@ -8283,7 +8881,9 @@
             "works_count": 324,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -8318,7 +8918,9 @@
             "works_count": 714,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David R. Sherwood | Chromatin accessibility and cell fate dynamics in regeneration | 10.1016/j.devcel.2021.04.011",
@@ -8344,7 +8946,9 @@
             "works_count": 193,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Spyros Artavanis-Tsakonas | Notch signaling and lateral inhibition in pattern formation | 10.1126/science.284.5415.770",
@@ -8371,7 +8975,9 @@
             "works_count": 140,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Lecuit | Mechanical forces and chemical signals in spatial patterning | 10.1038/s41580-021-00366-w",
@@ -8397,15 +9003,17 @@
             "works_count": 172,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Alejandro Sánchez Alvarado | Molecular and physical mechanisms of regeneration-induced self-organization | 10.1126/science.abf2344",
+        "citation": "Alejandro S\u00e1nchez Alvarado | Molecular and physical mechanisms of regeneration-induced self-organization | 10.1126/science.abf2344",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Alejandro Sánchez Alvarado"
+          "Alejandro S\u00e1nchez Alvarado"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -8416,14 +9024,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Alejandro Sánchez Alvarado",
+            "cited_name": "Alejandro S\u00e1nchez Alvarado",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8456,7 +9066,9 @@
             "works_count": 183,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Katherine S. Pollard | Human accelerated regions (HARs) and neurodevelopmental traits | 10.1016/j.neuron.2021.03.012",
@@ -8482,7 +9094,9 @@
             "works_count": 473,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Genevieve Konopka | Evolutionary divergence of human genomic enhancers | 10.1038/s41556-020-00561-1",
@@ -8509,15 +9123,17 @@
             "works_count": 229,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Svante Pääbo | The role of human-specific genomic regions in disease susceptibility | 10.1126/science.add2341",
+        "citation": "Svante P\u00e4\u00e4bo | The role of human-specific genomic regions in disease susceptibility | 10.1126/science.add2341",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Svante Pääbo"
+          "Svante P\u00e4\u00e4bo"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -8528,14 +9144,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Svante Pääbo",
+            "cited_name": "Svante P\u00e4\u00e4bo",
             "author_exists": true,
-            "fullest_name": "Pääbo, Svante 1955-",
+            "fullest_name": "P\u00e4\u00e4bo, Svante 1955-",
             "h_index": 161,
             "works_count": 474,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael J. | Chromatin organization and HAQERs in human brain evolution | 10.1038/s41586-022-04561-x",
@@ -8561,7 +9179,9 @@
             "works_count": 1363,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8596,7 +9216,9 @@
             "works_count": 56,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin Steinegger | Structure-based clustering of the protein universe using AlphaFold2 | 10.1038/s41587-023-01773-x",
@@ -8622,7 +9244,9 @@
             "works_count": 174,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alice L. | Comparing sequence- and structure-based protein clustering | 10.1016/j.sbi.2022.102450",
@@ -8648,7 +9272,9 @@
             "works_count": 495,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "David Baker | Revealing functional diversity across protein families with AlphaFold | 10.1126/science.abm4531",
@@ -8674,7 +9300,9 @@
             "works_count": 1585,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Janet M. Thornton | Uncovering novel enzymatic properties using structure-based methods | 10.1146/annurev-biochem-040320-101121",
@@ -8701,7 +9329,9 @@
             "works_count": 781,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8735,7 +9365,9 @@
             "works_count": 188,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Wendy S. | Fusobacterium-mediated tumor hypoxia and neutrophil infiltration | 10.1038/s41591-022-01821-2",
@@ -8761,7 +9393,9 @@
             "works_count": 274,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gilad Bachrach | Microbial community dynamics and cancer metastasis | 10.1126/science.abg2254",
@@ -8787,7 +9421,9 @@
             "works_count": 90,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emma R. | Fusobacterium in different cancer types and metastatic sites | 10.1016/j.ccell.2021.11.002",
@@ -8813,7 +9449,9 @@
             "works_count": 180,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert A. Holt | Fusobacterium and the tumor immune microenvironment | 10.1016/j.cell.2023.02.011",
@@ -8839,7 +9477,9 @@
             "works_count": 463,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8872,7 +9512,9 @@
             "works_count": 769,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daniel J. Rader | Cellular senescence and plaque progression in atherosclerosis | 10.1016/j.jacc.2021.09.002",
@@ -8898,7 +9540,9 @@
             "works_count": 1505,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stanley Hazen | Gut microbiome interactions and inflammatory pathways in atherosclerosis | 10.1038/s41591-020-01121-2",
@@ -8925,7 +9569,9 @@
             "works_count": 763,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Libby | Common inflammatory pathways across cellular subpopulations in atherosclerosis | 10.1038/s41569-021-00561-y",
@@ -8951,7 +9597,9 @@
             "works_count": 1247,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kenneth Walsh | Clonal hematopoiesis of indeterminate potential and arterial inflammation | 10.1161/CIRCRESAHA.121.319001",
@@ -8977,7 +9625,9 @@
             "works_count": 625,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9010,7 +9660,9 @@
             "works_count": 71,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jianping Fu | Guidelines and regulations for human embryo models | 10.1038/s41587-021-01001-7",
@@ -9036,7 +9688,9 @@
             "works_count": 270,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Insoo Hyun | Ethical and policy considerations for human blastoids | 10.1126/science.abi7232",
@@ -9063,7 +9717,9 @@
             "works_count": 143,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Amander T. Clark | Regulatory approaches to human embryo-like structures across jurisdictions | 10.1016/j.stem.2021.04.002",
@@ -9089,7 +9745,9 @@
             "works_count": 184,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.94
       },
       {
         "citation": "Sarah S. | Stem cell-based embryo models: evolving capabilities and ethical boundaries | 10.1016/j.cell.2023.03.011",
@@ -9115,7 +9773,9 @@
             "works_count": 1690,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9149,7 +9809,9 @@
             "works_count": 304,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Denis A. | Symmetry-breaking events in early mammalian development | 10.1038/s41580-021-00388-0",
@@ -9176,7 +9838,9 @@
             "works_count": 165,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Nicolas Plachta | Molecular mechanisms governing early blastomere equivalence | 10.1016/j.cell.2022.04.011",
@@ -9203,7 +9867,9 @@
             "works_count": 81,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kat Hadjantonakis | Conserved mechanisms of symmetry breaking across species | 10.1146/annurev-cellbio-100319-024521",
@@ -9224,12 +9890,14 @@
           {
             "cited_name": "Kat Hadjantonakis",
             "author_exists": true,
-            "fullest_name": "Anna‐Katerina Hadjantonakis",
+            "fullest_name": "Anna\u2010Katerina Hadjantonakis",
             "h_index": 83,
             "works_count": 327,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.86
       },
       {
         "citation": "M. Azim Surani | Proteomic asymmetry and cell fate determination in the zygote | 10.1038/s41556-022-00912-x",
@@ -9255,7 +9923,9 @@
             "works_count": 468,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -9288,7 +9958,9 @@
             "works_count": 175,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Allon M. Klein | Post-transcriptional regulation during stem cell differentiation | 10.1016/j.stem.2021.11.002",
@@ -9314,7 +9986,9 @@
             "works_count": 147,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Johan Elf | Protein-to-cell-size scaling in mammalian cells | 10.1126/science.abm2113",
@@ -9340,7 +10014,9 @@
             "works_count": 177,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alexander van Oudenaarden | Single-cell multi-omics integration of transcript and protein | 10.1038/s41587-022-01254-y",
@@ -9366,7 +10042,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marc Kirschner | Quantitative single-cell proteomics of mammalian differentiation | 10.1101/2021.08.12.456112",
@@ -9392,7 +10070,9 @@
             "works_count": 531,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9425,7 +10105,9 @@
             "works_count": 140,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shingo Kajimura | Lac-Phe and classical ketone signaling in energy homeostasis | 10.1038/s41586-022-04826-z",
@@ -9451,7 +10133,9 @@
             "works_count": 192,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mark A. | Metabolic regulation of appetite under different metabolic states | 10.1146/annurev-nutrition-110220-101112",
@@ -9478,7 +10162,9 @@
             "works_count": 1534,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bruce M. Spiegelman | BHB-amino acids and the control of energy balance | 10.1016/j.cmet.2023.10.003",
@@ -9504,7 +10190,9 @@
             "works_count": 474,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen R. | Integration of newly discovered appetite-regulating metabolites | 10.1038/s2255-023-00892-x",
@@ -9531,7 +10219,9 @@
             "works_count": 1088,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9564,7 +10254,9 @@
             "works_count": 277,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.83
       },
       {
         "citation": "Hany Anany | Structural properties and membrane-disrupting action of SEPs | 10.1016/j.tim.2022.03.001",
@@ -9592,7 +10284,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Paul D. | Comparing SEPs to classical bacteriocins and host-defense peptides | 10.1038/s41579-021-00512-y",
@@ -9618,7 +10312,9 @@
             "works_count": 4007,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rachel J. | Therapeutic indices and clinical potential of micropeptides | 10.1016/j.tips.2021.10.002",
@@ -9644,7 +10340,9 @@
             "works_count": 96,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jack A. | Small open reading frame-encoded peptides as novel antimicrobials | 10.1016/j.chom.2023.02.001",
@@ -9670,7 +10368,9 @@
             "works_count": 796,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9704,7 +10404,9 @@
             "works_count": 743,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Pellman | Chromothripsis and punctuated genomic evolution in TP53-deficient tumors | 10.1126/science.abc1121",
@@ -9730,7 +10432,9 @@
             "works_count": 205,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Adrienne M. | Molecular mechanisms of LTA chromothripsis | 10.1016/j.cell.2021.12.012",
@@ -9756,7 +10460,9 @@
             "works_count": 584,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Park | Mutational processes and therapeutic targeting in osteosarcoma | 10.1038/s41568-021-00351-x",
@@ -9782,7 +10488,9 @@
             "works_count": 798,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Jan O. Korbel | Clinical prognosis of chromothripsis-harboring malignancies | 10.1038/s41568-022-00412-y",
@@ -9808,14 +10516,16 @@
             "works_count": 449,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W4386887353",
     "model": "gemini",
-    "question": "How well do the route-dependent clinical pathologies and transcriptomic immune signatures observed in this rhesus macaque model of mpox align with the diverse clinical presentations and mucosal immune responses documented in human patients during the 2022–2023 global outbreak?",
+    "question": "How well do the route-dependent clinical pathologies and transcriptomic immune signatures observed in this rhesus macaque model of mpox align with the diverse clinical presentations and mucosal immune responses documented in human patients during the 2022\u20132023 global outbreak?",
     "references": [
       {
         "citation": "Anne Rimoin | Route-dependent clinical pathologies in rhesus macaque model of mpox | 10.1126/science.ade3412",
@@ -9842,7 +10552,9 @@
             "works_count": 237,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimie Ogoina | Mucosal immune responses and clinical presentations in the 2022 mpox outbreak | 10.1016/j.idclin.2023.01.002",
@@ -9868,7 +10580,9 @@
             "works_count": 107,
             "organization_country_id": "NG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Marion Koopmans | Transcriptomic immune signatures of mpox in non-human primates | 10.1038/s41591-022-02102-w",
@@ -9894,7 +10608,9 @@
             "works_count": 1169,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Cesar Munoz-Fontela | Comparing animal models and human clinical pathology of mpox | 10.1016/j.coviro.2023.101254",
@@ -9920,7 +10636,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrea L. | The 2022-2023 global mpox outbreak: lessons from mucosal immunology | 10.1038/s41577-023-00821-2",
@@ -9947,7 +10665,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.69
       }
     ]
   },
@@ -9982,7 +10702,9 @@
             "works_count": 552,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin M. | Recapitulating trophoblast invasion in 3D endometrial co-cultures | 10.1016/j.stem.2020.12.001",
@@ -10009,7 +10731,9 @@
             "works_count": 575,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ashley Moffett | Molecular crosstalk at the maternal-fetal interface in early pregnancy | 10.1038/s41577-021-00511-z",
@@ -10037,7 +10761,9 @@
             "works_count": 220,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.6
       },
       {
         "citation": "Nicolas Rivron | In vitro models of human embryo implantation and blastoids | 10.1038/s41587-021-01112-5",
@@ -10063,7 +10789,9 @@
             "works_count": 71,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marcy L. | Comparing animal models and in vitro platforms for endometrial study | 10.1146/annurev-physiol-021119-034512",
@@ -10089,7 +10817,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.95
       }
     ]
   },
@@ -10123,7 +10853,9 @@
             "works_count": 1426,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Patrick Forterre | Evolutionary models of the transition from RNA replicators to capsid viruses | 10.1016/j.coviro.2021.08.003",
@@ -10150,7 +10882,9 @@
             "works_count": 408,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert A. | Viroid-like cccRNAs in diverse cellular domains | 10.1038/s41564-022-01153-x",
@@ -10176,7 +10910,9 @@
             "works_count": 668,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Valerian V. | Diversity of circular RNAs and their prebiotic implications | 10.1146/annurev-virology-100120-011211",
@@ -10203,7 +10939,9 @@
             "works_count": 169,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Matthew B. | Protein-free RNA replicators versus capsid-encoding viruses | 10.1101/2022.05.12.491234",
@@ -10230,14 +10968,16 @@
             "works_count": 349,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3006211741",
     "model": "gemini",
-    "question": "How do proteogenomic and epigenetic alterations in the Wnt/β-catenin and p53 pathways shape the tumor immune microenvironment of endometrial cancer subtypes, and how can these multi-omic insights be synthesized to optimize personalized immunotherapy strategies?",
+    "question": "How do proteogenomic and epigenetic alterations in the Wnt/\u03b2-catenin and p53 pathways shape the tumor immune microenvironment of endometrial cancer subtypes, and how can these multi-omic insights be synthesized to optimize personalized immunotherapy strategies?",
     "references": [
       {
         "citation": "Douglas Levine | Proteogenomic and epigenetic alterations in endometrial cancer | 10.1016/j.cell.2020.02.011",
@@ -10263,7 +11003,9 @@
             "works_count": 828,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Katherine M. | The Wnt/beta-catenin and p53 pathways in the endometrial immune microenvironment | 10.1016/j.ccell.2021.03.002",
@@ -10289,7 +11031,9 @@
             "works_count": 675,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shannon N. Westin | Personalizing immunotherapy strategies in endometrial cancer | 10.1038/s41571-021-00512-w",
@@ -10315,7 +11059,9 @@
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.87
       },
       {
         "citation": "Shannon L. | Multi-omic characterization of endometrial cancer subtypes | 10.1038/s41588-020-0612-y",
@@ -10341,7 +11087,9 @@
             "works_count": 168,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.88
       },
       {
         "citation": "Elizabeth A. | Epigenetic landscapes shaping tumor immunity in gynecologic cancers | 10.1146/annurev-pathol-030221-101112",
@@ -10368,7 +11116,9 @@
             "works_count": 266,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10399,12 +11149,14 @@
           {
             "cited_name": "Kjetil Bjornevik",
             "author_exists": true,
-            "fullest_name": "Bjørnevik, Kjetil Lauvland",
+            "fullest_name": "Bj\u00f8rnevik, Kjetil Lauvland",
             "h_index": 28,
             "works_count": 90,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tobias V. Lanz | Clonally expanded B cells in multiple sclerosis bind EBNA1 and GlialCAM | 10.1126/science.abm2058",
@@ -10428,7 +11180,9 @@
             "works_count": 50,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jan D. L1nemann | Humoral and cellular immune responses to Epstein-Barr virus in multiple sclerosis | 10.1007/s00281-009-0175-y",
@@ -10454,7 +11208,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Roland Martin | Molecular mimicry in multiple sclerosis | 10.1016/j.coi.2006.10.001",
@@ -10481,7 +11237,9 @@
             "works_count": 552,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicole A. Mifsud | T-cell receptor cross-reactivity and multiple sclerosis | 10.1111/imr.12048",
@@ -10508,7 +11266,9 @@
             "works_count": 124,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10542,7 +11302,9 @@
             "works_count": 72,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicholas J. McGranahan | Cancer Evolution: Mutation, Selection, and the Clinical Horizon | 10.1016/j.cell.2017.02.009",
@@ -10569,7 +11331,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew S. S. Sottoriva | A common cancer evolutionary model: Neutral tumor evolution | 10.1038/ng.3489",
@@ -10597,7 +11361,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Simone Pompei | Dissecting the selective advantage of cancer cells: passenger mutations | 10.1038/s41467-020-19814-1",
@@ -10623,7 +11389,9 @@
             "works_count": 32,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.51
       },
       {
         "citation": "Christopher J. R. Illingworth | Passenger mutations can significantly impact cancer progression | 10.1016/j.jtbi.2012.01.034",
@@ -10649,7 +11417,9 @@
             "works_count": 116,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10683,7 +11453,9 @@
             "works_count": 344,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert Bonecchi | Atypical chemokine receptors: from basic biology to therapeutic targeting | 10.1016/j.it.2019.03.003",
@@ -10710,7 +11482,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yen-Chih Huang | Structure of the atypical chemokine receptor ACKR3 | 10.1126/science.abb8069",
@@ -10736,7 +11510,9 @@
             "works_count": 529,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Philip M. Murphy | Atypical chemokine receptors | 10.1146/annurev-immunol-032712-100001",
@@ -10762,7 +11538,9 @@
             "works_count": 444,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hans-Dieter Nuhn | Structure and mechanism of the atypical chemokine receptor ACKR1 | 10.1038/s41589-021-00831-2",
@@ -10788,7 +11566,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -10823,7 +11603,9 @@
             "works_count": 435,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       },
       {
         "citation": "Charlotte Soneson | Bias, robustness and scalability in single-cell differential expression analysis | 10.1038/nmeth.4612",
@@ -10851,7 +11633,9 @@
             "works_count": 223,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Greg Finak | MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data | 10.1186/s13059-015-0844-5",
@@ -10876,7 +11660,9 @@
             "works_count": 208,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael I. Love | Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2 | 10.1186/s13059-014-0550-8",
@@ -10900,7 +11686,9 @@
             "works_count": 411,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mark D. Robinson | edgeR: a Bioconductor package for differential expression analysis of digital gene expression data | 10.1093/bioinformatics/btp616",
@@ -10925,7 +11713,9 @@
             "works_count": 475,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10958,7 +11748,9 @@
             "works_count": 454,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "Ashley P. West | Mitochondrial DNA stress primers the antiviral innate immune response | 10.1038/nature14156",
@@ -10983,7 +11775,9 @@
             "works_count": 92,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Glen N. Barber | STING: history, topology, and function | 10.1016/j.cell.2014.10.013",
@@ -11010,7 +11804,9 @@
             "works_count": 297,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Zhijian J. Chen | Deciphering the cGAS-STING pathway | 10.1126/science.aba7191",
@@ -11036,7 +11832,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Rongbin Zhou | Mitochondrial DNA in innate immune signaling and inflammatory diseases | 10.1018/j.immuni.2020.11.011",
@@ -11062,7 +11860,9 @@
             "works_count": 160,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       }
     ]
   },
@@ -11095,7 +11895,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Toshimitsu Nanki | Somatic mutations in inflamed colon of patients with inflammatory bowel disease | 10.1038/s41586-019-1816-7",
@@ -11122,7 +11924,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Henry Lee-Six | The somatic mutation landscape of the normal human colonic mucosa | 10.1038/s41586-019-1672-8",
@@ -11148,7 +11952,9 @@
             "works_count": 164,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael J. Gerstung | Somatic evolution in the inflamed colon and colitis-associated cancer | 10.1101/2021.05.12.443729",
@@ -11174,7 +11980,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Carl G. Anderson | Genomic landscape of inflammatory bowel disease-associated colorectal cancer | 10.1016/j.gastro.2018.11.023",
@@ -11201,7 +12009,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11235,7 +12045,9 @@
             "works_count": 176,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Michael S. Lindstr1m | The nucleolar stress response: The link between ribosome biogenesis and p53 | 10.1002/bies.201700126",
@@ -11262,7 +12074,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hua Lu | Ribosomal proteins in the regulation of MDM2-p53 loop | 10.1007/s13238-014-0102-1",
@@ -11290,7 +12104,9 @@
             "works_count": 299,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.51
       },
       {
         "citation": "Slaven Erkelenz | Non-canonical roles of small nucleolar RNAs | 10.3390/ncrna5040046",
@@ -11317,7 +12133,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jean-Jacques Diaz | snoRNAs in cancer and ribosome heterogeneity | 10.1186/s12943-018-0853-y",
@@ -11343,7 +12161,9 @@
             "works_count": 204,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11378,7 +12198,9 @@
             "works_count": 250,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.77
       },
       {
         "citation": "Derek R. | Mining metagenomes for novel antimicrobial peptides using machine learning | 10.1128/msystems.00144-21",
@@ -11404,7 +12226,9 @@
             "works_count": 562,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael A. | Computational discovery of antimicrobial peptides from metagenomic data | 10.1093/bioinformatics/btz012",
@@ -11432,7 +12256,9 @@
             "works_count": 1310,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Inbar Fishman | Machine learning-driven identification of antimicrobial peptides from the human microbiome | 10.1038/s41587-022-01211-1",
@@ -11459,7 +12285,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.94
       },
       {
         "citation": "Bobo Wing-Yee | Metagenomics-driven discovery of antimicrobial peptides: methods and challenges | 10.1186/s12864-022-08544-z",
@@ -11486,14 +12314,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.51
       }
     ]
   },
   {
     "id": "https://openalex.org/W4322767187",
     "model": "gemini",
-    "question": "How do the genomic mechanisms of adaptation to extreme cold and photoperiod seasonality in the Antarctic krill (*Euphausia superba*)—specifically regarding transposable element-driven genome expansion, circadian clock architecture, and metabolic gene family expansions—compare to the evolutionary strategies observed in other polar marine invertebrates?",
+    "question": "How do the genomic mechanisms of adaptation to extreme cold and photoperiod seasonality in the Antarctic krill (*Euphausia superba*)\u2014specifically regarding transposable element-driven genome expansion, circadian clock architecture, and metabolic gene family expansions\u2014compare to the evolutionary strategies observed in other polar marine invertebrates?",
     "references": [
       {
         "citation": "Changwei Shao | The giant genome of Antarctic krill | 10.1016/j.cell.2023.01.013",
@@ -11519,7 +12349,9 @@
             "works_count": 174,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       },
       {
         "citation": "Mathias Teschke | Circadian clock of Antarctic krill | 10.1016/j.cub.2011.08.029",
@@ -11545,7 +12377,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Cristiano De Pitt\u0000 | Genome-wide analysis of the Antarctic krill circadian clock | 10.1371/journal.pone.0078190",
@@ -11572,7 +12406,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Melody S. Clark | Antarctic marine organisms: genomic adaptations to extreme cold | 10.1093/iob/obz026",
@@ -11600,7 +12436,9 @@
             "works_count": 311,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Cinzia Verde | Polar marine invertebrates: physiological and genomic adaptations | 10.1007/978-3-030-51523-2",
@@ -11626,7 +12464,9 @@
             "works_count": 161,
             "organization_country_id": "PT"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11661,7 +12501,9 @@
             "works_count": 284,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rus Hoelzel | Low genetic diversity in the northern elephant seal | 10.1038/362412a0",
@@ -11688,7 +12530,9 @@
             "works_count": 196,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "Maria C. F. | Genetic consequences of demographic recovery in marine mammals | 10.1093/jhered/esy051",
@@ -11715,7 +12559,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Andrew D. Foote | Genome-wide signatures of bottleneck and recovery in killer whales | 10.1038/ncomms11699",
@@ -11743,7 +12589,9 @@
             "works_count": 113,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jacqueline A. | Long-term genetic effects of demographic bottlenecks in sea otters | 10.1111/mec.15432",
@@ -11771,7 +12619,9 @@
             "works_count": 48,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11805,7 +12655,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jamil S. | Intercellular transfer of organelles and molecules via tunneling nanotubes in cancer | 10.3389/fonc.2020.01254",
@@ -11832,7 +12684,9 @@
             "works_count": 86,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Xiang Wang | Tunneling nanotubes: an emerging channel for mitochondrial and DNA transfer in the tumor microenvironment | 10.1186/s13046-021-02011-3",
@@ -11859,7 +12713,9 @@
             "works_count": 929,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Clotilde Th\u0000ry | Extracellular vesicles in communication and horizontal gene transfer | 10.1038/s41568-020-00318-z",
@@ -11885,7 +12741,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Michael R. | Horizontal gene transfer in mammalian cells via extracellular vesicles and tunneling nanotubes | 10.1016/j.semcancer.2021.05.012",
@@ -11911,7 +12769,9 @@
             "works_count": 651,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11944,7 +12804,9 @@
             "works_count": 523,
             "organization_country_id": "JO"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.63
       },
       {
         "citation": "Xun Xu | Single-cell spatial transcriptomics of FFPE tissues using Stereo-seq | 10.1101/2022.05.01.489723",
@@ -11970,7 +12832,9 @@
             "works_count": 1073,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Sanja Vickovic | High-definition spatial transcriptomics for FFPE tissue | 10.1038/s41587-021-01159-8",
@@ -11991,12 +12855,14 @@
           {
             "cited_name": "Sanja Vickovic",
             "author_exists": true,
-            "fullest_name": "Sanja Vicković",
+            "fullest_name": "Sanja Vickovi\u0107",
             "h_index": 21,
             "works_count": 49,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jonathan J. | Dual spatial transcriptomics of host-pathogen interactions | 10.1038/s41587-023-01784-x",
@@ -12022,7 +12888,9 @@
             "works_count": 661,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alon Gelfand | Comparison of poly(A) capture and random priming in spatial transcriptomics | 10.1016/j.gpb.2023.04.002",
@@ -12048,7 +12916,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -12083,7 +12953,9 @@
             "works_count": 352,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tyler N. Starr | Prospective mapping of viral mutations that escape antibodies | 10.1126/science.abd9909",
@@ -12107,7 +12979,9 @@
             "works_count": 107,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Allison J. Greaney | Complete mapping of SARS-CoV-2 RBD mutations that escape antibody recognition | 10.1016/j.chom.2021.01.013",
@@ -12133,7 +13007,9 @@
             "works_count": 73,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jesse D. Bloom | Landscape of receptor-binding domain mutations in SARS-CoV-2 | 10.1101/2020.11.02.365924",
@@ -12159,7 +13035,9 @@
             "works_count": 398,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "David Veesler | Structure, function, and antigenicity of SARS-CoV-2 spike glycoprotein | 10.1016/j.cell.2020.02.058",
@@ -12184,7 +13062,9 @@
             "works_count": 331,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12219,7 +13099,9 @@
             "works_count": 831,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jason G. Cyster | Subcapsular sinus macrophages capture antigen and present it to B cells | 10.1038/nature06915",
@@ -12245,7 +13127,9 @@
             "works_count": 216,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Facundo D. Batista | Subcapsular sinus macrophages prevent CNS invasion and initiate antibody responses | 10.1126/science.1147530",
@@ -12273,7 +13157,9 @@
             "works_count": 176,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Heather J. | Memory B cell reactivation in draining lymph nodes | 10.1018/j.immuni.2021.05.002",
@@ -12299,7 +13185,9 @@
             "works_count": 256,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matteo Iannacone | Subcapsular sinus macrophages gate access of antigens to lymph nodes | 10.1038/nature08222",
@@ -12325,7 +13213,9 @@
             "works_count": 218,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12357,7 +13247,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Alon S | scDamID: mapping genome-lamina interactions in single cells | 10.1038/s41592-019-0504-2",
@@ -12384,7 +13276,9 @@
             "works_count": 357,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jingyi Jessica Li | Comparison of single-cell chromatin accessibility and TF binding profiling methods | 10.1016/j.gpb.2022.09.001",
@@ -12412,7 +13306,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "J. Wu | D&D-seq: Single-cell base editing-based chromatin mapping | 10.1101/2023.10.15.562412",
@@ -12440,7 +13336,9 @@
             "works_count": 3187,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.75
       },
       {
         "citation": "Bas van Steensel | scDamID: Single-cell DamID profiles chromatin-lamina interactions | 10.1038/s41587-019-0118-2",
@@ -12466,7 +13364,9 @@
             "works_count": 303,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       }
     ]
   },
@@ -12499,7 +13399,9 @@
             "works_count": 305,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jonathan R. | Broadly neutralizing antibodies against Henipaviruses | 10.1126/science.abc1902",
@@ -12526,7 +13428,9 @@
             "works_count": 729,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher C. Broder | Henipavirus receptor binding and entry | 10.1038/nrmicro2091",
@@ -12553,7 +13457,9 @@
             "works_count": 298,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tyler N. Starr | Mapping mutational constraints on Henipavirus receptor-binding proteins | 10.1101/2023.06.12.544521",
@@ -12579,7 +13485,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "David Veesler | Structural basis of Nipah virus neutralization by a human monoclonal antibody | 10.1016/j.cell.2019.04.012",
@@ -12605,7 +13513,9 @@
             "works_count": 331,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12639,7 +13549,9 @@
             "works_count": 96,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Susumu Tonegawa | Optogenetic activation of a hippocampal engram | 10.1038/nature11028",
@@ -12665,7 +13577,9 @@
             "works_count": 449,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Foster | Hippocampal place cells and goal-directed navigation | 10.1146/annurev-neuro-081420-111450",
@@ -12692,7 +13606,9 @@
             "works_count": 559,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edvard I. Moser | Place cells, grid cells, and the brain's spatial representation system | 10.1146/annurev-neuro-060909-153128",
@@ -12717,7 +13633,9 @@
             "works_count": 439,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gyorgy Buzsaki | The entorhinal-hippocampal system and spatial navigation | 10.1016/j.neuron.2013.06.011",
@@ -12739,12 +13657,14 @@
           {
             "cited_name": "Gyorgy Buzsaki",
             "author_exists": true,
-            "fullest_name": "György Buzsáki",
+            "fullest_name": "Gyo\u0308rgy Buzsa\u0301ki",
             "h_index": 169,
             "works_count": 592,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12778,7 +13698,9 @@
             "works_count": 467,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gerald I. Shulman | Cellular mechanisms of insulin resistance in the heart | 10.1016/j.cmet.2018.05.012",
@@ -12805,7 +13727,9 @@
             "works_count": 814,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gary D. Lopaschuk | Myocardial fatty acid metabolism in health and disease | 10.1152/physrev.00015.2010",
@@ -12832,7 +13756,9 @@
             "works_count": 521,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Heinrich Taegtmeyer | Metabolic remodeling of the failing heart | 10.1152/physrev.00031.2015",
@@ -12858,7 +13784,9 @@
             "works_count": 428,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter M. | Mitochondrial energetics and diabetic cardiomyopathy | 10.1016/j.jacc.2020.08.014",
@@ -12884,7 +13812,9 @@
             "works_count": 506,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12920,7 +13850,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Shingo Kajimura | Brown adipose tissue and systemic metabolism | 10.1016/j.cmet.2015.09.007",
@@ -12946,7 +13878,9 @@
             "works_count": 192,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher B. Newgard | BCAA metabolism and insulin resistance | 10.1016/j.cmet.2012.01.012",
@@ -12973,7 +13907,9 @@
             "works_count": 581,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kristin I. Stanford | Brown adipose tissue regulates systemic metabolism through secretion of batokines | 10.1016/j.cmet.2018.03.003",
@@ -13000,7 +13936,9 @@
             "works_count": 139,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gregory R. Steinberg | Brown fat, BCAAs, and metabolic health | 10.1038/s41574-020-0381-z",
@@ -13027,7 +13965,9 @@
             "works_count": 350,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13061,7 +14001,9 @@
             "works_count": 311,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Herbert Waldmann | Bacterial targeted protein degradation | 10.1002/anie.202201015",
@@ -13088,7 +14030,9 @@
             "works_count": 1460,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert T. Sauer | Structure and function of the ClpXP protease | 10.1146/annurev-biochem-061516-121021",
@@ -13115,7 +14059,9 @@
             "works_count": 532,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tania A. Baker | Mechanism and regulation of ClpCP protease | 10.1016/j.sbi.2018.12.001",
@@ -13141,7 +14087,9 @@
             "works_count": 279,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Craig M. Crews | PROTACs: targeted protein degradation in eukaryotes and pathogens | 10.1016/j.chembiol.2020.12.004",
@@ -13167,7 +14115,9 @@
             "works_count": 317,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13195,12 +14145,14 @@
           {
             "cited_name": "Orlando D. Sch\u0000rer",
             "author_exists": true,
-            "fullest_name": "Orlando D. Sch�rer",
+            "fullest_name": "Orlando D. Sch\ufffdrer",
             "h_index": 1,
             "works_count": 1,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "J. Arvidsson | dNTP pool regulation and DNA repair in post-mitotic cells | 10.1016/j.dnarep.2019.04.001",
@@ -13227,7 +14179,9 @@
             "works_count": 78,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Michael Lieberman | Nucleotide excision repair in non-dividing cells | 10.1146/annurev-biochem-060408-111234",
@@ -13254,7 +14208,9 @@
             "works_count": 563,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrei Chabes | dNTP pool regulation and its role in genomic stability | 10.1016/j.bbagen.2015.01.018",
@@ -13280,7 +14236,9 @@
             "works_count": 113,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah R. | Susceptibility of post-mitotic neurons to DNA-damaging chemotherapy | 10.1093/neuonc/nox123",
@@ -13306,7 +14264,9 @@
             "works_count": 168,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13339,7 +14299,9 @@
             "works_count": 618,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Moritz U. G. Kraemer | The effect of human mobility on the clonal expansion and spread of pathogens | 10.1126/science.abb4218",
@@ -13365,7 +14327,9 @@
             "works_count": 305,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew Rambaut | Phylogeographic analysis of respiratory virus pandemics | 10.1126/science.1143211",
@@ -13392,7 +14356,9 @@
             "works_count": 523,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Philippe Lemey | Air travel and the global spread of emerging infectious diseases | 10.1371/journal.ppat.1000357",
@@ -13418,7 +14384,9 @@
             "works_count": 619,
             "organization_country_id": "BR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah Cobey | Source-sink dynamics and the global migration of influenza | 10.1126/science.1211234",
@@ -13444,7 +14412,9 @@
             "works_count": 138,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13479,7 +14449,9 @@
             "works_count": 1208,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Claudio Joazeiro | HERC2-mediated protein degradation and quality control | 10.1038/s41556-020-00123-x",
@@ -13506,7 +14478,9 @@
             "works_count": 65,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Alexander Varshavsky | The N-degron pathway and protein quality control | 10.1146/annurev-biochem-060116-041412",
@@ -13532,7 +14506,9 @@
             "works_count": 280,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "F. Ulrich Hartl | Chaperonins CCT and quality control in the cytosol | 10.1146/annurev-biochem-061516-121234",
@@ -13559,7 +14535,9 @@
             "works_count": 494,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Wade Harper | Ubiquitin-mediated quality control of multi-protein complex assembly | 10.1126/science.ade1234",
@@ -13585,7 +14563,9 @@
             "works_count": 477,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.64
       }
     ]
   },
@@ -13618,7 +14598,9 @@
             "works_count": 858,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michel Bouvier | Biased agonism at the beta2-adrenergic receptor | 10.1016/j.tips.2018.02.002",
@@ -13644,7 +14626,9 @@
             "works_count": 796,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Daniel J. | GPCR biased signaling in metabolic diseases | 10.1152/ajpendo.00213.2019",
@@ -13671,7 +14655,9 @@
             "works_count": 3658,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laura M. | Biased beta2-adrenergic receptor agonists for type 2 diabetes | 10.1016/j.cmet.2021.05.006",
@@ -13698,7 +14684,9 @@
             "works_count": 395,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fiona M. Gribble | Incretin mimetics vs GPCR-targeted therapies in obesity and T2D | 10.1146/annurev-physiol-021119-034502",
@@ -13725,14 +14713,16 @@
             "works_count": 408,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W7166023512",
     "model": "gemini",
-    "question": "How do IL-6-dependent PIEZO1 upregulation and system Xc⁻-mediated glutamate release compare with other cytokine- and channel-driven mechanisms of epithelial-to-neuronal signaling across different chronic visceral pain syndromes and organ systems?",
+    "question": "How do IL-6-dependent PIEZO1 upregulation and system Xc\u207b-mediated glutamate release compare with other cytokine- and channel-driven mechanisms of epithelial-to-neuronal signaling across different chronic visceral pain syndromes and organ systems?",
     "references": [
       {
         "citation": "Ardem Patapoutian | Piezo channels in sensory transduction | 10.1146/annurev-physiol-021119-034449",
@@ -13759,7 +14749,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.7
       },
       {
         "citation": "David Julius | Molecular mechanisms of nociception | 10.1038/nature04559",
@@ -13786,7 +14778,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen J. McMurray | System Xc- and glutamate signaling in chronic pain | 10.1016/j.neuropharm.2020.108234",
@@ -13813,7 +14807,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hong-Zhen Du | IL-6-induced PIEZO1 upregulation in visceral hypersensitivity | 10.1016/j.pain.2021.11.012",
@@ -13839,7 +14835,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.65
       },
       {
         "citation": "Stuart M. Brierley | Epithelial-to-neuronal signaling in chronic visceral pain | 10.1038/nrgastro.2018.10",
@@ -13865,7 +14863,9 @@
             "works_count": 235,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   }

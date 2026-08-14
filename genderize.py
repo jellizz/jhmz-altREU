@@ -627,30 +627,35 @@ def add_gender_to_verified_file(input_file):
 
 if __name__ == "__main__":
 
+
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/anthr/checked_anthr_S1980519_astrophys.json"
+    # )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/anthr/checked_anthr_S9692511_frontierspsych.json"
+    # )    
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/anthr/checked_anthr_S13144211_expertsysappe.json"
+    # )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/anthr/checked_anthr_S23254222_americaneconomic.json"
+    # )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/anthr/checked_anthr_S24807848_physreview.json" 
+    # )
     add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S9692511.json"
+        input_file="data/verification/gemini/checked_gem_S49861241_lancet.json"
     )
     add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S13144211.json"
+        input_file="data/verification/gemini/checked_gem_s86852077_totalenv.json"
     )    
     add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S23254222.json"
+        input_file="data/verification/gemini/checked_gem_S110447773_cell.json"
     )
     add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S24807848.json"
+        input_file="data/verification/gemini/checked_gem_S145089992_hazardous.json"
     )
     add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S49861241.json" 
+        input_file="data/verification/gemini/checked_gem_S4210175523_IEEEneuralnet.json" 
     )
-    add_gender_to_verified_file(    
-        input_file="data/verification/gpt/checked_gpt_s86852077.json" 
-    )
-    add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S110447773.json" 
-    )
-    add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S145089992.json"
-    )
-    add_gender_to_verified_file(
-        input_file="data/verification/gpt/checked_gpt_S4210175523.json"
-    )
+    

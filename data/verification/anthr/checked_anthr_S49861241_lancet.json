@@ -22,12 +22,14 @@
           {
             "cited_name": "Alarcos Cieza",
             "author_exists": true,
-            "fullest_name": "Amalia Fernández de Cieza",
+            "fullest_name": "Amalia Fern\u00e1ndez de Cieza",
             "h_index": 84,
             "works_count": 458,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Theo Vos | Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019 | 10.1016/S0140-6736(20)30925-9",
@@ -52,7 +54,9 @@
             "works_count": 670,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Damian Hoy | The global burden of low back pain: estimates from the Global Burden of Disease 2010 study | 10.1136/annrheumdis-2013-204428",
@@ -77,7 +81,9 @@
             "works_count": 51,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Anthony D Woolf | Burden of major musculoskeletal conditions | 10.1590/S0042-96862003000900007",
@@ -104,7 +110,9 @@
             "works_count": 400,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Saeid Safiri | Global, regional and national burden of low back pain 1990-2017 | 10.1136/annrheumdis-2019-216515",
@@ -130,14 +138,16 @@
             "works_count": 564,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
   {
     "id": "https://openalex.org/W3037016500",
     "model": "anthropic",
-    "question": "How do longitudinal trajectories of amyloid, tau, neurodegeneration, and cognitive biomarkers in adults with Down syndrome compare with those observed in sporadic and autosomal dominant Alzheimer’s disease, and what do these similarities and differences imply for the timing and design of preventive interventions?",
+    "question": "How do longitudinal trajectories of amyloid, tau, neurodegeneration, and cognitive biomarkers in adults with Down syndrome compare with those observed in sporadic and autosomal dominant Alzheimer\u2019s disease, and what do these similarities and differences imply for the timing and design of preventive interventions?",
     "references": [
       {
         "citation": "Juan Fortea | Clinical and biomarker changes of Alzheimer's disease in adults with Down syndrome | 10.1016/S0140-6736(20)30689-9",
@@ -164,7 +174,9 @@
             "works_count": 536,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Randall J Bateman | Clinical and biomarker changes in dominantly inherited Alzheimer's disease | 10.1056/NEJMoa1202753",
@@ -189,7 +201,9 @@
             "works_count": 795,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Clifford R Jack | Tracking pathophysiological processes in Alzheimer's disease | 10.1016/S1474-4422(12)70291-0",
@@ -215,7 +229,9 @@
             "works_count": 2458,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sigan L Hartley | Down syndrome and Alzheimer's disease: common pathways, common goals | 10.1016/j.jalz.2014.10.009",
@@ -239,7 +255,9 @@
             "works_count": 209,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.57
       },
       {
         "citation": "Michael S Rafii | The Down Syndrome Biomarker Initiative (DSBI) pilot | 10.3389/fnbeh.2015.00239",
@@ -263,7 +281,9 @@
             "works_count": 230,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -298,7 +318,9 @@
             "works_count": 606,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Barry M Popkin | Individuals with obesity and COVID-19: A global perspective on the epidemiology and biological relationships | 10.1111/obr.13128",
@@ -323,7 +345,9 @@
             "works_count": 1106,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wanda Falkner | Obesity and infection | 10.1016/S1473-3099(06)70523-0",
@@ -349,7 +373,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Gabrielle P Huizinga | The Collision of Meta-Inflammation and SARS-CoV-2 | 10.1210/endocr/bqaa154",
@@ -373,7 +399,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Emma Wilkinson | Obesity as a risk factor for severe influenza | 10.1093/infdis/jiab348",
@@ -399,7 +427,9 @@
             "works_count": 49,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -433,7 +463,9 @@
             "works_count": 296,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andy P Dobson | Ecology and economics for pandemic prevention | 10.1126/science.abc3189",
@@ -458,7 +490,9 @@
             "works_count": 330,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter Daszak | Emerging infectious diseases of wildlife--threats to biodiversity and human health | 10.1126/science.287.5452.443",
@@ -483,7 +517,9 @@
             "works_count": 397,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Samuel S Myers | Planetary health: protecting nature to protect ourselves | 10.5822/978-1-61091-966-1",
@@ -508,7 +544,9 @@
             "works_count": 114,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard Horton | From public to planetary health: a manifesto | 10.1016/S0140-6736(14)60409-8",
@@ -532,7 +570,9 @@
             "works_count": 1178,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -565,7 +605,9 @@
             "works_count": 324,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "Silas Majambere | Is indoor residual spraying still needed? | 10.1186/1475-2875-13-330",
@@ -591,7 +633,9 @@
             "works_count": 33,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michelle S Hsiang | Effectiveness of reactive focal mass drug administration and reactive focal vector control | 10.1016/S0140-6736(20)30470-0",
@@ -616,7 +660,9 @@
             "works_count": 122,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joshua Yukich | Costs and cost-effectiveness of vector control in Eritrea using insecticide-treated bed nets | 10.1186/1475-2875-8-51",
@@ -640,7 +686,9 @@
             "works_count": 203,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John M Miller | Reactive case detection strategy for malaria elimination | 10.4269/ajtmh.19-0765",
@@ -666,7 +714,9 @@
             "works_count": 1139,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -700,7 +750,9 @@
             "works_count": 1702,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hiddo J L Heerspink | Dapagliflozin in patients with chronic kidney disease | 10.1056/NEJMoa2024816",
@@ -725,7 +777,9 @@
             "works_count": 1083,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Vlado Perkovic | Canagliflozin and renal outcomes in type 2 diabetes and nephropathy | 10.1056/NEJMoa1811744",
@@ -750,7 +804,9 @@
             "works_count": 775,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Barry M Brenner | Effects of losartan on renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy | 10.1056/NEJMoa011161",
@@ -775,7 +831,9 @@
             "works_count": 377,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Denis Fouque | Low protein diets for chronic kidney disease in non diabetic adults | 10.1002/14651858.CD001892.pub4",
@@ -799,7 +857,9 @@
             "works_count": 706,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -833,7 +893,9 @@
             "works_count": 485,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kate Duhig | Placental growth factor testing to assess women with suspected pre-eclampsia | 10.1016/S0140-6736(19)30948-3",
@@ -858,7 +920,9 @@
             "works_count": 99,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stefan Verlohren | New gestational phase-specific cutoff values for the use of the soluble fms-like tyrosine kinase-1/placental growth factor ratio | 10.1161/HYPERTENSIONAHA.113.01787",
@@ -883,7 +947,9 @@
             "works_count": 280,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Harald Zeisler | Predictive value of the sFlt-1:PlGF ratio in women with suspected preeclampsia | 10.1056/NEJMoa1414838",
@@ -908,7 +974,9 @@
             "works_count": 150,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alice Hurrell | Repeat placental growth factor-based testing in women with suspected preterm pre-eclampsia | 10.1371/journal.pmed.1004356",
@@ -932,7 +1000,9 @@
             "works_count": 43,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -965,7 +1035,9 @@
             "works_count": 401,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Katy Vincent | Chronic pelvic pain in women | 10.1136/bmj.c1198",
@@ -991,7 +1063,9 @@
             "works_count": 144,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "R William Stones | Interventions for treating chronic pelvic pain in women | 10.1002/14651858.CD000387",
@@ -1015,7 +1089,9 @@
             "works_count": 216,
             "organization_country_id": "MW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Maria Adele Giamberardino | Pathophysiology of chronic pelvic pain | 10.1016/j.bpobgyn.2013.09.001",
@@ -1041,7 +1117,9 @@
             "works_count": 184,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Frances J Champaneria | Psychological therapies for chronic pelvic pain | 10.1111/j.1600-0412.2012.01473.x",
@@ -1065,7 +1143,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -1099,7 +1179,9 @@
             "works_count": 252,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Guido Sauter | Upper tract urothelial carcinoma: a distinct clinical and molecular entity | 10.1016/j.eururo.2015.04.041",
@@ -1125,32 +1207,36 @@
             "works_count": 1424,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Morgan Rouprêt | European Association of Urology Guidelines on Upper Urinary Tract Urothelial Carcinoma | 10.1016/j.eururo.2020.05.042",
+        "citation": "Morgan Roupr\u00eat | European Association of Urology Guidelines on Upper Urinary Tract Urothelial Carcinoma | 10.1016/j.eururo.2020.05.042",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Morgan Rouprêt"
+          "Morgan Roupr\u00eat"
         ],
         "found_authors_count": 12,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Morgan Rouprêt'], database match: Morgan Rouprêt",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Morgan Roupr\u00eat'], database match: Morgan Roupr\u00eat",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Morgan Rouprêt",
+        "matched_database_author": "Morgan Roupr\u00eat",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Morgan Rouprêt",
+            "cited_name": "Morgan Roupr\u00eat",
             "author_exists": true,
-            "fullest_name": "Morgan Rouprêt",
+            "fullest_name": "Morgan Roupre\u0302t",
             "h_index": 92,
             "works_count": 1743,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Bishoy M Faltas | Genomic characterization of upper-tract urothelial carcinoma | 10.1038/s41467-019-10873-y",
@@ -1177,7 +1263,9 @@
             "works_count": 266,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Surena F Matin | Molecular and clinical characterization of upper tract urothelial carcinoma | 10.1016/j.eururo.2018.10.005",
@@ -1204,7 +1292,9 @@
             "works_count": 691,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       }
     ]
   },
@@ -1238,7 +1328,9 @@
             "works_count": 72,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Gregg Gonsalves | Reimagining the pandemic response in the United States | 10.2105/AJPH.2020.305818",
@@ -1264,7 +1356,9 @@
             "works_count": 160,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David M Cutler | The COVID-19 pandemic and the $16 trillion virus | 10.1001/jama.2020.19759",
@@ -1289,7 +1383,9 @@
             "works_count": 752,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sandro Galea | Compassion in a time of COVID-19 | 10.1016/S0140-6736(20)31202-2",
@@ -1315,7 +1411,9 @@
             "works_count": 1964,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marcella Alsan | Disparities in coronavirus 2019 reported incidence, knowledge, and behavior among US adults | 10.1001/jamanetworkopen.2020.12403",
@@ -1340,14 +1438,16 @@
             "works_count": 186,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4407931197",
     "model": "anthropic",
-    "question": "How do routinely available clinical-feature–based precision medicine models for selecting glucose-lowering therapies in type 2 diabetes compare with biomarker-, genotype-, and comorbidity-driven treatment-stratification approaches in predicting glycaemic response and long-term cardiovascular, renal, and microvascular outcomes across diverse real-world and trial populations?",
+    "question": "How do routinely available clinical-feature\u2013based precision medicine models for selecting glucose-lowering therapies in type 2 diabetes compare with biomarker-, genotype-, and comorbidity-driven treatment-stratification approaches in predicting glycaemic response and long-term cardiovascular, renal, and microvascular outcomes across diverse real-world and trial populations?",
     "references": [
       {
         "citation": "John M Dennis | Precision medicine in type 2 diabetes: clinical markers of response to glucose-lowering therapy | 10.2337/dc17-1827",
@@ -1374,7 +1474,9 @@
             "works_count": 218,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew T Hattersley | Precision diabetes: learning from monogenic diabetes | 10.1007/s00125-017-4226-2",
@@ -1401,7 +1503,9 @@
             "works_count": 1298,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ewan R Pearson | Type 2 diabetes: a multifaceted disease | 10.1007/s00125-019-4909-y",
@@ -1426,7 +1530,9 @@
             "works_count": 557,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "William T Cefalu | Precision medicine in diabetes: a consensus report | 10.2337/dci20-0022",
@@ -1450,7 +1556,9 @@
             "works_count": 408,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Beverley M Shields | Patient stratification for determining optimal second-line and third-line therapy for type 2 diabetes | 10.1016/S2213-8587(22)00243-1",
@@ -1475,14 +1583,16 @@
             "works_count": 243,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W3080219561",
     "model": "anthropic",
-    "question": "How do different methodological approaches to measuring universal health coverage—particularly effective coverage indices, service coverage indicators, financial protection metrics, and disease-specific quality-of-care measures—alter conclusions about health-system performance, equity, and progress toward UHC in countries facing rising non-communicable disease burdens?",
+    "question": "How do different methodological approaches to measuring universal health coverage\u2014particularly effective coverage indices, service coverage indicators, financial protection metrics, and disease-specific quality-of-care measures\u2014alter conclusions about health-system performance, equity, and progress toward UHC in countries facing rising non-communicable disease burdens?",
     "references": [
       {
         "citation": "Rafael Lozano | Measuring universal health coverage based on an index of effective coverage of health services in 204 countries | 10.1016/S0140-6736(20)30750-9",
@@ -1507,7 +1617,9 @@
             "works_count": 402,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Margaret E Kruk | High-quality health systems in the Sustainable Development Goals era | 10.1016/S2214-109X(18)30386-3",
@@ -1535,7 +1647,9 @@
             "works_count": 302,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ties Boerma | Monitoring progress towards universal health coverage at country and global levels | 10.1371/journal.pmed.1001731",
@@ -1560,7 +1674,9 @@
             "works_count": 176,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "David B Evans | Universal health coverage and universal access | 10.2471/BLT.13.125450",
@@ -1585,7 +1701,9 @@
             "works_count": 387,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Adam Wagstaff | Progress on catastrophic health spending in 133 countries | 10.1016/S2214-109X(17)30429-1",
@@ -1610,7 +1728,9 @@
             "works_count": 397,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1638,12 +1758,14 @@
           {
             "cited_name": "Catherine Thieblemont",
             "author_exists": true,
-            "fullest_name": "Thiéblemont, Catherine",
+            "fullest_name": "Thie\u0301blemont, Catherine",
             "h_index": 102,
             "works_count": 884,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Loretta J Nastoupil | Response-adapted therapy in relapsed follicular lymphoma | 10.1200/JCO.20.03027",
@@ -1669,7 +1791,9 @@
             "works_count": 725,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nathan H Fowler | Tisagenlecleucel in relapsed or refractory follicular lymphoma | 10.1038/s41591-021-01622-0",
@@ -1695,7 +1819,9 @@
             "works_count": 598,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John P Leonard | AUGMENT: A Phase III Study of Lenalidomide Plus Rituximab Versus Placebo Plus Rituximab in Relapsed or Refractory Indolent Lymphoma | 10.1200/JCO.19.00010",
@@ -1720,7 +1846,9 @@
             "works_count": 819,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Caron A Jacobson | Axicabtagene ciloleucel in relapsed or refractory indolent non-Hodgkin lymphoma (ZUMA-5) | 10.1016/S1470-2045(21)00591-X",
@@ -1744,7 +1872,9 @@
             "works_count": 577,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1779,7 +1909,9 @@
             "works_count": 152,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gregory A Roth | Global burden of cardiovascular diseases and risk factors, 1990-2019 | 10.1016/j.jacc.2020.11.010",
@@ -1804,7 +1936,9 @@
             "works_count": 228,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Renata Micha | Association between dietary factors and mortality from heart disease, stroke, and type 2 diabetes in the United States | 10.1001/jama.2017.0947",
@@ -1829,7 +1963,9 @@
             "works_count": 267,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.85
       },
       {
         "citation": "Walter C Willett | Food in the Anthropocene: the EAT-Lancet Commission | 10.1016/S0140-6736(18)31788-4",
@@ -1853,7 +1989,9 @@
             "works_count": 2702,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dariush Mozaffarian | Dietary and policy priorities for cardiovascular disease, diabetes, and obesity | 10.1161/CIRCULATIONAHA.115.018585",
@@ -1878,7 +2016,9 @@
             "works_count": 894,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1909,7 +2049,9 @@
             "works_count": 340,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frances A Wood | N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects | 10.1056/NEJMc2031173",
@@ -1934,7 +2076,9 @@
             "works_count": 8,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ann Marie Navar | The Nocebo Effect and Statins | 10.1001/jamacardio.2020.4390",
@@ -1960,7 +2104,9 @@
             "works_count": 323,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Terry A Jacobson | The National Lipid Association's statin intolerance panel | 10.1016/j.jacl.2014.03.003",
@@ -1987,7 +2133,9 @@
             "works_count": 299,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       },
       {
         "citation": "Emma L Newman | Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association | 10.1161/ATV.0000000000000073",
@@ -2011,7 +2159,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -2044,7 +2194,9 @@
             "works_count": 322,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nancy E Lane | Tanezumab for the treatment of pain from osteoarthritis of the knee | 10.1056/NEJMoa0901510",
@@ -2069,7 +2221,9 @@
             "works_count": 759,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Serge Perrot | Anti-NGF therapy in osteoarthritis | 10.1016/j.berh.2020.101574",
@@ -2095,7 +2249,9 @@
             "works_count": 527,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "David T Felson | Osteoarthritis as a disease of mechanics | 10.1016/j.joca.2012.09.012",
@@ -2120,7 +2276,9 @@
             "works_count": 1180,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Moses Chao | Neurotrophins and their receptors: a convergence point for many signalling pathways | 10.1038/nrn1078",
@@ -2145,7 +2303,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -2180,7 +2340,9 @@
             "works_count": 1121,
             "organization_country_id": "BR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Nigel C Rollins | Why invest, and what it will take to improve breastfeeding practices? | 10.1016/S0140-6736(15)01044-2",
@@ -2205,7 +2367,9 @@
             "works_count": 165,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Phillip Baker | The political economy of infant and young child feeding | 10.1016/S0140-6736(22)01933-X",
@@ -2229,7 +2393,9 @@
             "works_count": 175,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gerard Hastings | Selling second best: how infant formula marketing works | 10.1186/s12992-020-00597-w",
@@ -2253,7 +2419,9 @@
             "works_count": 330,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ellen Piwoz | The impact of marketing of breast-milk substitutes on WHO-recommended breastfeeding practices | 10.1177/0379572115602174",
@@ -2278,14 +2446,16 @@
             "works_count": 112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4410206237",
     "model": "anthropic",
-    "question": "How does the efficacy, safety, adherence, and cost-effectiveness of shortened or simplified direct-acting antiviral treatment strategies for chronic hepatitis C—particularly in genotype 6 and resource-limited settings—compare across clinical trials and real-world studies with standard 8–12 week sofosbuvir-based regimens?",
+    "question": "How does the efficacy, safety, adherence, and cost-effectiveness of shortened or simplified direct-acting antiviral treatment strategies for chronic hepatitis C\u2014particularly in genotype 6 and resource-limited settings\u2014compare across clinical trials and real-world studies with standard 8\u201312 week sofosbuvir-based regimens?",
     "references": [
       {
         "citation": "Graham R Foster | Sofosbuvir and Velpatasvir for HCV Genotype 2 and 3 Infection | 10.1056/NEJMoa1512612",
@@ -2312,7 +2482,9 @@
             "works_count": 688,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jordan J Feld | Sofosbuvir and Velpatasvir for HCV Genotype 1, 2, 4, 5, and 6 Infection | 10.1056/NEJMoa1512610",
@@ -2337,7 +2509,9 @@
             "works_count": 657,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Sonjelle Shilton | Access to hepatitis C treatment in low- and middle-income countries | 10.1016/S2468-1253(19)30189-9",
@@ -2363,7 +2537,9 @@
             "works_count": 98,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Charles W Flexner | Simplified diagnosis and treatment of hepatitis C in resource-limited settings | 10.1016/S1473-3099(17)30712-3",
@@ -2389,7 +2565,9 @@
             "works_count": 267,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tanya L Applegate | Hepatitis C virus diagnosis and the Holy Grail | 10.1016/j.idc.2018.02.010",
@@ -2414,7 +2592,9 @@
             "works_count": 164,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2448,7 +2628,9 @@
             "works_count": 512,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Bin Zhou | Worldwide trends in hypertension prevalence and progress in treatment and control from 1990 to 2019 | 10.1016/S0140-6736(21)01330-1",
@@ -2473,7 +2655,9 @@
             "works_count": 512,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Katherine T Mills | Global disparities of hypertension prevalence and control | 10.1161/CIRCULATIONAHA.115.018912",
@@ -2497,7 +2681,9 @@
             "works_count": 136,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Majid Ezzati | Contributions of risk factors and medical care to cardiovascular mortality trends | 10.1038/nrcardio.2015.82",
@@ -2522,7 +2708,9 @@
             "works_count": 575,
             "organization_country_id": "GH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Stephen S Lim | A comparative risk assessment of burden of disease and injury attributable to 67 risk factors | 10.1016/S0140-6736(12)61766-8",
@@ -2547,7 +2735,9 @@
             "works_count": 334,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2580,7 +2770,9 @@
             "works_count": 103,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Utkarsh Agrawal | COVID-19 undervaccination in England: risk factors and severe outcomes | 10.1016/S0140-6736(24)00107-3",
@@ -2606,7 +2798,9 @@
             "works_count": 91,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Julia Hippisley-Cox | Risk prediction of COVID-19 related death and hospital admission in adults after vaccination | 10.1136/bmj.n2244",
@@ -2632,7 +2826,9 @@
             "works_count": 361,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elizabeth J Williamson | Factors associated with COVID-19-related death using OpenSAFELY | 10.1038/s41586-020-2521-4",
@@ -2657,7 +2853,9 @@
             "works_count": 303,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daniel Feikin | Duration of effectiveness of vaccines against SARS-CoV-2 infection and COVID-19 disease | 10.1016/S0140-6736(22)00152-0",
@@ -2681,7 +2879,9 @@
             "works_count": 143,
             "organization_country_id": "UG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2716,7 +2916,9 @@
             "works_count": 44,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sophie Leboulleux | Thyroidectomy without Radioiodine in Patients with Low-Risk Thyroid Cancer | 10.1056/NEJMoa2111953",
@@ -2741,7 +2943,9 @@
             "works_count": 522,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bryan R. Haugen | 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer | 10.1089/thy.2015.0020",
@@ -2766,7 +2970,9 @@
             "works_count": 314,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin Schlumberger | Strategies of Radioiodine Ablation in Patients with Low-Risk Thyroid Cancer | 10.1056/NEJMoa1108586",
@@ -2791,7 +2997,9 @@
             "works_count": 643,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Ian D. Hay | Long-term outcome in 215 patients with papillary thyroid microcarcinoma | 10.1007/s00268-008-9724-4",
@@ -2817,17 +3025,19 @@
             "works_count": 343,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4392663706",
     "model": "anthropic",
-    "question": "How do methodological differences across global demographic studies in estimating COVID-19 excess mortality, life expectancy changes, and age-specific mortality trends affect interpretations of the pandemic’s impact on long-term population health trajectories across regions and income groups?",
+    "question": "How do methodological differences across global demographic studies in estimating COVID-19 excess mortality, life expectancy changes, and age-specific mortality trends affect interpretations of the pandemic\u2019s impact on long-term population health trajectories across regions and income groups?",
     "references": [
       {
-        "citation": "Haidong Wang | Estimating excess mortality due to the COVID-19 pandemic: a systematic analysis of COVID-19-related mortality, 2020–21 | 10.1016/S0140-6736(21)02796-3",
+        "citation": "Haidong Wang | Estimating excess mortality due to the COVID-19 pandemic: a systematic analysis of COVID-19-related mortality, 2020\u201321 | 10.1016/S0140-6736(21)02796-3",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -2851,7 +3061,9 @@
             "works_count": 156,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Ariel Karlinsky | Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset | 10.7554/eLife.69336",
@@ -2876,32 +3088,36 @@
             "works_count": 26,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
-        "citation": "Jonas Schöley | Life expectancy changes since COVID-19 | 10.1038/s41562-022-01450-3",
+        "citation": "Jonas Sch\u00f6ley | Life expectancy changes since COVID-19 | 10.1038/s41562-022-01450-3",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Jonas Schöley"
+          "Jonas Sch\u00f6ley"
         ],
         "found_authors_count": 8,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Jonas Schöley",
+        "matched_database_author": "Jonas Sch\u00f6ley",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Jonas Schöley",
+            "cited_name": "Jonas Sch\u00f6ley",
             "author_exists": true,
-            "fullest_name": "Jonas Scho□ley",
+            "fullest_name": "Jonas Scho\u25a1ley",
             "h_index": 13,
             "works_count": 67,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nazrul Islam | Excess deaths associated with covid-19 pandemic in 2020: age and sex disaggregated time series analysis in 29 high income countries | 10.1136/bmj.n1137",
@@ -2927,7 +3143,9 @@
             "works_count": 1419,
             "organization_country_id": "AR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Vasilis Kontis | Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries | 10.1038/s41591-020-1112-0",
@@ -2952,7 +3170,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2985,7 +3205,9 @@
             "works_count": 194,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Angela Y Chang | Past, present, and future of global health financing | 10.1016/S0140-6736(19)30841-4",
@@ -3010,7 +3232,9 @@
             "works_count": 109,
             "organization_country_id": "DK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Joseph L Dieleman | Development assistance for health: past trends, associations, and the future of international financial flows for health | 10.1016/S0140-6736(16)30168-4",
@@ -3035,7 +3259,9 @@
             "works_count": 194,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David McCoy | Global health funding: how much, where it comes from and where it goes | 10.1093/heapol/czp026",
@@ -3060,32 +3286,36 @@
             "works_count": 248,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Marco Schäferhoff | Trends in global health financing | 10.1136/bmj.l2185",
+        "citation": "Marco Sch\u00e4ferhoff | Trends in global health financing | 10.1136/bmj.l2185",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Marco Schäferhoff"
+          "Marco Sch\u00e4ferhoff"
         ],
         "found_authors_count": 5,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Marco Schäferhoff",
+        "matched_database_author": "Marco Sch\u00e4ferhoff",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Marco Schäferhoff",
+            "cited_name": "Marco Sch\u00e4ferhoff",
             "author_exists": true,
-            "fullest_name": "Marco SchÃ¤ferhoff",
+            "fullest_name": "Marco Sch\u00c3\u00a4ferhoff",
             "h_index": 18,
             "works_count": 53,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3095,7 +3325,7 @@
     "question": "How have improvements in cause-of-death estimation methods, health-system capacity, and epidemiological-transition dynamics jointly shaped observed regional and sex-specific changes in premature mortality, mean age at death, and years of life lost from communicable diseases, non-communicable diseases, COVID-19, drug use disorders, and conflict-related causes since 1990?",
     "references": [
       {
-        "citation": "Christopher J L Murray | Global burden of 87 risk factors in 204 countries and territories, 1990–2019 | 10.1016/S0140-6736(20)30752-2",
+        "citation": "Christopher J L Murray | Global burden of 87 risk factors in 204 countries and territories, 1990\u20132019 | 10.1016/S0140-6736(20)30752-2",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -3120,7 +3350,9 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Abraham D Flaxman | Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories | 10.1016/S0140-6736(24)00476-8",
@@ -3145,10 +3377,12 @@
             "works_count": 39,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Haidong Wang | Global age-sex-specific fertility, mortality, healthy life expectancy (HALE), and population estimates in 204 countries and territories, 1950–2019 | 10.1016/S0140-6736(20)30977-6",
+        "citation": "Haidong Wang | Global age-sex-specific fertility, mortality, healthy life expectancy (HALE), and population estimates in 204 countries and territories, 1950\u20132019 | 10.1016/S0140-6736(20)30977-6",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -3170,7 +3404,9 @@
             "works_count": 156,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Abdel Rahman Omran | The Epidemiologic Transition: A Theory of the Epidemiology of Population Change | 10.2307/3349375",
@@ -3190,12 +3426,14 @@
           {
             "cited_name": "Abdel Rahman Omran",
             "author_exists": true,
-            "fullest_name": "Абдель Рахим Омран",
+            "fullest_name": "\u0410\u0431\u0434\u0435\u043b\u044c \u0420\u0430\u0445\u0438\u043c \u041e\u043c\u0440\u0430\u043d",
             "h_index": 12,
             "works_count": 27,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Christopher J L Murray | GBD 2010: design, definitions, and metrics | 10.1016/S0140-6736(12)61899-6",
@@ -3220,14 +3458,16 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W7154604577",
     "model": "anthropic",
-    "question": "How do biomarker-guided combination strategies involving MEK inhibitors—particularly with immune checkpoint blockade or PI3K–mTOR pathway inhibition—alter efficacy, resistance mechanisms, and toxicity profiles across BRAF-driven, RAS-mutant, and non-oncological diseases compared with MEK inhibitor monotherapy?",
+    "question": "How do biomarker-guided combination strategies involving MEK inhibitors\u2014particularly with immune checkpoint blockade or PI3K\u2013mTOR pathway inhibition\u2014alter efficacy, resistance mechanisms, and toxicity profiles across BRAF-driven, RAS-mutant, and non-oncological diseases compared with MEK inhibitor monotherapy?",
     "references": [
       {
         "citation": "Keith T Flaherty | Combined BRAF and MEK Inhibition in Melanoma with BRAF V600 Mutations | 10.1056/NEJMoa1210093",
@@ -3254,7 +3494,9 @@
             "works_count": 1746,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paul B Chapman | Improved Survival with Vemurafenib in Melanoma with BRAF V600E Mutation | 10.1056/NEJMoa1103782",
@@ -3279,7 +3521,9 @@
             "works_count": 514,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Antoni Ribas | Combined BRAF and MEK inhibition with PD-1 blockade immunotherapy in BRAF-mutant melanoma | 10.1038/s41591-019-0476-5",
@@ -3304,7 +3548,9 @@
             "works_count": 1722,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Ravindra Gupta | Combined MEK and PI3K inhibition in a mouse model of pancreatic cancer | 10.1158/1078-0432.CCR-13-1090",
@@ -3330,7 +3576,9 @@
             "works_count": 147,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elza C de Bruin | Reduced NF1 Expression Confers Resistance to EGFR Inhibition in Lung Cancer | 10.1158/2159-8290.CD-13-0741",
@@ -3355,7 +3603,9 @@
             "works_count": 218,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       }
     ]
   },
@@ -3388,7 +3638,9 @@
             "works_count": 259,
             "organization_country_id": "GD"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kimberly J Templeton | Remodeling of forearm fractures in children | 10.1097/01241398-199501000-00016",
@@ -3414,7 +3666,9 @@
             "works_count": 124,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marc Sinikumpu | The changing pattern of pediatric both-bone forearm shaft fractures | 10.1007/s00068-013-0303-5",
@@ -3438,7 +3692,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Kaye E Wilkins | Principles of fracture remodeling in children | 10.1016/j.injury.2005.10.007",
@@ -3465,7 +3721,9 @@
             "works_count": 96,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emily K Miller | Outcomes of distal radius fractures in children | 10.1097/BPO.0b013e3181558be3",
@@ -3491,14 +3749,16 @@
             "works_count": 69,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4401598368",
     "model": "anthropic",
-    "question": "How does emodepside’s superior hookworm cure rate but higher frequency of transient adverse events compare with existing and emerging anthelmintic regimens across clinical trials, and what do these data imply for optimizing mass drug administration strategies while minimizing resistance and safety concerns in endemic populations?",
+    "question": "How does emodepside\u2019s superior hookworm cure rate but higher frequency of transient adverse events compare with existing and emerging anthelmintic regimens across clinical trials, and what do these data imply for optimizing mass drug administration strategies while minimizing resistance and safety concerns in endemic populations?",
     "references": [
       {
         "citation": "Jennifer Keiser | Efficacy and safety of emodepside against hookworm infection | 10.1016/S1473-3099(23)00120-7",
@@ -3524,7 +3784,9 @@
             "works_count": 572,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Wendelin Moser | Efficacy of albendazole and mebendazole against soil-transmitted helminth infections | 10.1136/bmj.j4307",
@@ -3550,7 +3812,9 @@
             "works_count": 25,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Jennifer Keiser | Efficacy of current drugs against soil-transmitted helminth infections | 10.1001/jama.299.16.1937",
@@ -3574,7 +3838,9 @@
             "works_count": 572,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Antonio Montresor | The global progress of soil-transmitted helminthiases control | 10.1371/journal.pntd.0008505",
@@ -3598,7 +3864,9 @@
             "works_count": 259,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bruno Levecke | Assessment of anthelmintic efficacy of mebendazole in school children | 10.1371/journal.pntd.0003204",
@@ -3622,7 +3890,9 @@
             "works_count": 231,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3654,7 +3924,9 @@
             "works_count": 39,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Charlotte Watts | Violence against women: global scope and magnitude | 10.1016/S0140-6736(02)08221-1",
@@ -3681,7 +3953,9 @@
             "works_count": 198,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lori Heise | Cross-national and multilevel correlates of partner violence | 10.1136/bmjopen-2014-006624",
@@ -3705,7 +3979,9 @@
             "works_count": 232,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rachel Jewkes | Intimate partner violence: causes and prevention | 10.1016/S0140-6736(02)08357-5",
@@ -3731,7 +4007,9 @@
             "works_count": 447,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Karen Devries | The global prevalence of intimate partner violence against women | 10.1126/science.1240937",
@@ -3756,7 +4034,9 @@
             "works_count": 248,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3791,7 +4071,9 @@
             "works_count": 349,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Toby M Maher | Pirfenidone in patients with unclassifiable progressive fibrosing interstitial lung disease | 10.1016/S2213-2600(19)30341-8",
@@ -3816,7 +4098,9 @@
             "works_count": 943,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Athol U Wells | What's in a name? That which we call IPF, by any other name would act the same | 10.1183/13993003.00692-2018",
@@ -3841,7 +4125,9 @@
             "works_count": 1031,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ganesh Raghu | An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline: Idiopathic Pulmonary Fibrosis | 10.1164/rccm.201807-1255ST",
@@ -3867,7 +4153,9 @@
             "works_count": 643,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Vincent Cottin | Presentation, diagnosis and clinical course of the spectrum of progressive-fibrosing interstitial lung diseases | 10.1183/16000617.0100-2018",
@@ -3892,7 +4180,9 @@
             "works_count": 1396,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -3926,7 +4216,9 @@
             "works_count": 40,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David F A Lloyd | Three-dimensional visualisation of the fetal heart using prenatal MRI with motion-corrected slice-volume registration | 10.1016/S0140-6736(18)31940-8",
@@ -3951,7 +4243,9 @@
             "works_count": 100,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Maria Kuklisova-Murgasova | Reconstruction of fetal brain MRI with intensity matching and complete outlier removal | 10.1016/j.media.2012.07.004",
@@ -3976,7 +4270,9 @@
             "works_count": 17,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Lisa K Hornberger | Rationale and outcomes of prenatal diagnosis of congenital heart disease | 10.1002/uog.6455",
@@ -4002,7 +4298,9 @@
             "works_count": 373,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Julene S Carvalho | ISUOG Practice Guidelines: fetal cardiac screening | 10.1002/uog.12403",
@@ -4028,14 +4326,16 @@
             "works_count": 200,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4409191670",
     "model": "anthropic",
-    "question": "How do major etiologic pathways and strongly associated risk factors for postpartum haemorrhage—such as uterine atony, abnormal placentation, anaemia, prior postpartum haemorrhage, caesarean birth, multiple pregnancy, sepsis, and assisted reproductive technology—interact across diverse obstetric populations to inform risk-stratified prophylaxis, treatment bundles, and health-system interventions?",
+    "question": "How do major etiologic pathways and strongly associated risk factors for postpartum haemorrhage\u2014such as uterine atony, abnormal placentation, anaemia, prior postpartum haemorrhage, caesarean birth, multiple pregnancy, sepsis, and assisted reproductive technology\u2014interact across diverse obstetric populations to inform risk-stratified prophylaxis, treatment bundles, and health-system interventions?",
     "references": [
       {
         "citation": "Ioannis D Gallos | Randomized Trial of Early Detection and Treatment of Postpartum Hemorrhage | 10.1056/NEJMoa2303966",
@@ -4062,7 +4362,9 @@
             "works_count": 164,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elisabeth C W Bonet | Epidemiology of postpartum haemorrhage: a systematic review | 10.1016/j.bpobgyn.2008.08.004",
@@ -4089,7 +4391,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "John F Knight | Trends in postpartum hemorrhage in high resource countries | 10.1186/1471-2393-9-55",
@@ -4113,7 +4417,9 @@
             "works_count": 179,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "World Health Organization | WHO recommendations for the prevention and treatment of postpartum haemorrhage | 10.1016/j.ijgo.2012.09.002",
@@ -4139,7 +4445,9 @@
             "works_count": 64,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Sheldon W R | Postpartum haemorrhage management, risks, and maternal outcomes | 10.1111/1471-0528.12636",
@@ -4165,7 +4473,9 @@
             "works_count": 12,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4197,7 +4507,9 @@
             "works_count": 402,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James Campbell | A universal truth: no health without a workforce | 10.1186/1478-4491-11-51",
@@ -4223,7 +4535,9 @@
             "works_count": 876,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Giorgio Cometto | Health workforce requirements for universal health coverage and the Sustainable Development Goals | 10.2471/BLT.16.176081",
@@ -4250,7 +4564,9 @@
             "works_count": 94,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marko Vujicic | The role of the health workforce in achieving universal health coverage | 10.1093/heapol/czr058",
@@ -4277,7 +4593,9 @@
             "works_count": 217,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amani Siyam | Migration of health workers: WHO code of practice | 10.2471/BLT.13.118786",
@@ -4303,17 +4621,19 @@
             "works_count": 29,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       }
     ]
   },
   {
     "id": "https://openalex.org/W4415531246",
     "model": "anthropic",
-    "question": "How does neonatal Fc receptor blockade with nipocalimab compare mechanistically and clinically with other emerging B-cell, plasma-cell, complement, and cytokine-targeted therapies for Sjögren’s disease in reducing pathogenic IgG autoantibodies, systemic disease activity, mucosal symptoms, fatigue, and long-term organ involvement?",
+    "question": "How does neonatal Fc receptor blockade with nipocalimab compare mechanistically and clinically with other emerging B-cell, plasma-cell, complement, and cytokine-targeted therapies for Sj\u00f6gren\u2019s disease in reducing pathogenic IgG autoantibodies, systemic disease activity, mucosal symptoms, fatigue, and long-term organ involvement?",
     "references": [
       {
-        "citation": "Xavier Mariette | Primary Sjögren's Syndrome | 10.1056/NEJMcp1702514",
+        "citation": "Xavier Mariette | Primary Sj\u00f6gren's Syndrome | 10.1056/NEJMcp1702514",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -4337,10 +4657,12 @@
             "works_count": 1026,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.96
       },
       {
-        "citation": "Simon J Bowman | Randomized controlled trial of rituximab and cost-effectiveness analysis in Sjögren's syndrome | 10.1002/art.40093",
+        "citation": "Simon J Bowman | Randomized controlled trial of rituximab and cost-effectiveness analysis in Sj\u00f6gren's syndrome | 10.1002/art.40093",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
@@ -4363,10 +4685,12 @@
             "works_count": 315,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Jacques-Eric Gottenberg | Efficacy of an antitumor necrosis factor alpha in primary Sjögren's syndrome | 10.1002/art.20146",
+        "citation": "Jacques-Eric Gottenberg | Efficacy of an antitumor necrosis factor alpha in primary Sj\u00f6gren's syndrome | 10.1002/art.20146",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
@@ -4389,10 +4713,12 @@
             "works_count": 384,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
-        "citation": "E William St Clair | The clinical efficacy and safety of baminercept in Sjögren's syndrome | 10.1002/art.40513",
+        "citation": "E William St Clair | The clinical efficacy and safety of baminercept in Sj\u00f6gren's syndrome | 10.1002/art.40513",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
@@ -4416,7 +4742,9 @@
             "works_count": 260,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.65
       },
       {
         "citation": "Peter M Howley | Efficacy and safety of nipocalimab in autoantibody-mediated disease | 10.1056/NEJMoa2105999",
@@ -4443,7 +4771,9 @@
             "works_count": 293,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4478,10 +4808,12 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Mohsen Naghavi | Global, regional, and national age-sex-specific mortality for 264 causes of death, 1980–2016 | 10.1016/S0140-6736(17)32152-9",
+        "citation": "Mohsen Naghavi | Global, regional, and national age-sex-specific mortality for 264 causes of death, 1980\u20132016 | 10.1016/S0140-6736(17)32152-9",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -4503,7 +4835,9 @@
             "works_count": 361,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher J L Murray | GBD 2010: design, definitions, and metrics | 10.1016/S0140-6736(12)61899-6",
@@ -4527,7 +4861,9 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kyle J Foreman | Modeling causes of death: an integrated approach using CODEm | 10.1186/1478-7954-10-1",
@@ -4552,7 +4888,9 @@
             "works_count": 80,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "James C Salomon | Healthy life expectancy for 187 countries, 1990-2010 | 10.1016/S0140-6736(12)61690-0",
@@ -4576,14 +4914,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4200392517",
     "model": "anthropic",
-    "question": "I notice that the text you've provided is actually a **correction notice** (erratum) rather than a scientific abstract. It simply states that an author's name spelling was corrected in a published article—it does not contain any scientific content, findings, methods, or results about asthma or any other topic.\n\nBecause there is no substantive scientific abstract here, I'm unable to generate a meaningful literature-review-style question grounded in the paper's actual content.\n\nIf you can provide the **actual abstract** of the paper (e.g., the Global Asthma Network Phase I study on worldwide trends in asthma symptom burden in school-aged children), I would be happy to generate a synthesis-requiring, one-sentence scientific question. For example, a well-formed question based on that study's likely content might resemble:\n\n*\"How do worldwide geographic and temporal trends in childhood asthma symptom prevalence relate to variations in environmental exposures, urbanization, and healthcare access across different national income levels?\"*\n\nPlease share the full abstract, and I'll tailor a precise question accordingly.",
+    "question": "I notice that the text you've provided is actually a **correction notice** (erratum) rather than a scientific abstract. It simply states that an author's name spelling was corrected in a published article\u2014it does not contain any scientific content, findings, methods, or results about asthma or any other topic.\n\nBecause there is no substantive scientific abstract here, I'm unable to generate a meaningful literature-review-style question grounded in the paper's actual content.\n\nIf you can provide the **actual abstract** of the paper (e.g., the Global Asthma Network Phase I study on worldwide trends in asthma symptom burden in school-aged children), I would be happy to generate a synthesis-requiring, one-sentence scientific question. For example, a well-formed question based on that study's likely content might resemble:\n\n*\"How do worldwide geographic and temporal trends in childhood asthma symptom prevalence relate to variations in environmental exposures, urbanization, and healthcare access across different national income levels?\"*\n\nPlease share the full abstract, and I'll tailor a precise question accordingly.",
     "references": [
       {
         "citation": "Innes Asher | Worldwide trends in the prevalence of asthma symptoms: Global Asthma Network Phase I | 10.1016/S0140-6736(21)01450-1",
@@ -4610,7 +4950,9 @@
             "works_count": 89,
             "organization_country_id": "NZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "M Innes Asher | Worldwide time trends in the prevalence of symptoms of asthma, allergic rhinoconjunctivitis, and eczema in childhood: ISAAC | 10.1016/S0140-6736(06)69283-0",
@@ -4637,7 +4979,9 @@
             "works_count": 89,
             "organization_country_id": "NZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Neil Pearce | Worldwide trends in the prevalence of asthma symptoms: ISAAC Phase Three | 10.1136/thx.2006.070169",
@@ -4663,7 +5007,9 @@
             "works_count": 1156,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher K W Lai | Global variation in the prevalence and severity of asthma symptoms: ISAAC Phase Three | 10.1136/thx.2008.106609",
@@ -4689,7 +5035,9 @@
             "works_count": 39,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Guy B Marks | The burden of asthma and its global epidemiology | 10.1183/09031936.00138707",
@@ -4716,7 +5064,9 @@
             "works_count": 756,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4750,7 +5100,9 @@
             "works_count": 177,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James E Ip | Etripamil Nasal Spray for Conversion of Paroxysmal Supraventricular Tachycardia (RAPID trial) | 10.1016/j.jacc.2023.01.038",
@@ -4777,7 +5129,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard L Page | 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia | 10.1016/j.jacc.2015.08.856",
@@ -4802,7 +5156,9 @@
             "works_count": 315,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew Appelboam | Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias | 10.1016/S0140-6736(15)61485-4",
@@ -4827,7 +5183,9 @@
             "works_count": 38,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Josef Niebauer | Adenosine versus verapamil for termination of paroxysmal supraventricular tachycardia | 10.7326/0003-4819-113-2-104",
@@ -4854,14 +5212,16 @@
             "works_count": 588,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4223443877",
     "model": "anthropic",
-    "question": "How do different methodological approaches for correcting biases in SARS-CoV-2 surveillance data—such as adjustments for under-reporting of deaths, waning antibody sensitivity in seroprevalence surveys, and reporting lags—compare in their impact on estimates of cumulative infection burden and the existence of a herd immunity threshold across diverse epidemiological contexts?",
+    "question": "How do different methodological approaches for correcting biases in SARS-CoV-2 surveillance data\u2014such as adjustments for under-reporting of deaths, waning antibody sensitivity in seroprevalence surveys, and reporting lags\u2014compare in their impact on estimates of cumulative infection burden and the existence of a herd immunity threshold across diverse epidemiological contexts?",
     "references": [
       {
         "citation": "Rahul Subramanian | Quantifying asymptomatic infection and transmission of COVID-19 | 10.1073/pnas.2019716118",
@@ -4887,7 +5247,9 @@
             "works_count": 25,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sean L Wu | Substantial underestimation of SARS-CoV-2 infection in the United States | 10.1038/s41467-020-18272-4",
@@ -4912,7 +5274,9 @@
             "works_count": 66,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tom Britton | A mathematical model reveals the influence of population heterogeneity on herd immunity to SARS-CoV-2 | 10.1126/science.abc6810",
@@ -4937,7 +5301,9 @@
             "works_count": 268,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew T Levin | Assessing the age specificity of infection fatality rates for COVID-19 | 10.1007/s10654-020-00698-1",
@@ -4962,7 +5328,9 @@
             "works_count": 201,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Silvia Stringhini | Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva | 10.1016/S0140-6736(20)31304-0",
@@ -4986,7 +5354,9 @@
             "works_count": 357,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5020,7 +5390,9 @@
             "works_count": 551,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anthony G Marson | The SANAD II study of the effectiveness and cost-effectiveness of levetiracetam, zonisamide, or lamotrigine for newly diagnosed focal epilepsy | 10.1016/S0140-6736(21)00247-6",
@@ -5045,7 +5417,9 @@
             "works_count": 551,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tracy A Glauser | Ethosuximide, valproic acid, and lamotrigine in childhood absence epilepsy | 10.1056/NEJMoa0902014",
@@ -5069,7 +5443,9 @@
             "works_count": 325,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.81
       },
       {
         "citation": "Martin J Brodie | Comparative efficacy of levetiracetam and controlled-release carbamazepine as first-line treatment | 10.1212/01.wnl.0000265401.98663.94",
@@ -5095,7 +5471,9 @@
             "works_count": 408,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Privitera | Comparative effectiveness of antiepileptic drugs | 10.1111/epi.14596",
@@ -5121,7 +5499,9 @@
             "works_count": 247,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -5153,7 +5533,9 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Steven H Woolf | Life Expectancy and Mortality Rates in the United States, 1959-2017 | 10.1001/jama.2019.16932",
@@ -5178,7 +5560,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anne Case | Rising morbidity and mortality in midlife among white non-Hispanic Americans | 10.1073/pnas.1518393112",
@@ -5206,7 +5590,9 @@
             "works_count": 221,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Edward W Gregg | Trends in death rates among US adults with and without diabetes | 10.1016/S0140-6736(14)60040-4",
@@ -5231,7 +5617,9 @@
             "works_count": 592,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Majid Ezzati | Contributions of risk factors and medical care to cardiovascular mortality trends | 10.1038/nrcardio.2015.82",
@@ -5256,7 +5644,9 @@
             "works_count": 575,
             "organization_country_id": "GH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       }
     ]
   },
@@ -5290,7 +5680,9 @@
             "works_count": 62,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.55
       },
       {
         "citation": "Ani Nalbandian | Post-acute COVID-19 syndrome | 10.1038/s41591-021-01283-z",
@@ -5315,7 +5707,9 @@
             "works_count": 14,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.94
       },
       {
         "citation": "Harvey Moldofsky | Chronic widespread musculoskeletal pain, fatigue and sleep in survivors of SARS | 10.1186/1471-2377-11-37",
@@ -5341,7 +5735,9 @@
             "works_count": 185,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hong Jin Lee | Long-term psychiatric morbidities among SARS survivors | 10.1016/j.genhosppsych.2009.03.001",
@@ -5367,7 +5763,9 @@
             "works_count": 906,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Sammy Ho | Long-term follow-up of pulmonary function and exercise capacity in SARS survivors | 10.1016/j.rmed.2010.08.014",
@@ -5393,7 +5791,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       }
     ]
   },
@@ -5427,7 +5827,9 @@
             "works_count": 213,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Simon G. A. Brown | Conservative versus Interventional Treatment for Spontaneous Pneumothorax | 10.1056/NEJMoa1910775",
@@ -5453,7 +5855,9 @@
             "works_count": 176,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew MacDuff | Management of spontaneous pneumothorax: British Thoracic Society Pleural Disease Guideline 2010 | 10.1136/thx.2010.136986",
@@ -5478,7 +5882,9 @@
             "works_count": 37,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charles-Hugo Marquette | Simplified stepwise management of primary spontaneous pneumothorax | 10.1183/13993003.00777-2016",
@@ -5502,10 +5908,12 @@
             "works_count": 428,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Steven A. Sahn | Spontaneous Pneumothorax | 10.1056/NEJМ200003233421207",
+        "citation": "Steven A. Sahn | Spontaneous Pneumothorax | 10.1056/NEJ\u041c200003233421207",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
@@ -5528,7 +5936,9 @@
             "works_count": 313,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5561,7 +5971,9 @@
             "works_count": 395,
             "organization_country_id": "GR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John D. Hainsworth | Molecular gene expression profiling to predict the tissue of origin and direct site-specific therapy | 10.1200/JCO.2012.43.3755",
@@ -5586,39 +5998,43 @@
             "works_count": 789,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Alwin Krämer | Cancer of unknown primary: ESMO Clinical Practice Guideline | 10.1016/j.annonc.2022.11.013",
+        "citation": "Alwin Kr\u00e4mer | Cancer of unknown primary: ESMO Clinical Practice Guideline | 10.1016/j.annonc.2022.11.013",
         "status": "mismatch",
         "title_found": true,
         "author_matched": false,
         "ref_authors": [
-          "Alwin Krämer"
+          "Alwin Kr\u00e4mer"
         ],
         "found_authors_count": 16,
-        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['Alwin Krämer'], database had 16 author(s) on record",
+        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['Alwin Kr\u00e4mer'], database had 16 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Alwin Krämer",
+            "cited_name": "Alwin Kr\u00e4mer",
             "author_exists": true,
-            "fullest_name": "Alwin Krämer",
+            "fullest_name": "Alwin Kra\u0308mer",
             "h_index": 54,
             "works_count": 272,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "F. André | Genomics to select treatment for patients with metastatic breast cancer | 10.1038/s41586-022-05068-3",
+        "citation": "F. Andr\u00e9 | Genomics to select treatment for patients with metastatic breast cancer | 10.1038/s41586-022-05068-3",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "F. André"
+          "F. Andr\u00e9"
         ],
         "found_authors_count": 39,
         "reason": "title and author both matched a database record",
@@ -5628,14 +6044,16 @@
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "F. André",
+            "cited_name": "F. Andr\u00e9",
             "author_exists": true,
-            "fullest_name": "André, Françoise",
+            "fullest_name": "Andr\u00e9, Fran\u00e7oise",
             "h_index": 148,
             "works_count": 1790,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Tam Ho Ling Sze | Comprehensive genomic profiling of cancers of unknown primary | 10.1038/s41416-021-01426-6",
@@ -5661,7 +6079,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.81
       }
     ]
   },
@@ -5695,7 +6115,9 @@
             "works_count": 384,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Steve Kruk | Mortality due to low-quality health systems in the universal health coverage era | 10.1016/S0140-6736(18)31668-4",
@@ -5719,7 +6141,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Hanefeld | Understanding and measuring resilience in health systems | 10.1186/s12961-018-0330-0",
@@ -5745,7 +6169,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas G. Weiser | An estimation of the global volume of surgery: a modelling strategy based on available data | 10.1016/S0140-6736(08)60878-8",
@@ -5769,7 +6195,9 @@
             "works_count": 327,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Meara | Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development | 10.1016/S0140-6736(15)60160-X",
@@ -5793,7 +6221,9 @@
             "works_count": 465,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5826,7 +6256,9 @@
             "works_count": 258,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James Lopez Bernal | Interrupted time series regression for the evaluation of public health interventions | 10.1093/ije/dyw098",
@@ -5851,7 +6283,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ariel Linden | Conducting interrupted time-series analysis for single- and multiple-group comparisons | 10.1177/1536867X1501500208",
@@ -5876,7 +6310,9 @@
             "works_count": 180,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       },
       {
         "citation": "Frank de Vocht | Conceptualising natural and quasi experiments in public health | 10.1186/s12874-021-01224-x",
@@ -5901,7 +6337,9 @@
             "works_count": 393,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Noel T. Brewer | Increasing vaccination: putting psychological science into action | 10.1177/1529100618760521",
@@ -5925,7 +6363,9 @@
             "works_count": 663,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       }
     ]
   },
@@ -5959,7 +6399,9 @@
             "works_count": 558,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Qi Zhao | Global, regional, and national burden of mortality associated with non-optimal ambient temperatures | 10.1016/S2542-5196(21)00081-4",
@@ -5983,7 +6425,9 @@
             "works_count": 786,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Ana Maria Vicedo-Cabrera | The burden of heat-related mortality attributable to recent human-induced climate change | 10.1038/s41558-021-01058-x",
@@ -6008,7 +6452,9 @@
             "works_count": 220,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yuming Guo | Global variation in the effects of ambient temperature on mortality | 10.1097/EDE.0000000000000165",
@@ -6033,7 +6479,9 @@
             "works_count": 1308,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Katrin Burkart | Estimating the cause-specific relative risks of non-optimal temperature on daily mortality | 10.1016/S0140-6736(21)01700-1",
@@ -6058,7 +6506,9 @@
             "works_count": 116,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -6087,12 +6537,14 @@
           {
             "cited_name": "John Nkengasong",
             "author_exists": true,
-            "fullest_name": "John N’kengasong",
+            "fullest_name": "John N\u2019kengasong",
             "h_index": 53,
             "works_count": 181,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marius Gilbert | Preparedness and vulnerability of African countries against importations of COVID-19 | 10.1016/S0140-6736(20)30411-6",
@@ -6117,7 +6569,9 @@
             "works_count": 457,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Moritz Kraemer | The effect of human mobility and control measures on the COVID-19 epidemic in China | 10.1126/science.abb4218",
@@ -6142,7 +6596,9 @@
             "works_count": 305,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joseph Wu | Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak | 10.1016/S0140-6736(20)30260-9",
@@ -6167,7 +6623,9 @@
             "works_count": 243,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.82
       },
       {
         "citation": "Christopher Dye | The scale and dynamics of COVID-19 epidemics across Europe | 10.1098/rspb.2020.2094",
@@ -6192,7 +6650,9 @@
             "works_count": 402,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6226,7 +6686,9 @@
             "works_count": 148,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Megan O'Driscoll | Age-specific mortality and immunity patterns of SARS-CoV-2 | 10.1038/s41586-020-2918-0",
@@ -6240,18 +6702,20 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Megan O’Driscoll",
+        "matched_database_author": "Megan O\u2019Driscoll",
         "doi_valid": true,
         "identified_authors": [
           {
             "cited_name": "Megan O'Driscoll",
             "author_exists": true,
-            "fullest_name": "Megan O’Driscoll",
+            "fullest_name": "Megan O\u2019Driscoll",
             "h_index": 15,
             "works_count": 42,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Andrew Levin | Assessing the age specificity of infection fatality rates for COVID-19 | 10.1007/s10654-020-00698-1",
@@ -6276,7 +6740,9 @@
             "works_count": 201,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicholas Brazeau | Estimating the COVID-19 infection fatality ratio accounting for seroreversion using statistical modelling | 10.1038/s43856-022-00106-7",
@@ -6301,7 +6767,9 @@
             "works_count": 99,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gideon Meyerowitz-Katz | A systematic review and meta-analysis of published research data on COVID-19 infection fatality rates | 10.1016/j.ijid.2020.09.1464",
@@ -6326,7 +6794,9 @@
             "works_count": 109,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6359,7 +6829,9 @@
             "works_count": 3,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Ellen Boundy | Kangaroo Mother Care and Neonatal Outcomes: A Meta-analysis | 10.1542/peds.2015-2238",
@@ -6386,31 +6858,35 @@
             "works_count": 25,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Agustín Conde-Agudelo | Kangaroo mother care to reduce morbidity and mortality in low birthweight infants | 10.1002/14651858.CD002771.pub4",
+        "citation": "Agust\u00edn Conde-Agudelo | Kangaroo mother care to reduce morbidity and mortality in low birthweight infants | 10.1002/14651858.CD002771.pub4",
         "status": "mismatch",
         "title_found": true,
         "author_matched": false,
         "ref_authors": [
-          "Agustín Conde-Agudelo"
+          "Agust\u00edn Conde-Agudelo"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['Agustín Conde-Agudelo'], database had 2 author(s) on record",
+        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['Agust\u00edn Conde-Agudelo'], database had 2 author(s) on record",
         "failed_dbs": [],
         "retracted": false,
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Agustín Conde-Agudelo",
+            "cited_name": "Agust\u00edn Conde-Agudelo",
             "author_exists": true,
             "fullest_name": "Conde-Agudelo, Agustin",
             "h_index": 50,
             "works_count": 95,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Nathalie Charpak | Twenty-year follow-up of kangaroo mother care versus traditional care | 10.1542/peds.2016-2063",
@@ -6435,7 +6911,9 @@
             "works_count": 133,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Grace Chan | Kangaroo mother care: a systematic review of barriers and enablers | 10.2471/BLT.15.157818",
@@ -6460,7 +6938,9 @@
             "works_count": 98,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6494,7 +6974,9 @@
             "works_count": 461,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "RECOVERY Collaborative Group | Baricitinib in patients admitted to hospital with COVID-19 (RECOVERY) | 10.1016/S0140-6736(22)01109-6",
@@ -6519,7 +7001,9 @@
             "works_count": 1,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Andre Kalil | Baricitinib plus Remdesivir for Hospitalized Adults with Covid-19 | 10.1056/NEJMoa2031994",
@@ -6539,12 +7023,14 @@
           {
             "cited_name": "Andre Kalil",
             "author_exists": true,
-            "fullest_name": "Kalil, André",
+            "fullest_name": "Kalil, Andr\u00e9",
             "h_index": 62,
             "works_count": 363,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "RECOVERY Collaborative Group | Dexamethasone in Hospitalized Patients with Covid-19 | 10.1056/NEJMoa2021436",
@@ -6569,7 +7055,9 @@
             "works_count": 1,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "REMAP-CAP Investigators | Interleukin-6 Receptor Antagonists in Critically Ill Patients with Covid-19 | 10.1056/NEJMoa2100433",
@@ -6595,7 +7083,9 @@
             "works_count": 7,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       }
     ]
   },
@@ -6629,7 +7119,9 @@
             "works_count": 289,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joy Lawn | Stillbirths: rates, risk factors, and acceleration towards 2030 | 10.1016/S0140-6736(15)00837-5",
@@ -6654,7 +7146,9 @@
             "works_count": 580,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.97
       },
       {
         "citation": "Vicki Flenady | Stillbirths: recall to action in high-income countries | 10.1016/S0140-6736(15)01020-X",
@@ -6681,7 +7175,9 @@
             "works_count": 425,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Doris Chou | Ending preventable maternal and newborn mortality and stillbirths | 10.1136/bmj.k2734",
@@ -6705,7 +7201,9 @@
             "works_count": 190,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elizabeth Mason | From evidence to action to deliver a healthy start for the next generation | 10.1016/S0140-6736(14)60750-9",
@@ -6732,7 +7230,9 @@
             "works_count": 34,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6761,12 +7261,14 @@
           {
             "cited_name": "Faiez Zannad",
             "author_exists": true,
-            "fullest_name": "Faı̈ez Zannad",
+            "fullest_name": "Fa\u0131\u0308ez Zannad",
             "h_index": 150,
             "works_count": 1549,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Bertram Pitt | The Effect of Spironolactone on Morbidity and Mortality in Patients with Severe Heart Failure | 10.1056/NEJM199909023411001",
@@ -6791,7 +7293,9 @@
             "works_count": 855,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bertram Pitt | Spironolactone for Heart Failure with Preserved Ejection Fraction | 10.1056/NEJMoa1313731",
@@ -6816,7 +7320,9 @@
             "works_count": 855,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Scott Solomon | Finerenone in Heart Failure with Mildly Reduced or Preserved Ejection Fraction | 10.1056/NEJMoa2407107",
@@ -6841,7 +7347,9 @@
             "works_count": 2112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bertram Pitt | Eplerenone, a Selective Aldosterone Blocker, in Patients with Left Ventricular Dysfunction after Myocardial Infarction | 10.1056/NEJMoa030207",
@@ -6866,7 +7374,9 @@
             "works_count": 855,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6900,7 +7410,9 @@
             "works_count": 72,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jennifer Beam Dowd | Demographic science aids in understanding the spread and fatality rates of COVID-19 | 10.1073/pnas.2004911117",
@@ -6924,7 +7436,9 @@
             "works_count": 181,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Nicholas Kruk | The Global Health Security Index and health system capacity | 10.1016/S0140-6736(20)31025-4",
@@ -6950,7 +7464,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Damian Walker | Trust in government and its role in the COVID-19 pandemic response | 10.1136/bmjgh-2020-003188",
@@ -6976,7 +7492,9 @@
             "works_count": 324,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ariel Karlinsky | Tracking excess mortality across countries during the COVID-19 pandemic | 10.7554/eLife.69336",
@@ -7001,7 +7519,9 @@
             "works_count": 26,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       }
     ]
   },
@@ -7036,7 +7556,9 @@
             "works_count": 1,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "REMAP-CAP Investigators | Interleukin-6 Receptor Antagonists in Critically Ill Patients with Covid-19 | 10.1056/NEJMoa2100433",
@@ -7062,7 +7584,9 @@
             "works_count": 7,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
         "citation": "Carlos Salama | Tocilizumab in Patients Hospitalized with Covid-19 Pneumonia | 10.1056/NEJMoa2030340",
@@ -7089,7 +7613,9 @@
             "works_count": 17,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Stone | Efficacy of Tocilizumab in Patients Hospitalized with Covid-19 | 10.1056/NEJMoa2028836",
@@ -7114,7 +7640,9 @@
             "works_count": 644,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "WHO Rapid Evidence Appraisal for COVID-19 Therapies Working Group | Association Between Administration of IL-6 Antagonists and Mortality Among Patients Hospitalized for COVID-19 | 10.1001/jama.2021.11330",
@@ -7138,7 +7666,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       }
     ]
   },
@@ -7171,7 +7701,9 @@
             "works_count": 130,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nickhill Bhakta | Childhood cancer burden: a review of global estimates | 10.1016/S1470-2045(19)30022-1",
@@ -7195,7 +7727,9 @@
             "works_count": 302,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       },
       {
         "citation": "Catherine Lam | Science and health for all children with cancer | 10.1126/science.aaf8892",
@@ -7219,7 +7753,9 @@
             "works_count": 112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rachel Rodriguez-Galindo | Toward the cure of all children with cancer through collaborative efforts | 10.1200/JCO.2014.60.6376",
@@ -7243,7 +7779,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Scott Howard | The My Child Matters programme: effect of public-private partnerships on paediatric cancer care | 10.1016/S1470-2045(18)30123-4",
@@ -7268,7 +7806,9 @@
             "works_count": 367,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       }
     ]
   },
@@ -7301,7 +7841,9 @@
             "works_count": 548,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frederik Bartelink | Whole-breast irradiation with or without a boost in patients treated in the EORTC boost-no boost trial | 10.1016/S1470-2045(14)71156-8",
@@ -7327,7 +7869,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charlotte Coles | Partial-breast radiotherapy after breast conservation surgery for patients with early breast cancer (IMPORT LOW) | 10.1016/S0140-6736(17)31145-5",
@@ -7354,7 +7898,9 @@
             "works_count": 245,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jayant Vaidya | Risk-adapted targeted intraoperative radiotherapy versus whole-breast radiotherapy for breast cancer | 10.1016/S0140-6736(13)61950-9",
@@ -7379,7 +7925,9 @@
             "works_count": 386,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Timothy Whelan | Long-Term Results of Hypofractionated Radiation Therapy for Breast Cancer | 10.1056/NEJMoa0906260",
@@ -7404,7 +7952,9 @@
             "works_count": 395,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7437,7 +7987,9 @@
             "works_count": 690,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jean-Michel Molina | Efficacy and safety of long-acting lenacapavir | 10.1056/NEJMoa2115542",
@@ -7464,7 +8016,9 @@
             "works_count": 920,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.54
       },
       {
         "citation": "Sorana Segal-Maurer | Capsid Inhibition with Lenacapavir in Multidrug-Resistant HIV-1 Infection | 10.1056/NEJMoa2115542",
@@ -7484,12 +8038,14 @@
           {
             "cited_name": "Sorana Segal-Maurer",
             "author_exists": true,
-            "fullest_name": "Sorana Segal‐Maurer",
+            "fullest_name": "Sorana Segal\u2010Maurer",
             "h_index": 24,
             "works_count": 78,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.94
       },
       {
         "citation": "Joseph Eron | Safety and efficacy of long-acting lenacapavir with bictegravir | 10.1016/S2352-3018(24)00072-8",
@@ -7515,7 +8071,9 @@
             "works_count": 945,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kathleen Squires | Bictegravir/emtricitabine/tenofovir alafenamide in virologically suppressed adults | 10.1016/S2352-3018(18)30091-2",
@@ -7541,7 +8099,9 @@
             "works_count": 109,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7575,7 +8135,9 @@
             "works_count": 509,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Andrew Clark | The Vaccine Impact Modelling Consortium | 10.1016/j.vaccine.2019.11.056",
@@ -7602,7 +8164,9 @@
             "works_count": 692,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Neil Ferguson | Modelling the impact of vaccination against measles | 10.1016/S1473-3099(17)30307-9",
@@ -7628,7 +8192,9 @@
             "works_count": 553,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kim Toor | Lives saved with vaccination for 10 pathogens across 112 countries in a pre-COVID-19 world | 10.7554/eLife.67635",
@@ -7652,7 +8218,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.52
       },
       {
         "citation": "Colin Sanderson | Estimating the health impact of vaccination programmes: a review of modelling methods | 10.1093/ije/dyx035",
@@ -7678,7 +8246,9 @@
             "works_count": 137,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7711,7 +8281,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Michael Coulthart | Diagnostic evaluation of Creutzfeldt-Jakob disease and related prion diseases | 10.1503/cmaj.110726",
@@ -7737,7 +8309,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Neil Cashman | Prion diseases and neurodegeneration | 10.1038/nrneurol.2013.264",
@@ -7763,7 +8337,9 @@
             "works_count": 395,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "Pierluigi Gambetti | Sporadic and familial CJD: classification and characterisation | 10.1093/bmb/66.1.213",
@@ -7783,12 +8359,14 @@
           {
             "cited_name": "Pierluigi Gambetti",
             "author_exists": true,
-            "fullest_name": "Pierluigi Gambetti and Man‐Sun Sy",
+            "fullest_name": "Pierluigi Gambetti and Man\u2010Sun Sy",
             "h_index": 91,
             "works_count": 454,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert Will | Diagnosis of new variant Creutzfeldt-Jakob disease | 10.1002/ana.410470612",
@@ -7815,7 +8393,9 @@
             "works_count": 78,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7849,7 +8429,9 @@
             "works_count": 752,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tom Hemming Karlsen | Primary sclerosing cholangitis - a comprehensive review | 10.1016/j.jhep.2017.07.022",
@@ -7874,7 +8456,9 @@
             "works_count": 388,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "M. Eric Gershwin | The immunobiology of primary biliary cirrhosis | 10.1146/annurev.immunol.23.021704.115807",
@@ -7900,7 +8484,9 @@
             "works_count": 1278,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Johannes R. Hov | Gut microbiota in primary sclerosing cholangitis | 10.1002/hep.28459",
@@ -7926,7 +8512,9 @@
             "works_count": 274,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pietro Invernizzi | Genetics of autoimmune liver diseases | 10.1016/j.jhep.2011.05.001",
@@ -7951,7 +8539,9 @@
             "works_count": 768,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7983,7 +8573,9 @@
             "works_count": 384,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dena Ettehad | Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis | 10.1016/S0140-6736(15)01225-8",
@@ -8010,7 +8602,9 @@
             "works_count": 14,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "SPRINT Research Group | A Randomized Trial of Intensive versus Standard Blood-Pressure Control | 10.1056/NEJMoa1511939",
@@ -8037,7 +8631,9 @@
             "works_count": 3,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       },
       {
         "citation": "Johannes Brguljan-Hitij | Effects of intensive blood pressure lowering on cardiovascular and renal outcomes | 10.1016/S0140-6736(15)00805-3",
@@ -8064,7 +8660,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Costas Thomopoulos | Effects of blood pressure lowering on outcome incidence in hypertension | 10.1097/HJH.0000000000000378",
@@ -8088,7 +8686,9 @@
             "works_count": 376,
             "organization_country_id": "GR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8123,7 +8723,9 @@
             "works_count": 121,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.97
       },
       {
         "citation": "Nick Watts | The 2019 report of The Lancet Countdown on health and climate change | https://doi.org/10.1016/S0140-6736(19)32596-6",
@@ -8148,7 +8750,9 @@
             "works_count": 38,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Kristie L. Ebi | Extreme Weather and Climate Change: Population Health and Health System Implications | https://doi.org/10.1146/annurev-publhealth-012420-105026",
@@ -8172,7 +8776,9 @@
             "works_count": 582,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Satcher | Health disparities and climate change | https://doi.org/10.2105/AJPH.2018.304417",
@@ -8199,7 +8805,9 @@
             "works_count": 163,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Lesley-Anne Ey | Racism, xenophobia, and discrimination: mapping pathways to health outcomes | https://doi.org/10.1016/S0140-6736(22)02484-9",
@@ -8225,7 +8833,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8258,7 +8868,9 @@
             "works_count": 187,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Corey S. Davis | Legal changes to increase access to naloxone for opioid overdose reversal | https://doi.org/10.1016/j.drugalcdep.2015.05.010",
@@ -8282,7 +8894,9 @@
             "works_count": 191,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Josiah D. Rich | Methadone continuation versus forced withdrawal on incarceration in a combined US prison and jail | https://doi.org/10.1016/S0140-6736(15)00062-0",
@@ -8306,7 +8920,9 @@
             "works_count": 467,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Redonna K. Chandler | Treating drug abuse and addiction in the criminal justice system | https://doi.org/10.1001/jama.2008.976",
@@ -8330,7 +8946,9 @@
             "works_count": 47,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Julie Netherland | The role of stigma in the treatment of opioid use disorder | https://doi.org/10.1007/s11469-016-9642-x",
@@ -8356,14 +8974,16 @@
             "works_count": 35,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3043365850",
     "model": "anthropic",
-    "question": "How do the methodological choices in modeling fertility—specifically the use of completed cohort fertility versus period total fertility rate as functions of educational attainment and contraceptive met need—account for the divergences in global population projections across major forecasting institutions such as the UN, IIASA, and IHME?",
+    "question": "How do the methodological choices in modeling fertility\u2014specifically the use of completed cohort fertility versus period total fertility rate as functions of educational attainment and contraceptive met need\u2014account for the divergences in global population projections across major forecasting institutions such as the UN, IIASA, and IHME?",
     "references": [
       {
         "citation": "Stein Emil Vollset | Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100 | https://doi.org/10.1016/S0140-6736(20)30677-2",
@@ -8390,7 +9010,9 @@
             "works_count": 3658,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wolfgang Lutz | The end of world population growth | https://doi.org/10.1038/35082063",
@@ -8417,7 +9039,9 @@
             "works_count": 412,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Patrick Gerland | World population stabilization unlikely this century | https://doi.org/10.1126/science.1257469",
@@ -8442,7 +9066,9 @@
             "works_count": 95,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Bongaarts | Human population growth and the demographic transition | https://doi.org/10.1098/rstb.2009.0137",
@@ -8467,7 +9093,9 @@
             "works_count": 340,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Samir KC | The human core of the shared socioeconomic pathways: Population scenarios by age, sex and level of education for all countries to 2100 | https://doi.org/10.1016/j.gloenvcha.2014.06.004",
@@ -8492,7 +9120,9 @@
             "works_count": 63,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8525,7 +9155,9 @@
             "works_count": 63,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Vlado Perkovic | Chronic kidney disease: global dimension and perspectives | https://doi.org/10.1016/S0140-6736(13)60687-X",
@@ -8551,7 +9183,9 @@
             "works_count": 775,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marcello Tonelli | Chronic kidney disease and mortality risk: a systematic review | https://doi.org/10.1681/ASN.2005101085",
@@ -8576,7 +9210,9 @@
             "works_count": 975,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kunihiro Matsushita | Association of estimated glomerular filtration rate and albuminuria with all-cause and cardiovascular mortality | https://doi.org/10.1016/S0140-6736(10)60674-5",
@@ -8603,7 +9239,9 @@
             "works_count": 1041,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew S. Levey | Chronic kidney disease | https://doi.org/10.1016/S0140-6736(11)60178-5",
@@ -8628,14 +9266,16 @@
             "works_count": 1021,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4396571240",
     "model": "anthropic",
-    "question": "Given the increased hematological toxicity and infection risk observed when combining ibrutinib maintenance with autologous stem-cell transplantation, how do the long-term efficacy and safety trade-offs of Bruton tyrosine kinase inhibitor–containing regimens compare across trials in younger mantle cell lymphoma patients, and what evidence supports the potential omission of transplantation in the era of targeted first-line therapy?",
+    "question": "Given the increased hematological toxicity and infection risk observed when combining ibrutinib maintenance with autologous stem-cell transplantation, how do the long-term efficacy and safety trade-offs of Bruton tyrosine kinase inhibitor\u2013containing regimens compare across trials in younger mantle cell lymphoma patients, and what evidence supports the potential omission of transplantation in the era of targeted first-line therapy?",
     "references": [
       {
         "citation": "Martin Dreyling | Ibrutinib combined with immunochemotherapy with or without autologous stem-cell transplantation versus immunochemotherapy and autologous stem-cell transplantation in previously untreated patients with mantle cell lymphoma (TRIANGLE) | https://doi.org/10.1016/S0140-6736(24)00184-3",
@@ -8662,7 +9302,9 @@
             "works_count": 704,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Wang | Ibrutinib in combination with rituximab in relapsed or refractory mantle cell lymphoma | https://doi.org/10.1016/S1470-2045(15)00563-4",
@@ -8687,7 +9329,9 @@
             "works_count": 1140,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Olivier Hermine | Addition of high-dose cytarabine to immunochemotherapy before autologous stem-cell transplantation in patients aged 65 years or younger with mantle cell lymphoma | https://doi.org/10.1016/S0140-6736(16)00739-X",
@@ -8707,12 +9351,14 @@
           {
             "cited_name": "Olivier Hermine",
             "author_exists": true,
-            "fullest_name": "d’Olivier Hermine",
+            "fullest_name": "d\u2019Olivier Hermine",
             "h_index": 136,
             "works_count": 1818,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.94
       },
       {
         "citation": "Simon Rule | Ibrutinib versus temsirolimus in patients with relapsed or refractory mantle cell lymphoma | https://doi.org/10.1016/S0140-6736(15)00667-4",
@@ -8737,7 +9383,9 @@
             "works_count": 334,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Wang | Acalabrutinib in relapsed or refractory mantle cell lymphoma (ACE-LY-004) | https://doi.org/10.1016/S0140-6736(17)33108-2",
@@ -8761,7 +9409,9 @@
             "works_count": 1140,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8794,10 +9444,12 @@
             "works_count": 409,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "J. Mark FitzGerald | Benralizumab, an anti-interleukin-5 receptor α monoclonal antibody, as add-on treatment for patients with severe, uncontrolled, eosinophilic asthma (CALIMA) | https://doi.org/10.1016/S0140-6736(16)31322-8",
+        "citation": "J. Mark FitzGerald | Benralizumab, an anti-interleukin-5 receptor \u03b1 monoclonal antibody, as add-on treatment for patients with severe, uncontrolled, eosinophilic asthma (CALIMA) | https://doi.org/10.1016/S0140-6736(16)31322-8",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -8819,10 +9471,12 @@
             "works_count": 163,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Eugene R. Bleecker | Efficacy and safety of benralizumab for patients with severe asthma uncontrolled with high-dosage inhaled corticosteroids and long-acting β2-agonists (SIROCCO) | https://doi.org/10.1016/S0140-6736(16)31324-1",
+        "citation": "Eugene R. Bleecker | Efficacy and safety of benralizumab for patients with severe asthma uncontrolled with high-dosage inhaled corticosteroids and long-acting \u03b22-agonists (SIROCCO) | https://doi.org/10.1016/S0140-6736(16)31324-1",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -8844,7 +9498,9 @@
             "works_count": 658,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hector G. Ortega | Mepolizumab treatment in patients with severe eosinophilic asthma | https://doi.org/10.1056/NEJMoa1403290",
@@ -8869,7 +9525,9 @@
             "works_count": 190,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mario Castro | Dupilumab efficacy and safety in moderate-to-severe uncontrolled asthma | https://doi.org/10.1056/NEJMoa1804092",
@@ -8893,7 +9551,9 @@
             "works_count": 690,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8925,7 +9585,9 @@
             "works_count": 357,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.87
       },
       {
         "citation": "Vikram Patel | The Healthy Activity Program (HAP), a lay counsellor-delivered brief psychological treatment for severe depression, in primary care in India | https://doi.org/10.1016/S0140-6736(16)31589-6",
@@ -8950,7 +9612,9 @@
             "works_count": 1018,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daisy R. Singla | Psychological treatments for the world: lessons from low- and middle-income countries | https://doi.org/10.1146/annurev-clinpsy-032816-045217",
@@ -8977,7 +9641,9 @@
             "works_count": 130,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Crick Lund | Task-sharing of psychological treatment for common mental disorders in the community | https://doi.org/10.1016/S2214-109X(20)30375-9",
@@ -9003,7 +9669,9 @@
             "works_count": 515,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Neerja Chowdhary | The methods and outcomes of cultural adaptations of psychological treatments for depressive disorders | https://doi.org/10.1017/S0033291713003629",
@@ -9028,7 +9696,9 @@
             "works_count": 96,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.76
       }
     ]
   },
@@ -9061,7 +9731,9 @@
             "works_count": 433,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rebecca S. Kearney | Immediate versus delayed weight-bearing after operatively treated ankle fractures | https://doi.org/10.1136/bmj.n1656",
@@ -9088,7 +9760,9 @@
             "works_count": 71,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sheila Sprague | Early versus delayed weight-bearing following operatively treated ankle fractures: a systematic review | https://doi.org/10.1016/j.injury.2020.05.038",
@@ -9114,7 +9788,9 @@
             "works_count": 379,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter V. Giannoudis | Weight-bearing rehabilitation following ankle fracture surgery | https://doi.org/10.1007/s00068-019-01182-6",
@@ -9140,7 +9816,9 @@
             "works_count": 1139,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher M. Bono | Rehabilitation after ankle fracture: a randomized controlled trial | https://doi.org/10.2106/JBJS.L.00300",
@@ -9166,7 +9844,9 @@
             "works_count": 396,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9199,7 +9879,9 @@
             "works_count": 860,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Jennifer A. Woyach | Ibrutinib regimens versus chemoimmunotherapy in older patients with untreated CLL | https://doi.org/10.1056/NEJMoa1812836",
@@ -9224,7 +9906,9 @@
             "works_count": 623,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arnon P. Kater | Fixed-duration venetoclax-obinutuzumab for previously untreated chronic lymphocytic leukemia (CLL14) | https://doi.org/10.1056/NEJMoa1815281",
@@ -9250,7 +9934,9 @@
             "works_count": 531,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "John C. Byrd | Acalabrutinib versus ibrutinib in previously treated chronic lymphocytic leukemia (ELEVATE-RR) | https://doi.org/10.1200/JCO.21.01210",
@@ -9276,7 +9962,9 @@
             "works_count": 1348,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wojciech Jurczak | Zanubrutinib versus ibrutinib in relapsed/refractory chronic lymphocytic leukemia (ALPINE) | https://doi.org/10.1056/NEJMoa2211582",
@@ -9302,7 +9990,9 @@
             "works_count": 645,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9335,7 +10025,9 @@
             "works_count": 163,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emanuele Di Angelantonio | Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies | https://doi.org/10.1016/S0140-6736(16)30175-1",
@@ -9360,7 +10052,9 @@
             "works_count": 474,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Majid Ezzati | Trends in adult body-mass index in 200 countries | https://doi.org/10.1016/S0140-6736(16)30054-X",
@@ -9385,7 +10079,9 @@
             "works_count": 575,
             "organization_country_id": "GH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Katherine M. Flegal | Association of all-cause mortality with overweight and obesity using standard body mass index categories | https://doi.org/10.1001/jama.2012.113905",
@@ -9410,7 +10106,9 @@
             "works_count": 231,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Salim Yusuf | Modifiable risk factors, cardiovascular disease, and mortality in 155 722 individuals from 21 high-income, middle-income, and low-income countries (PURE) | https://doi.org/10.1016/S0140-6736(19)32008-2",
@@ -9435,7 +10133,9 @@
             "works_count": 2144,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9469,7 +10169,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "Nick Andrews | Covid-19 vaccine effectiveness against the Omicron (B.1.1.529) variant | https://doi.org/10.1056/NEJMoa2119451",
@@ -9493,7 +10195,9 @@
             "works_count": 611,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fernando P. Polack | Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine | https://doi.org/10.1056/NEJMoa2034577",
@@ -9518,7 +10222,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lindsey R. Baden | Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine | https://doi.org/10.1056/NEJMoa2035389",
@@ -9543,7 +10249,9 @@
             "works_count": 726,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.97
       },
       {
         "citation": "Merryn Voysey | Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2 | https://doi.org/10.1016/S0140-6736(20)32661-1",
@@ -9568,7 +10276,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -9602,7 +10312,9 @@
             "works_count": 357,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter G. Rose | Concurrent cisplatin-based radiotherapy and chemotherapy for locally advanced cervical cancer | https://doi.org/10.1056/NEJM199904153401502",
@@ -9630,7 +10342,9 @@
             "works_count": 440,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charles A. Green | Survival and recurrence after concomitant chemotherapy and radiotherapy for cancer of the uterine cervix | https://doi.org/10.1016/S0140-6736(01)06580-6",
@@ -9654,7 +10368,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Domenica Lorusso | Pembrolizumab plus chemoradiotherapy for high-risk locally advanced cervical cancer (KEYNOTE-A18) | https://doi.org/10.1016/S0140-6736(24)00317-9",
@@ -9680,7 +10396,9 @@
             "works_count": 958,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ben Duffield | A systematic review of neoadjuvant chemotherapy for cervical cancer | https://doi.org/10.1016/j.ygyno.2018.04.001",
@@ -9707,7 +10425,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -9741,7 +10461,9 @@
             "works_count": 942,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Christopher J.L. Murray | The state of US health, 1990-2010: burden of diseases, injuries, and risk factors | https://doi.org/10.1001/jama.2013.13805",
@@ -9766,7 +10488,9 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laura Dwyer-Lindgren | Inequalities in life expectancy among US counties, 1980 to 2014 | https://doi.org/10.1001/jamainternmed.2017.0918",
@@ -9791,7 +10515,9 @@
             "works_count": 95,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Steven H. Woolf | Life expectancy and mortality rates in the United States, 1959-2017 | https://doi.org/10.1001/jama.2019.16932",
@@ -9816,7 +10542,9 @@
             "works_count": 319,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Raj Chetty | The association between income and life expectancy in the United States, 2001-2014 | https://doi.org/10.1001/jama.2016.4226",
@@ -9841,7 +10569,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -9874,7 +10604,9 @@
             "works_count": 980,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sudarshan R. Kadri | Acceptability and accuracy of a non-endoscopic screening test for Barrett's oesophagus | https://doi.org/10.1136/bmj.c4372",
@@ -9899,7 +10631,9 @@
             "works_count": 39,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Massimiliano di Pietro | Endoscopic management of Barrett's esophagus | https://doi.org/10.1053/j.gastro.2017.09.017",
@@ -9926,7 +10660,9 @@
             "works_count": 251,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicholas J. Shaheen | Diagnosis and management of Barrett's esophagus: ACG clinical guideline | https://doi.org/10.14309/ajg.0000000000001680",
@@ -9953,7 +10689,9 @@
             "works_count": 1116,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "W. Keith Tan | Cost-effectiveness of non-endoscopic screening for Barrett's oesophagus | https://doi.org/10.1136/gutjnl-2020-322234",
@@ -9980,7 +10718,9 @@
             "works_count": 56,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10013,7 +10753,9 @@
             "works_count": 236,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "GlobalSurg Collaborative | Global variation in postoperative mortality and complications after cancer surgery | https://doi.org/10.1016/S0140-6736(21)00001-5",
@@ -10040,7 +10782,9 @@
             "works_count": 5,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": 0.0
       },
       {
         "citation": "Thomas G. Weiser | An estimation of the global volume of surgery | https://doi.org/10.1016/S0140-6736(08)60878-8",
@@ -10064,7 +10808,9 @@
             "works_count": 327,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John G. Meara | Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development | https://doi.org/10.1016/S0140-6736(15)60160-X",
@@ -10089,7 +10835,9 @@
             "works_count": 465,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Han-Kwang Yang | Surgical outcomes of gastric cancer | https://doi.org/10.1007/s10120-011-0041-5",
@@ -10115,7 +10863,9 @@
             "works_count": 560,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.75
       }
     ]
   },
@@ -10149,7 +10899,9 @@
             "works_count": 64,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher J.L. Murray | Global burden of 87 risk factors in 204 countries and territories, 1990-2019 | https://doi.org/10.1016/S0140-6736(20)30752-2",
@@ -10174,7 +10926,9 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yohannes Kinfu | The health workforce in Ethiopia | https://doi.org/10.2471/BLT.08.051599",
@@ -10200,7 +10954,9 @@
             "works_count": 109,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kesetebirhan Admasu | Countdown to 2015: Ethiopia's progress towards reduction in under-five mortality | https://doi.org/10.1016/S0140-6736(16)31698-1",
@@ -10226,7 +10982,9 @@
             "works_count": 15,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Solomon Tessema Memirie | Inequalities in utilization of maternal and child health services in Ethiopia | https://doi.org/10.1186/s12913-016-1296-7",
@@ -10251,7 +11009,9 @@
             "works_count": 68,
             "organization_country_id": "ET"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10285,7 +11045,9 @@
             "works_count": 2146,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Anoop Misra | Obesity and the metabolic syndrome in developing countries | https://doi.org/10.1210/jc.2008-1595",
@@ -10310,7 +11072,9 @@
             "works_count": 565,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Emanuella De Lucia Rolfe | Ethnic differences in body fat distribution | https://doi.org/10.1017/S0007114510001674",
@@ -10337,7 +11101,9 @@
             "works_count": 58,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Alka M. Kanaya | Understanding the high prevalence of diabetes in US South Asians compared with four racial/ethnic groups (MASALA and MESA) | https://doi.org/10.2337/dc13-2656",
@@ -10362,7 +11128,9 @@
             "works_count": 493,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Andrew J. M. Boulton | Waist circumference as a measure of abdominal obesity across ethnic groups | https://doi.org/10.1038/ijo.2008.11",
@@ -10389,7 +11157,9 @@
             "works_count": 669,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10423,7 +11193,9 @@
             "works_count": 1701,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xiaoxuan Liu | A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging | https://doi.org/10.1016/S2589-7500(19)30123-2",
@@ -10448,7 +11220,9 @@
             "works_count": 235,
             "organization_country_id": "MY"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.53
       },
       {
         "citation": "Trishan Panch | Artificial intelligence and algorithmic bias | https://doi.org/10.7861/futurehosp.6-2-94",
@@ -10474,7 +11248,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Alastair K. Denniston | Assessing the value of artificial intelligence in medicine | https://doi.org/10.1136/bmj.n304",
@@ -10500,7 +11276,9 @@
             "works_count": 496,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher J. Kelly | Key challenges for delivering clinical impact with artificial intelligence | https://doi.org/10.1186/s12916-019-1426-2",
@@ -10524,7 +11302,9 @@
             "works_count": 310,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.83
       }
     ]
   },
@@ -10558,7 +11338,9 @@
             "works_count": 32,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Majid Ezzati | Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016 | https://doi.org/10.1016/S0140-6736(17)32129-3",
@@ -10583,7 +11365,9 @@
             "works_count": 575,
             "organization_country_id": "GH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Barry M. Popkin | The nutrition transition and obesity in the developing world | https://doi.org/10.1093/jn/131.3.871S",
@@ -10610,7 +11394,9 @@
             "works_count": 1106,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tim J. Cole | Establishing a standard definition for child overweight and obesity worldwide | https://doi.org/10.1136/bmj.320.7244.1240",
@@ -10635,7 +11421,9 @@
             "works_count": 1054,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James Bentham | A century of trends in adult human height | https://doi.org/10.7554/eLife.13410",
@@ -10662,7 +11450,9 @@
             "works_count": 48,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10694,7 +11484,9 @@
             "works_count": 551,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anthony G. Marson | The SANAD II study of the effectiveness and cost-effectiveness of valproate versus levetiracetam for newly diagnosed generalised and unclassifiable epilepsy | https://doi.org/10.1016/S0140-6736(21)00246-4",
@@ -10718,15 +11510,17 @@
             "works_count": 551,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Torbjörn Tomson | Comparative efficacy and safety of antiepileptic drugs | https://doi.org/10.1016/S1474-4422(15)00314-2",
+        "citation": "Torbj\u00f6rn Tomson | Comparative efficacy and safety of antiepileptic drugs | https://doi.org/10.1016/S1474-4422(15)00314-2",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Torbjörn Tomson"
+          "Torbj\u00f6rn Tomson"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -10737,14 +11531,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Torbjörn Tomson",
+            "cited_name": "Torbj\u00f6rn Tomson",
             "author_exists": true,
-            "fullest_name": "Torbjörn Tomson MD, PhD",
+            "fullest_name": "Torbj\u00f6rn Tomson MD, PhD",
             "h_index": 94,
             "works_count": 420,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emilio Perucca | The pharmacological treatment of epilepsy in adults | https://doi.org/10.1016/S1474-4422(11)70047-3",
@@ -10769,7 +11565,9 @@
             "works_count": 712,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jacqueline A. French | Efficacy and tolerability of the new antiepileptic drugs | https://doi.org/10.1212/01.WNL.0000129909.30244.83",
@@ -10796,7 +11594,9 @@
             "works_count": 637,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10831,7 +11631,9 @@
             "works_count": 1750,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lu Ma | The third Intensive Care Bundle with Blood Pressure Reduction in Acute Cerebral Haemorrhage Trial (INTERACT3) | 10.1016/S0140-6736(23)00806-1",
@@ -10855,7 +11657,9 @@
             "works_count": 201,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "J. Claude Hemphill | Guidelines for the Management of Spontaneous Intracerebral Hemorrhage | 10.1161/STR.0000000000000069",
@@ -10881,7 +11685,9 @@
             "works_count": 266,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Craig S. Anderson | Rapid Blood-Pressure Lowering in Patients with Acute Intracerebral Hemorrhage | 10.1056/NEJMoa1214609",
@@ -10905,7 +11711,9 @@
             "works_count": 1013,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Craig S. Anderson | Intensive blood pressure reduction in acute cerebral haemorrhage trial (INTERACT2)",
@@ -10945,7 +11753,9 @@
             "works_count": 124,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jackson T. Wright | A Randomized Trial of Intensive versus Standard Blood-Pressure Control | 10.1056/NEJMoa1511939",
@@ -10971,7 +11781,9 @@
             "works_count": 302,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jeff D. Williamson | Intensive vs Standard Blood Pressure Control and Cardiovascular Disease Outcomes in Adults Aged >=75 Years | 10.1001/jama.2016.7050",
@@ -10996,7 +11808,9 @@
             "works_count": 536,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Weili Zhang | Trial of Intensive Blood-Pressure Control in Older Patients with Hypertension | 10.1056/NEJMoa2111437",
@@ -11021,7 +11835,9 @@
             "works_count": 588,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Kazem Rahimi | Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure | 10.1016/S0140-6736(21)00590-0",
@@ -11046,7 +11862,9 @@
             "works_count": 384,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -11081,7 +11899,9 @@
             "works_count": 241,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Alejandro Cravioto | Waning of BNT162b2 Vaccine Protection against SARS-CoV-2 Infection in Qatar | 10.1056/NEJMoa2114114",
@@ -11107,7 +11927,9 @@
             "works_count": 142,
             "organization_country_id": "MX"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nick Andrews | Effectiveness of COVID-19 Booster Vaccines against COVID-19-Related Symptoms, Hospitalization and Death in England | 10.1038/s41591-022-01699-1",
@@ -11132,7 +11954,9 @@
             "works_count": 611,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xinxue Liu | Safety and immunogenicity of heterologous versus homologous prime-boost schedules with an adenoviral vectored and mRNA COVID-19 vaccine (Com-COV) | 10.1016/S0140-6736(21)01694-9",
@@ -11156,7 +11980,9 @@
             "works_count": 158,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.79
       },
       {
         "citation": "Robert L. Atmar | Homologous and Heterologous Covid-19 Booster Vaccinations | 10.1056/NEJMoa2116414",
@@ -11181,7 +12007,9 @@
             "works_count": 410,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11212,7 +12040,9 @@
             "works_count": 135,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hannah A. Bullock | Difficulties in Differentiating Coronaviruses from Subcellular Structures in Human Tissues by Electron Microscopy | 10.3201/eid2704.204337",
@@ -11239,7 +12069,9 @@
             "works_count": 41,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Diane Miller | Visualization of Putative Coronavirus in Kidney | 10.1016/j.kint.2020.05.004",
@@ -11265,7 +12097,9 @@
             "works_count": 1006,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Cynthia S. Goldsmith | Ultrastructural Characterization of SARS Coronavirus | 10.3201/eid1002.030913",
@@ -11289,7 +12123,9 @@
             "works_count": 135,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Larissa M. Bittencourt | Caution in identifying coronaviruses by electron microscopy | 10.1681/ASN.2020050755",
@@ -11316,7 +12152,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11349,7 +12187,9 @@
             "works_count": 611,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Li Liu | Global, regional, and national causes of under-5 mortality in 2000-15 | 10.1016/S0140-6736(16)31593-8",
@@ -11374,7 +12214,9 @@
             "works_count": 1085,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.65
       },
       {
         "citation": "Robert E. Black | Global, regional, and national causes of child mortality in 2008 | 10.1016/S0140-6736(10)60549-1",
@@ -11398,7 +12240,9 @@
             "works_count": 894,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Clasen | Estimating the impact of unsafe water, sanitation and hygiene on the global burden of disease | 10.1111/tmi.12329",
@@ -11422,7 +12266,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert E. Black | Maternal and child undernutrition and overweight in low-income and middle-income countries | 10.1016/S0140-6736(13)60937-X",
@@ -11447,14 +12293,16 @@
             "works_count": 894,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3080222846",
     "model": "anthropic",
-    "question": "How do differing definitions of treatment success across clinical trials—such as expulsion within specific timeframes, endometrial thickness thresholds, or the avoidance of surgical intervention—impact the synthesized comparative efficacy and clinical guidelines for mifepristone pretreatment versus misoprostol alone in the medical management of early pregnancy loss?",
+    "question": "How do differing definitions of treatment success across clinical trials\u2014such as expulsion within specific timeframes, endometrial thickness thresholds, or the avoidance of surgical intervention\u2014impact the synthesized comparative efficacy and clinical guidelines for mifepristone pretreatment versus misoprostol alone in the medical management of early pregnancy loss?",
     "references": [
       {
         "citation": "Courtney A. Schreiber | Mifepristone Pretreatment for the Medical Management of Early Pregnancy Loss | 10.1056/NEJMoa1715726",
@@ -11481,7 +12329,9 @@
             "works_count": 177,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       },
       {
         "citation": "Jun Zhang | A Comparison of Medical Management with Misoprostol and Surgical Management for Early Pregnancy Failure | 10.1056/NEJMoa042141",
@@ -11506,7 +12356,9 @@
             "works_count": 2875,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       },
       {
         "citation": "Rachel M. Chu | Mifepristone and misoprostol versus misoprostol alone for the management of missed miscarriage (MifeMiso) | 10.1016/S0140-6736(20)31788-8",
@@ -11532,7 +12384,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ilan E. Timor-Tritsch | A Randomized Controlled Trial of Medical Management of Early Pregnancy Loss",
@@ -11573,7 +12427,9 @@
             "works_count": 136,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bin Zhou | Worldwide trends in hypertension prevalence and progress in treatment and control | 10.1016/S0140-6736(21)01330-1",
@@ -11600,7 +12456,9 @@
             "works_count": 512,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Andrew E. Moran | Cost-Effectiveness of Hypertension Therapy | 10.1056/NEJMsa1406751",
@@ -11625,7 +12483,9 @@
             "works_count": 63,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marc G. Jaffe | Improved Blood Pressure Control Associated With a Large-Scale Hypertension Program | 10.1001/jama.2013.108769",
@@ -11650,7 +12510,9 @@
             "works_count": 98,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pablo Frank | Coverage, compliance, and control of blood pressure in Mexico",
@@ -11688,7 +12550,9 @@
             "works_count": 694,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frances Humby | Rituximab versus tocilizumab in anti-TNF inadequate responder patients with rheumatoid arthritis (R4RA) | 10.1016/S0140-6736(20)32341-2",
@@ -11713,7 +12577,9 @@
             "works_count": 154,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Myles J. Lewis | Molecular Portraits of Early Rheumatoid Arthritis Identify Clinical and Treatment Response Phenotypes | 10.1016/j.celrep.2019.07.091",
@@ -11738,7 +12604,9 @@
             "works_count": 259,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew Filer | Utilization of synovial biopsy in clinical practice and research",
@@ -11782,7 +12650,9 @@
             "works_count": 314,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Steven J. Hoffman | Assessing global health governance",
@@ -11837,7 +12707,9 @@
             "works_count": 1857,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard Horton | Offline: managing the COVID-19 vaccine infodemic",
@@ -11889,7 +12761,9 @@
             "works_count": 410,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xinxue Liu | Safety and immunogenicity of heterologous versus homologous prime-boost schedules with an adenoviral vectored and mRNA COVID-19 vaccine (Com-COV) | 10.1016/S0140-6736(21)01694-9",
@@ -11913,7 +12787,9 @@
             "works_count": 158,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.79
       },
       {
         "citation": "Alasdair P. S. Munro | Safety and immunogenicity of seven COVID-19 vaccines as a third dose (booster) (COV-BOOST) | 10.1016/S0140-6736(21)02717-3",
@@ -11939,7 +12815,9 @@
             "works_count": 76,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daniel M. Altmann | Waning immunity and booster vaccines for COVID-19 | 10.1126/science.abn1755",
@@ -11966,7 +12844,9 @@
             "works_count": 317,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nick Andrews | Effectiveness of COVID-19 Booster Vaccines against COVID-19-Related Symptoms in England | 10.1038/s41591-022-01699-1",
@@ -11992,7 +12872,9 @@
             "works_count": 611,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12027,7 +12909,9 @@
             "works_count": 314,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Kathryn Norman | Negative pressure wound therapy for surgical wounds healing by secondary intention | 10.1002/14651858.CD011278",
@@ -12053,7 +12937,9 @@
             "works_count": 35,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter A. Blume | Comparison of negative pressure wound therapy using vacuum-assisted closure with advanced moist wound therapy in diabetic foot ulcers | 10.2337/dc07-2196",
@@ -12079,7 +12965,9 @@
             "works_count": 204,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David G. Armstrong | Negative pressure wound therapy after partial diabetic foot amputation | 10.1016/S0140-6736(05)67695-7",
@@ -12104,7 +12992,9 @@
             "works_count": 1036,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicky Cullum | Systematic review of the cost-effectiveness of negative pressure wound therapy",
@@ -12143,7 +13033,9 @@
             "works_count": 586,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       },
       {
         "citation": "Peter Horby | Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY) | 10.1016/S0140-6736(20)32013-4",
@@ -12168,7 +13060,9 @@
             "works_count": 453,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "WHO Solidarity Trial Consortium | Repurposed Antiviral Drugs for Covid-19 - Interim WHO Solidarity Trial Results | 10.1056/NEJMoa2023184",
@@ -12193,7 +13087,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Hong-yu Wang | Remdesivir and lopinavir/ritonavir treatment of coronavirus disease 2019",
@@ -12213,15 +13109,15 @@
     "question": "What is the consensus in scholarly literature regarding how the transition from volunteer-based peer review to financial compensation models impacts review quality, publication turnaround times, and the demographic diversity of the reviewer pool?",
     "references": [
       {
-        "citation": "Balázs Aczel | A billion-dollar donation: estimating the cost of researchers' time spent on peer review | 10.1186/s41073-021-00118-2",
+        "citation": "Bal\u00e1zs Aczel | A billion-dollar donation: estimating the cost of researchers' time spent on peer review | 10.1186/s41073-021-00118-2",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Balázs Aczel"
+          "Bal\u00e1zs Aczel"
         ],
         "found_authors_count": 3,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Balázs Aczel'], database match: Balazs Aczel",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Bal\u00e1zs Aczel'], database match: Balazs Aczel",
         "failed_dbs": [
           "Semantic Scholar",
           "arXiv"
@@ -12231,14 +13127,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Balázs Aczel",
+            "cited_name": "Bal\u00e1zs Aczel",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Carole J. Lee | Bias in peer review | 10.1002/asi.22784",
@@ -12263,7 +13161,9 @@
             "works_count": 32,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew M. Fox | Should reviewers be paid for their work?",
@@ -12313,7 +13213,9 @@
             "works_count": 601,
             "organization_country_id": "IR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Christopher J. L. Murray | Global burden of 87 risk factors in 204 countries and territories, 1990-2019 | 10.1016/S0140-6736(20)30752-2",
@@ -12338,7 +13240,9 @@
             "works_count": 1001,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Theo Vos | Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019 | 10.1016/S0140-6736(20)30925-9",
@@ -12363,7 +13267,9 @@
             "works_count": 670,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Ali H. Mokdad | The burden of disease in the Eastern Mediterranean Region | 10.2471/BLT.17.201095",
@@ -12389,7 +13295,9 @@
             "works_count": 942,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Reza Malekzadeh | The Golestan Cohort Study",
@@ -12426,7 +13334,9 @@
             "works_count": 177,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ian Roberts | The importance of early treatment with tranexamic acid in bleeding trauma patients | 10.1016/S0140-6736(17)32233-0",
@@ -12453,32 +13363,36 @@
             "works_count": 587,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Loïc Sentilhes | Tranexamic Acid for the Prevention of Blood Loss after Vaginal Delivery | 10.1056/NEJMoa1800942",
+        "citation": "Lo\u00efc Sentilhes | Tranexamic Acid for the Prevention of Blood Loss after Vaginal Delivery | 10.1056/NEJMoa1800942",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Loïc Sentilhes"
+          "Lo\u00efc Sentilhes"
         ],
         "found_authors_count": 20,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Loïc Sentilhes",
+        "matched_database_author": "Lo\u00efc Sentilhes",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Loïc Sentilhes",
+            "cited_name": "Lo\u00efc Sentilhes",
             "author_exists": true,
-            "fullest_name": "Loı̈c Sentilhes",
+            "fullest_name": "Lo\u0131\u0308c Sentilhes",
             "h_index": 61,
             "works_count": 630,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sukrat Novikova | Tranexamic acid for preventing postpartum haemorrhage | 10.1002/14651858.CD007872.pub3",
@@ -12502,7 +13416,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.94
       },
       {
         "citation": "WHO | WHO recommendation on tranexamic acid for the treatment of postpartum haemorrhage",
@@ -12514,7 +13430,7 @@
   {
     "id": "https://openalex.org/W4411545175",
     "model": "anthropic",
-    "question": "What does the broader clinical and observational literature reveal about how variations in stroke severity, infarct volume, and patient age modulate the safety and efficacy of early (≤4 days) versus delayed direct oral anticoagulant initiation in patients with atrial fibrillation?",
+    "question": "What does the broader clinical and observational literature reveal about how variations in stroke severity, infarct volume, and patient age modulate the safety and efficacy of early (\u22644 days) versus delayed direct oral anticoagulant initiation in patients with atrial fibrillation?",
     "references": [
       {
         "citation": "Urs Fischer | Early versus Later Anticoagulation for Stroke with Atrial Fibrillation | 10.1056/NEJMoa2303048",
@@ -12541,7 +13457,9 @@
             "works_count": 1036,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David J. Seiffge | Early start of DOAC after ischemic stroke related to atrial fibrillation | 10.1002/ana.25489",
@@ -12566,7 +13484,9 @@
             "works_count": 317,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Manesh Oldgren | Timing of oral anticoagulant therapy in acute ischemic stroke with atrial fibrillation | 10.1177/2396987316659157",
@@ -12592,15 +13512,17 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
-        "citation": "Signild Åsberg | Timing of anticoagulation after recent ischaemic stroke in patients with atrial fibrillation | 10.1016/S1474-4422(18)30356-9",
+        "citation": "Signild \u00c5sberg | Timing of anticoagulation after recent ischaemic stroke in patients with atrial fibrillation | 10.1016/S1474-4422(18)30356-9",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Signild Åsberg"
+          "Signild \u00c5sberg"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -12612,14 +13534,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Signild Åsberg",
+            "cited_name": "Signild \u00c5sberg",
             "author_exists": true,
-            "fullest_name": "Signild Åsberg",
+            "fullest_name": "Signild A\u030asberg",
             "h_index": 23,
             "works_count": 58,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.97
       },
       {
         "citation": "Hans-Christoph Diener | Early or late initiation of direct oral anticoagulants in patients with atrial fibrillation after acute ischemic stroke",
@@ -12657,7 +13581,9 @@
             "works_count": 23,
             "organization_country_id": "UG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wafaa El-Sadr | Integration of HIV and noncommunicable disease services | 10.1097/QAD.0000000000002177",
@@ -12683,7 +13609,9 @@
             "works_count": 513,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Miriam Rabkin | Integrating cardiovascular disease prevention into HIV care in sub-Saharan Africa",
@@ -12732,7 +13660,9 @@
             "works_count": 263,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter J. Neumann | Aligning HTA decisions with real-world outcomes | 10.1017/S0266462318000132",
@@ -12758,7 +13688,9 @@
             "works_count": 525,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James Raftery | Value based pricing and health technology assessment in England",
@@ -12807,7 +13739,9 @@
             "works_count": 1125,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paul E. Goss | Exemestane for Breast-Cancer Prevention in Postmenopausal Women | 10.1056/NEJMoa1103507",
@@ -12832,7 +13766,9 @@
             "works_count": 323,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jack Cuzick | Anastrozole for prevention of breast cancer in high-risk postmenopausal women (IBIS-II) long-term results | 10.1016/S0140-6736(19)32955-1",
@@ -12858,7 +13794,9 @@
             "works_count": 1125,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bernard Fisher | Tamoxifen for prevention of breast cancer | 10.1093/jnci/90.18.1371",
@@ -12883,7 +13821,9 @@
             "works_count": 521,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Victor G. Vogel | Effects of tamoxifen vs raloxifene on the risk of developing invasive breast cancer (STAR P-2 trial) | 10.1001/jama.295.23.joc60074",
@@ -12909,7 +13849,9 @@
             "works_count": 258,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   }
