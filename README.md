@@ -1,4 +1,4 @@
-# Investigating LLM and domain Bias in Hallucinated Author Citations  
+# Investigating LLM and Domain Bias in Hallucinated Author Citations  
 This repository holds our data and code for our 2026 altREU project.  
 
 
