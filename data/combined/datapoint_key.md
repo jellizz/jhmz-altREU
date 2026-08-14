@@ -6,7 +6,7 @@
 |---|---|
 | `level` | Aggregation level: overall, model, domain, source, model×domain, or model×source. |
 | `model` | LLM used: GPT, Gemini, or Claude. |
-| `domain` | Research domain: physics, CS, environmental, medicine, or social sciences. |
+| `domain` | Research domain: physics, CS, environmental, medicine, or social sciences (consisting of psychology and economics as subdomains). |
 | `source` | Specific source/journal/database within the domain. |
 | `total_citations` | Total citations in that group. |
 
