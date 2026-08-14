@@ -236,20 +236,20 @@ SOURCE_MAP = {
         "source": "totalenv",
     },
 
-
     # --------------------------------------------------------
-    # SOCIAL SCIENCES
+    # SOCIAL SCIENCES: SUBDOMAINS
     # --------------------------------------------------------
 
     "S23254222": {
-        "domain": "social_sciences",
+        "domain": "economics",
         "source": "economics",
     },
 
     "S9692511": {
-        "domain": "social_sciences",
+        "domain": "psychology",
         "source": "psychology",
     },
+
 
 
     # --------------------------------------------------------
