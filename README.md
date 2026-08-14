@@ -4,7 +4,7 @@ This repository holds our data and code for our 2026 altREU project.
 
 ## Overview  
 
-[**Access our project overview here**](docs/slides.md)  
+[**Access our project overview here.**](docs/slides.md)  
 
 This project investigates whether LLM-generated hallucinated citations are biased towards crediting highly cited, highly productive, or male authors.  
 
@@ -54,16 +54,16 @@ Abstract collection —> Generate literature review-style questions —> Generat
 **From LLM-generated citation to relevant data points (citation status, first author gender, first author productivity):**  
 Citation verification —> First author verification —> First author analysis of gender and h-index  
 
-For more detail, see our full methodology here: [View methodology](docs/methodology.md)
+For more detail, see our full methodology [here](docs/methodology.md).
 
 
 ## Results  
 See visuals of our results:  
 - [Hallucination rates](docs/figures/hallucination/hallu-figs.md)  
 - [Author gender](docs/figures/gender/gender-figs.md)  
-- [Author productivity](docs/figures/productivitydocs/figures/productivity/prod-figs.md)  
+- [Author productivity](docs/figures/productivity/prod-figs.md)  
 
-[See how we calculated our results.](docs/result_calcs.md)
+See how we calculated our results [here](docs/result_calcs.md).
 
 
 **Some key results:**  
@@ -157,8 +157,8 @@ The dataset contains published paper abstracts, LLM-generated questions, LLM-gen
 
 To use the data, clone this repository:  
   ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/jellizz/jhmz-altREU
+    cd jhmz-altREU
   ```
 See our [methodology page](docs/methodology.md) for details on how our data was collected.  
 
@@ -174,4 +174,4 @@ Run the scripts in `src/` for data generation, citation verification, and LLM-re
 
 
 ## References
-[View references here](docs/references.md)  
+View references [here](docs/references.md).
