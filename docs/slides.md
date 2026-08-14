@@ -1,4 +1,4 @@
-<img src="slides/slide1.png" width="100%" alt="Slide 1">
+<img src="slides/slide1.png" width="75%" alt="Slide 1">
 
 <img src="slides/slide2.png" width="100%" alt="Slide 2">
 
