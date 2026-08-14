@@ -27,7 +27,9 @@
             "works_count": 156,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anish Athalye | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples | 10.48550/arXiv.1802.00420",
@@ -52,7 +54,9 @@
             "works_count": 21,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Aleksander Madry | Towards Deep Learning Models Resistant to Adversarial Attacks | 10.48550/arXiv.1706.06083",
@@ -66,18 +70,20 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Aleksander Mądry",
+        "matched_database_author": "Aleksander M\u0105dry",
         "doi_valid": true,
         "identified_authors": [
           {
             "cited_name": "Aleksander Madry",
             "author_exists": true,
-            "fullest_name": "Aleksander Ma̧dry",
+            "fullest_name": "Aleksander Ma\u0327dry",
             "h_index": 44,
             "works_count": 152,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jeremy M. Cohen | Certified Adversarial Robustness via Randomized Smoothing | 10.48550/arXiv.1902.02918",
@@ -102,7 +108,9 @@
             "works_count": 87,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Weilin Xu | Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks | 10.14722/ndss.2018.23198",
@@ -127,7 +135,9 @@
             "works_count": 370,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.56
       }
     ]
   },
@@ -159,7 +169,9 @@
             "works_count": 739,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.61
       },
       {
         "citation": "Xiaodong He | Adaptive Neural Network Control of a Flexible Spacecraft with Input Nonlinearity and Output Constraint | 10.1016/j.asoc.2020.106092",
@@ -185,7 +197,9 @@
             "works_count": 365,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Yongduan Song | Neuroadaptive Fault-Tolerant Control of Flexible Spacecraft with Prescribed Performance | 10.1109/TNNLS.2016.2554201",
@@ -209,7 +223,9 @@
             "works_count": 519,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Shuzhi Sam Ge | Adaptive Neural Control of Uncertain MIMO Nonlinear Systems | 10.1109/TNN.2004.832733",
@@ -234,7 +250,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Jing Zhou | Adaptive Neural Network Backstepping Control of a Flexible Spacecraft with Unknown Parameters | 10.1016/j.ast.2017.03.022",
@@ -260,14 +278,16 @@
             "works_count": 235,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.82
       }
     ]
   },
   {
     "id": "https://openalex.org/W4210984939",
     "model": "gpt",
-    "question": "How do delay-free saturation-based control strategies for finite-time and fixed-time bipartite synchronization in signed memristive neural networks with multiple delays compare with sign-function, adaptive, impulsive, and event-triggered controllers reported in the broader synchronization literature in terms of convergence guarantees, chattering reduction, robustness to cooperative–competitive topology, and optimization of control parameters?",
+    "question": "How do delay-free saturation-based control strategies for finite-time and fixed-time bipartite synchronization in signed memristive neural networks with multiple delays compare with sign-function, adaptive, impulsive, and event-triggered controllers reported in the broader synchronization literature in terms of convergence guarantees, chattering reduction, robustness to cooperative\u2013competitive topology, and optimization of control parameters?",
     "references": [
       {
         "citation": "Xiaodi Li | Fixed-Time Synchronization of Memristor-Based Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2017.08.012",
@@ -293,7 +313,9 @@
             "works_count": 456,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Jinde Cao | Finite-Time Synchronization of Delayed Memristor-Based Recurrent Neural Networks | 10.1016/j.neucom.2014.05.043",
@@ -320,7 +342,9 @@
             "works_count": 2581,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Bo Liu | Fixed-Time Bipartite Synchronization of Signed Memristive Neural Networks with Multiple Delays | 10.1016/j.ins.2021.11.058",
@@ -347,7 +371,9 @@
             "works_count": 3764,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Chao Hu | Impulsive Control for Synchronization of Delayed Neural Networks with Uncertain Parameters | 10.1016/j.neunet.2010.05.006",
@@ -373,7 +399,9 @@
             "works_count": 296,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Zhen Wang | Event-Triggered Synchronization of Memristive Neural Networks with Time-Varying Delays | 10.1016/j.neucom.2016.11.067",
@@ -399,7 +427,9 @@
             "works_count": 869,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       }
     ]
   },
@@ -433,7 +463,9 @@
             "works_count": 450,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Petros Drineas | RandNLA: Randomized Numerical Linear Algebra | 10.1145/2842602",
@@ -458,7 +490,9 @@
             "works_count": 222,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ali Rahimi | Random Features for Large-Scale Kernel Machines | 10.5555/2981562.2981710",
@@ -483,7 +517,9 @@
             "works_count": 384,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Francis Bach | On the Equivalence between Kernel Quadrature Rules and Random Feature Expansions | 10.5555/3044805.3044957",
@@ -508,7 +544,9 @@
             "works_count": 391,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Mikhail Belkin | Reconciling Modern Machine-Learning Practice and the Classical Bias-Variance Trade-Off | 10.1073/pnas.1903070116",
@@ -533,7 +571,9 @@
             "works_count": 230,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -564,7 +604,9 @@
             "works_count": 340,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       },
       {
         "citation": "Xia Li | Object Detection in the Wild: A Survey | 10.1109/TNNLS.2021.3090234",
@@ -590,7 +632,9 @@
             "works_count": 1277,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.79
       },
       {
         "citation": "Christos Sakaridis | Semantic Foggy Scene Understanding with Synthetic Data | 10.1007/s11263-018-1072-8",
@@ -615,7 +659,9 @@
             "works_count": 93,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yuhua Chen | Domain Adaptive Faster R-CNN for Object Detection in the Wild | 10.1109/CVPR.2018.00354",
@@ -640,7 +686,9 @@
             "works_count": 234,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.77
       },
       {
         "citation": "Kshitiz Garg | Unsupervised Deraining: Where Contrastive Learning Meets Self-Similarity | 10.1109/CVPR46437.2021.00577",
@@ -664,7 +712,9 @@
             "works_count": 11,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -696,7 +746,9 @@
             "works_count": 79,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Niki Kilbertus | Avoiding Discrimination through Causal Reasoning | 10.5555/3305890.3305896",
@@ -721,7 +773,9 @@
             "works_count": 87,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.77
       },
       {
         "citation": "Christos Louizos | The Variational Fair Autoencoder | 10.48550/arXiv.1511.00830",
@@ -746,7 +800,9 @@
             "works_count": 67,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Brian Hu Zhang | Mitigating Unwanted Biases with Adversarial Learning | 10.1145/3278721.3278779",
@@ -771,7 +827,9 @@
             "works_count": 24,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yaroslav Ganin | Domain-Adversarial Training of Neural Networks | 10.1007/s10994-016-5559-5",
@@ -796,7 +854,9 @@
             "works_count": 22,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -828,7 +888,9 @@
             "works_count": 248,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Eric Kolve | AI2-THOR: An Interactive 3D Environment for Visual AI | 10.48550/arXiv.1712.05474",
@@ -853,7 +915,9 @@
             "works_count": 19,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Saurabh Gupta | Cognitive Mapping and Planning for Visual Navigation | 10.1109/CVPR.2017.261",
@@ -878,7 +942,9 @@
             "works_count": 260,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tianhao Zhang | Learning to Navigate in Indoor Environments: A Deep Reinforcement Learning Approach | 10.48550/arXiv.1611.03673",
@@ -902,7 +968,9 @@
             "works_count": 267,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       },
       {
         "citation": "Linjie Yang | Visual Semantic Navigation Using Scene Priors | 10.48550/arXiv.1810.06543",
@@ -926,7 +994,9 @@
             "works_count": 109,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       }
     ]
   },
@@ -958,7 +1028,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Yujun Lin | Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training | 10.48550/arXiv.1712.01887",
@@ -983,7 +1055,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Sebastian U. Stich | Local SGD Converges Fast and Communicates Little | 10.48550/arXiv.1805.09767",
@@ -1008,7 +1082,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jianyu Wang | Cooperative SGD: A Unified Framework for the Design and Analysis of Communication-Efficient SGD Algorithms | 10.5555/3454287.3455127",
@@ -1033,7 +1109,9 @@
             "works_count": 1234,
             "organization_country_id": "NP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       },
       {
         "citation": "Tal Ben-Nun | Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis | 10.1145/3320060",
@@ -1058,14 +1136,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       }
     ]
   },
   {
     "id": "https://openalex.org/W3211583675",
     "model": "gpt",
-    "question": "How do different reinforcement learning formulations and algorithmic choices for single- and multi-robot exploration compare in addressing exploration–exploitation trade-offs, reward shaping, scalability, and sim-to-real transfer across diverse unknown-environment scenarios?",
+    "question": "How do different reinforcement learning formulations and algorithmic choices for single- and multi-robot exploration compare in addressing exploration\u2013exploitation trade-offs, reward shaping, scalability, and sim-to-real transfer across diverse unknown-environment scenarios?",
     "references": [
       {
         "citation": "Bradley Yamauchi | A Frontier-Based Approach for Autonomous Exploration | 10.1109/CIRA.1997.613851",
@@ -1090,7 +1170,9 @@
             "works_count": 38,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dirk Holz | Evaluating the Efficiency of Frontier-Based Exploration Strategies | 10.1109/ISR.2010.5756930",
@@ -1115,7 +1197,9 @@
             "works_count": 64,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zhao Chen | Decentralized Multi-Agent Reinforcement Learning for Unknown Environment Exploration | 10.1109/ICRA40945.2020.9196844",
@@ -1139,7 +1223,9 @@
             "works_count": 269,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.64
       },
       {
         "citation": "Luca Tai | A Survey of Deep Network Solutions for Learning Control in Robotics | 10.1109/TRO.2017.2762638",
@@ -1164,7 +1250,9 @@
             "works_count": 28,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.53
       },
       {
         "citation": "Saurabh Gupta | Cognitive Mapping and Planning for Visual Navigation | 10.1109/CVPR.2017.261",
@@ -1189,7 +1277,9 @@
             "works_count": 260,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1221,7 +1311,9 @@
             "works_count": 390,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jake Snell | Prototypical Networks for Few-Shot Learning | 10.5555/3294771.3295024",
@@ -1246,7 +1338,9 @@
             "works_count": 20,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Oriol Vinyals | Matching Networks for One Shot Learning | 10.5555/3045390.3045592",
@@ -1271,7 +1365,9 @@
             "works_count": 209,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Wei-Yu Chen | A Closer Look at Few-Shot Classification | 10.48550/arXiv.1904.04232",
@@ -1296,7 +1392,9 @@
             "works_count": 323,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Yann LeCun | Dimensionality Reduction by Learning an Invariant Mapping | 10.1109/CVPR.2006.100",
@@ -1316,19 +1414,21 @@
           {
             "cited_name": "Yann LeCun",
             "author_exists": true,
-            "fullest_name": "LeCun, Yann André",
+            "fullest_name": "LeCun, Yann Andr\u00e9",
             "h_index": 120,
             "works_count": 477,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W3198713693",
     "model": "gpt",
-    "question": "How do pixel-level spectrum transformations (e.g., grayscale-spectrum substitution or GAN-based modality translation), feature-level modality-sharing architectures, and ranking/identity losses collectively affect the preservation of structural identity cues and reduction of visible–infrared modality discrepancy in VI-ReID across benchmark datasets such as SYSU-MM01 and RegDB?",
+    "question": "How do pixel-level spectrum transformations (e.g., grayscale-spectrum substitution or GAN-based modality translation), feature-level modality-sharing architectures, and ranking/identity losses collectively affect the preservation of structural identity cues and reduction of visible\u2013infrared modality discrepancy in VI-ReID across benchmark datasets such as SYSU-MM01 and RegDB?",
     "references": [
       {
         "citation": "Ancong Wu | RGB-Infrared Cross-Modality Person Re-Identification | 10.1109/ICCV.2017.584",
@@ -1353,7 +1453,9 @@
             "works_count": 64,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Mang Ye | Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking | 10.24963/ijcai.2018/127",
@@ -1378,7 +1480,9 @@
             "works_count": 229,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       },
       {
         "citation": "Pingyang Dai | Cross-Modality Person Re-Identification with Generative Adversarial Training | 10.24963/ijcai.2018/128",
@@ -1403,7 +1507,9 @@
             "works_count": 60,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.55
       },
       {
         "citation": "Ye Ling | Cross-Modality Paired-Images Generation for RGB-Infrared Person Re-Identification | 10.1609/aaai.v34i07.6834",
@@ -1427,7 +1533,9 @@
             "works_count": 380,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Hao Luo | Bag of Tricks and a Strong Baseline for Deep Person Re-Identification | 10.1109/CVPRW.2019.00190",
@@ -1452,7 +1560,9 @@
             "works_count": 327,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.66
       }
     ]
   },
@@ -1484,7 +1594,9 @@
             "works_count": 575,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Josh Bongard | Resilient Machines through Continuous Self-Modeling | 10.1126/science.1124185",
@@ -1511,7 +1623,9 @@
             "works_count": 229,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ludovic Righetti | Pattern Generators with Sensory Feedback for the Control of Quadruped Locomotion | 10.1109/ICRA.2008.4543306",
@@ -1536,7 +1650,9 @@
             "works_count": 226,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jens Kober | Reinforcement Learning in Robotics: A Survey | 10.1177/0278364913495721",
@@ -1561,7 +1677,9 @@
             "works_count": 232,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marc H. Raibert | Legged Robots That Balance | 10.7551/mitpress/4236.001.0001",
@@ -1586,7 +1704,9 @@
             "works_count": 81,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -1619,7 +1739,9 @@
             "works_count": 169,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Samuel Yen-Chi Chen | Federated Quantum Machine Learning | 10.48550/arXiv.2103.12010",
@@ -1644,7 +1766,9 @@
             "works_count": 159,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kishor Bharti | Noisy Intermediate-Scale Quantum Algorithms | 10.1103/RevModPhys.94.015004",
@@ -1669,7 +1793,9 @@
             "works_count": 97,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Wittek | Quantum Machine Learning: What Quantum Computing Means to Data Mining | 10.1016/C2013-0-19170-7",
@@ -1683,7 +1809,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Péter Wittek",
+        "matched_database_author": "P\u00e9ter Wittek",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -1694,7 +1820,9 @@
             "works_count": 118,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Qiang Yang | Federated Machine Learning: Concept and Applications | 10.1145/3298981",
@@ -1719,7 +1847,9 @@
             "works_count": 1343,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -1753,7 +1883,9 @@
             "works_count": 70,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Keyulu Xu | Representation Learning on Graphs with Jumping Knowledge Networks | 10.48550/arXiv.1806.03536",
@@ -1778,32 +1910,36 @@
             "works_count": 24,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       },
       {
-        "citation": "Petar Veličković | Graph Attention Networks | 10.48550/arXiv.1710.10903",
+        "citation": "Petar Veli\u010dkovi\u0107 | Graph Attention Networks | 10.48550/arXiv.1710.10903",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Petar Veličković"
+          "Petar Veli\u010dkovi\u0107"
         ],
         "found_authors_count": 6,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Petar Veličković",
+        "matched_database_author": "Petar Veli\u010dkovi\u0107",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Petar Veličković",
+            "cited_name": "Petar Veli\u010dkovi\u0107",
             "author_exists": true,
             "fullest_name": "Velickovic, Petar",
             "h_index": 25,
             "works_count": 143,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Uri Alon | On the Bottleneck of Graph Neural Networks and Its Practical Implications | 10.48550/arXiv.2006.05205",
@@ -1828,7 +1964,9 @@
             "works_count": 357,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chamberlain Benjamin Paul | Grand: Graph Neural Diffusion | 10.48550/arXiv.2106.10934",
@@ -1852,14 +1990,16 @@
             "works_count": 32,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4388966583",
     "model": "gpt",
-    "question": "How do cross-domain ECG classification architectures that integrate time- and frequency-domain representations, such as SCDNN with soft-adaptive spectral thresholding, compare with prior feature-engineering, CNN/RNN/Transformer, and hybrid spectral–temporal approaches in terms of interpretability, computational efficiency, robustness across datasets, and ability to detect complex arrhythmia or morphology patterns?",
+    "question": "How do cross-domain ECG classification architectures that integrate time- and frequency-domain representations, such as SCDNN with soft-adaptive spectral thresholding, compare with prior feature-engineering, CNN/RNN/Transformer, and hybrid spectral\u2013temporal approaches in terms of interpretability, computational efficiency, robustness across datasets, and ability to detect complex arrhythmia or morphology patterns?",
     "references": [
       {
         "citation": "Philip de Chazal | Automatic Classification of Heartbeats Using ECG Morphology and Heartbeat Interval Features | 10.1109/TBME.2004.827359",
@@ -1884,7 +2024,9 @@
             "works_count": 203,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zubair Ihsan | Classification of Normal and Arrhythmic ECG Signals Based on the Empirical Mode Decomposition | 10.1109/ICMLA.2016.0069",
@@ -1908,32 +2050,36 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
-        "citation": "Özal Yıldırım | A Novel Wavelet Sequence Based on Deep Bidirectional LSTM Network Model for ECG Signal Classification | 10.1016/j.compbiomed.2018.03.016",
+        "citation": "\u00d6zal Y\u0131ld\u0131r\u0131m | A Novel Wavelet Sequence Based on Deep Bidirectional LSTM Network Model for ECG Signal Classification | 10.1016/j.compbiomed.2018.03.016",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Özal Yıldırım"
+          "\u00d6zal Y\u0131ld\u0131r\u0131m"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Özal Yıldırım'], database match: Özal Yıldırım",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['\u00d6zal Y\u0131ld\u0131r\u0131m'], database match: \u00d6zal Y\u0131ld\u0131r\u0131m",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Özal Yıldırım",
+        "matched_database_author": "\u00d6zal Y\u0131ld\u0131r\u0131m",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Özal Yıldırım",
+            "cited_name": "\u00d6zal Y\u0131ld\u0131r\u0131m",
             "author_exists": true,
-            "fullest_name": "Özal Yildirim",
+            "fullest_name": "O\u0308zal Yildirim",
             "h_index": 32,
             "works_count": 112,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "U. Rajendra Acharya | A Deep Convolutional Neural Network Model to Classify Heartbeats | 10.1016/j.compbiomed.2017.08.022",
@@ -1958,15 +2104,17 @@
             "works_count": 1136,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Sercan Ö. Arik | Interpretable Sequence Learning for COVID-19 Forecasting | 10.48550/arXiv.2008.00646",
+        "citation": "Sercan \u00d6. Arik | Interpretable Sequence Learning for COVID-19 Forecasting | 10.48550/arXiv.2008.00646",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Sercan Ö. Arik"
+          "Sercan \u00d6. Arik"
         ],
         "found_authors_count": 15,
         "reason": "title and author both matched a database record",
@@ -1975,14 +2123,16 @@
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Sercan Ö. Arik",
+            "cited_name": "Sercan \u00d6. Arik",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -2014,7 +2164,9 @@
             "works_count": 338,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yoshihiko Nakamura | Task-Priority Based Redundancy Control of Robot Manipulators | 10.1177/027836498700600201",
@@ -2039,7 +2191,9 @@
             "works_count": 1008,
             "organization_country_id": "AE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Bruno Siciliano | Kinematic Control of Redundant Robot Manipulators: A Tutorial | 10.1007/BF00126069",
@@ -2064,7 +2218,9 @@
             "works_count": 523,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yunong Zhang | Repetitive Motion Planning of Redundant Robot Manipulators with Joint Physical Limits | 10.1109/TMECH.2012.2199021",
@@ -2088,7 +2244,9 @@
             "works_count": 847,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Shuai Li | Neural Dynamics for Cooperative Control of Redundant Robot Manipulators | 10.1109/TNNLS.2015.2420571",
@@ -2113,7 +2271,9 @@
             "works_count": 761,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       }
     ]
   },
@@ -2145,7 +2305,9 @@
             "works_count": 64,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Yu Kong | Human Action Recognition and Prediction: A Survey | 10.1007/s11263-018-1099-0",
@@ -2170,7 +2332,9 @@
             "works_count": 162,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bingbing Ni | Multiple Granularity Analysis for Fine-Grained Action Detection | 10.1109/CVPR.2016.81",
@@ -2195,7 +2359,9 @@
             "works_count": 410,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.72
       },
       {
         "citation": "Shuiwang Ji | 3D Convolutional Neural Networks for Human Action Recognition | 10.1109/TPAMI.2012.59",
@@ -2220,7 +2386,9 @@
             "works_count": 298,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.51
       },
       {
         "citation": "Hara Kensho | Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? | 10.1109/CVPR.2018.00685",
@@ -2244,7 +2412,9 @@
             "works_count": 54,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2276,7 +2446,9 @@
             "works_count": 320,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuzhi Sam Ge | Stable Adaptive Neural Network Control | 10.1007/978-1-4615-1289-6",
@@ -2301,7 +2473,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Frank L. Lewis | Neural Network Control of Robot Manipulators and Nonlinear Systems | 10.1201/9781482276168",
@@ -2326,7 +2500,9 @@
             "works_count": 1318,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "J. J. E. Slotine | On the Adaptive Control of Robot Manipulators | 10.1177/027836498700600303",
@@ -2351,7 +2527,9 @@
             "works_count": 373,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "J. G. Ziegler | Optimum Settings for Automatic Controllers | 10.1115/1.2899060",
@@ -2376,14 +2554,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       }
     ]
   },
   {
     "id": "https://openalex.org/W3153686193",
     "model": "gpt",
-    "question": "How do generalized likelihood ratio test–based adaptive anomaly detectors for hyperspectral imagery with unknown covariance and multi-pixel anomaly structure compare across the broader literature with alternative CFAR, subspace, sparsity-based, and deep-learning anomaly detection methods in terms of theoretical assumptions, false-alarm control, computational complexity, and empirical performance on real hyperspectral datasets?",
+    "question": "How do generalized likelihood ratio test\u2013based adaptive anomaly detectors for hyperspectral imagery with unknown covariance and multi-pixel anomaly structure compare across the broader literature with alternative CFAR, subspace, sparsity-based, and deep-learning anomaly detection methods in terms of theoretical assumptions, false-alarm control, computational complexity, and empirical performance on real hyperspectral datasets?",
     "references": [
       {
         "citation": "Irving S. Reed | Adaptive Multiple-Band CFAR Detection of an Optical Pattern with Unknown Spectral Distribution | 10.1109/TASSP.1990.572740",
@@ -2410,7 +2590,9 @@
             "works_count": 396,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sanjay Matteoli | A Tutorial Overview of Anomaly Detection in Hyperspectral Images | 10.1109/MAES.2010.5546306",
@@ -2435,7 +2617,9 @@
             "works_count": 96,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Qian Du | Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation | 10.1109/TGRS.2013.2266677",
@@ -2459,7 +2643,9 @@
             "works_count": 941,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Nasrabadi Nasser M. | Hyperspectral Target Detection: An Overview of Current and Future Challenges | 10.1109/MSP.2013.2278992",
@@ -2485,7 +2671,9 @@
             "works_count": 574,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wenzhi Li | Hyperspectral Anomaly Detection with Kernel RX-Algorithm | 10.1109/TGRS.2014.2302435",
@@ -2509,7 +2697,9 @@
             "works_count": 659,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.89
       }
     ]
   },
@@ -2540,7 +2730,9 @@
             "works_count": 456,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Ju H. Park | Synchronization of Quaternion-Valued Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2015.06.001",
@@ -2564,7 +2756,9 @@
             "works_count": 1290,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.61
       },
       {
         "citation": "Jinde Cao | Finite-Time Synchronization of Delayed Neural Networks | 10.1016/j.physleta.2006.06.084",
@@ -2588,7 +2782,9 @@
             "works_count": 2581,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Xinsong Yang | Event-Triggered Synchronization of Complex Networks with Time-Varying Delays | 10.1016/j.automatica.2015.11.012",
@@ -2614,7 +2810,9 @@
             "works_count": 226,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       },
       {
         "citation": "Zidong Wang | Pinning Synchronization of Coupled Neural Networks with Time-Varying Delays | 10.1109/TNN.2008.2005602",
@@ -2638,14 +2836,16 @@
             "works_count": 1709,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       }
     ]
   },
   {
     "id": "https://openalex.org/W4410115157",
     "model": "gpt",
-    "question": "How do spectral feature extraction, prompt-based adaptation of RGB tracking architectures, and occlusion-aware distractor modeling compare across recent hyperspectral object tracking studies in addressing dataset bias, camouflage, and spectral–spatial ambiguity in challenging tracking scenarios?",
+    "question": "How do spectral feature extraction, prompt-based adaptation of RGB tracking architectures, and occlusion-aware distractor modeling compare across recent hyperspectral object tracking studies in addressing dataset bias, camouflage, and spectral\u2013spatial ambiguity in challenging tracking scenarios?",
     "references": [
       {
         "citation": "Lianghua Xie | Object Tracking in Hyperspectral Videos with Convolutional Features and Kernelized Correlation Filter | 10.1109/TGRS.2018.2874182",
@@ -2669,7 +2869,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Yiwei Qian | Hyperspectral Object Tracking Benchmark and Baseline | 10.1109/TIP.2020.3017115",
@@ -2693,7 +2895,9 @@
             "works_count": 104,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.78
       },
       {
         "citation": "Matej Kristan | The Visual Object Tracking VOT2018 Challenge Results | 10.1007/978-3-030-11009-3_1",
@@ -2718,7 +2922,9 @@
             "works_count": 216,
             "organization_country_id": "SI"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Luca Bertinetto | Fully-Convolutional Siamese Networks for Object Tracking | 10.1007/978-3-319-48881-3_56",
@@ -2743,7 +2949,9 @@
             "works_count": 39,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Heng Fan | LaSOT: A High-Quality Benchmark for Large-Scale Single Object Tracking | 10.1109/CVPR.2019.00551",
@@ -2763,12 +2971,14 @@
           {
             "cited_name": "Heng Fan",
             "author_exists": true,
-            "fullest_name": "Heng 桁 Fan 范",
+            "fullest_name": "Heng \u6841 Fan \u8303",
             "h_index": 69,
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -2800,7 +3010,9 @@
             "works_count": 86,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gregory L. Plett | Extended Kalman Filtering for Battery Management Systems of LiPB-Based HEV Battery Packs | 10.1016/j.jpowsour.2004.02.032",
@@ -2825,7 +3037,9 @@
             "works_count": 114,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kandler Smith | Models for Battery Reliability and Lifetime | 10.1016/j.jpowsour.2007.06.065",
@@ -2850,7 +3064,9 @@
             "works_count": 270,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chao Hu | Advanced Fault Diagnosis for Lithium-Ion Battery Systems: A Review | 10.1109/TTE.2020.3004979",
@@ -2874,7 +3090,9 @@
             "works_count": 296,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Seong Beom Lee | Physics-Informed Neural Networks for Battery Degradation Diagnostics | 10.1016/j.jpowsour.2021.230779",
@@ -2898,14 +3116,16 @@
             "works_count": 65,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       }
     ]
   },
   {
     "id": "https://openalex.org/W4402475181",
     "model": "gpt",
-    "question": "How do multilabel machine-learning frameworks that incorporate disease–microbe semantic similarity, feature-selection priors, and imbalance-aware loss functions compare with single-label microbiome-based classifiers across diverse studies in their ability to identify robust, generalizable gut microbial biomarkers for complex human diseases?",
+    "question": "How do multilabel machine-learning frameworks that incorporate disease\u2013microbe semantic similarity, feature-selection priors, and imbalance-aware loss functions compare with single-label microbiome-based classifiers across diverse studies in their ability to identify robust, generalizable gut microbial biomarkers for complex human diseases?",
     "references": [
       {
         "citation": "Jie Qin | A Human Gut Microbial Gene Catalogue Established by Metagenomic Sequencing | 10.1038/nature08821",
@@ -2932,7 +3152,9 @@
             "works_count": 99,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Georg Zeller | Potential of Fecal Microbiota for Early-Stage Detection of Colorectal Cancer | 10.15252/msb.20145645",
@@ -2957,7 +3179,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Thomas R. Golub | Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring | 10.1126/science.286.5439.531",
@@ -2982,7 +3206,9 @@
             "works_count": 750,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jing Wang | Disease-Microbe Association Prediction by Random Walk on the Heterogeneous Network | 10.1093/bioinformatics/btv387",
@@ -3006,7 +3232,9 @@
             "works_count": 1439,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Minoru Kanehisa | KEGG: Kyoto Encyclopedia of Genes and Genomes | 10.1093/nar/28.1.27",
@@ -3031,7 +3259,9 @@
             "works_count": 416,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3065,7 +3295,9 @@
             "works_count": 115,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Auke Jan Ijspeert | Central Pattern Generators for Locomotion Control in Animals and Robots | 10.1016/j.neunet.2008.03.014",
@@ -3090,7 +3322,9 @@
             "works_count": 575,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Mitsuo Kawato | Feedback-Error-Learning Neural Network for Supervised Motor Learning | 10.1016/S0893-6080(05)80027-9",
@@ -3115,7 +3349,9 @@
             "works_count": 673,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kenji Doya | What Are the Computations of the Cerebellum, the Basal Ganglia and the Cerebral Cortex? | 10.1016/S0959-4388(99)80030-0",
@@ -3140,7 +3376,9 @@
             "works_count": 417,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jan Peters | Reinforcement Learning of Motor Skills with Policy Gradients | 10.1162/0899766041946187",
@@ -3165,7 +3403,9 @@
             "works_count": 854,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -3200,7 +3440,9 @@
             "works_count": 314,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert Tibshirani | Regression Shrinkage and Selection via the Lasso | 10.1111/j.2517-6161.1996.tb02080.x",
@@ -3225,7 +3467,9 @@
             "works_count": 1029,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stanley Osher | An Iterative Regularization Method for Total Variation-Based Image Restoration | 10.1137/040605412",
@@ -3250,7 +3494,9 @@
             "works_count": 762,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jun Wang | Recurrent Neural Networks for Solving Linear Programming Problems | 10.1109/72.317728",
@@ -3274,7 +3520,9 @@
             "works_count": 3204,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Shuai Li | A Survey of Recurrent Neural Networks for Optimization | 10.1109/TNNLS.2017.2763929",
@@ -3298,14 +3546,16 @@
             "works_count": 1181,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
   {
     "id": "https://openalex.org/W4388505329",
     "model": "gpt",
-    "question": "How do spatial-temporal graph-based deep learning approaches—particularly those combining slow feature analysis, metric learning, prior process knowledge, variational inference, and graph attention mechanisms—compare with traditional multivariate statistical monitoring and unit-level fault detection models in capturing dynamic coupling and improving fault detection performance across interconnected industrial processes?",
+    "question": "How do spatial-temporal graph-based deep learning approaches\u2014particularly those combining slow feature analysis, metric learning, prior process knowledge, variational inference, and graph attention mechanisms\u2014compare with traditional multivariate statistical monitoring and unit-level fault detection models in capturing dynamic coupling and improving fault detection performance across interconnected industrial processes?",
     "references": [
       {
         "citation": "John V. Kresta | Multivariate Statistical Monitoring of Process Operating Performance | 10.1002/aic.690370616",
@@ -3332,7 +3582,9 @@
             "works_count": 3,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuichi Wold | Principal Component Analysis | 10.1016/0169-7439(87)80084-9",
@@ -3357,7 +3609,9 @@
             "works_count": 451,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Schlegl | Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery | 10.1007/978-3-319-59050-9_12",
@@ -3382,7 +3636,9 @@
             "works_count": 143,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zonghan Wu | A Comprehensive Survey on Graph Neural Networks | 10.1109/TNNLS.2020.2978386",
@@ -3402,37 +3658,41 @@
           {
             "cited_name": "Zonghan Wu",
             "author_exists": true,
-            "fullest_name": "Zong–Han Wu",
+            "fullest_name": "Zong\u2013Han Wu",
             "h_index": 15,
             "works_count": 53,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
-        "citation": "Petar Veličković | Graph Attention Networks | 10.48550/arXiv.1710.10903",
+        "citation": "Petar Veli\u010dkovi\u0107 | Graph Attention Networks | 10.48550/arXiv.1710.10903",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Petar Veličković"
+          "Petar Veli\u010dkovi\u0107"
         ],
         "found_authors_count": 6,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Petar Veličković",
+        "matched_database_author": "Petar Veli\u010dkovi\u0107",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Petar Veličković",
+            "cited_name": "Petar Veli\u010dkovi\u0107",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3464,7 +3724,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Sylvestre-Alvise Rebuffi | iCaRL: Incremental Classifier and Representation Learning | 10.1109/CVPR.2017.587",
@@ -3489,7 +3751,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "David Lopez-Paz | Gradient Episodic Memory for Continual Learning | 10.5555/3294771.3294886",
@@ -3500,10 +3764,10 @@
           "David Lopez-Paz"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['David Lopez-Paz'], database match: David López-Paz",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['David Lopez-Paz'], database match: David L\u00f3pez-Paz",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "David López-Paz",
+        "matched_database_author": "David L\u00f3pez-Paz",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -3514,7 +3778,9 @@
             "works_count": 73,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arslan Chaudhry | Efficient Lifelong Learning with A-GEM | 10.48550/arXiv.1812.00420",
@@ -3539,7 +3805,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Matthias De Lange | A Continual Learning Survey: Defying Forgetting in Classification Tasks | 10.1109/TPAMI.2021.3057446",
@@ -3563,7 +3831,9 @@
             "works_count": 107,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3596,7 +3866,9 @@
             "works_count": 2034,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Abhishek Kumar | A Co-Training Approach for Multi-View Spectral Clustering | 10.5555/3104482.3104566",
@@ -3621,7 +3893,9 @@
             "works_count": 3015,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sheng Li | Self-Paced Learning for Latent Variable Models | 10.5555/3104482.3104582",
@@ -3647,7 +3921,9 @@
             "works_count": 1181,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Mingsheng Long | Deep Canonical Correlation Analysis for Multi-View Learning | 10.5555/3042817.3043065",
@@ -3671,7 +3947,9 @@
             "works_count": 213,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Yingming Li | Deep Multi-View Clustering via Collaborative Representation Learning | 10.1145/3123266.3123389",
@@ -3698,14 +3976,16 @@
             "works_count": 267,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       }
     ]
   },
   {
     "id": "https://openalex.org/W3148874463",
     "model": "gpt",
-    "question": "How do feedback- and attention-based mechanisms in deep learning segmentation models, such as FANet’s use of previous-epoch prediction masks, compare with other iterative refinement, temporal ensembling, self-training, and attention-gating strategies across biomedical image segmentation tasks in terms of accuracy, generalizability, computational cost, and robustness to dataset heterogeneity?",
+    "question": "How do feedback- and attention-based mechanisms in deep learning segmentation models, such as FANet\u2019s use of previous-epoch prediction masks, compare with other iterative refinement, temporal ensembling, self-training, and attention-gating strategies across biomedical image segmentation tasks in terms of accuracy, generalizability, computational cost, and robustness to dataset heterogeneity?",
     "references": [
       {
         "citation": "Olaf Ronneberger | U-Net: Convolutional Networks for Biomedical Image Segmentation | 10.1007/978-3-319-24574-4_28",
@@ -3730,7 +4010,9 @@
             "works_count": 155,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ozan Oktay | Attention U-Net: Learning Where to Look for the Pancreas | 10.48550/arXiv.1804.03999",
@@ -3755,7 +4037,9 @@
             "works_count": 102,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kaiming He | Mask R-CNN | 10.1109/ICCV.2017.322",
@@ -3780,7 +4064,9 @@
             "works_count": 163,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Samuli Laine | Temporal Ensembling for Semi-Supervised Learning | 10.48550/arXiv.1610.02242",
@@ -3805,7 +4091,9 @@
             "works_count": 93,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kamalini Ghosh | Feedback U-Net for Cell Image Segmentation | 10.1109/ISBI.2019.8759444",
@@ -3829,14 +4117,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       }
     ]
   },
   {
     "id": "https://openalex.org/W4390075009",
     "model": "gpt",
-    "question": "How do layer-adaptive parameter sharing, locality-enhanced transformer modules, and evolutionary architecture search jointly affect performance–storage trade-offs in multi-task vision transformers compared with prior CNN-based, hierarchical-transformer-based, and task-specific backbone approaches across diverse visual recognition tasks?",
+    "question": "How do layer-adaptive parameter sharing, locality-enhanced transformer modules, and evolutionary architecture search jointly affect performance\u2013storage trade-offs in multi-task vision transformers compared with prior CNN-based, hierarchical-transformer-based, and task-specific backbone approaches across diverse visual recognition tasks?",
     "references": [
       {
         "citation": "Alexey Dosovitskiy | An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale | 10.48550/arXiv.2010.11929",
@@ -3863,7 +4153,9 @@
             "works_count": 91,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ze Liu | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | 10.1109/ICCV48922.2021.00986",
@@ -3888,7 +4180,9 @@
             "works_count": 1147,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Simon Vandenhende | Multi-Task Learning for Dense Prediction Tasks: A Survey | 10.1109/TPAMI.2021.3054719",
@@ -3913,7 +4207,9 @@
             "works_count": 22,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Brandon R. McMahan | Communication-Efficient Learning of Deep Networks from Decentralized Data | 10.48550/arXiv.1602.05629",
@@ -3937,7 +4233,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Han Cai | ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | 10.48550/arXiv.1812.00332",
@@ -3962,14 +4260,16 @@
             "works_count": 131,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.51
       }
     ]
   },
   {
     "id": "https://openalex.org/W4403674934",
     "model": "gpt",
-    "question": "How do recent advances in Lyapunov–Krasovskii functional construction, integral inequality techniques such as Legendre- and Wirtinger-based bounds, and delay-dependent matrix relaxation methods collectively reduce conservatism in stability criteria for memristor-based neural networks with time-varying delays?",
+    "question": "How do recent advances in Lyapunov\u2013Krasovskii functional construction, integral inequality techniques such as Legendre- and Wirtinger-based bounds, and delay-dependent matrix relaxation methods collectively reduce conservatism in stability criteria for memristor-based neural networks with time-varying delays?",
     "references": [
       {
         "citation": "Seuret Alexandre | Wirtinger-Based Integral Inequality: Application to Time-Delay Systems | 10.1016/j.automatica.2013.10.030",
@@ -3995,32 +4295,36 @@
             "works_count": 286,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
-        "citation": "Frédéric Gouaisbaut | Delay-Dependent Stability Analysis of Linear Time Delay Systems Using the Legendre Polynomial | 10.1016/j.automatica.2014.05.009",
+        "citation": "Fr\u00e9d\u00e9ric Gouaisbaut | Delay-Dependent Stability Analysis of Linear Time Delay Systems Using the Legendre Polynomial | 10.1016/j.automatica.2014.05.009",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Frédéric Gouaisbaut"
+          "Fr\u00e9d\u00e9ric Gouaisbaut"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Frédéric Gouaisbaut'], database match: Frédéric Gouaisbaut",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Fr\u00e9d\u00e9ric Gouaisbaut'], database match: Fr\u00e9d\u00e9ric Gouaisbaut",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Frédéric Gouaisbaut",
+        "matched_database_author": "Fr\u00e9d\u00e9ric Gouaisbaut",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Frédéric Gouaisbaut",
+            "cited_name": "Fr\u00e9d\u00e9ric Gouaisbaut",
             "author_exists": true,
             "fullest_name": "Gouaisbaut, Frederic",
             "h_index": 30,
             "works_count": 156,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ju H. Park | Stability Criteria for Neural Networks with Time-Varying Delays | 10.1016/j.automatica.2011.05.022",
@@ -4046,7 +4350,9 @@
             "works_count": 1290,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.61
       },
       {
         "citation": "Jinde Cao | Global Stability Conditions for Delayed CNNs | 10.1109/TCSII.2001.972830",
@@ -4071,7 +4377,9 @@
             "works_count": 2581,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Xiaodi Li | Stability Analysis of Memristor-Based Neural Networks with Time-Varying Delays | 10.1016/j.neunet.2013.06.003",
@@ -4095,7 +4403,9 @@
             "works_count": 456,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       }
     ]
   },
@@ -4127,7 +4437,9 @@
             "works_count": 100,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Maximilian Nickel | A Review of Relational Machine Learning for Knowledge Graphs | 10.1109/JPROC.2015.2483592",
@@ -4152,7 +4464,9 @@
             "works_count": 79,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Xin Dong | Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion | 10.1145/2623330.2623623",
@@ -4179,7 +4493,9 @@
             "works_count": 183,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.51
       },
       {
         "citation": "Gerhard Weikum | Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases | 10.1561/1900000064",
@@ -4204,7 +4520,9 @@
             "works_count": 987,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lise Getoor | Entity Resolution: Theory, Practice and Open Challenges | 10.14778/2735496.2735497",
@@ -4229,7 +4547,9 @@
             "works_count": 387,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4261,7 +4581,9 @@
             "works_count": 8,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicolas Vasilache | Fast Convolutional Nets with fbfft: A GPU Performance Evaluation | 10.48550/arXiv.1412.7580",
@@ -4286,7 +4608,9 @@
             "works_count": 74,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kumar Chellapilla | High Performance Convolutional Neural Networks for Document Processing | 10.1109/IWFHR.2006.9",
@@ -4311,7 +4635,9 @@
             "works_count": 77,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Nadav Rotem | Glow: Graph Lowering Compiler Techniques for Neural Networks | 10.48550/arXiv.1805.00907",
@@ -4336,7 +4662,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yangqing Jia | Caffe: Convolutional Architecture for Fast Feature Embedding | 10.1145/2647868.2654889",
@@ -4361,7 +4689,9 @@
             "works_count": 66,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.65
       }
     ]
   },
@@ -4393,7 +4723,9 @@
             "works_count": 199,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "George Papandreou | Weakly- and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation | 10.1109/ICCV.2015.203",
@@ -4418,7 +4750,9 @@
             "works_count": 98,
             "organization_country_id": "GR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anna Khoreva | Simple Does It: Weakly Supervised Instance and Semantic Segmentation | 10.1109/CVPR.2017.241",
@@ -4443,7 +4777,9 @@
             "works_count": 58,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alexander Kolesnikov | Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation | 10.1007/978-3-319-46493-0_43",
@@ -4468,7 +4804,9 @@
             "works_count": 167,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Cheng-Chun Hsu | Weakly Supervised Instance Segmentation Using the Bounding Box Tightness Prior | 10.5555/3454287.3455132",
@@ -4493,7 +4831,9 @@
             "works_count": 2,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       }
     ]
   },
@@ -4524,7 +4864,9 @@
             "works_count": 847,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Long Jin | Zeroing Neural Networks: A Survey | 10.1016/j.neunet.2017.07.015",
@@ -4549,7 +4891,9 @@
             "works_count": 543,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Shuai Li | A Noise-Tolerant Neural Algorithm for Solving Time-Varying Quadratic Programming Problems | 10.1109/TCYB.2017.2761380",
@@ -4573,7 +4917,9 @@
             "works_count": 761,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Ming Liu | Adaptive Zeroing Neural Network for Time-Varying Quadratic Programming | 10.1016/j.neunet.2019.04.010",
@@ -4592,12 +4938,14 @@
           {
             "cited_name": "Ming Liu",
             "author_exists": true,
-            "fullest_name": "Minghui 明辉 Liu 刘",
+            "fullest_name": "Minghui \u660e\u8f89 Liu \u5218",
             "h_index": 155,
             "works_count": 2099,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Zhan Li | Robust Zeroing Neural-Dynamics and Its Time-Varying Disturbances Suppression Model Applied to Mobile Robot Manipulators | 10.1109/TNNLS.2017.2652860",
@@ -4623,7 +4971,9 @@
             "works_count": 124,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.61
       }
     ]
   },
@@ -4655,7 +5005,9 @@
             "works_count": 376,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.76
       },
       {
         "citation": "Jun-Yan Zhu | Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks | 10.1109/ICCV.2017.244",
@@ -4680,7 +5032,9 @@
             "works_count": 186,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.71
       },
       {
         "citation": "Tero Karras | A Style-Based Generator Architecture for Generative Adversarial Networks | 10.1109/CVPR.2019.00453",
@@ -4705,7 +5059,9 @@
             "works_count": 85,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Xingang Pan | Disentangled Image-to-Image Translation | 10.1109/ICCV.2017.107",
@@ -4729,7 +5085,9 @@
             "works_count": 76,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xiaolong Wang | Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles | 10.1007/978-3-319-46466-4_5",
@@ -4753,7 +5111,9 @@
             "works_count": 309,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -4785,7 +5145,9 @@
             "works_count": 150,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Tin Kam Ho | Random Decision Forests | 10.1109/34.598994",
@@ -4810,7 +5172,9 @@
             "works_count": 119,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Albert Bifet | Adaptive Random Forests for Evolving Data Stream Classification | 10.1007/s10994-017-5642-8",
@@ -4835,7 +5199,9 @@
             "works_count": 364,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "James Kirkpatrick | Overcoming Catastrophic Forgetting in Neural Networks | 10.1073/pnas.1611835114",
@@ -4860,7 +5226,9 @@
             "works_count": 726,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sylvestre-Alvise Rebuffi | iCaRL: Incremental Classifier and Representation Learning | 10.1109/CVPR.2017.587",
@@ -4885,7 +5253,9 @@
             "works_count": 32,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -4917,7 +5287,9 @@
             "works_count": 45,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Laurens van der Maaten | Visualizing Data Using t-SNE | 10.5555/1756006.1953011",
@@ -4942,7 +5314,9 @@
             "works_count": 130,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Sam T. Roweis | Nonlinear Dimensionality Reduction by Locally Linear Embedding | 10.1126/science.290.5500.2323",
@@ -4967,7 +5341,9 @@
             "works_count": 77,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Joshua B. Tenenbaum | A Global Geometric Framework for Nonlinear Dimensionality Reduction | 10.1126/science.290.5500.2319",
@@ -4992,7 +5368,9 @@
             "works_count": 905,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ishaan Gulrajani | PixelVAE: A Latent Variable Model for Natural Images | 10.48550/arXiv.1611.05013",
@@ -5017,7 +5395,9 @@
             "works_count": 19,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5051,7 +5431,9 @@
             "works_count": 140,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yufeng Liu | Large-Margin Multicategory Support Vector Machines | 10.1198/016214505000000375",
@@ -5075,7 +5457,9 @@
             "works_count": 535,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       },
       {
         "citation": "Xiaoming Huo | A Pinball Loss Support Vector Machine | 10.1016/j.neucom.2014.07.006",
@@ -5099,7 +5483,9 @@
             "works_count": 204,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.75
       },
       {
         "citation": "Koenker Roger | Quantile Regression | 10.1017/CBO9780511754098",
@@ -5123,7 +5509,9 @@
             "works_count": 264,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Corinna Cortes | Support-Vector Networks | 10.1007/BF00994018",
@@ -5148,7 +5536,9 @@
             "works_count": 146,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5178,12 +5568,14 @@
           {
             "cited_name": "Zongyi Li",
             "author_exists": true,
-            "fullest_name": "경북대학교 대학원 윤리교육학과 박사과정수료",
+            "fullest_name": "\uacbd\ubd81\ub300\ud559\uad50 \ub300\ud559\uc6d0 \uc724\ub9ac\uad50\uc721\ud559\uacfc \ubc15\uc0ac\uacfc\uc815\uc218\ub8cc",
             "h_index": 24,
             "works_count": 104,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.71
       },
       {
         "citation": "Lu Lu | Learning Nonlinear Operators via DeepONet Based on the Universal Approximation Theorem of Operators | 10.1038/s42256-021-00302-5",
@@ -5208,7 +5600,9 @@
             "works_count": 221,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Nikola Kovachki | Neural Operator: Learning Maps Between Function Spaces | 10.48550/arXiv.2108.08481",
@@ -5233,7 +5627,9 @@
             "works_count": 54,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Tobias Pfaff | Learning Mesh-Based Simulation with Graph Networks | 10.48550/arXiv.2010.03409",
@@ -5258,7 +5654,9 @@
             "works_count": 60,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Anima Anandkumar | Neural Operator: Graph Kernel Network for Partial Differential Equations | 10.48550/arXiv.2003.03485",
@@ -5283,7 +5681,9 @@
             "works_count": 446,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5315,7 +5715,9 @@
             "works_count": 504,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Saifon Chaturantabut | Nonlinear Model Reduction via Discrete Empirical Interpolation | 10.1137/090766498",
@@ -5340,7 +5742,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.76
       },
       {
         "citation": "Herbert Jaeger | The Echo State Approach to Analysing and Training Recurrent Neural Networks | 10.24433/CO.8296",
@@ -5365,32 +5769,36 @@
             "works_count": 116,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Mantas Lukoševičius | Reservoir Computing Approaches to Recurrent Neural Network Training | 10.1016/j.cosrev.2009.03.005",
+        "citation": "Mantas Luko\u0161evi\u010dius | Reservoir Computing Approaches to Recurrent Neural Network Training | 10.1016/j.cosrev.2009.03.005",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Mantas Lukoševičius"
+          "Mantas Luko\u0161evi\u010dius"
         ],
         "found_authors_count": 2,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Mantas Lukoševičius",
+        "matched_database_author": "Mantas Luko\u0161evi\u010dius",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Mantas Lukoševičius",
+            "cited_name": "Mantas Luko\u0161evi\u010dius",
             "author_exists": true,
             "fullest_name": "Luko\\v{s}evi\\v{c}ius, Mantas",
             "h_index": 13,
             "works_count": 50,
             "organization_country_id": "LT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Benner | Model Reduction for Systems with Many Inputs and Outputs | 10.1137/1.9781611974829",
@@ -5414,7 +5822,9 @@
             "works_count": 1032,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5446,32 +5856,36 @@
             "works_count": 501,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Michaël Defferrard | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | 10.48550/arXiv.1606.09375",
+        "citation": "Micha\u00ebl Defferrard | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering | 10.48550/arXiv.1606.09375",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Michaël Defferrard"
+          "Micha\u00ebl Defferrard"
         ],
         "found_authors_count": 1,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Michaël Defferrard",
+        "matched_database_author": "Micha\u00ebl Defferrard",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Michaël Defferrard",
+            "cited_name": "Micha\u00ebl Defferrard",
             "author_exists": true,
             "fullest_name": "Defferrard, Michael",
             "h_index": 12,
             "works_count": 49,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dongmian Zou | Graph Framelets for Spatial-Temporal Graph Neural Networks | 10.48550/arXiv.2104.13488",
@@ -5495,7 +5909,9 @@
             "works_count": 54,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.86
       },
       {
         "citation": "Jiong Zhu | Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs | 10.48550/arXiv.2006.11468",
@@ -5520,7 +5936,9 @@
             "works_count": 66,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Derek Lim | Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods | 10.48550/arXiv.2110.14446",
@@ -5545,7 +5963,9 @@
             "works_count": 58,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5577,7 +5997,9 @@
             "works_count": 186,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.78
       },
       {
         "citation": "Frank L. Lewis | Reinforcement Learning and Adaptive Dynamic Programming for Feedback Control | 10.1109/MCI.2009.932261",
@@ -5602,7 +6024,9 @@
             "works_count": 1318,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Derong Liu | Adaptive Dynamic Programming with Applications in Optimal Control | 10.1007/978-3-642-23195-6",
@@ -5627,7 +6051,9 @@
             "works_count": 907,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       },
       {
         "citation": "Qinglai Wei | Adaptive Dynamic Programming for Optimal Tracking Control of Unknown Nonlinear Systems with Application to Coal Gasification | 10.1109/TASE.2014.2327655",
@@ -5652,7 +6078,9 @@
             "works_count": 355,
             "organization_country_id": "MO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.76
       },
       {
         "citation": "Haibo He | Adaptive Critic Designs: A Survey and Recent Advances | 10.1109/TSMCC.2008.2003213",
@@ -5676,7 +6104,9 @@
             "works_count": 137,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -5708,7 +6138,9 @@
             "works_count": 222,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Hao Li | Pruning Filters for Efficient ConvNets | 10.48550/arXiv.1608.08710",
@@ -5728,12 +6160,14 @@
           {
             "cited_name": "Hao Li",
             "author_exists": true,
-            "fullest_name": "Hai “Helen” Li",
+            "fullest_name": "Hai \u201cHelen\u201d Li",
             "h_index": 183,
             "works_count": 3231,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Pavlo Molchanov | Pruning Convolutional Neural Networks for Resource Efficient Inference | 10.48550/arXiv.1611.06440",
@@ -5758,7 +6192,9 @@
             "works_count": 191,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ramprasaath R. Selvaraju | Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization | 10.1109/ICCV.2017.74",
@@ -5783,7 +6219,9 @@
             "works_count": 23,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Chenzhuo Zhu | A Survey on Model Compression for Deep Neural Networks | 10.1109/JPROC.2021.3060464",
@@ -5809,7 +6247,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       }
     ]
   },
@@ -5841,7 +6281,9 @@
             "works_count": 259,
             "organization_country_id": "HU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Diederik P. Kingma | Adam: A Method for Stochastic Optimization | 10.48550/arXiv.1412.6980",
@@ -5866,32 +6308,36 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
-        "citation": "Angelia Nedić | Distributed Gradient Methods for Convex Machine Learning Problems in Networks | 10.1109/MSP.2020.2976313",
+        "citation": "Angelia Nedi\u0107 | Distributed Gradient Methods for Convex Machine Learning Problems in Networks | 10.1109/MSP.2020.2976313",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Angelia Nedić"
+          "Angelia Nedi\u0107"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Angelia Nedić'], database match: Angelia Nedić",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Angelia Nedi\u0107'], database match: Angelia Nedi\u0107",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Angelia Nedić",
+        "matched_database_author": "Angelia Nedi\u0107",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Angelia Nedić",
+            "cited_name": "Angelia Nedi\u0107",
             "author_exists": true,
             "fullest_name": "Nedi\\'c, Angelia",
             "h_index": 48,
             "works_count": 252,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shi Pu | Distributed Stochastic Gradient Tracking Methods | 10.1109/TAC.2020.2991999",
@@ -5916,7 +6362,9 @@
             "works_count": 172,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "John C. Duchi | Dual Averaging for Distributed Optimization: Convergence Analysis and Network Scaling | 10.1109/TAC.2011.2161027",
@@ -5941,7 +6389,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5967,12 +6417,14 @@
           {
             "cited_name": "Kun Zhang",
             "author_exists": true,
-            "fullest_name": "K.‐L. Zhang",
+            "fullest_name": "K.\u2010L. Zhang",
             "h_index": 86,
             "works_count": 517,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       },
       {
         "citation": "Jonas Peters | Causal Inference Using Invariant Prediction: Identification and Confidence Intervals | 10.1111/rssb.12167",
@@ -5997,7 +6449,9 @@
             "works_count": 134,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Judea Pearl | Causal Diagrams for Empirical Research | 10.1093/biomet/82.4.669",
@@ -6022,7 +6476,9 @@
             "works_count": 484,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Zonghan Wu | A Comprehensive Survey on Graph Neural Networks | 10.1109/TNNLS.2020.2978386",
@@ -6042,12 +6498,14 @@
           {
             "cited_name": "Zonghan Wu",
             "author_exists": true,
-            "fullest_name": "Zong–Han Wu",
+            "fullest_name": "Zong\u2013Han Wu",
             "h_index": 15,
             "works_count": 53,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "John V. Kresta | Multivariate Statistical Monitoring of Process Operating Performance | 10.1002/aic.690370616",
@@ -6072,7 +6530,9 @@
             "works_count": 3,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6104,7 +6564,9 @@
             "works_count": 564,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       },
       {
         "citation": "Peng Shi | Event-Triggered Control for Networked Systems with Random Communication Delays | 10.1016/j.automatica.2011.01.038",
@@ -6128,7 +6590,9 @@
             "works_count": 1952,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Hamid Reza Karimi | Resilient Control of Cyber-Physical Systems under Denial-of-Service Attacks | 10.1109/TAC.2015.2416920",
@@ -6152,7 +6616,9 @@
             "works_count": 1216,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Daniel Liberzon | Control under Communication Constraints | 10.1007/978-0-8176-4585-9",
@@ -6176,7 +6642,9 @@
             "works_count": 236,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Miroslav Pajic | Attack-Resilient State Estimation for Noisy Dynamical Systems | 10.1109/TCNS.2017.2697468",
@@ -6190,7 +6658,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Miroslav Pajić",
+        "matched_database_author": "Miroslav Paji\u0107",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -6201,7 +6669,9 @@
             "works_count": 262,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -6228,12 +6698,14 @@
           {
             "cited_name": "Xiaoming Yu",
             "author_exists": true,
-            "fullest_name": "Xin‐Yao Yu",
+            "fullest_name": "Xin\u2010Yao Yu",
             "h_index": 78,
             "works_count": 271,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       },
       {
         "citation": "Yu Chen | FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors | 10.1109/CVPR.2018.00261",
@@ -6258,7 +6730,9 @@
             "works_count": 1570,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.53
       },
       {
         "citation": "Xin Yu | Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders | 10.1109/CVPR.2017.565",
@@ -6278,12 +6752,14 @@
           {
             "cited_name": "Xin Yu",
             "author_exists": true,
-            "fullest_name": "Xin‐Yao Yu",
+            "fullest_name": "Xin\u2010Yao Yu",
             "h_index": 78,
             "works_count": 271,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Adrian Bulat | Super-FAN: Integrated Facial Landmark Localization and Super-Resolution of Real-World Low Resolution Faces | 10.1007/978-3-030-01249-6_16",
@@ -6308,7 +6784,9 @@
             "works_count": 103,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jingang Shi | Learning Spatial Attention for Face Super-Resolution | 10.1109/TIP.2020.3019321",
@@ -6332,7 +6810,9 @@
             "works_count": 124,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       }
     ]
   },
@@ -6363,7 +6843,9 @@
             "works_count": 21,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.83
       },
       {
         "citation": "Mark French | Adaptive Iterative Learning Control of Uncertain Distributed Parameter Systems | 10.1109/TAC.2000.880992",
@@ -6387,7 +6869,9 @@
             "works_count": 181,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wei He | Boundary Control of a Flexible Robotic Manipulator with Input Saturation | 10.1016/j.automatica.2016.04.007",
@@ -6413,7 +6897,9 @@
             "works_count": 739,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.61
       },
       {
         "citation": "Junmin Wang | Iterative Learning Control for Systems with Iteration-Varying Trial Lengths | 10.1016/j.automatica.2015.06.012",
@@ -6439,7 +6925,9 @@
             "works_count": 507,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "Bao-Zhu Guo | Stability and Stabilization of Infinite Dimensional Systems with Applications | 10.1007/978-1-4471-4951-9",
@@ -6453,7 +6941,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Bao‐Zhu Guo",
+        "matched_database_author": "Bao\u2010Zhu Guo",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -6464,7 +6952,9 @@
             "works_count": 479,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       }
     ]
   },
@@ -6498,7 +6988,9 @@
             "works_count": 342,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Ozan Sener | Active Learning for Convolutional Neural Networks: A Core-Set Approach | 10.48550/arXiv.1708.00489",
@@ -6512,7 +7004,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Ozan Şener",
+        "matched_database_author": "Ozan \u015eener",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -6523,7 +7015,9 @@
             "works_count": 57,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Viraj Prabhu | Active Domain Adaptation via Clustering Uncertainty-Weighted Embeddings | 10.1109/ICCV.2021.00830",
@@ -6548,7 +7042,9 @@
             "works_count": 43,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Minghao Fu | Transferable Query Selection for Active Domain Adaptation | 10.1109/CVPR46437.2021.00720",
@@ -6572,7 +7068,9 @@
             "works_count": 586,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.79
       },
       {
         "citation": "Rui Li | Model Adaptation: Unsupervised Domain Adaptation without Source Data | 10.1109/CVPR42600.2020.00966",
@@ -6597,7 +7095,9 @@
             "works_count": 354,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       }
     ]
   },
@@ -6629,7 +7129,9 @@
             "works_count": 402,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kyriakos G. Vamvoudakis | Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem | 10.1016/j.automatica.2010.02.018",
@@ -6654,7 +7156,9 @@
             "works_count": 302,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kenji Doya | Reinforcement learning in continuous time and space | 10.1162/089976600300015961",
@@ -6679,7 +7183,9 @@
             "works_count": 417,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Miskowicz | Send-on-delta concept: An event-based data reporting strategy | 10.3390/s6010049",
@@ -6690,21 +7196,23 @@
           "Michael Miskowicz"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Michael Miskowicz'], database match: Marek Miśkowicz",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Michael Miskowicz'], database match: Marek Mi\u015bkowicz",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Marek Miśkowicz",
+        "matched_database_author": "Marek Mi\u015bkowicz",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "Michael Miskowicz",
             "author_exists": true,
-            "fullest_name": "Marek Miśkowicz",
+            "fullest_name": "Marek Mis\u0301kowicz",
             "h_index": 17,
             "works_count": 106,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -6731,14 +7239,16 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4405022882",
     "model": "gpt",
-    "question": "How do the algorithmic strategies and approximation guarantees developed for different variants of the vertex cover problem (weighted, ℓ-path, and connected) compare in terms of their theoretical trade-offs and practical performance across diverse graph structures?",
+    "question": "How do the algorithmic strategies and approximation guarantees developed for different variants of the vertex cover problem (weighted, \u2113-path, and connected) compare in terms of their theoretical trade-offs and practical performance across diverse graph structures?",
     "references": [
       {
         "citation": "Reuven Bar-Yehuda | A local-ratio theorem for approximating the weighted vertex cover problem | 10.1016/0020-0190(85)90014-5",
@@ -6765,7 +7275,9 @@
             "works_count": 87,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Irit Dinur | On the hardness of approximating minimum vertex cover | 10.4007/annals.2005.162.439",
@@ -6790,7 +7302,9 @@
             "works_count": 145,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Subhash Khot | Vertex cover might be hard to approximate to within 2-epsilon | 10.1016/j.jcss.2005.06.015",
@@ -6815,7 +7329,9 @@
             "works_count": 202,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jianer Chen | Improved parameterized upper bounds for vertex cover | 10.1016/j.tcs.2005.09.022",
@@ -6840,7 +7356,9 @@
             "works_count": 509,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.67
       },
       {
         "citation": "Sudipto Guha | Approximation algorithms for connected dominating sets | 10.1007/BF01206384",
@@ -6865,7 +7383,9 @@
             "works_count": 71,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -6899,7 +7419,9 @@
             "works_count": 485,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Diederik P. Kingma | Auto-Encoding Variational Bayes | 10.48550/arXiv.1312.6114",
@@ -6924,7 +7446,9 @@
             "works_count": 45,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ian J. Goodfellow | Generative adversarial nets | 10.1145/3422622",
@@ -6948,7 +7472,9 @@
             "works_count": 103,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Danilo Jimenez Rezende | Variational inference with normalizing flows | 10.48550/arXiv.1505.05770",
@@ -6973,7 +7499,9 @@
             "works_count": 111,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jonathan Ho | Denoising diffusion probabilistic models | 10.48550/arXiv.2006.11239",
@@ -6998,7 +7526,9 @@
             "works_count": 41,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7032,7 +7562,9 @@
             "works_count": 103,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emmanuel Bacry | Hawkes processes in finance | 10.1142/S0219024915500057",
@@ -7057,7 +7589,9 @@
             "works_count": 131,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Manuel Gomez-Rodriguez | Inferring networks of diffusion and influence | 10.1145/1835804.1835933",
@@ -7082,7 +7616,9 @@
             "works_count": 181,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Seth A. Myers | On the convexity of latent social network inference | 10.48550/arXiv.1009.5717",
@@ -7107,7 +7643,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David R. Cox | The analysis of multivariate binary data | 10.2307/2529899",
@@ -7132,7 +7670,9 @@
             "works_count": 258,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7164,7 +7704,9 @@
             "works_count": 62,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sinno Jialin Pan | A survey on transfer learning | 10.1109/TKDE.2009.191",
@@ -7189,7 +7731,9 @@
             "works_count": 200,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.79
       },
       {
         "citation": "Mingxing Tan | MnasNet: Platform-aware neural architecture search for mobile | 10.48550/arXiv.1807.11626",
@@ -7214,7 +7758,9 @@
             "works_count": 100,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Barret Zoph | Learning transferable architectures for scalable image recognition | 10.48550/arXiv.1707.07012",
@@ -7239,7 +7785,9 @@
             "works_count": 63,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       },
       {
         "citation": "Andrew Brock | SMASH: One-shot model architecture search through hypernetworks | 10.48550/arXiv.1708.05344",
@@ -7264,7 +7812,9 @@
             "works_count": 117,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7298,7 +7848,9 @@
             "works_count": 40,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Chitwan Saharia | Image super-resolution via iterative refinement | 10.48550/arXiv.2104.07636",
@@ -7323,7 +7875,9 @@
             "works_count": 24,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "Jiaming Song | Denoising diffusion implicit models | 10.48550/arXiv.2010.02502",
@@ -7348,7 +7902,9 @@
             "works_count": 186,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Bahjat Kawar | Imagic: Text-based real image editing with diffusion models | 10.48550/arXiv.2210.09276",
@@ -7373,7 +7929,9 @@
             "works_count": 21,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Nataniel Ruiz | DreamBooth: Fine tuning text-to-image diffusion models for subject-driven generation | 10.48550/arXiv.2208.12242",
@@ -7398,7 +7956,9 @@
             "works_count": 55,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       }
     ]
   },
@@ -7430,7 +7990,9 @@
             "works_count": 681,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rolf Isermann | Model-based fault-detection and diagnosis: Status and applications | 10.1016/S1474-6670(17)44739-2",
@@ -7455,7 +8017,9 @@
             "works_count": 839,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yoshua Bengio | Learning deep architectures for AI | 10.1561/2200000006",
@@ -7480,7 +8044,9 @@
             "works_count": 1229,
             "organization_country_id": "DZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Irina Higgins | beta-VAE: Learning basic visual concepts with a constrained variational framework | 10.48550/arXiv.1606.05579",
@@ -7505,7 +8071,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Kyunghyun Cho | Learning phrase representations using RNN encoder-decoder for statistical machine translation | 10.48550/arXiv.1406.1078",
@@ -7530,7 +8098,9 @@
             "works_count": 382,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.79
       }
     ]
   },
@@ -7562,7 +8132,9 @@
             "works_count": 159,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frank Rosenblatt | The perceptron: A probabilistic model for information storage and organization in the brain | 10.1037/h0042519",
@@ -7587,7 +8159,9 @@
             "works_count": 52,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David E. Rumelhart | Learning representations by back-propagating errors | 10.1038/323533a0",
@@ -7612,7 +8186,9 @@
             "works_count": 158,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Geoffrey E. Hinton | Reducing the dimensionality of data with neural networks | 10.1126/science.1127647",
@@ -7637,7 +8213,9 @@
             "works_count": 378,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yann LeCun | Deep learning | 10.1038/nature14539",
@@ -7657,12 +8235,14 @@
           {
             "cited_name": "Yann LeCun",
             "author_exists": true,
-            "fullest_name": "LeCun, Yann André",
+            "fullest_name": "LeCun, Yann Andr\u00e9",
             "h_index": 120,
             "works_count": 477,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -7694,7 +8274,9 @@
             "works_count": 131,
             "organization_country_id": "BD"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yongqin Xian | Feature generating networks for zero-shot learning | 10.1109/CVPR.2018.00578",
@@ -7721,7 +8303,9 @@
             "works_count": 75,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Soravit Changpinyo | Synthesized classifiers for zero-shot learning | 10.1109/CVPR.2016.568",
@@ -7746,7 +8330,9 @@
             "works_count": 50,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Yann N. Dauphin | The curse of dimensionality in data mining and time series prediction | 10.1007/978-3-540-45231-7_23",
@@ -7770,7 +8356,9 @@
             "works_count": 73,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Maximilian Nickel | A review of relational machine learning for knowledge graphs | 10.1109/JPROC.2015.2483592",
@@ -7795,7 +8383,9 @@
             "works_count": 79,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -7827,7 +8417,9 @@
             "works_count": 49,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jan Dirk Wegner | Road networks as collections of minimum cost paths | 10.1016/j.isprsjprs.2016.04.002",
@@ -7852,7 +8444,9 @@
             "works_count": 315,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Songtao He | Automatic road extraction from remote sensing images: A review | 10.3390/rs14051081",
@@ -7876,7 +8470,9 @@
             "works_count": 64,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.57
       },
       {
         "citation": "Gellert Mattyus | Enhancing road maps by parsing aerial images around the world | 10.1109/ICCV.2015.192",
@@ -7887,10 +8483,10 @@
           "Gellert Mattyus"
         ],
         "found_authors_count": 4,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Gellert Mattyus'], database match: Gellért Máttyus",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Gellert Mattyus'], database match: Gell\u00e9rt M\u00e1ttyus",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Gellért Máttyus",
+        "matched_database_author": "Gell\u00e9rt M\u00e1ttyus",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -7901,7 +8497,9 @@
             "works_count": 20,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Jiangye Yuan | Automatic road extraction from remote sensing imagery using region competition and graph cuts | 10.1016/j.isprsjprs.2010.01.003",
@@ -7927,7 +8525,9 @@
             "works_count": 38,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.6
       }
     ]
   },
@@ -7959,7 +8559,9 @@
             "works_count": 109,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Salinas | DeepAR: Probabilistic forecasting with autoregressive recurrent networks | 10.1016/j.ijforecast.2019.07.001",
@@ -7984,7 +8586,9 @@
             "works_count": 117,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Danilo Jimenez Rezende | Variational inference with normalizing flows | 10.48550/arXiv.1505.05770",
@@ -8009,7 +8613,9 @@
             "works_count": 111,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yoon Kim | Time-series generative adversarial networks | 10.48550/arXiv.1706.02633",
@@ -8033,7 +8639,9 @@
             "works_count": 350,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Jonathan Ho | Denoising diffusion probabilistic models | 10.48550/arXiv.2006.11239",
@@ -8058,14 +8666,16 @@
             "works_count": 115,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4319990490",
     "model": "gpt",
-    "question": "How do the convergence guarantees and feasibility conditions of the proposed value iteration with constrained cost method compare to those of alternative adaptive dynamic programming approaches—such as policy iteration and other value iteration variants—for solving constrained optimal control problems in discrete-time nonlinear systems?",
+    "question": "How do the convergence guarantees and feasibility conditions of the proposed value iteration with constrained cost method compare to those of alternative adaptive dynamic programming approaches\u2014such as policy iteration and other value iteration variants\u2014for solving constrained optimal control problems in discrete-time nonlinear systems?",
     "references": [
       {
         "citation": "Richard S. Sutton | Learning to predict by the methods of temporal differences | 10.1007/BF00115009",
@@ -8090,7 +8700,9 @@
             "works_count": 271,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paul J. Werbos | Approximate dynamic programming for real-time control and neural modeling | 10.1109/72.143376",
@@ -8115,7 +8727,9 @@
             "works_count": 188,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Draguna Vrabie | Adaptive dynamic programming for online solution of a zero-sum differential game | 10.1016/j.jfranklin.2008.02.005",
@@ -8140,7 +8754,9 @@
             "works_count": 186,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.78
       },
       {
         "citation": "Kyriakos G. Vamvoudakis | Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem | 10.1016/j.automatica.2010.02.018",
@@ -8165,7 +8781,9 @@
             "works_count": 302,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimitri P. Bertsekas | Dynamic programming and optimal control | 10.1287/educ.2017.0168",
@@ -8190,7 +8808,9 @@
             "works_count": 402,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8222,7 +8842,9 @@
             "works_count": 22,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mingsheng Long | Learning transferable features with deep adaptation networks | 10.48550/arXiv.1502.02791",
@@ -8247,7 +8869,9 @@
             "works_count": 213,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Kaize Ding | Deep anomaly detection on attributed networks | 10.1137/1.9781611975673.67",
@@ -8272,7 +8896,9 @@
             "works_count": 145,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Chuxu Zhang | A deep neural network for unsupervised anomaly detection and diagnosis in multivariate time series data | 10.1609/aaai.v33i01.33011409",
@@ -8297,7 +8923,9 @@
             "works_count": 165,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       },
       {
         "citation": "Petar Velickovic | Deep graph infomax | 10.48550/arXiv.1809.10341",
@@ -8311,7 +8939,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Petar Veličković",
+        "matched_database_author": "Petar Veli\u010dkovi\u0107",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -8322,7 +8950,9 @@
             "works_count": 143,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8353,7 +8983,9 @@
             "works_count": 528,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Venkat Venkatasubramanian | The promise of artificial intelligence in chemical engineering: Is it here, finally? | 10.1002/aic.16489",
@@ -8378,7 +9010,9 @@
             "works_count": 338,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jie Zhang | Developing robust non-linear models through bootstrap aggregated neural networks | 10.1016/S0098-1354(98)00227-7",
@@ -8403,7 +9037,9 @@
             "works_count": 2603,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Biao Huang | Bayesian methods for control loop monitoring and diagnosis | 10.1016/j.jprocont.2007.04.007",
@@ -8428,7 +9064,9 @@
             "works_count": 1063,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Raffaele Iannone | Industry 4.0 and process control: Challenges and opportunities | 10.1016/j.ifacol.2018.09.063",
@@ -8452,7 +9090,9 @@
             "works_count": 145,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8484,7 +9124,9 @@
             "works_count": 76,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gregory Valiant | Estimating the unseen: Improved estimators for entropy and other properties | 10.1145/2591796.2591866",
@@ -8509,7 +9151,9 @@
             "works_count": 148,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.91
       },
       {
         "citation": "Mohamed Ishmael Belghazi | Mutual information neural estimation | 10.48550/arXiv.1801.04062",
@@ -8536,7 +9180,9 @@
             "works_count": 10,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ben Poole | On variational bounds of mutual information | 10.48550/arXiv.1905.06922",
@@ -8561,7 +9207,9 @@
             "works_count": 90,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Judea Pearl | Causal inference in statistics: An overview | 10.1214/09-SS057",
@@ -8586,7 +9234,9 @@
             "works_count": 484,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -8620,7 +9270,9 @@
             "works_count": 27,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Yujie Wu | Spatio-temporal backpropagation for training high-performance spiking neural networks | 10.3389/fnins.2018.00331",
@@ -8645,7 +9297,9 @@
             "works_count": 65,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.75
       },
       {
         "citation": "Emre O. Neftci | Surrogate gradient learning in spiking neural networks | 10.1109/MSP.2019.2931595",
@@ -8670,7 +9324,9 @@
             "works_count": 160,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Wei Fang | Incorporating learnable membrane time constant to enhance learning of spiking neural networks | 10.1109/ICCV48922.2021.00268",
@@ -8695,7 +9351,9 @@
             "works_count": 475,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.81
       },
       {
         "citation": "Nitin Rathi | Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation | 10.48550/arXiv.2005.01807",
@@ -8720,7 +9378,9 @@
             "works_count": 32,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8751,7 +9411,9 @@
             "works_count": 599,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lukas Hewing | Learning-based model predictive control: Toward safe learning in control | 10.1146/annurev-control-090419-075625",
@@ -8776,7 +9438,9 @@
             "works_count": 33,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Joris Sijs | Neural network model predictive control of nonlinear systems | 10.1109/CDC.1996.573471",
@@ -8802,7 +9466,9 @@
             "works_count": 64,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "S. Joe Qin | A survey of industrial model predictive control technology | 10.1016/S0967-0661(02)00186-7",
@@ -8827,7 +9493,9 @@
             "works_count": 380,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.86
       },
       {
         "citation": "Yutao Chen | Learning model predictive control for iterative tasks: A data-driven control framework | 10.1109/TAC.2017.2713040",
@@ -8851,7 +9519,9 @@
             "works_count": 5245,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8883,7 +9553,9 @@
             "works_count": 222,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Namhoon Lee | SNIP: Single-shot network pruning based on connection sensitivity | 10.48550/arXiv.1810.02340",
@@ -8910,7 +9582,9 @@
             "works_count": 165,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chaoqi Wang | Picking winning tickets before training by preserving gradient flow | 10.48550/arXiv.2002.07376",
@@ -8935,7 +9609,9 @@
             "works_count": 61,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Jonathan Frankle | The lottery ticket hypothesis: Finding sparse, trainable neural networks | 10.48550/arXiv.1803.03635",
@@ -8960,7 +9636,9 @@
             "works_count": 57,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mingbao Lin | HRank: Filter pruning using high-rank feature map | 10.1109/CVPR42600.2020.00160",
@@ -8985,7 +9663,9 @@
             "works_count": 151,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       }
     ]
   },
@@ -9019,7 +9699,9 @@
             "works_count": 105,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jie Zhang | A neural network-based soft sensor for on-line product quality prediction | 10.1016/S0098-1354(99)00092-4",
@@ -9043,7 +9725,9 @@
             "works_count": 2603,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Geoffrey E. Hinton | Reducing the dimensionality of data with neural networks | 10.1126/science.1127647",
@@ -9068,7 +9752,9 @@
             "works_count": 378,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Teng Li | Deep learning for soft sensor modeling of industrial processes: A review | 10.1016/j.compchemeng.2020.106892",
@@ -9089,12 +9775,14 @@
           {
             "cited_name": "Teng Li",
             "author_exists": true,
-            "fullest_name": "Liang‐Hong Teng",
+            "fullest_name": "Liang\u2010Hong Teng",
             "h_index": 82,
             "works_count": 492,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Fei He | Semi-supervised deep learning for soft sensor modeling of nonlinear industrial processes | 10.1109/TII.2019.2902124",
@@ -9118,7 +9806,9 @@
             "works_count": 161,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.61
       }
     ]
   },
@@ -9136,12 +9826,12 @@
           "Miroslav Krstic"
         ],
         "found_authors_count": 3,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Miroslav Krstic'], database match: Miroslav Krstić",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Miroslav Krstic'], database match: Miroslav Krsti\u0107",
         "failed_dbs": [
           "arXiv"
         ],
         "retracted": false,
-        "matched_database_author": "Miroslav Krstić",
+        "matched_database_author": "Miroslav Krsti\u0107",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -9152,7 +9842,9 @@
             "works_count": 1447,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Shuzhi Sam Ge | Adaptive neural network control of uncertain MIMO nonlinear systems | 10.1109/9.880629",
@@ -9179,7 +9871,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -9204,7 +9898,9 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yongduan Song | Prescribed performance adaptive neural control of uncertain nonlinear systems with unknown control directions | 10.1109/TNNLS.2013.2283702",
@@ -9230,7 +9926,9 @@
             "works_count": 519,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Zongyu Zuo | Non-singular fixed-time terminal sliding mode control of non-linear systems | 10.1049/iet-cta.2014.0202",
@@ -9255,7 +9953,9 @@
             "works_count": 247,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.53
       }
     ]
   },
@@ -9289,7 +9989,9 @@
             "works_count": 24,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Kenneth Marino | The more you know: Using knowledge graphs for image classification | 10.1109/CVPR.2017.20",
@@ -9314,7 +10016,9 @@
             "works_count": 43,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yuwei Cao | Heterogeneous graph learning for visual commonsense reasoning | 10.48550/arXiv.2006.15139",
@@ -9341,7 +10045,9 @@
             "works_count": 18,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.71
       },
       {
         "citation": "Will Norcliffe-Brown | Learning conditioned graph structures for interpretable visual question answering | 10.48550/arXiv.1806.07243",
@@ -9366,7 +10072,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stanislaw Antol | VQA: Visual question answering | 10.1109/ICCV.2015.279",
@@ -9391,7 +10099,9 @@
             "works_count": 15,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -9426,7 +10136,9 @@
             "works_count": 114,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "David Berthelot | MixMatch: A holistic approach to semi-supervised learning | 10.48550/arXiv.1905.02249",
@@ -9451,7 +10163,9 @@
             "works_count": 40,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lan-Zhe Guo | Safe deep semi-supervised learning for unseen-class unlabeled data | 10.48550/arXiv.2005.08879",
@@ -9476,7 +10190,9 @@
             "works_count": 71,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Kaidi Cao | OpenMatch: Open-set consistency regularization for semi-supervised learning with outliers | 10.48550/arXiv.2105.14148",
@@ -9502,7 +10218,9 @@
             "works_count": 50,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.5
       },
       {
         "citation": "Dong-Hyun Lee | Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks | 10.5555/3042817.3042832",
@@ -9529,7 +10247,9 @@
             "works_count": 120,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -9562,7 +10282,9 @@
             "works_count": 456,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Zidong Wang | Stability analysis of impulsive stochastic Cohen-Grossberg neural networks with mixed time delays | 10.1016/j.physa.2006.06.029",
@@ -9587,7 +10309,9 @@
             "works_count": 1709,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -9612,7 +10336,9 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Miskowicz | Send-on-delta concept: An event-based data reporting strategy | 10.3390/s6010049",
@@ -9626,18 +10352,20 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Marek Miśkowicz",
+        "matched_database_author": "Marek Mi\u015bkowicz",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "Michael Miskowicz",
             "author_exists": true,
-            "fullest_name": "Marek Miśkowicz",
+            "fullest_name": "Marek Mis\u0301kowicz",
             "h_index": 17,
             "works_count": 106,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wei Zhu | Event-triggered impulsive control for nonlinear systems with applications | 10.1016/j.automatica.2019.108614",
@@ -9663,7 +10391,9 @@
             "works_count": 337,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       }
     ]
   },
@@ -9695,7 +10425,9 @@
             "works_count": 239,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Mark W. Spong | Robot dynamics and control | 10.1002/9781119211341",
@@ -9722,7 +10454,9 @@
             "works_count": 331,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sami Haddadin | Towards safe robots: Approaching Asimov's 1st law | 10.1007/978-3-642-00196-3_25",
@@ -9749,7 +10483,9 @@
             "works_count": 552,
             "organization_country_id": "AE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dong Sun | Iterative learning control for robot manipulators | 10.1109/TRO.2004.829484",
@@ -9775,7 +10511,9 @@
             "works_count": 798,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Erwin Burdet | Human-like adaptation of force and impedance in stable and unstable interactions | 10.1038/35035061",
@@ -9800,7 +10538,9 @@
             "works_count": 478,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       }
     ]
   },
@@ -9834,7 +10574,9 @@
             "works_count": 21,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       },
       {
         "citation": "Yanqiao Zhu | Deep graph contrastive representation learning | 10.48550/arXiv.2006.04131",
@@ -9859,7 +10601,9 @@
             "works_count": 114,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.72
       },
       {
         "citation": "Petar Velickovic | Deep graph infomax | 10.48550/arXiv.1809.10341",
@@ -9873,7 +10617,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Petar Veličković",
+        "matched_database_author": "Petar Veli\u010dkovi\u0107",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -9884,7 +10628,9 @@
             "works_count": 143,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kaveh Hassani | Contrastive multi-view representation learning on graphs | 10.48550/arXiv.2006.05582",
@@ -9909,7 +10655,9 @@
             "works_count": 61,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yuning You | Graph contrastive learning automated | 10.48550/arXiv.2106.07594",
@@ -9934,7 +10682,9 @@
             "works_count": 21,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       }
     ]
   },
@@ -9968,7 +10718,9 @@
             "works_count": 516,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Min-Ling Zhang | A review on multi-label learning algorithms | 10.1109/TKDE.2013.39",
@@ -9993,7 +10745,9 @@
             "works_count": 256,
             "organization_country_id": "CL"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.71
       },
       {
         "citation": "Yong Luo | Multiple views multiple learners: Exploring multi-view learning in large-scale data | 10.1016/j.ins.2015.11.038",
@@ -10020,7 +10774,9 @@
             "works_count": 215,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Ming Yang | Incomplete multi-view clustering via multiple kernel learning | 10.1609/aaai.v33i01.33015413",
@@ -10046,7 +10802,9 @@
             "works_count": 1194,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Shuicheng Yan | Multiview learning with incomplete views | 10.1109/TKDE.2012.100",
@@ -10073,7 +10831,9 @@
             "works_count": 1240,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       }
     ]
   },
@@ -10108,7 +10868,9 @@
             "works_count": 24,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fei Gao | Gradient-based online safe trajectory generation for quadrotor flight in complex environments | 10.1109/TRO.2018.2873444",
@@ -10133,7 +10895,9 @@
             "works_count": 1030,
             "organization_country_id": "MN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.85
       },
       {
         "citation": "Giuseppe Loianno | Visual inertial odometry for quadrotors on SE(3) | 10.1109/ICRA.2016.7487282",
@@ -10158,7 +10922,9 @@
             "works_count": 212,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yunlong Song | Flightmare: A flexible quadrotor simulator | 10.48550/arXiv.2009.00563",
@@ -10183,7 +10949,9 @@
             "works_count": 55,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Elia Kaufmann | Deep drone racing: Learning agile flight in dynamic environments | 10.1126/scirobotics.aaw9710",
@@ -10208,7 +10976,9 @@
             "works_count": 44,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.57
       }
     ]
   },
@@ -10240,7 +11010,9 @@
             "works_count": 45,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "John Duchi | Adaptive subgradient methods for online learning and stochastic optimization | 10.5555/1953048.2021068",
@@ -10267,7 +11039,9 @@
             "works_count": 187,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sashank J. Reddi | On the convergence of Adam and beyond | 10.48550/arXiv.1904.09237",
@@ -10292,7 +11066,9 @@
             "works_count": 88,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arkadi Nemirovski | Robust stochastic approximation approach to stochastic programming | 10.1137/070704277",
@@ -10317,7 +11093,9 @@
             "works_count": 266,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin Jaggi | Revisiting Frank-Wolfe: Projection-free sparse convex optimization | 10.48550/arXiv.1309.5822",
@@ -10342,7 +11120,9 @@
             "works_count": 265,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10374,7 +11154,9 @@
             "works_count": 438,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Sylvestre-Alvise Rebuffi | iCaRL: Incremental classifier and representation learning | 10.1109/CVPR.2017.587",
@@ -10399,7 +11181,9 @@
             "works_count": 32,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Arun Mallya | PackNet: Adding multiple tasks to a single network by iterative pruning | 10.1109/CVPR.2018.00813",
@@ -10426,7 +11210,9 @@
             "works_count": 50,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Geoffrey E. Hinton | Distilling the knowledge in a neural network | 10.48550/arXiv.1503.02531",
@@ -10451,7 +11237,9 @@
             "works_count": 378,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jianping Gou | Knowledge distillation: A survey | 10.1007/s10462-021-10027-6",
@@ -10476,7 +11264,9 @@
             "works_count": 140,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       }
     ]
   },
@@ -10494,10 +11284,10 @@
           "Miroslav Krstic"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Miroslav Krstic'], database match: Miroslav Krstić",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Miroslav Krstic'], database match: Miroslav Krsti\u0107",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Miroslav Krstić",
+        "matched_database_author": "Miroslav Krsti\u0107",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -10508,7 +11298,9 @@
             "works_count": 1447,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Rafael Vazquez | Control of turbulent and magnetohydrodynamic channel flows | 10.1007/978-0-8176-4858-3",
@@ -10519,23 +11311,25 @@
           "Rafael Vazquez"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Rafael Vazquez'], database match: Rafael Vázquez",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Rafael Vazquez'], database match: Rafael V\u00e1zquez",
         "failed_dbs": [
           "Open Library"
         ],
         "retracted": false,
-        "matched_database_author": "Rafael Vázquez",
+        "matched_database_author": "Rafael V\u00e1zquez",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "Rafael Vazquez",
             "author_exists": true,
-            "fullest_name": "Vázquez Valenzuela, Rafael",
+            "fullest_name": "V\u00e1zquez Valenzuela, Rafael",
             "h_index": 31,
             "works_count": 230,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Andrey Smyshlyaev | Adaptive control of parabolic PDEs | 10.1515/9781400828996",
@@ -10560,7 +11354,9 @@
             "works_count": 71,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -10585,7 +11381,9 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Miskowicz | Send-on-delta concept: An event-based data reporting strategy | 10.3390/s6010049",
@@ -10599,18 +11397,20 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Marek Miśkowicz",
+        "matched_database_author": "Marek Mi\u015bkowicz",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "Michael Miskowicz",
             "author_exists": true,
-            "fullest_name": "Marek Miśkowicz",
+            "fullest_name": "Marek Mis\u0301kowicz",
             "h_index": 17,
             "works_count": 106,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10641,7 +11441,9 @@
             "works_count": 2581,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Zidong Wang | Robust stability of uncertain stochastic neural networks with time-varying delay | 10.1109/TNN.2004.824413",
@@ -10665,7 +11467,9 @@
             "works_count": 1709,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -10690,7 +11494,9 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xiaodi Li | Stability and stabilization of impulsive reaction-diffusion neural networks | 10.1016/j.neunet.2014.02.005",
@@ -10714,7 +11520,9 @@
             "works_count": 456,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Magdi S. Mahmoud | Switched time-delay systems: Stability and control | 10.1007/978-1-4419-6394-4",
@@ -10739,7 +11547,9 @@
             "works_count": 727,
             "organization_country_id": "IQ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.76
       }
     ]
   },
@@ -10771,7 +11581,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin T. Hagan | Training feedforward networks with the Marquardt algorithm | 10.1109/72.329697",
@@ -10796,7 +11608,9 @@
             "works_count": 119,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "S. Frank | Optimal power flow: A bibliographic survey I | 10.1016/j.energy.2012.02.003",
@@ -10823,7 +11637,9 @@
             "works_count": 910,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yize Chen | Learning to solve AC optimal power flow by differentiating through holomorphic embedding | 10.48550/arXiv.2002.00034",
@@ -10847,7 +11663,9 @@
             "works_count": 139,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       },
       {
         "citation": "Mengshuo Jia | Physics-informed graph neural networks for power flow analysis | 10.48550/arXiv.2104.07527",
@@ -10871,7 +11689,9 @@
             "works_count": 49,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       }
     ]
   },
@@ -10903,7 +11723,9 @@
             "works_count": 222,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Vadim Lebedev | Speeding-up convolutional neural networks using fine-tuned CP-decomposition | 10.48550/arXiv.1412.6553",
@@ -10928,7 +11750,9 @@
             "works_count": 8,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Max Jaderberg | Speeding up convolutional neural networks with low rank expansions | 10.48550/arXiv.1405.3866",
@@ -10953,7 +11777,9 @@
             "works_count": 42,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yihui He | Channel pruning for accelerating very deep neural networks | 10.1109/ICCV.2017.155",
@@ -10978,7 +11804,9 @@
             "works_count": 159,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Mingbao Lin | HRank: Filter pruning using high-rank feature map | 10.1109/CVPR42600.2020.00160",
@@ -11003,14 +11831,16 @@
             "works_count": 151,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       }
     ]
   },
   {
     "id": "https://openalex.org/W7138871207",
     "model": "gpt",
-    "question": "How do contemporary weakly supervised learning frameworks integrate structured candidate label preferences—such as ranked or preferred labels—to address non-uniform annotation noise, and what are the comparative theoretical trade-offs between their identifiability guarantees and empirical risk minimization stability?",
+    "question": "How do contemporary weakly supervised learning frameworks integrate structured candidate label preferences\u2014such as ranked or preferred labels\u2014to address non-uniform annotation noise, and what are the comparative theoretical trade-offs between their identifiability guarantees and empirical risk minimization stability?",
     "references": [
       {
         "citation": "Eyke Hullermeier | Learning from label preferences | 10.1007/s10994-008-5099-6",
@@ -11021,23 +11851,25 @@
           "Eyke Hullermeier"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Eyke Hullermeier'], database match: Eyke Hüllermeier",
+        "reason": "title was found (source: OpenAlex), and author matched after name normalization. cited author(s): ['Eyke Hullermeier'], database match: Eyke H\u00fcllermeier",
         "failed_dbs": [
           "Open Library"
         ],
         "retracted": false,
-        "matched_database_author": "Eyke Hüllermeier",
+        "matched_database_author": "Eyke H\u00fcllermeier",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "Eyke Hullermeier",
             "author_exists": true,
-            "fullest_name": "Hüllermeier, Eyke [Hrsg.]",
+            "fullest_name": "H\u00fcllermeier, Eyke [Hrsg.]",
             "h_index": 59,
             "works_count": 632,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Min-Ling Zhang | A review on multi-label learning algorithms | 10.1109/TKDE.2013.39",
@@ -11062,7 +11894,9 @@
             "works_count": 256,
             "organization_country_id": "CL"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.71
       },
       {
         "citation": "Nicolas Courty | Learning from weak labels | 10.48550/arXiv.1910.11671",
@@ -11083,12 +11917,14 @@
           {
             "cited_name": "Nicolas Courty",
             "author_exists": true,
-            "fullest_name": "Rousseau, François",
+            "fullest_name": "Rousseau, Fran\u00e7ois",
             "h_index": 26,
             "works_count": 191,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Feng Yu | PAC learning from complementary labels | 10.48550/arXiv.1808.07797",
@@ -11112,7 +11948,9 @@
             "works_count": 1590,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Takashi Ishida | Learning from complementary labels | 10.48550/arXiv.1705.07541",
@@ -11137,7 +11975,9 @@
             "works_count": 883,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11169,7 +12009,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Miroslav Krstic | Nonlinear and adaptive control design | 10.1002/9781119136033",
@@ -11183,7 +12025,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Miroslav Krstić",
+        "matched_database_author": "Miroslav Krsti\u0107",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -11194,7 +12036,9 @@
             "works_count": 1447,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -11219,7 +12063,9 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dong Wang | Neural network-based adaptive dynamic surface control of uncertain nonlinear systems | 10.1109/TNN.2009.2035574",
@@ -11240,12 +12086,14 @@
           {
             "cited_name": "Dong Wang",
             "author_exists": true,
-            "fullest_name": "王栋 WANG Dong",
+            "fullest_name": "\u738b\u680b WANG Dong",
             "h_index": 78,
             "works_count": 1248,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Wenwu Yu | Distributed cooperative control of multi-agent systems | 10.1002/9781119246237",
@@ -11270,7 +12118,9 @@
             "works_count": 323,
             "organization_country_id": "BD"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.71
       }
     ]
   },
@@ -11303,7 +12153,9 @@
             "works_count": 133,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.67
       },
       {
         "citation": "Karen Panetta | Human-visual-system-inspired underwater image quality measures | 10.1109/JOE.2015.2469915",
@@ -11328,7 +12180,9 @@
             "works_count": 285,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Chongyi Li | An underwater image enhancement benchmark dataset and beyond | 10.1109/TIP.2019.2955241",
@@ -11353,7 +12207,9 @@
             "works_count": 223,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Anwar Saeed | Deep underwater image enhancement | 10.48550/arXiv.1807.03528",
@@ -11377,7 +12233,9 @@
             "works_count": 176,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ali Borji | Salient object detection: A survey | 10.48550/arXiv.1411.5878",
@@ -11402,7 +12260,9 @@
             "works_count": 197,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11434,7 +12294,9 @@
             "works_count": 358,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter U. Diehl | Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing | 10.1109/IJCNN.2015.7280696",
@@ -11459,7 +12321,9 @@
             "works_count": 33,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bodo Rueckauer | Conversion of continuous-valued deep networks to efficient event-driven networks for image classification | 10.3389/fnins.2017.00682",
@@ -11484,7 +12348,9 @@
             "works_count": 27,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Yujie Wu | Spatio-temporal backpropagation for training high-performance spiking neural networks | 10.3389/fnins.2018.00331",
@@ -11509,7 +12375,9 @@
             "works_count": 65,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.75
       },
       {
         "citation": "Emre O. Neftci | Surrogate gradient learning in spiking neural networks | 10.1109/MSP.2019.2931595",
@@ -11534,7 +12402,9 @@
             "works_count": 160,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -11566,7 +12436,9 @@
             "works_count": 13,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Vijay Badrinarayanan | SegNet: A deep convolutional encoder-decoder architecture for image segmentation | 10.1109/TPAMI.2016.2644615",
@@ -11591,7 +12463,9 @@
             "works_count": 53,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Olaf Ronneberger | U-Net: Convolutional networks for biomedical image segmentation | 10.1007/978-3-319-24574-4_28",
@@ -11616,7 +12490,9 @@
             "works_count": 155,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Eduardo Romera | ERFNet: Efficient residual factorized ConvNet for real-time semantic segmentation | 10.1109/TITS.2017.2750080",
@@ -11641,7 +12517,9 @@
             "works_count": 35,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Changqian Yu | BiSeNet: Bilateral segmentation network for real-time semantic segmentation | 10.1007/978-3-030-01261-8_20",
@@ -11666,7 +12544,9 @@
             "works_count": 51,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       }
     ]
   },
@@ -11700,7 +12580,9 @@
             "works_count": 191,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Hang Zhou | Talking face generation by adversarially disentangled audio-visual representation | 10.1609/aaai.v33i01.33019299",
@@ -11725,7 +12607,9 @@
             "works_count": 575,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.93
       },
       {
         "citation": "Lele Chen | MakeItTalk: Speaker-aware talking-head animation | 10.1145/3394171.3413703",
@@ -11749,7 +12633,9 @@
             "works_count": 62,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       },
       {
         "citation": "Yang Zhou | VisemeNet: Audio-driven animator-centric speech animation | 10.1145/3272127.3275077",
@@ -11774,7 +12660,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Xinya Ji | Audio-driven emotional video portraits | 10.1109/CVPR42600.2021.01444",
@@ -11799,7 +12687,9 @@
             "works_count": 13,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       }
     ]
   },
@@ -11833,7 +12723,9 @@
             "works_count": 97,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Yarin Gal | A theoretically grounded application of dropout in recurrent neural networks | 10.48550/arXiv.1512.05287",
@@ -11858,7 +12750,9 @@
             "works_count": 342,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Rahul G. Krishnan | Deep Kalman filters | 10.48550/arXiv.1511.05121",
@@ -11883,7 +12777,9 @@
             "works_count": 115,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Salinas | DeepAR: Probabilistic forecasting with autoregressive recurrent networks | 10.1016/j.ijforecast.2019.07.001",
@@ -11908,7 +12804,9 @@
             "works_count": 117,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Carl Edward Rasmussen | Gaussian processes for machine learning | 10.7551/mitpress/3206.001.0001",
@@ -11933,7 +12831,9 @@
             "works_count": 143,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11965,7 +12865,9 @@
             "works_count": 222,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Hongsong Wang | Action recognition with improved trajectories | 10.1109/ICCV.2013.441",
@@ -11990,7 +12892,9 @@
             "works_count": 42,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Amir Shahroudy | NTU RGB+D: A large scale dataset for 3D human activity analysis | 10.1109/CVPR.2016.115",
@@ -12015,7 +12919,9 @@
             "works_count": 21,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tianyu Zheng | 3D human action recognition with spatio-temporal graph convolutional networks | 10.1609/aaai.v32i1.12328",
@@ -12041,7 +12947,9 @@
             "works_count": 52,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Kaiming He | Momentum contrast for unsupervised visual representation learning | 10.48550/arXiv.1911.05722",
@@ -12066,7 +12974,9 @@
             "works_count": 163,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -12087,7 +12997,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Miroslav Krstić",
+        "matched_database_author": "Miroslav Krsti\u0107",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -12098,7 +13008,9 @@
             "works_count": 1447,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Swaroop S. Ge | Stable adaptive neural network control | 10.1007/978-1-4615-3990-0",
@@ -12123,7 +13035,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Shuzhi Sam Ge | Adaptive neural network control of uncertain MIMO nonlinear systems | 10.1109/9.880629",
@@ -12147,7 +13061,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       },
       {
         "citation": "Yanjun Liu | Adaptive neural finite-time control for a class of nonstrict-feedback nonlinear systems | 10.1109/TNNLS.2014.2306701",
@@ -12168,12 +13084,14 @@
           {
             "cited_name": "Yanjun Liu",
             "author_exists": true,
-            "fullest_name": "Yan‐Jun Liu",
+            "fullest_name": "Yan\u2010Jun Liu",
             "h_index": 54,
             "works_count": 255,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       },
       {
         "citation": "Chenguang Yang | Adaptive neural control of nonlinear systems with input dead-zone | 10.1109/TNN.2007.912308",
@@ -12199,7 +13117,9 @@
             "works_count": 1028,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.56
       }
     ]
   },
@@ -12231,7 +13151,9 @@
             "works_count": 1350,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Yaguang Li | Diffusion convolutional recurrent neural network: Data-driven traffic forecasting | 10.48550/arXiv.1707.01926",
@@ -12256,7 +13178,9 @@
             "works_count": 175,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Zonghan Wu | Graph WaveNet for deep spatial-temporal graph modeling | 10.48550/arXiv.1906.00121",
@@ -12281,7 +13205,9 @@
             "works_count": 24,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Shengnan Guo | Attention based spatial-temporal graph convolutional networks for traffic flow forecasting | 10.1609/aaai.v33i01.3301922",
@@ -12306,7 +13232,9 @@
             "works_count": 40,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.84
       },
       {
         "citation": "Haixu Wu | Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting | 10.48550/arXiv.2106.13008",
@@ -12331,7 +13259,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       }
     ]
   },
@@ -12365,7 +13295,9 @@
             "works_count": 115,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       },
       {
         "citation": "Miroslav Krstic | Nonlinear and adaptive control design | 10.1002/9781119136033",
@@ -12379,7 +13311,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Miroslav Krstić",
+        "matched_database_author": "Miroslav Krsti\u0107",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -12390,7 +13322,9 @@
             "works_count": 1447,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Zongyu Zuo | Non-singular fixed-time terminal sliding mode control of non-linear systems | 10.1049/iet-cta.2014.0202",
@@ -12415,7 +13349,9 @@
             "works_count": 247,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.53
       },
       {
         "citation": "Yongduan Song | Prescribed performance adaptive neural control of uncertain nonlinear systems with unknown control directions | 10.1109/TNNLS.2013.2283702",
@@ -12439,7 +13375,9 @@
             "works_count": 519,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Shuzhi Sam Ge | Adaptive neural network control of uncertain MIMO nonlinear systems | 10.1109/9.880629",
@@ -12463,7 +13401,9 @@
             "works_count": 1369,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       }
     ]
   },
@@ -12495,7 +13435,9 @@
             "works_count": 15,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mathieu Carriere | PersLay: A neural network layer for persistence diagrams and new graph topological signatures | 10.48550/arXiv.1904.09378",
@@ -12509,43 +13451,47 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Mathieu Carrière",
+        "matched_database_author": "Mathieu Carri\u00e8re",
         "doi_valid": true,
         "identified_authors": [
           {
             "cited_name": "Mathieu Carriere",
             "author_exists": true,
-            "fullest_name": "Carrière, Mathieu 1950-",
+            "fullest_name": "Carri\u00e8re, Mathieu 1950-",
             "h_index": 11,
             "works_count": 56,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
-        "citation": "Frédéric Chazal | The structure and stability of persistence modules | 10.1007/s10208-016-9323-6",
+        "citation": "Fr\u00e9d\u00e9ric Chazal | The structure and stability of persistence modules | 10.1007/s10208-016-9323-6",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Frédéric Chazal"
+          "Fr\u00e9d\u00e9ric Chazal"
         ],
         "found_authors_count": 4,
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Frédéric Chazal",
+        "matched_database_author": "Fr\u00e9d\u00e9ric Chazal",
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Frédéric Chazal",
+            "cited_name": "Fr\u00e9d\u00e9ric Chazal",
             "author_exists": true,
             "fullest_name": "Chazal, Fr\\'ed\\'eric",
             "h_index": 38,
             "works_count": 184,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Christopher D. Hofer | Graph filtration learning | 10.48550/arXiv.1905.10996",
@@ -12570,7 +13516,9 @@
             "works_count": 15,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mustafa Hajij | Topological deep learning: Going beyond graph data | 10.48550/arXiv.2206.00606",
@@ -12595,7 +13543,9 @@
             "works_count": 113,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12627,7 +13577,9 @@
             "works_count": 478,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.65
       },
       {
         "citation": "Xiang Wang | Neural graph collaborative filtering | 10.1145/3331184.3331267",
@@ -12652,7 +13604,9 @@
             "works_count": 929,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Yongjun Li | Self-supervised learning for recommender systems: A survey | 10.48550/arXiv.2203.15876",
@@ -12671,12 +13625,14 @@
           {
             "cited_name": "Yongjun Li",
             "author_exists": true,
-            "fullest_name": "Yu-Liang 昱良 Li 李",
+            "fullest_name": "Yu-Liang \u6631\u826f Li \u674e",
             "h_index": 126,
             "works_count": 1017,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Jonathan Ho | Denoising diffusion probabilistic models | 10.48550/arXiv.2006.11239",
@@ -12701,7 +13657,9 @@
             "works_count": 41,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yuning You | Graph contrastive learning with augmentations | 10.48550/arXiv.2010.13902",
@@ -12726,7 +13684,9 @@
             "works_count": 21,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       }
     ]
   },
@@ -12757,7 +13717,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ravi P. Agarwal | Mittag-Leffler stability of fractional order nonlinear dynamic systems | 10.1016/j.automatica.2009.09.003",
@@ -12781,7 +13743,9 @@
             "works_count": 1792,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jun Wang | Memristor-based neural networks with applications | 10.1007/s00521-012-1211-4",
@@ -12807,7 +13771,9 @@
             "works_count": 3204,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Xiaodi Li | Impulsive control and synchronization of chaotic systems | 10.1109/TCSI.2001.972857",
@@ -12831,7 +13797,9 @@
             "works_count": 456,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Yongguang Yu | Adaptive synchronization of uncertain chaotic systems via backstepping design | 10.1016/j.chaos.2005.08.103",
@@ -12857,7 +13825,9 @@
             "works_count": 895,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       }
     ]
   },
@@ -12889,7 +13859,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       },
       {
         "citation": "Yutian Lin | A bottom-up clustering approach to unsupervised person re-identification | 10.1609/aaai.v33i01.33018778",
@@ -12914,7 +13886,9 @@
             "works_count": 37,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       },
       {
         "citation": "Zhongdao Wang | Unsupervised person re-identification by soft multilabel learning | 10.1109/CVPR.2019.00228",
@@ -12941,7 +13915,9 @@
             "works_count": 73,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Yixiao Ge | Self-paced contrastive learning with hybrid memory for domain adaptive object re-ID | 10.48550/arXiv.2006.02713",
@@ -12966,7 +13942,9 @@
             "works_count": 162,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Yixiao Ge | Mutual mean-teaching: Pseudo label refinery for unsupervised domain adaptation on person re-identification | 10.48550/arXiv.2001.01526",
@@ -12991,7 +13969,9 @@
             "works_count": 162,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       }
     ]
   },
@@ -13025,7 +14005,9 @@
             "works_count": 16,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yaofeng Desmond Zhong | Symplectic ODE-Net: Learning Hamiltonian dynamics with control | 10.48550/arXiv.1909.12077",
@@ -13050,7 +14032,9 @@
             "works_count": 24,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Ricky T. Q. Chen | Neural ordinary differential equations | 10.48550/arXiv.1806.07366",
@@ -13075,7 +14059,9 @@
             "works_count": 42,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael Lutter | Deep Lagrangian networks: Using physics as model prior for deep learning | 10.48550/arXiv.1907.04490",
@@ -13100,7 +14086,9 @@
             "works_count": 53,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Taco Cohen | Group equivariant convolutional networks | 10.48550/arXiv.1602.07576",
@@ -13125,7 +14113,9 @@
             "works_count": 84,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -13157,7 +14147,9 @@
             "works_count": 271,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lucian Busoniu | A comprehensive survey of multiagent reinforcement learning | 10.1109/TSMCC.2007.913919",
@@ -13171,7 +14163,7 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Lucian Buşoniu",
+        "matched_database_author": "Lucian Bu\u015foniu",
         "doi_valid": true,
         "identified_authors": [
           {
@@ -13182,7 +14174,9 @@
             "works_count": 161,
             "organization_country_id": "RO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kyriakos G. Vamvoudakis | Online actor-critic algorithm to solve the continuous-time infinite horizon optimal control problem | 10.1016/j.automatica.2010.02.018",
@@ -13207,7 +14201,9 @@
             "works_count": 302,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimos V. Dimarogonas | Event-triggered control for multi-agent systems | 10.1109/TAC.2011.2154079",
@@ -13232,7 +14228,9 @@
             "works_count": 675,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wei Ren | Distributed consensus in multi-vehicle cooperative control | 10.1007/978-1-84800-015-5",
@@ -13257,7 +14255,9 @@
             "works_count": 363,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       }
     ]
   }

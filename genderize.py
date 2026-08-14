@@ -38,7 +38,6 @@ load_dotenv()
 
 GENDERIZE_API_KEY = os.environ.get("GENDERIZE_API_KEY")
 GENDERIZE_URL = "https://api.genderize.io"
-BULK_BATCH_SIZE = 10  # genderize.io max per request
 
 
 def save_json(data, filename):
@@ -205,21 +204,19 @@ def choose_best_author_name_and_country(reference):
     return None, None
 
 
-def _build_params(pairs_batch):
+def _build_params(name, country_id=None):
     """
-    Builds genderize.io request parameters.
+    Build parameters for a single genderize.io request.
 
-    pairs_batch is a list of (name, country_id) tuples. country_id is
-    optional and only added to the request when present.
+    Country is passed whenever a valid two-character country code is
+    available. It is omitted when country_id is None.
     """
+    params = {
+        "name": name,
+    }
 
-    params = {}
-
-    for i, (name, country_id) in enumerate(pairs_batch):
-        params[f"name[{i}]"] = name
-
-        if country_id:
-            params[f"country_id[{i}]"] = country_id
+    if country_id:
+        params["country_id"] = country_id
 
     if GENDERIZE_API_KEY:
         params["apikey"] = GENDERIZE_API_KEY
@@ -227,126 +224,124 @@ def _build_params(pairs_batch):
     return params
 
 
-def get_gender_bulk(name_country_pairs, max_retries=3):
+def _send_gender_request(name, country_id, max_retries):
     """
-    Queries genderize.io in batches of 10.
+    Send one author name to genderize.io.
 
-    name_country_pairs is a list of (name, country_id) tuples, where
-    country_id may be None. Returns results in the same order as the
-    input pairs.
+    This deliberately uses one request per name rather than bulk batches so
+    that each name can independently use its own organization country.
     """
+    params = _build_params(name, country_id=country_id)
 
-    results = []
+    last_exc = None
 
-    for i in range(
-        0,
-        len(name_country_pairs),
-        BULK_BATCH_SIZE
-    ):
-        batch = name_country_pairs[
-            i:i + BULK_BATCH_SIZE
-        ]
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(
+                GENDERIZE_URL,
+                params=params,
+                timeout=10,
+            )
 
-        params = _build_params(batch)
-
-        print(
-            f"\nGenderizing names "
-            f"{i + 1}-{i + len(batch)} "
-            f"of {len(name_country_pairs)}..."
-        )
-
-        for attempt in range(max_retries):
-            try:
-                response = requests.get(
-                    GENDERIZE_URL,
-                    params=params,
-                    timeout=10
+            if response.status_code == 429:
+                wait = int(
+                    response.headers.get(
+                        "X-Rate-Reset",
+                        60,
+                    )
                 )
-
-                if response.status_code == 429:
-                    wait = int(
-                        response.headers.get(
-                            "X-Rate-Reset",
-                            60
-                        )
-                    )
-
-                    print(
-                        f"Rate limited by genderize.io. "
-                        f"Waiting {wait}s..."
-                    )
-
-                    time.sleep(wait)
-                    continue
-
-                response.raise_for_status()
-
-                batch_results = response.json()
-
-                if not isinstance(batch_results, list):
-                    raise ValueError(
-                        "genderize.io returned an unexpected "
-                        "response format."
-                    )
-
-                results.extend(batch_results)
-
-                for (name, country_id), result in zip(
-                    batch,
-                    batch_results
-                ):
-                    country_note = (
-                        f", country={country_id}"
-                        if country_id
-                        else ""
-                    )
-
-                    print(
-                        f"  {name}{country_note} -> "
-                        f"{result.get('gender')} "
-                        f"({result.get('probability')})"
-                    )
-
-                break
-
-            except (
-                requests.exceptions.RequestException,
-                ValueError
-            ) as e:
 
                 print(
-                    f"genderize.io request failed "
-                    f"(attempt {attempt + 1}/"
-                    f"{max_retries}): {e}"
+                    f"Rate limited by genderize.io. "
+                    f"Waiting {wait}s..."
                 )
 
-                if attempt < max_retries - 1:
-                    wait = 2 ** attempt
+                time.sleep(wait)
+                continue
 
-                    print(
-                        f"Retrying in {wait}s..."
-                    )
+            response.raise_for_status()
 
-                    time.sleep(wait)
+            result = response.json()
 
-                else:
-                    print(
-                        "Giving up on this batch."
-                    )
+            if not isinstance(result, dict):
+                raise ValueError(
+                    "genderize.io returned an unexpected "
+                    "response format."
+                )
 
-                    results.extend(
-                        [
-                            {
-                                "name": name,
-                                "gender": None,
-                                "probability": None
-                            }
-                            for name, _country_id in batch
-                        ]
-                    )
+            return result, None
+
+        except (
+            requests.exceptions.RequestException,
+            ValueError,
+        ) as e:
+            last_exc = e
+
+            print(
+                f"genderize.io request failed "
+                f"(attempt {attempt + 1}/{max_retries}): {e}"
+            )
+
+            if attempt < max_retries - 1:
+                wait = 2 ** attempt
+
+                print(f"Retrying in {wait}s...")
+                time.sleep(wait)
+
+    return None, last_exc
+
+
+def get_gender(name_country_pairs, max_retries=3):
+    """
+    Query genderize.io one name at a time.
+
+    Each name independently receives its own country_id when available.
+    Results are returned in the same order as the input pairs.
+    """
+    results = []
+
+    for i, (name, country_id) in enumerate(
+        name_country_pairs,
+        start=1,
+    ):
+        country_note = (
+            f", country={country_id}"
+            if country_id
+            else ""
+        )
+
+        print(
+            f"\nGenderizing {i} of {len(name_country_pairs)}: "
+            f"{name}{country_note}"
+        )
+
+        result, exc = _send_gender_request(
+            name,
+            country_id,
+            max_retries=max_retries,
+        )
+
+        if result is not None:
+            print(
+                f"  {name}{country_note} -> "
+                f"{result.get('gender')} "
+                f"({result.get('probability')})"
+            )
+
+            results.append(result)
+
+        else:
+            print(
+                f"  Giving up on: {name}"
+            )
+
+            results.append({
+                "name": name,
+                "gender": None,
+                "probability": None,
+            })
 
     return results
-
 
 def find_reference_dicts(node):
     """
@@ -517,7 +512,7 @@ def add_gender_to_verified_file(input_file):
     # Call Genderize
     # --------------------------------------------------------------
 
-    gender_results = get_gender_bulk(
+    gender_results = get_gender(
         author_country_pairs
     )
 
@@ -633,7 +628,29 @@ def add_gender_to_verified_file(input_file):
 if __name__ == "__main__":
 
     add_gender_to_verified_file(
-        input_file=(
-            "data/verification/gemini/checked_gem_S1980519_astrophys.json"
-        )
+        input_file="data/verification/gpt/checked_gpt_S9692511.json"
+    )
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S13144211.json"
+    )    
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S23254222.json"
+    )
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S24807848.json"
+    )
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S49861241.json" 
+    )
+    add_gender_to_verified_file(    
+        input_file="data/verification/gpt/checked_gpt_s86852077.json" 
+    )
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S110447773.json" 
+    )
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S145089992.json"
+    )
+    add_gender_to_verified_file(
+        input_file="data/verification/gpt/checked_gpt_S4210175523.json"
     )
