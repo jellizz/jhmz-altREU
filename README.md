@@ -33,14 +33,13 @@ Across three widely used LLMs (GPT-5.5, Claude Opus 4.8, and Gemini Flash 3.5) a
 
 
 ## Dataset  
-**Domain Representation**  
-We chose two journals with high h5-indices from each domain. Since social sciences comprises of many distinct subdomains, we evaluated the chosen subdomains individually.
+**Domain Representation**: We chose two journals with high h5-indices from each domain. Since social sciences comprises of many distinct subdomains, we evaluated the chosen subdomains individually.  
 
-**Social sciences**: *Frontiers in Psychology* and *American Economic Review*  
+**Social sciences**: *Frontiers in Psychology* and *American Economic Review* (analyzed as psychology and economics).  
 
 **Computer science**: *Expert Systems with Applications* and *IEEE Transactions on Neural Networks and Learning Systems*  
 
-**Medicine**: *Cell* and The *Lancet*  
+**Medicine**: *Cell* and *The Lancet*  
 
 **Physics**: *The Astrophysical Journal* and *Physical Review Letters*  
 
