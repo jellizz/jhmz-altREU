@@ -1,10 +1,10 @@
-# Investigating LLM and domain bias in hallucinated author citations  
+# Investigating LLM and domain Bias in Hallucinated Author Citations  
 This repository holds our data and code for our 2026 altREU project.  
 
 
 ## Overview  
 
-**Access our project overview here:** [**View presentation overview**](docs/slides.md)  
+[**Access our project overview here**](docs/slides.md)  
 
 This project investigates whether LLM-generated hallucinated citations are biased towards crediting highly cited, highly productive, or male authors.  
 
@@ -14,8 +14,11 @@ This project investigates whether LLM-generated hallucinated citations are biase
 
 ## Background and Significance
 LLMs are increasingly being used in academia to produce inaccurate work, with hallucinated citations being one quantifiable way of observing this. Citation-checking tools attempt to combat this by comparing references against databases like OpenAlex and Semantic Scholar to identify fake sources. Prior research has worked with these tools to study hallucinated citation prevalence and biases within published scientific literature. For example, Topaz et al. (2026) showed that hallucinated citations have been on the rise within biomedical research. On a broader scale, Zhao et al. (2026) examined 111 million references across 2.5 million papers on arXiv, bioRxiv, SSRN, and PubMed Central and found that hallucinated citations disproportionately cite prominent and male scholars, varying by academic discipline (*social sciences, CS, medicine, physics, environmental science* had the highest percentage of papers with hallucinated citations).  
+
 However, studies like this only observe these patterns *after publication*, when human editing and review may have already altered the original bias expressed by an LLM. Thus, there is a lack of literature examining biases within LLMs in the specific domain of scientific authorship and citation production.  
+
 Our project approaches this gap in the literature by generating citations directly from multiple LLMs under controlled prompting conditions. We prompt GPT-5.5, Claude-Opus-4.8, and Gemini-Flash-3.5 with identical literature-review tasks across several disciplines, identify hallucinated citations, and compare the characteristics (gender and productivity) of first authors referenced in those hallucinations. We compare rates across disciplines to support more in depth analysis for bias rates, controlling for gender rate differences within academic disciplines.  
+
 Because prior work has already demonstrated clear citation biases within published papers that use AI, we expect that a sufficiently large sample of generated citations will allow us to detect significant differences between models. However, we believe that our approach using controlled prompting conditions, rather than examining published literature, will allow us to more accurately examine LLM bias as it looks at its raw output, rather than work that has potentially gone through review and/or editing by humans.  
 
 
@@ -33,17 +36,23 @@ Across three widely used LLMs (GPT-5.5, Claude Opus 4.8, and Gemini Flash 3.5) a
 **Domain Representation**  
 We chose two journals with high h5-indices from each domain. Since social sciences comprises of many distinct subdomains, we evaluated the chosen subdomains individually.
 
-Social Sciences: *Frontiers in Psychology* and *American Economic Review*  
-Computer science: *Expert Systems with Applications* and *IEEE Transactions on Neural Networks and Learning Systems*  
-Medicine: *Cell* and The *Lancet*  
-Physics: *The Astrophysical Journal* and *Physical Review Letters*  
-Environmental Science: *The Science of The Total Environment* and *Journal of Hazardous Materials*  
+**Social sciences**: *Frontiers in Psychology* and *American Economic Review*  
+
+**Computer science**: *Expert Systems with Applications* and *IEEE Transactions on Neural Networks and Learning Systems*  
+
+**Medicine**: *Cell* and The *Lancet*  
+
+**Physics**: *The Astrophysical Journal* and *Physical Review Letters*  
+
+**Environmental science**: *The Science of The Total Environment* and *Journal of Hazardous Materials*  
 
 ## Methodology  
-**Pipeline from paper abstract to LLM-generated citation:**  
+This is a brief overview of our methodology pipelines.  
+
+**From paper abstract to LLM-generated citation:**  
 Abstract collection —> Generate literature review-style questions —> Generate citations to support an answer to a question
 
-**Pipeline from LLM-generated citation to relevant data points (citation status, first author gender, first author productivity):**  
+**From LLM-generated citation to relevant data points (citation status, first author gender, first author productivity):**  
 Citation verification —> First author verification —> First author analysis of gender and h-index  
 
 For more detail, see our full methodology here: [View methodology](docs/methodology.md)
@@ -51,9 +60,9 @@ For more detail, see our full methodology here: [View methodology](docs/methodol
 
 ## Results  
 See visuals of our results:  
-- [Hallucination rates](docs/figures/hallucination)  
-- [Author gender](docs/figures/gender)  
-- [Author productivity](docs/figures/productivity)  
+- [Hallucination rates](docs/figures/hallucination/hallu-figs.md)  
+- [Author gender](docs/figures/gender/gender-figs.md)  
+- [Author productivity](docs/figures/productivitydocs/figures/productivity/prod-figs.md)  
 
 [See how we calculated our results.](docs/result_calcs.md)
 
@@ -68,9 +77,9 @@ See visuals of our results:
 - Statistically significant **association between domain and citation status**.  
   - Environmental science saw the highest hallucination rate of 73.30%. Economics saw the lowest hallucination rate of 27.33%  
   - In published works, social sciences have the highest hallucination rate and environmental sciences have the lowest out of the five domains evaluated.
-- The **average h-index** of authors in hallucinated citations was **significantly higher** than the score of the baseline. 
+- The **average h-index** of authors in **hallucinated citations** was **significantly higher** than the score of the **baseline**. 
   - Authors in hallucinated citations had an average h-index of 60, compared to our baseline of 14.  
-- The **rate of male authors** in hallucinated citations is **comparable to rates in published works** (Zhat et al. (2026)).  
+- The **rate of male authors** in **hallucinated citations** is **comparable to rates in published works** (Zhao et al. (2026)).  
   - Higher number of male authors were seen in hallucinated citations. There was no significant difference in gender rates across LLMs.  
 
 
@@ -84,7 +93,9 @@ Although the observed gender and h-index biases were more pronounced compared th
 
 ## Conclusion  
 The LLMs show heightened biases in their generated citations, both real and hallucinated, with patterns relying on domain and model.  
+
 These biases appear to differ from trends in published literature.  
+
 The demographic biases (gender and h-index) are consistent with real-world trends.  
 
 
