@@ -78,3 +78,45 @@ Not found:            27
 Subfield restricted:  100  
 Subfield unavailable: 0  
 
+
+------------------------------------------------------
+# Gemini
+
+### checked_gem_S1980519_astrophys.json  
+Author lookups:       500  
+Found:                459  
+Not found:            41  
+Subfield restricted:  100  
+Subfield unavailable: 0  
+
+
+### checked_gem_S9692511_frontierspsych.json  
+Author lookups:       500  
+Found:                406  
+Not found:            94  
+Subfield restricted:  100  
+Subfield unavailable: 0  
+
+
+### checked_gem_S13144211_expertsysapp.json  
+Author lookups:       500  
+Found:                345  
+Not found:            155  
+Subfield restricted:  100  
+Subfield unavailable: 0  
+
+
+### checked_gem_S23254222_americaneconomic.json  
+Author lookups:       499  
+Found:                456  
+Not found:            43  
+Subfield restricted:  100  
+Subfield unavailable: 0  
+
+
+### checked_gem_S24807848_physreview.json  
+Author lookups:       500  
+Found:                456  
+Not found:            44  
+Subfield restricted:  100  
+Subfield unavailable: 0  
