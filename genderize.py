@@ -626,36 +626,37 @@ def add_gender_to_verified_file(input_file):
 
 
 if __name__ == "__main__":
-
-
+    add_gender_to_verified_file(
+        "data/verification/gemini/checked_gem_S13144211_expertsysapp.json"
+    )
     # add_gender_to_verified_file(
-    #     input_file="data/verification/anthr/checked_anthr_S1980519_astrophys.json"
+    #     input_file="data/verification/gemini/checked_gem_S1980519_astrophys.json"
     # )
     # add_gender_to_verified_file(
-    #     input_file="data/verification/anthr/checked_anthr_S9692511_frontierspsych.json"
+    #     input_file="data/verification/gemini/checked_gem_S9692511_frontierspsych.json"
     # )    
     # add_gender_to_verified_file(
-    #     input_file="data/verification/anthr/checked_anthr_S13144211_expertsysappe.json"
+    #     input_file="data/verification/gemini/checked_gem_S13144211_expertsysappe.json"
     # )
     # add_gender_to_verified_file(
-    #     input_file="data/verification/anthr/checked_anthr_S23254222_americaneconomic.json"
+    #     input_file="data/verification/gemini/checked_gem_S23254222_americaneconomic.json"
     # )
     # add_gender_to_verified_file(
-    #     input_file="data/verification/anthr/checked_anthr_S24807848_physreview.json" 
+    #     input_file="data/verification/gemini/checked_gem_S24807848_physreview.json" 
     # )
-    add_gender_to_verified_file(
-        input_file="data/verification/gemini/checked_gem_S49861241_lancet.json"
-    )
-    add_gender_to_verified_file(
-        input_file="data/verification/gemini/checked_gem_s86852077_totalenv.json"
-    )    
-    add_gender_to_verified_file(
-        input_file="data/verification/gemini/checked_gem_S110447773_cell.json"
-    )
-    add_gender_to_verified_file(
-        input_file="data/verification/gemini/checked_gem_S145089992_hazardous.json"
-    )
-    add_gender_to_verified_file(
-        input_file="data/verification/gemini/checked_gem_S4210175523_IEEEneuralnet.json" 
-    )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/gemini/checked_gem_S49861241_lancet.json"
+    # )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/gemini/checked_gem_s86852077_totalenv.json"
+    # )    
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/gemini/checked_gem_S110447773_cell.json"
+    # )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/gemini/checked_gem_S145089992_hazardous.json"
+    # )
+    # add_gender_to_verified_file(
+    #     input_file="data/verification/gemini/checked_gem_S4210175523_IEEEneuralnet.json" 
+    # )
     

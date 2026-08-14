@@ -2,7 +2,7 @@
   {
     "id": "https://openalex.org/W3195866665",
     "model": "gemini",
-    "question": "How do modified Black–Litterman portfolio optimization frameworks that formalize expert views from deviations between historical and implied returns compare with traditional mean–variance and standard Black–Litterman approaches in small-asset-universe settings with limited historical data, particularly regarding estimation error, portfolio stability, and out-of-sample performance?",
+    "question": "How do modified Black\u2013Litterman portfolio optimization frameworks that formalize expert views from deviations between historical and implied returns compare with traditional mean\u2013variance and standard Black\u2013Litterman approaches in small-asset-universe settings with limited historical data, particularly regarding estimation error, portfolio stability, and out-of-sample performance?",
     "references": [
       {
         "citation": "Fisher Black | Asset Allocation: Decision Making Under Uncertainty | 10.1002/9781119201533.ch1",
@@ -28,7 +28,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       },
       {
         "citation": "Guangliang He | The Black-Litterman Model: A Tuning-Free Approach | 10.1111/jbfc.12234",
@@ -52,7 +54,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Thomas M. Idzorek | A Step-by-Step Guide to the Black-Litterman Model | 10.1002/9781118267035.ch3",
@@ -77,7 +81,9 @@
             "works_count": 51,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Attilio Meucci | The Black-Litterman Approach: Original Model and Extensions | 10.2139/ssrn.1117574",
@@ -102,7 +108,9 @@
             "works_count": 73,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Francesco A. Specchio | Portfolio Optimization with Expert Views: A Modified Black-Litterman Approach | 10.1016/j.cor.2021.105342",
@@ -128,7 +136,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -138,12 +148,12 @@
     "question": "How do Choquet-integral-based spherical fuzzy MCDM frameworks compare with other fuzzy MCDM approaches in modeling criteria interdependence, uncertainty, and group decision-making robustness for autonomous vehicle selection in logistics applications?",
     "references": [
       {
-        "citation": "Fatih Kutlu Gündoğdu | Spherical fuzzy sets and spherical fuzzy TOPSIS method | 10.1007/s10462-019-09786-0",
+        "citation": "Fatih Kutlu G\u00fcndo\u011fdu | Spherical fuzzy sets and spherical fuzzy TOPSIS method | 10.1007/s10462-019-09786-0",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Fatih Kutlu Gündoğdu"
+          "Fatih Kutlu G\u00fcndo\u011fdu"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -154,14 +164,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Fatih Kutlu Gündoğdu",
+            "cited_name": "Fatih Kutlu G\u00fcndo\u011fdu",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Cengiz Kahraman | Spherical fuzzy Choquet integral and its application to multicriteria decision-making | 10.1007/s40314-021-01614-7",
@@ -180,12 +192,14 @@
           {
             "cited_name": "Cengiz Kahraman",
             "author_exists": true,
-            "fullest_name": "KAHRAMAN, Cengiz; İSTANBUL TEKNİK ÜNİVERSİTESİ",
+            "fullest_name": "KAHRAMAN, Cengiz; \u0130STANBUL TEKN\u0130K \u00dcN\u0130VERS\u0130TES\u0130",
             "h_index": 90,
             "works_count": 751,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dragan Pamucar | Selection of autonomous vehicles in logistics using a novel spherical fuzzy MCDM model | 10.1016/j.asoc.2022.109123",
@@ -209,7 +223,9 @@
             "works_count": 779,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Muhammet Deveci | Spherical fuzzy Choquet integral-based decision-making for autonomous vehicle selection | 10.1016/j.trd.2023.103689",
@@ -236,7 +252,9 @@
             "works_count": 528,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jun Ye | Spherical fuzzy MCDM based on Choquet integral for autonomous vehicle selection in logistics | 10.3390/sym14081542",
@@ -262,7 +280,9 @@
             "works_count": 799,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       }
     ]
   },
@@ -296,7 +316,9 @@
             "works_count": 675,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Enrico Zio | Reliability engineering and risk assessment: A Bayesian network approach with fuzzy evidence | 10.1016/j.ress.2020.107122",
@@ -320,7 +342,9 @@
             "works_count": 1794,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Roger Flage | Representing epistemic uncertainty in Bayesian networks using fuzzy strength of evidence | 10.1016/j.ijar.2018.04.005",
@@ -344,7 +368,9 @@
             "works_count": 114,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jie Liu | A fuzzy-Bayesian network model for digital risk visualization in socio-technical systems | 10.1016/j.is.2021.101890",
@@ -368,7 +394,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.5
       },
       {
         "citation": "Didier Dubois | Possibility theory and Bayesian networks: Handling epistemic uncertainty | 10.1016/j.fss.2016.12.011",
@@ -392,7 +420,9 @@
             "works_count": 1057,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -425,7 +455,9 @@
             "works_count": 101,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yin-Cang Zhou | Neuro-symbolic hybrid systems for industrial time-series anomaly detection | 10.1016/j.engappai.2022.105411",
@@ -452,7 +484,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       },
       {
         "citation": "Arturo Gonzalez | Symbolic-primitive knowledge elicitation versus deep learning in safety-critical energy systems | 10.1016/j.ress.2022.108620",
@@ -473,12 +507,14 @@
           {
             "cited_name": "Arturo Gonzalez",
             "author_exists": true,
-            "fullest_name": "Arturo Vega González",
+            "fullest_name": "Arturo Vega Gonz\u00e1lez",
             "h_index": 35,
             "works_count": 214,
             "organization_country_id": "IE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laleh J. Tafat | Explainable AI for fault diagnosis in industrial processes: A review | 10.1016/j.compchemeng.2022.107812",
@@ -505,7 +541,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "David G. Brown | Explainable neuro-symbolic fault detection and diagnosis in safety-critical infrastructure | 10.1109/TII.2021.3065121",
@@ -532,7 +570,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -564,7 +604,9 @@
             "works_count": 55,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dan Xu | Y-GAN: Disentangled Dual-Latent Reconstruction for One-Class Anomaly Detection | 10.1109/CVPR.2021.01234",
@@ -591,7 +633,9 @@
             "works_count": 513,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.79
       },
       {
         "citation": "Lukas Ruff | A Unifying Review of Deep and Classical Anomaly Detection | 10.1109/JPROC.2021.3052449",
@@ -617,7 +661,9 @@
             "works_count": 61,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Schlegl | f-Anogan: Fast unsupervised anomaly detection with generative adversarial networks | 10.1016/j.media.2019.01.010",
@@ -642,7 +688,9 @@
             "works_count": 143,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zhiyuan Chen | Dual-latent space reconstruction for robust image anomaly detection | 10.1016/j.patcog.2022.108991",
@@ -668,7 +716,9 @@
             "works_count": 191,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.54
       }
     ]
   },
@@ -701,7 +751,9 @@
             "works_count": 5245,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chun-Hao Chen | Sequence similarity analysis of candlestick patterns for financial market forecasting | 10.1016/j.ins.2020.08.012",
@@ -727,7 +779,9 @@
             "works_count": 174,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ke-Gong Lee | Deep learning vs. traditional candlestick-pattern-based forecasting: An empirical evaluation | 10.1016/j.jbankfin.2022.106511",
@@ -754,7 +808,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.75
       },
       {
         "citation": "Ming-Che Tsai | Candlestick pattern recognition and forecasting accuracy across multiple financial markets | 10.1016/j.asoc.2019.105821",
@@ -781,7 +837,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Jae-Woo Park | Robustness and transferability of deep learning models in candlestick-based trading systems | 10.1016/j.patrec.2021.03.014",
@@ -808,7 +866,9 @@
             "works_count": 634,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       }
     ]
   },
@@ -841,7 +901,9 @@
             "works_count": 64,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Tianyu Zhang | Online adaptation and sample efficiency of reinforcement learning-based HVAC control | 10.1016/j.apenergy.2022.119234",
@@ -867,7 +929,9 @@
             "works_count": 410,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Sourav Dey | Reinforcement learning vs. model predictive control: A comparative study in diverse climates | 10.1016/j.enbuild.2020.110231",
@@ -893,7 +957,9 @@
             "works_count": 118,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Lieve Helsen | Model predictive control and reinforcement learning for building energy systems | 10.1016/j.rser.2021.111812",
@@ -919,7 +985,9 @@
             "works_count": 363,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Xiwang Li | Off-policy reinforcement learning with offline pretraining for building thermal comfort control | 10.1016/j.enbuild.2022.112411",
@@ -945,7 +1013,9 @@
             "works_count": 68,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.58
       }
     ]
   },
@@ -978,7 +1048,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Koen Albrechts | Benefit-of-the-Doubt composite indicators: A review of weighting and aggregation methods | 10.1016/j.seps.2020.100912",
@@ -1004,7 +1076,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephane Guerrier | Multi-criteria decision analysis and ensemble DEA for tracking Sustainable Development Goals | 10.1016/j.worlddev.2022.105912",
@@ -1031,7 +1105,9 @@
             "works_count": 136,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       },
       {
         "citation": "William W. Cooper | Data Envelopment Analysis: History, models, and applications in policy benchmarking | 10.1007/978-1-4419-6151-8_1",
@@ -1058,7 +1134,9 @@
             "works_count": 377,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elena S. Petrova | Dimensionality reduction and ensemble DEA in SDG performance assessment across countries | 10.1016/j.ecolind.2023.109812",
@@ -1085,7 +1163,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1118,7 +1198,9 @@
             "works_count": 485,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       },
       {
         "citation": "Florian Daniel | Cost-sensitive data cleaning: Balances between organizational risk and remediation cost | 10.1109/TKDE.2021.3091123",
@@ -1144,7 +1226,9 @@
             "works_count": 405,
             "organization_country_id": "BR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard Y. Wang | Frameworks for data quality and target usability: A context-dependent approach | 10.1080/07421222.1996.11518099",
@@ -1171,7 +1255,9 @@
             "works_count": 136,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laura Sebastian-Coleman | Data quality assessment and corrective actions: Balancing cost and risk | 10.1016/j.datak.2022.102041",
@@ -1198,15 +1284,17 @@
             "works_count": 43,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Mikołaj Morzy | Decision-modeling frameworks for context-dependent data usability | 10.1016/j.ipm.2022.103112",
+        "citation": "Miko\u0142aj Morzy | Decision-modeling frameworks for context-dependent data usability | 10.1016/j.ipm.2022.103112",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Mikołaj Morzy"
+          "Miko\u0142aj Morzy"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -1217,14 +1305,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Mikołaj Morzy",
+            "cited_name": "Miko\u0142aj Morzy",
             "author_exists": true,
             "fullest_name": "Morzy, Miko{\\l}aj",
             "h_index": 14,
             "works_count": 118,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.57
       }
     ]
   },
@@ -1257,7 +1347,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Anna H. Johansson | Vehicle-to-vehicle variability and its impact on ADAS trajectory prediction | 10.1016/j.trc.2022.103711",
@@ -1284,7 +1376,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Marco Schmidt | Multimodal and score-level fusion strategies for driver intention detection | 10.1109/TIV.2022.3154812",
@@ -1311,7 +1405,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elena M. Petrova | Generalizability of machine-learning models in real-world truck overtaking scenarios | 10.1016/j.aap.2023.107012",
@@ -1337,7 +1433,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christof Schwindt | Camera Monitor Systems and CAN bus fusion for heavy vehicle lane change assistance | 10.1109/MITS.2021.3095621",
@@ -1363,14 +1461,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4389279395",
     "model": "gemini",
-    "question": "How can process mining–based analyses of student career trajectories, when integrated with findings from educational data mining, learning analytics, and curriculum design research, identify recurring curricular bottlenecks and institutional factors that contribute to delayed graduation across different higher-education systems?",
+    "question": "How can process mining\u2013based analyses of student career trajectories, when integrated with findings from educational data mining, learning analytics, and curriculum design research, identify recurring curricular bottlenecks and institutional factors that contribute to delayed graduation across different higher-education systems?",
     "references": [
       {
         "citation": "Wil M. P. van der Aalst | Process Mining in Education: Analyzing Student Career Trajectories | 10.1016/j.chb.2021.106921",
@@ -1397,7 +1497,9 @@
             "works_count": 1651,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Cristobal Romero | Educational Data Mining and Learning Analytics: An Overview of Curricular Bottleneck Identification | 10.1109/TLT.2020.2987114",
@@ -1424,7 +1526,9 @@
             "works_count": 155,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ryan S. J. d. Baker | Learning Analytics and Curriculum Design: Identifying Factors of Delayed Graduation | 10.1016/j.compedu.2022.104512",
@@ -1451,7 +1555,9 @@
             "works_count": 576,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Irene Luque Ruiz | Analyzing academic pathways using process mining: A multi-institution study | 10.1016/j.eswa.2021.115214",
@@ -1477,7 +1583,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Mykola Pechenizkiy | Curriculum bottleneck analysis and student graduation delay prediction via sequence mining | 10.1109/TE.2022.3167123",
@@ -1503,14 +1611,16 @@
             "works_count": 442,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4408379512",
     "model": "gemini",
-    "question": "How do findings from TD-CCM-based analyses of lagged nonlinear causality among Bitcoin, gold, and equity indices during crises such as COVID-19 compare with evidence from Granger causality, transfer entropy, wavelet coherence, and other nonlinear time-series approaches regarding cryptocurrencies’ evolving role as safe-haven assets, macroeconomic indicators, or transmitters of systemic financial risk?",
+    "question": "How do findings from TD-CCM-based analyses of lagged nonlinear causality among Bitcoin, gold, and equity indices during crises such as COVID-19 compare with evidence from Granger causality, transfer entropy, wavelet coherence, and other nonlinear time-series approaches regarding cryptocurrencies\u2019 evolving role as safe-haven assets, macroeconomic indicators, or transmitters of systemic financial risk?",
     "references": [
       {
         "citation": "George Sugihara | Detecting Causality in Complex Ecosystems: Convergent Cross Mapping | 10.1126/science.1227079",
@@ -1537,7 +1647,9 @@
             "works_count": 197,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elie Bouri | Lagged nonlinear causality among Bitcoin, gold, and equity indices: A TD-CCM approach | 10.1016/j.physa.2023.128712",
@@ -1564,7 +1676,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "David Roubaud | Is Bitcoin a safe haven? Evidence from nonlinear causality and transfer entropy | 10.1016/j.irfa.2021.101712",
@@ -1590,7 +1704,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ladislav Kristoufek | Wavelet coherence and nonlinear causality between Bitcoin and traditional assets | 10.1016/j.eneco.2020.104812",
@@ -1616,7 +1732,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dirk G. Baur | Gold, Bitcoin, and equities: Safe-haven or systemic risk transmitters? | 10.1016/j.jbankfin.2022.106411",
@@ -1643,7 +1761,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1653,12 +1773,12 @@
     "question": "How do integrated metaheuristic approaches for joint order batching, assignment, sequencing, and picker routing under due-date or time-window constraints compare across the warehousing literature in terms of service-level performance, computational scalability, and robustness relative to exact MILP formulations and decomposed decision-making strategies?",
     "references": [
       {
-        "citation": "René de Koster | Joint order batching, sequencing, and picker routing in warehouses: A review | 10.1016/j.ejor.2020.08.015",
+        "citation": "Ren\u00e9 de Koster | Joint order batching, sequencing, and picker routing in warehouses: A review | 10.1016/j.ejor.2020.08.015",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "René de Koster"
+          "Ren\u00e9 de Koster"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -1670,14 +1790,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "René de Koster",
+            "cited_name": "Ren\u00e9 de Koster",
             "author_exists": true,
-            "fullest_name": "René (Marinus) B.M. de Koster",
+            "fullest_name": "Ren\u00e9 (Marinus) B.M. de Koster",
             "h_index": 63,
             "works_count": 327,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Sebastian Henn | Metaheuristics for order batching and picker routing under due-date constraints | 10.1016/j.cor.2021.105432",
@@ -1703,7 +1825,9 @@
             "works_count": 124,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Nils Boysen | Integrated warehouse operations: Order batching, routing, and scheduling | 10.1016/j.tre.2021.102315",
@@ -1729,7 +1853,9 @@
             "works_count": 287,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jesus Gonzalez-Feliu | Exact and metaheuristic methods for the joint order batching and picker routing problem | 10.1016/j.asoc.2022.108922",
@@ -1755,7 +1881,9 @@
             "works_count": 285,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Andrew L. Johnson | Service-level performance and scalability of joint order batching metaheuristics | 10.1016/j.ijpe.2022.108523",
@@ -1781,7 +1909,9 @@
             "works_count": 128,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1814,7 +1944,9 @@
             "works_count": 123,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lara B. Jordaan | Adapting pretrained language models to human activity recognition using SAX representations | 10.1109/JSEN.2022.3184123",
@@ -1840,7 +1972,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Andreas Bulling | Deep learning for human activity recognition: A survey | 10.1145/2638728",
@@ -1866,7 +2000,9 @@
             "works_count": 346,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kaixuan Chen | Symbolic representations versus transformer embeddings for inertial-based HAR | 10.1145/3517822",
@@ -1892,15 +2028,17 @@
             "works_count": 42,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.51
       },
       {
-        "citation": "Thomas Plötz | Human activity recognition in the wild: The trade-off between SAX and deep features | 10.1016/j.pmcj.2021.101411",
+        "citation": "Thomas Pl\u00f6tz | Human activity recognition in the wild: The trade-off between SAX and deep features | 10.1016/j.pmcj.2021.101411",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Thomas Plötz"
+          "Thomas Pl\u00f6tz"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -1911,14 +2049,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Thomas Plötz",
+            "cited_name": "Thomas Pl\u00f6tz",
             "author_exists": true,
-            "fullest_name": "Plötz, Thomas",
+            "fullest_name": "Pl\u00f6tz, Thomas",
             "h_index": 38,
             "works_count": 143,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1952,7 +2092,9 @@
             "works_count": 290,
             "organization_country_id": "RO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Xiangyu Zhang | Lightweight versus large-scale deep learning models for drone-based face recognition | 10.1016/j.patcog.2023.109412",
@@ -1978,7 +2120,9 @@
             "works_count": 423,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Fadi Boutros | Face recognition in the wild: Impact of acquisition conditions on drone datasets | 10.1109/IJCB54200.2022.100072",
@@ -2004,7 +2148,9 @@
             "works_count": 173,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Albert S. Berahas | Drone-based face identification: Analysis of resolution and pitch angle variations | 10.1016/j.imavis.2022.104512",
@@ -2030,7 +2176,9 @@
             "works_count": 64,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Meng-Hao Guo | Efficient deep face recognition models for resource-constrained UAV systems | 10.1016/j.neucom.2023.126111",
@@ -2057,7 +2205,9 @@
             "works_count": 74,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       }
     ]
   },
@@ -2091,7 +2241,9 @@
             "works_count": 40,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rinon Gal | An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion | 10.48550/arXiv.2208.01618",
@@ -2116,7 +2268,9 @@
             "works_count": 55,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Ruizhe Zhao | Region-based feature injection and multi-prompt adapters for personalized image diffusion | 10.1109/ICCV.2023.00892",
@@ -2143,7 +2297,9 @@
             "works_count": 105,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.84
       },
       {
         "citation": "Hu Ye | IP-Adapter: Text-to-Image Diffusion Models with Image Prompt Adapter | 10.48550/arXiv.2308.06721",
@@ -2170,7 +2326,9 @@
             "works_count": 336,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Nataniel Ruiz | DreamBooth: Fine-Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | 10.1109/CVPR.2023.02150",
@@ -2195,14 +2353,16 @@
             "works_count": 55,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       }
     ]
   },
   {
     "id": "https://openalex.org/W4379057202",
     "model": "gemini",
-    "question": "How do deep reinforcement learning–based hyper-heuristics that integrate visual state representations and stochastic distributional information compare with traditional analytical, heuristic, and metaheuristic approaches across online packing and related combinatorial optimization problems in terms of generalization, optimality gaps, computational efficiency, and interpretability of learned decision strategies?",
+    "question": "How do deep reinforcement learning\u2013based hyper-heuristics that integrate visual state representations and stochastic distributional information compare with traditional analytical, heuristic, and metaheuristic approaches across online packing and related combinatorial optimization problems in terms of generalization, optimality gaps, computational efficiency, and interpretability of learned decision strategies?",
     "references": [
       {
         "citation": "Hang Zhao | Deep reinforcement learning-based hyper-heuristics for 3D bin packing | 10.1109/TIE.2022.3149112",
@@ -2228,7 +2388,9 @@
             "works_count": 1990,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.67
       },
       {
         "citation": "Victor G. Ruiz | Hyper-heuristics with visual state representation for online bin packing | 10.1016/j.ejor.2023.02.015",
@@ -2255,7 +2417,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "J. N. D. Gupta | Stochastic and distributional reinforcement learning in combinatorial optimization | 10.1016/j.cor.2021.105521",
@@ -2281,7 +2445,9 @@
             "works_count": 348,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Yoshua Bengio | Machine learning for combinatorial optimization: A methodological review | 10.1016/j.ejor.2021.01.023",
@@ -2307,7 +2473,9 @@
             "works_count": 1229,
             "organization_country_id": "DZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michel Gendreau | Online packing problems: Visual RL-based hyper-heuristics versus traditional approaches | 10.1016/j.asoc.2022.109312",
@@ -2334,14 +2502,16 @@
             "works_count": 634,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
   {
     "id": "https://openalex.org/W4391578783",
     "model": "gemini",
-    "question": "How do fuzzy-logic-inspired GAN loss functions—particularly those based on Sugeno complements—compare with established adversarial objectives across the literature in terms of theoretical divergence minimization, training stability, convergence behavior, and mitigation of mode collapse?",
+    "question": "How do fuzzy-logic-inspired GAN loss functions\u2014particularly those based on Sugeno complements\u2014compare with established adversarial objectives across the literature in terms of theoretical divergence minimization, training stability, convergence behavior, and mitigation of mode collapse?",
     "references": [
       {
         "citation": "Ian Goodfellow | Generative Adversarial Nets | 10.1145/3422622",
@@ -2369,7 +2539,9 @@
             "works_count": 103,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ronald R. Yager | Sugeno complements and fuzzy-logic-inspired loss functions in adversarial networks | 10.1016/j.fss.2022.04.015",
@@ -2395,7 +2567,9 @@
             "works_count": 1131,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sebastian Nowozin | f-GAN: Training generative neural samplers using variational divergence minimization | 10.48550/arXiv.1606.00709",
@@ -2420,7 +2594,9 @@
             "works_count": 146,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "L. A. Zadeh | Fuzzy sets and their applications in generative adversarial objectives | 10.1016/j.ins.2021.09.011",
@@ -2446,7 +2622,9 @@
             "works_count": 413,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xiao-Jun Wu | Mitigating mode collapse in GANs using Sugeno-complement-based fuzzy loss functions | 10.1016/j.patrec.2023.01.018",
@@ -2473,7 +2651,9 @@
             "works_count": 727,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.7
       }
     ]
   },
@@ -2508,7 +2688,9 @@
             "works_count": 386,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward J. Hu | LoRA: Low-Rank Adaptation of Large Language Models for NL2Code | 10.48550/arXiv.2106.09685",
@@ -2533,7 +2715,9 @@
             "works_count": 18,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Shiqi Shen | Multi-agent collaboration frameworks for secure and functional code generation | 10.1109/TSE.2023.3289123",
@@ -2560,7 +2744,9 @@
             "works_count": 42,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.67
       },
       {
         "citation": "Yujia Li | Competition-level code generation with AlphaCode | 10.1126/science.abq1158",
@@ -2584,7 +2770,9 @@
             "works_count": 183,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.79
       },
       {
         "citation": "Daniel M. Roy | Prompt optimization and fine-tuning strategies for NL2Code benchmarks | 10.1145/3611643",
@@ -2611,7 +2799,9 @@
             "works_count": 137,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2645,7 +2835,9 @@
             "works_count": 929,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Jianxun Lian | RCLKG: Review-Enhanced Knowledge Graph Augmentation with Contrastive Denoising | 10.1145/3543507.3583214",
@@ -2672,7 +2864,9 @@
             "works_count": 100,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       },
       {
         "citation": "Hongwei Wang | Knowledge Graph Convolutional Networks for Recommender Systems | 10.1145/3308558.3313417",
@@ -2697,7 +2891,9 @@
             "works_count": 420,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Yuxuan Liang | Contrastive learning and denoising strategies in knowledge graph recommendation | 10.1145/3583780.3614911",
@@ -2723,7 +2919,9 @@
             "works_count": 327,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.57
       },
       {
         "citation": "Fuzhen Zhuang | A comprehensive survey on transfer learning and KG-based recommender systems | 10.1109/TKDE.2020.3002871",
@@ -2748,7 +2946,9 @@
             "works_count": 177,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       }
     ]
   },
@@ -2782,7 +2982,9 @@
             "works_count": 102,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David J. Libon | DigiMoCA: A machine-learning-enhanced conversational agent for digital cognitive screening | 10.1016/j.jalz.2021.09.012",
@@ -2808,7 +3010,9 @@
             "works_count": 358,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sandra Weintraub | Comparing digital and in-person cognitive screening tools in older adults | 10.1016/j.dadm.2020.101211",
@@ -2834,7 +3038,9 @@
             "works_count": 605,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Wilson | Cost-effectiveness and usability of conversational agents for early detection of dementia | 10.1016/j.ypmed.2022.107122",
@@ -2860,7 +3066,9 @@
             "works_count": 2200,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emily G. Smith | Validation of conversational voice assistants for cognitive screening | 10.1176/appi.neuropsych.21040092",
@@ -2887,7 +3095,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2920,7 +3130,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Martin G. H. | Hierarchical Bayesian ARIMA-copula models for short-term traffic forecasting | 10.1016/j.trc.2021.103212",
@@ -2946,7 +3158,9 @@
             "works_count": 203,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laurence R. Rilett | Modeling spatial and temporal dependence in traffic flow with Bayesian copulas | 10.1109/TITS.2020.2991211",
@@ -2973,7 +3187,9 @@
             "works_count": 223,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Billy M. Williams | Multivariate traffic flow prediction: Bayesian vs. frequentist ARIMA approaches | 10.1016/j.trc.2022.103614",
@@ -2999,7 +3215,9 @@
             "works_count": 100,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Xin Zhang | Copula-based spatial-temporal modeling for traffic planning and safety assessment | 10.1016/j.aap.2023.106912",
@@ -3025,7 +3243,9 @@
             "works_count": 1555,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.61
       }
     ]
   },
@@ -3058,7 +3278,9 @@
             "works_count": 348,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Lin Wang | Multi-objective immune-inspired algorithms for distributed hybrid flowshop scheduling | 10.1016/j.ejor.2021.05.018",
@@ -3086,7 +3308,9 @@
             "works_count": 3937,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       },
       {
         "citation": "Jose M. Framinan | Integrating lot-sizing and batching in distributed flowshop environments | 10.1016/j.cor.2021.105423",
@@ -3108,12 +3332,14 @@
           {
             "cited_name": "Jose M. Framinan",
             "author_exists": true,
-            "fullest_name": "Framiñán Torres, José Manuel",
+            "fullest_name": "Frami\u00f1\u00e1n Torres, Jos\u00e9 Manuel",
             "h_index": 51,
             "works_count": 275,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Maria E. Gonzalez | Optimization of pharmaceutical production scheduling using multi-objective metaheuristics | 10.1016/j.compchemeng.2022.107723",
@@ -3140,7 +3366,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ruben Ruiz | An immune-inspired algorithm for distributed hybrid flowshop scheduling with assembly constraints | 10.1016/j.asoc.2022.109112",
@@ -3161,19 +3389,21 @@
           {
             "cited_name": "Ruben Ruiz",
             "author_exists": true,
-            "fullest_name": "Araujo Ruíz, Renzzo Alfredo",
+            "fullest_name": "Araujo Ru\u00edz, Renzzo Alfredo",
             "h_index": 59,
             "works_count": 225,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.91
       }
     ]
   },
   {
     "id": "https://openalex.org/W4388191485",
     "model": "gemini",
-    "question": "How do labeled property graph–based text representation frameworks compare with alternative semantic representation approaches (e.g., RDF/knowledge graphs, AMR, dependency-based graphs, and transformer-derived embeddings) across information extraction tasks such as entity disambiguation, event enrichment, participant detection, and temporal relation extraction in terms of semantic expressiveness, interoperability, scalability, and empirical performance?",
+    "question": "How do labeled property graph\u2013based text representation frameworks compare with alternative semantic representation approaches (e.g., RDF/knowledge graphs, AMR, dependency-based graphs, and transformer-derived embeddings) across information extraction tasks such as entity disambiguation, event enrichment, participant detection, and temporal relation extraction in terms of semantic expressiveness, interoperability, scalability, and empirical performance?",
     "references": [
       {
         "citation": "Ian Robinson | Graph Databases: Labeled Property Graphs vs. RDF | 10.1007/978-1-4842-1011-2_2",
@@ -3200,7 +3430,9 @@
             "works_count": 704,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Laura S. Diaz | Labeled property graph-based text representation for entity disambiguation and event enrichment | 10.1016/j.ipm.2022.103123",
@@ -3226,7 +3458,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Laura Banarescu | Abstract Meaning Representation (AMR) for text mining and relation extraction | 10.1145/2627811.2627818",
@@ -3253,7 +3487,9 @@
             "works_count": 2,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alexander G. Orlov | Semantic expressiveness of labeled property graphs in natural language processing | 10.1016/j.datak.2023.102115",
@@ -3279,7 +3515,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas H. Smith | Participant detection and temporal relation extraction using property graph databases | 10.1145/3511808.3557412",
@@ -3305,7 +3543,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3338,7 +3578,9 @@
             "works_count": 380,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.86
       },
       {
         "citation": "Hui-Min Wang | Sparse PCA and autoencoder-based feature learning for virtual metrology | 10.1016/j.chemolab.2021.104312",
@@ -3359,12 +3601,14 @@
           {
             "cited_name": "Hui-Min Wang",
             "author_exists": true,
-            "fullest_name": "Jane Shih‐Jhen Wang",
+            "fullest_name": "Jane Shih\u2010Jhen Wang",
             "h_index": 84,
             "works_count": 11318,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Thomas J. McAvoy | Sensor-selection algorithms and dynamic dimensionality reduction in semiconductor fabrication | 10.1109/TSEM.2020.2984121",
@@ -3390,7 +3634,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hui-Dong Jiang | Deep virtual metrology: Integrating dynamic feature extraction and sparse modeling | 10.1016/j.jprocont.2022.03.004",
@@ -3416,7 +3662,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       },
       {
         "citation": "Robert S. Smith | Accuracy and interpretability trade-offs in high-dimensional semiconductor virtual metrology | 10.1109/ASEM.2022.3174123",
@@ -3442,7 +3690,9 @@
             "works_count": 60,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3476,7 +3726,9 @@
             "works_count": 90,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "L. M. Martinez | Impact of meteorological and calendrical variables on bike-sharing demand | 10.1016/j.trd.2019.04.012",
@@ -3498,12 +3750,14 @@
           {
             "cited_name": "L. M. Martinez",
             "author_exists": true,
-            "fullest_name": "Luis Leonardo De la Cruz Martínez2",
+            "fullest_name": "Luis Leonardo De la Cruz Mart\u00ednez2",
             "h_index": 78,
             "works_count": 839,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Yuxuan Liang | Deep learning for shared mobility demand forecasting: A comparative study | 10.1109/TITS.2020.2974123",
@@ -3529,7 +3783,9 @@
             "works_count": 327,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.57
       },
       {
         "citation": "Sandra G. Perez | Transferability of green-mobility demand models across diverse urban contexts | 10.1016/j.trc.2022.103814",
@@ -3556,7 +3812,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Julian M. Ramos | Persistence-based predictors versus machine-learning models for e-scooter demand | 10.1016/j.jtrangeo.2023.103512",
@@ -3582,14 +3840,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W4415039367",
     "model": "gemini",
-    "question": "How do diffusion-based generative models for interest-rate term structure simulation compare with traditional affine, dynamic Nelson–Siegel, and machine-learning yield-curve models in capturing macro-financial conditioning effects—particularly monetary policy regimes, inflation dynamics, and quantitative easing—across different markets and time periods?",
+    "question": "How do diffusion-based generative models for interest-rate term structure simulation compare with traditional affine, dynamic Nelson\u2013Siegel, and machine-learning yield-curve models in capturing macro-financial conditioning effects\u2014particularly monetary policy regimes, inflation dynamics, and quantitative easing\u2014across different markets and time periods?",
     "references": [
       {
         "citation": "Jonathan Ho | Denoising Diffusion Probabilistic Models | 10.48550/arXiv.2006.11239",
@@ -3617,7 +3877,9 @@
             "works_count": 115,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Francis X. Diebold | Forecasting the Term Structure of Government Bond Yields: A Dynamic Nelson-Siegel Approach | 10.1016/j.jeconom.2005.03.005",
@@ -3642,7 +3904,9 @@
             "works_count": 495,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.75
       },
       {
         "citation": "Marco S. Galli | Diffusion-based generative models for simulating interest-rate term structures | 10.1016/j.jempfin.2023.101412",
@@ -3670,7 +3934,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Generative yield-curve modeling with macro-financial conditioning effects | 10.1016/j.jbankfin.2023.106811",
@@ -3696,7 +3962,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Arthur S. Taylor | Machine-learning models for term structure forecasting under quantitative easing | 10.1016/j.jedc.2022.104512",
@@ -3723,7 +3991,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3752,12 +4022,14 @@
           {
             "cited_name": "Francesco Ricci",
             "author_exists": true,
-            "fullest_name": "Francesco Ricci⋆",
+            "fullest_name": "Francesco Ricci\u22c6",
             "h_index": 56,
             "works_count": 373,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael J. Smith | Context-rule-based push mechanisms vs. server-side recommender systems | 10.1109/TMC.2021.3094123",
@@ -3783,7 +4055,9 @@
             "works_count": 196,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Luca G. Rossi | Energy consumption and recommendation timing accuracy in mobile recommender systems | 10.1016/j.pmcj.2022.101512",
@@ -3809,7 +4083,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Helen M. Taylor | Privacy preservation and user acceptance of on-device mobile recommendation pushes | 10.1145/3511808.3557321",
@@ -3835,7 +4111,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sandra E. Brown | Hybrid mobile recommender architectures: Balancing server computational power and client privacy | 10.1016/j.is.2022.102112",
@@ -3861,14 +4139,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W4390465603",
     "model": "gemini",
-    "question": "How do hybrid feature-selection frameworks that integrate redundancy-aware feature grouping (e.g., spectral clustering or Markov blanket–based filtering) with multi-objective evolutionary search compare across the broader gene-expression classification literature in terms of predictive accuracy, feature subset stability, computational scalability, and biological interpretability of selected disease biomarkers?",
+    "question": "How do hybrid feature-selection frameworks that integrate redundancy-aware feature grouping (e.g., spectral clustering or Markov blanket\u2013based filtering) with multi-objective evolutionary search compare across the broader gene-expression classification literature in terms of predictive accuracy, feature subset stability, computational scalability, and biological interpretability of selected disease biomarkers?",
     "references": [
       {
         "citation": "Kalyanmoy Deb | A fast and elitist multiobjective genetic algorithm: NSGA-II | 10.1109/4235.996017",
@@ -3896,7 +4176,9 @@
             "works_count": 900,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Huan Liu | Hybrid feature selection using Markov blanket and evolutionary algorithms | 10.1109/TKDE.2018.2861211",
@@ -3923,7 +4205,9 @@
             "works_count": 3454,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert S. Geller | Redundancy-aware feature grouping and spectral clustering in high-dimensional gene expression classification | 10.1016/j.eswa.2021.115612",
@@ -3949,7 +4233,9 @@
             "works_count": 1505,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David E. Goldberg | Multi-objective evolutionary search for disease biomarker discovery | 10.1016/j.bspc.2022.103912",
@@ -3976,7 +4262,9 @@
             "works_count": 500,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amanda L. Smith | Predictive accuracy and subset stability of hybrid feature-selection frameworks | 10.1016/j.ins.2022.11.092",
@@ -4002,7 +4290,9 @@
             "works_count": 166,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4037,7 +4327,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yuxuan Liang | Spatial-Temporal Transformer Networks for Traffic Flow Forecasting | 10.1145/3394486.3403237",
@@ -4063,7 +4355,9 @@
             "works_count": 327,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.57
       },
       {
         "citation": "Bing Yu | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | 10.24963/ijcai.2018/505",
@@ -4088,7 +4382,9 @@
             "works_count": 1350,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Sepp Hochreiter | Long Short-Term Memory | 10.1162/neco.1997.9.8.1735",
@@ -4113,7 +4409,9 @@
             "works_count": 314,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Shumin Zhang | Comparing Transformers and RNNs for traffic-flow forecasting on PeMS datasets | 10.1016/j.trc.2021.103312",
@@ -4139,7 +4437,9 @@
             "works_count": 162,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.82
       }
     ]
   },
@@ -4172,7 +4472,9 @@
             "works_count": 336,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Donald S. Brown | Agent-based modeling of multi-level regulatory coordination in crypto markets | 10.1109/TCSS.2021.3092121",
@@ -4198,7 +4500,9 @@
             "works_count": 568,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sandra J. L. | Crypto asset regulation in Canada: Firm compliance and intergovernmental signaling | 10.1016/j.jfs.2022.101011",
@@ -4225,7 +4529,9 @@
             "works_count": 121,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael G. Smith | Rulemaking dynamics and firm adaptation in decentralized jurisdictions | 10.1145/3543507.3583112",
@@ -4251,7 +4557,9 @@
             "works_count": 531,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter D. Taylor | Enforcement intensity, innovation, and consumer protection in cryptocurrency markets | 10.1016/j.telpol.2022.102412",
@@ -4277,7 +4585,9 @@
             "works_count": 568,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4310,7 +4620,9 @@
             "works_count": 237,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       },
       {
         "citation": "Robert J. Sampson | Transportation, labor-market, and demographic accessibility: A spatial housing analysis | 10.1111/j.1467-9787.2020.01211.x",
@@ -4336,7 +4648,9 @@
             "works_count": 667,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Luc Anselin | Spatial autocorrelation and hedonic location measures in urban planning | 10.1111/j.1469-1809.1988.tb01111.x",
@@ -4362,7 +4676,9 @@
             "works_count": 312,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Christopher M. Jones | Machine learning versus hedonic regression for urban house price prediction | 10.1016/j.compenvurbsys.2022.101812",
@@ -4389,7 +4705,9 @@
             "works_count": 217,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amanda L. Green | Interpretable accessibility indices for urban planning and real estate valuation | 10.1016/j.cities.2022.104012",
@@ -4415,14 +4733,16 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4392180077",
     "model": "gemini",
-    "question": "How do radiomic time-series classification approaches applied to DCE-MRI, particularly models using multi-instant feature selection and ROCKET-based algorithms, compare with conventional kinetic-curve modeling, deep learning, and multiparametric MRI strategies in improving benign–malignant breast lesion differentiation and clinical interpretability?",
+    "question": "How do radiomic time-series classification approaches applied to DCE-MRI, particularly models using multi-instant feature selection and ROCKET-based algorithms, compare with conventional kinetic-curve modeling, deep learning, and multiparametric MRI strategies in improving benign\u2013malignant breast lesion differentiation and clinical interpretability?",
     "references": [
       {
         "citation": "Angus Dempster | ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels | 10.1007/s10618-020-00701-z",
@@ -4447,7 +4767,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Maryam E. Al-Geller | Radiomic time-series classification for DCE-MRI breast lesion differentiation | 10.1016/j.media.2022.102412",
@@ -4473,7 +4795,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.96
       },
       {
         "citation": "Robert J. Gillies | Radiomics: Images Are More than Pictures, They Are Data | 10.1148/radiol.25731512",
@@ -4501,7 +4825,9 @@
             "works_count": 889,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fiona M. Walter | Multi-instant feature selection and ROCKET-based algorithms in DCE-MRI analysis | 10.1109/TMI.2023.3241121",
@@ -4528,7 +4854,9 @@
             "works_count": 473,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Jones | Deep learning vs. kinetic-curve modeling in multiparametric breast MRI | 10.1016/j.ejrad.2022.110512",
@@ -4554,7 +4882,9 @@
             "works_count": 213,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4564,31 +4894,33 @@
     "question": "How do the trade-offs between forecasting accuracy and computational efficiency in Long Short-term Cognitive Networks compare to those of other online learning approaches for renewable energy time series prediction across diverse operational and environmental conditions?",
     "references": [
       {
-        "citation": "Gonzalo Nápoles | Long Short-Term Cognitive Networks | 10.1109/TNNLS.2021.3101211",
+        "citation": "Gonzalo N\u00e1poles | Long Short-Term Cognitive Networks | 10.1109/TNNLS.2021.3101211",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Gonzalo Nápoles"
+          "Gonzalo N\u00e1poles"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Gonzalo Nápoles'], database match: Gonzalo Nápoles",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Gonzalo N\u00e1poles'], database match: Gonzalo N\u00e1poles",
         "failed_dbs": [
           "arXiv"
         ],
         "retracted": false,
-        "matched_database_author": "Gonzalo Nápoles",
+        "matched_database_author": "Gonzalo N\u00e1poles",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Gonzalo Nápoles",
+            "cited_name": "Gonzalo N\u00e1poles",
             "author_exists": true,
-            "fullest_name": "Nápoles, Gonzalo; id_orcid 0000-0003-1936-3701",
+            "fullest_name": "N\u00e1poles, Gonzalo; id_orcid 0000-0003-1936-3701",
             "h_index": 26,
             "works_count": 176,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Elpiniki I. Papageorgiou | Fuzzy Cognitive Maps for renewable energy time series forecasting | 10.1016/j.apenergy.2018.09.112",
@@ -4614,7 +4946,9 @@
             "works_count": 308,
             "organization_country_id": "GR"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.96
       },
       {
         "citation": "Jose L. Salmeron | Forecasting accuracy and computational efficiency of cognitive network architectures | 10.1016/j.asoc.2022.108912",
@@ -4641,7 +4975,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael S. Smith | Online learning approaches for solar and wind energy generation prediction | 10.1016/j.enconman.2020.113212",
@@ -4667,7 +5003,9 @@
             "works_count": 207,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert A. Watson | A comparative study of LSTCN and LSTM in dynamic environmental conditions | 10.1016/j.neucom.2022.04.056",
@@ -4694,7 +5032,9 @@
             "works_count": 249,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4728,7 +5068,9 @@
             "works_count": 390,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Thomas G. Smith | Meta-learning for cross-asset knowledge transfer in volatility forecasting | 10.1016/j.jbankfin.2023.106812",
@@ -4754,7 +5096,9 @@
             "works_count": 411,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Susan J. Brown | Transfer learning and domain adaptation in financial time series forecasting | 10.1016/j.irfa.2022.102121",
@@ -4780,7 +5124,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Financial volatility forecasting under data scarcity: A meta-learning approach | 10.1016/j.jforecast.2023.03.011",
@@ -4807,7 +5153,9 @@
             "works_count": 123,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Peterson | Cross-asset knowledge transfer vs. GARCH: Evaluating deep meta-learning | 10.1016/j.ijforecast.2023.05.012",
@@ -4833,7 +5181,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -4867,7 +5217,9 @@
             "works_count": 423,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Robert J. Wang | Hybrid CNN-RNN architectures for 6D pose estimation in autonomous driving | 10.1109/CVPR.2021.01121",
@@ -4894,7 +5246,9 @@
             "works_count": 451,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andreas Geiger | Are we ready for autonomous driving? The KITTI vision benchmark suite | 10.1109/CVPR.2012.6247913",
@@ -4919,7 +5273,9 @@
             "works_count": 356,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fadi Boutros | Geometry-driven versus transformer-based methods for 3D vehicle pose estimation | 10.1016/j.patrec.2022.04.015",
@@ -4945,7 +5301,9 @@
             "works_count": 173,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Meng-Hao Guo | Computational efficiency of hybrid neural networks in monocular 6D pose tracking | 10.1016/j.imavis.2022.104412",
@@ -4971,7 +5329,9 @@
             "works_count": 74,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       }
     ]
   },
@@ -5005,7 +5365,9 @@
             "works_count": 292,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Geli S. Ramos | Graph-based structural representations for semantic preservation in image-text retrieval | 10.1016/j.isprsjprs.2023.01.012",
@@ -5033,7 +5395,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.92
       },
       {
         "citation": "Alec Radford | Learning Transferable Visual Models From Natural Language Supervision (CLIP) | 10.48550/arXiv.2103.00020",
@@ -5058,7 +5422,9 @@
             "works_count": 33,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Sarah L. Smith | Attention-based vs. graph-based mechanisms for remote sensing cross-modal retrieval | 10.1109/TGRS.2022.3181211",
@@ -5085,7 +5451,9 @@
             "works_count": 73,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David M. Brown | Graph-structured feature extraction for remote sensing image captioning and retrieval | 10.1109/JSTARS.2023.3245112",
@@ -5111,7 +5479,9 @@
             "works_count": 1475,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5144,7 +5514,9 @@
             "works_count": 198,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David B. Leake | Case-Based Reasoning: Research and Development | 10.1007/3-540-61716-2",
@@ -5171,7 +5543,9 @@
             "works_count": 250,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrei A. Rusu | Policy Distillation for Multi-Task Reinforcement Learning | 10.48550/arXiv.1511.06295",
@@ -5196,7 +5570,9 @@
             "works_count": 28,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Sarah L. Carter | Mitigating negative transfer in RL: A comparison of CBR and meta-learning | 10.1016/j.cogsys.2021.05.004",
@@ -5222,7 +5598,9 @@
             "works_count": 188,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard S. Sutton | Successor features versus case-based reasoning for transfer in RL | 10.1016/j.neucom.2021.09.012",
@@ -5248,7 +5626,9 @@
             "works_count": 271,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5280,7 +5660,9 @@
             "works_count": 386,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David S. Williams | LLMs for code deobfuscation: Performance across malware families | 10.1109/TIFS.2023.3284121",
@@ -5308,7 +5690,9 @@
             "works_count": 98,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Fine-tuning strategies for automated threat intelligence pipelines with LLMs | 10.1016/j.cose.2023.103212",
@@ -5334,7 +5718,9 @@
             "works_count": 123,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | Deobfuscation and code-comprehension capabilities of pre-trained language models | 10.1109/TDSC.2023.3291211",
@@ -5360,7 +5746,9 @@
             "works_count": 50,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Architectural strategies for malware analysis using generative AI models | 10.1109/SP.2023.00112",
@@ -5386,7 +5774,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -5420,7 +5810,9 @@
             "works_count": 1902,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael J. Lass | The Empty Circles approach: A computational geometry initialization for k-means | 10.1016/j.patcog.2022.108912",
@@ -5446,7 +5838,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Franco P. Preparata | Computational Geometry: An Introduction | 10.1007/978-1-4612-1098-6",
@@ -5471,7 +5865,9 @@
             "works_count": 178,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Susan L. Carter | Comparing center-selection strategies: Voronoi-based vs. density-based methods | 10.1016/j.ins.2021.12.015",
@@ -5497,7 +5893,9 @@
             "works_count": 127,
             "organization_country_id": "NZ"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert A. Watson | Clustering accuracy and convergence speed of geometric initialization methods | 10.1016/j.eswa.2022.118112",
@@ -5524,7 +5922,9 @@
             "works_count": 249,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5557,7 +5957,9 @@
             "works_count": 221,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Tsung-Yi Lin | Feature Pyramid Networks for Object Detection | 10.1109/CVPR.2017.106",
@@ -5585,7 +5987,9 @@
             "works_count": 58,
             "organization_country_id": "TW"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Aaron van den Oord | Representation Learning with Contrastive Predictive Coding | 10.48550/arXiv.1807.03748",
@@ -5610,7 +6014,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Supervised contrastive learning for single-channel EEG sleep scoring | 10.1109/TNSRE.2022.3171211",
@@ -5636,7 +6042,9 @@
             "works_count": 112,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amanda L. Green | Discriminating N1 and REM stages using dual-attention feature pyramids on EEG | 10.1016/j.bspc.2023.104512",
@@ -5662,7 +6070,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5695,7 +6105,9 @@
             "works_count": 266,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | Diffusion-based generative models for condition monitoring in wind energy systems | 10.1016/j.renene.2023.111412",
@@ -5722,7 +6134,9 @@
             "works_count": 50,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "George E. Karniadakis | Physics-informed machine learning | 10.1038/s42254-021-00314-5",
@@ -5747,7 +6161,9 @@
             "works_count": 1255,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Deep learning approaches for wind turbine fault diagnosis: A comparative review | 10.1016/j.rser.2022.112112",
@@ -5774,7 +6190,9 @@
             "works_count": 469,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Balancing anomaly detection accuracy and interpretability in industrial datasets | 10.1016/j.ress.2023.109212",
@@ -5800,7 +6218,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -5834,7 +6254,9 @@
             "works_count": 812,
             "organization_country_id": "HU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xin-She Yang | Nature-inspired optimization algorithms: A comprehensive review | 10.1016/j.cosrev.2020.100251",
@@ -5860,7 +6282,9 @@
             "works_count": 641,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.5
       },
       {
         "citation": "Robert S. Jones | Adaptive differential evolution variants in continuous and constrained domains | 10.1016/j.asoc.2021.107912",
@@ -5887,7 +6311,9 @@
             "works_count": 469,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Susan L. Carter | Balancing exploration-exploitation trade-offs via hybrid bio-inspired optimizers | 10.1016/j.ins.2022.11.012",
@@ -5913,7 +6339,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kenneth Price | Differential Evolution: A Practical Approach to Global Optimization | 10.1007/3-540-31360-8",
@@ -5938,7 +6366,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5971,7 +6401,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | 3D indoor positioning using UWB: Volume-maximization strategy for anchor configurations | 10.1016/j.measurement.2023.112412",
@@ -5998,7 +6430,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert S. Jones | Impact of non-line-of-sight conditions on GDOP-based positioning accuracy | 10.1109/TIM.2021.3092121",
@@ -6024,7 +6458,9 @@
             "works_count": 108,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Generalizing anchor placement optimization across diverse indoor localization technologies | 10.1016/j.adhoc.2022.102912",
@@ -6050,7 +6486,9 @@
             "works_count": 225,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter D. Taylor | Mathematical formulations of GDOP-volume maximization in range-based positioning | 10.1016/j.comcom.2023.01.015",
@@ -6076,7 +6514,9 @@
             "works_count": 188,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6110,7 +6550,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | Unordered activity collections for anomaly detection in dynamic IP environments | 10.1016/j.cose.2023.103112",
@@ -6136,7 +6578,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert S. Jones | Machine learning versus time-series methods for network threat detection | 10.1016/j.comnet.2021.108512",
@@ -6163,7 +6607,9 @@
             "works_count": 469,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Detecting misconfigurations and compromised devices using behavioral profiling | 10.1109/TDSC.2022.3184121",
@@ -6190,7 +6636,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter D. Taylor | Dynamic IP address activity modeling via discrete-time Markov chains | 10.1016/j.is.2023.102122",
@@ -6216,7 +6664,9 @@
             "works_count": 568,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6250,7 +6700,9 @@
             "works_count": 238,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Solving nonlinear epidemiological models using hybrid stochastic-deterministic techniques | 10.1016/j.apm.2022.03.015",
@@ -6276,7 +6728,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Susan L. Carter | Robotic-based COVID-19 detection using intelligent computing paradigms | 10.1109/TMRB.2022.3164121",
@@ -6302,7 +6756,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David E. Goldberg | Genetic Algorithms in Search, Optimization, and Machine Learning | 10.1007/978-1-4612-1098-6",
@@ -6327,7 +6783,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen J. Wright | Primal-Dual Interior-Point Methods | 10.1137/1.9781611971453",
@@ -6352,7 +6810,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6386,7 +6846,9 @@
             "works_count": 654,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "David S. Williams | Metaheuristic algorithms for PV parameter estimation: Avoiding local optima | 10.1016/j.solener.2022.111212",
@@ -6412,7 +6874,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | Design principles of high-performing evolutionary optimizers on solar cell modeling | 10.1016/j.apenergy.2023.119412",
@@ -6438,7 +6902,9 @@
             "works_count": 98,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Why some metaheuristics fail: An analysis of PV parameter identification landscapes | 10.1016/j.asoc.2022.109121",
@@ -6464,7 +6930,9 @@
             "works_count": 108,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Generalizable characteristics predicting algorithmic success in multimodal engineering design | 10.1109/TEVC.2023.3241121",
@@ -6490,7 +6958,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -6524,7 +6994,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | Diagnostic accuracy of generated depth modalities in computer-aided facial diagnosis | 10.1016/j.media.2023.102812",
@@ -6551,7 +7023,9 @@
             "works_count": 50,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Real RGB-D sensors versus synthetic depth data for craniofacial analysis | 10.1109/CVPR.2022.01211",
@@ -6578,7 +7052,9 @@
             "works_count": 469,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Generative adversarial networks for 3D face synthesis in clinical diagnostics | 10.1016/j.patcog.2021.108412",
@@ -6605,7 +7081,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter D. Taylor | Reliability of simulated depth maps in deep-learning-based medical facial imaging | 10.1016/j.bspc.2023.104612",
@@ -6631,7 +7109,9 @@
             "works_count": 85,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6665,7 +7145,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | On-device inference efficiency versus model accuracy in augmented reality applications | 10.1016/j.is.2023.102122",
@@ -6691,7 +7173,9 @@
             "works_count": 50,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert S. Jones | Deep learning architectures for mobile AR: Hardware constraints and optimization | 10.1109/MCOM.2021.3092121",
@@ -6718,7 +7202,9 @@
             "works_count": 469,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Real-time object detection and tracking in AI-AR pipelines | 10.1145/3511808.3557321",
@@ -6745,7 +7231,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter D. Taylor | Benchmarking deep neural networks for augmented reality on edge devices | 10.1016/j.pmcj.2022.101511",
@@ -6771,7 +7259,9 @@
             "works_count": 85,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6805,7 +7295,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah L. Taylor | Computational stylistics and the chronological dating of literary texts | 10.1093/llc/fqab012",
@@ -6831,7 +7323,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert S. Jones | Dimensionality-reduction and regression techniques in small-sample high-dimensional humanities data | 10.1016/j.ipm.2021.102612",
@@ -6858,7 +7352,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian T. Brown | Dating historical corpora using continued fractions and lexical statistics | 10.1145/3511808.3557412",
@@ -6884,7 +7380,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Peter D. Taylor | A comparative evaluation of Continued Fraction Regression in linguistic profiling | 10.1002/asi.24612",
@@ -6910,7 +7408,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6920,15 +7420,15 @@
     "question": "How do multimodal fusion strategies, such as weighted average ensembles versus feature-level or attention-based fusion approaches, compare in their effectiveness for improving detection performance across different deep learning architectures and application domains?",
     "references": [
       {
-        "citation": "Tadas Baltrušaitis | Multimodal Machine Learning: A Survey and Taxonomy | 10.1109/TPAMI.2017.2736580",
+        "citation": "Tadas Baltru\u0161aitis | Multimodal Machine Learning: A Survey and Taxonomy | 10.1109/TPAMI.2017.2736580",
         "status": "mismatch",
         "title_found": true,
         "author_matched": false,
         "ref_authors": [
-          "Tadas Baltrušaitis"
+          "Tadas Baltru\u0161aitis"
         ],
         "found_authors_count": 3,
-        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['Tadas Baltrušaitis'], database had 3 author(s) on record",
+        "reason": "title was found (source: Europe PMC), but author did not match. cited author(s): ['Tadas Baltru\u0161aitis'], database had 3 author(s) on record",
         "failed_dbs": [
           "arXiv",
           "Semantic Scholar"
@@ -6937,14 +7437,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Tadas Baltrušaitis",
+            "cited_name": "Tadas Baltru\u0161aitis",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chao Zhang | Deep Multimodal Learning for Clinical Decision Support: A Review | 10.1109/BHI.2019.8834641",
@@ -6970,7 +7472,9 @@
             "works_count": 495,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.8
       },
       {
         "citation": "Wouter Versloot | Weighted Average Ensembles for Deep Learning Multimodal Fusion | 10.1007/s10489-021-02221-z",
@@ -6996,7 +7500,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jiacheng Xu | Multimodal Fusion Strategies in Deep Learning: A Survey | 10.1016/j.inffus.2022.09.011",
@@ -7022,7 +7528,9 @@
             "works_count": 18,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jing-Hao Xue | Feature-Level and Decision-Level Fusion for Multimodal Classification | 10.1109/TNNLS.2020.2974301",
@@ -7048,7 +7556,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.81
       }
     ]
   },
@@ -7082,7 +7592,9 @@
             "works_count": 500,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.68
       },
       {
         "citation": "Marco Rinaldi | Graph-Theoretic Formulations for Traffic Sensor Location Problems | 10.1016/j.trc.2019.01.002",
@@ -7108,7 +7620,9 @@
             "works_count": 85,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Feng Xiao | Sensor Location Algorithms for Traffic Flow Estimation: A Review | 10.1016/j.trb.2016.03.004",
@@ -7134,7 +7648,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.56
       },
       {
         "citation": "Satish V. Ukkusuri | Combinatorial Optimization Approaches for Sensor Placement in Road Networks | 10.1016/j.tre.2008.09.001",
@@ -7160,7 +7676,9 @@
             "works_count": 428,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Biagio Simonetti | A Cut-Based Approach for the Traffic Sensor Location Problem | 10.1007/s11071-020-05891-3",
@@ -7187,7 +7705,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7221,7 +7741,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.74
       },
       {
         "citation": "Yansen Su | SynergyPredict: Integrating Drug-Target Interactions for Synergistic Drug Combination Prediction | 10.3389/fphar.2020.00451",
@@ -7247,7 +7769,9 @@
             "works_count": 150,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Fang-Xiang Wu | Predicting Cancer Drug Synergy Using Deep Learning with Drug-Target Interaction Networks | 10.1109/TCBB.2021.3056112",
@@ -7273,7 +7797,9 @@
             "works_count": 546,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.57
       },
       {
         "citation": "Feixiong Cheng | Network-Based Prediction of Drug Combinations in Cancer | 10.1038/s41467-019-09186-x",
@@ -7298,7 +7824,9 @@
             "works_count": 461,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Junfei Zhao | Deep Learning Models for Drug Synergy Prediction using Multi-Omics and Drug-Target Interaction Data | 10.1093/bib/bbaa412",
@@ -7325,14 +7853,16 @@
             "works_count": 1494,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       }
     ]
   },
   {
     "id": "https://openalex.org/W4324387462",
     "model": "gemini",
-    "question": "How do the four main approaches to fuzzy option pricing—fuzzy-random, distorted risk-neutral probability, fuzzy pay-off, and machine-learning-based methods—compare in terms of their theoretical assumptions, empirical performance, and practical applicability across different classes of financial and real options?",
+    "question": "How do the four main approaches to fuzzy option pricing\u2014fuzzy-random, distorted risk-neutral probability, fuzzy pay-off, and machine-learning-based methods\u2014compare in terms of their theoretical assumptions, empirical performance, and practical applicability across different classes of financial and real options?",
     "references": [
       {
         "citation": "Robert J. de Rosa | Fuzzy Option Pricing Models: A Comparative Analysis | 10.1016/j.fss.2018.04.015",
@@ -7358,7 +7888,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Carl-Johan Thore | Fuzzy Pay-Off Method for Real Option Valuation | 10.1016/j.ejor.2012.01.011",
@@ -7384,7 +7916,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Maria B. Jose | Distorted Risk-Neutral Probability in Fuzzy Option Pricing | 10.1016/j.ins.2019.05.021",
@@ -7410,7 +7944,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Wei-Guo Zhang | A Fuzzy-Random Option Pricing Model with Transaction Costs | 10.1016/j.cam.2014.02.012",
@@ -7436,7 +7972,9 @@
             "works_count": 248,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Amit Kumar | Machine Learning-Based Fuzzy Option Pricing: Comparative Empirical Study | 10.1016/j.eswa.2021.115430",
@@ -7463,7 +8001,9 @@
             "works_count": 3015,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7496,7 +8036,9 @@
             "works_count": 492,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.79
       },
       {
         "citation": "Eduardo Rodriguez-Tello | Evaluation Functions for Bandwidth Minimization: Extremal vs. Aggregate Measures | 10.1016/j.ejor.2007.03.042",
@@ -7522,7 +8064,9 @@
             "works_count": 89,
             "organization_country_id": "MX"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Fred Glover | Tabu Search for Bandwidth Minimization | 10.1016/s0305-0548(99)00032-4",
@@ -7548,7 +8092,9 @@
             "works_count": 610,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Francisco Chicano | Influence of Evaluation Functions in Metaheuristics for Bandwidth Minimization | 10.1109/TEVC.2012.2223401",
@@ -7569,12 +8115,14 @@
           {
             "cited_name": "Francisco Chicano",
             "author_exists": true,
-            "fullest_name": "Chicano-García, José-Francisco",
+            "fullest_name": "Chicano-Garc\u00eda, Jos\u00e9-Francisco",
             "h_index": 27,
             "works_count": 195,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Gary Kochenberger | A Comparative Study of Objective Functions in Heuristics for the Bandwidth Minimization Problem | 10.1007/s10732-015-9290-y",
@@ -7600,7 +8148,9 @@
             "works_count": 132,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7634,7 +8184,9 @@
             "works_count": 107,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.54
       },
       {
         "citation": "Mohammad-Hassan Amirioun | A Memory-Based Tabu Search for Multi-Objective Active Distribution Network Reconfiguration | 10.1109/TSG.2015.2497645",
@@ -7661,7 +8213,9 @@
             "works_count": 15,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.86
       },
       {
         "citation": "Imran Rahman | Balancing Exploration and Exploitation in Swarm Intelligence for Distribution Network Reconfiguration | 10.1016/j.ijepes.2018.12.011",
@@ -7688,7 +8242,9 @@
             "works_count": 208,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Khushgulu Khan | Memory-Enhanced Particle Swarm Optimization for Multi-Objective Distribution Network Reconfiguration | 10.1016/j.epsr.2020.106512",
@@ -7715,7 +8271,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Alireza Alinia-Asli | An Improved Memory-Based Metaheuristic Algorithm for Reconfiguration of Radial Distribution Systems | 10.1109/TSTE.2019.2900452",
@@ -7742,7 +8300,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -7776,7 +8336,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jinhui Tang | Semantic Feature Extraction and Fusion for Multimodal Media Retrieval | 10.1109/TMM.2016.2612341",
@@ -7802,7 +8364,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.71
       },
       {
         "citation": "Xian-Sheng Hua | Big Data Management in Integrated Media: A Survey | 10.1109/TBDATA.2015.2483120",
@@ -7828,7 +8392,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.52
       },
       {
         "citation": "Rong Jin | Scalable Multimodal Semantic Feature Extraction in Information Retrieval | 10.1016/j.ipm.2018.11.002",
@@ -7855,7 +8421,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.53
       },
       {
         "citation": "Ramesh Jain | Organization of Multimodal Resources in Big Data Systems | 10.1145/2814895.2814896",
@@ -7882,7 +8450,9 @@
             "works_count": 776,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -7917,7 +8487,9 @@
             "works_count": 531,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael J. O'Grady | Multi-Agent Systems in the Smart Home | 10.1016/j.compenvurbsys.2016.01.003",
@@ -7943,7 +8515,9 @@
             "works_count": 250,
             "organization_country_id": "IE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Francesco Buccafurri | Multi-Agent Deep Reinforcement Learning with Implicit Feedback for Smart Home Habit Adaptation | 10.1109/TMC.2020.3012345",
@@ -7969,7 +8543,9 @@
             "works_count": 238,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sajal K. Das | Reinforcement Learning and Coordination Strategies for Smart Home Automation | 10.1109/TMC.2018.2831201",
@@ -7996,7 +8572,9 @@
             "works_count": 1364,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Jun Sun | A Reward-Modeling Strategy for Adaptive Multi-Agent Environments in Smart Homes | 10.1109/TIFS.2021.3114502",
@@ -8023,7 +8601,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       }
     ]
   },
@@ -8056,7 +8636,9 @@
             "works_count": 254,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.63
       },
       {
         "citation": "Cengiz Kahraman | Outranking Methods with Pythagorean Fuzzy Sets for Risk Prioritization in FMEA | 10.1016/j.eswa.2020.113670",
@@ -8077,12 +8659,14 @@
           {
             "cited_name": "Cengiz Kahraman",
             "author_exists": true,
-            "fullest_name": "KAHRAMAN, Cengiz; İSTANBUL TEKNİK ÜNİVERSİTESİ",
+            "fullest_name": "KAHRAMAN, Cengiz; \u0130STANBUL TEKN\u0130K \u00dcN\u0130VERS\u0130TES\u0130",
             "h_index": 90,
             "works_count": 751,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Zeshui Xu | Hesitant Fuzzy Decision-Making Methodologies and Applications | 10.1007/978-3-642-54655-6",
@@ -8107,7 +8691,9 @@
             "works_count": 1255,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Muhammet Deveci | An Extended FMEA Model under Hesitant Pythagorean Fuzzy Environment | 10.1016/j.asoc.2021.107234",
@@ -8134,7 +8720,9 @@
             "works_count": 528,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jin-Han Chen | Comparative Study of Hesitant Fuzzy ELECTRE-I and Other Fuzzy Multi-Criteria FMEA Methods | 10.1016/j.cie.2022.108112",
@@ -8160,7 +8748,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.83
       }
     ]
   },
@@ -8193,7 +8783,9 @@
             "works_count": 842,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jose-Manuel de las Heras | Capabilities and Barriers in Smart Product-Service Systems: A Maturity Framework | 10.1016/j.jmsy.2020.06.012",
@@ -8219,7 +8811,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andreas Schumacher | A Maturity Model for Assessing Industry 4.0 Readiness and Capabilities of Manufacturing Enterprises | 10.1016/j.procir.2016.07.040",
@@ -8246,7 +8840,9 @@
             "works_count": 11,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marco Macchi | Evaluating Digital Transformation Maturity in Industrial Asset Management | 10.1016/j.compind.2019.02.003",
@@ -8272,7 +8868,9 @@
             "works_count": 297,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Vladimir Ivanov | Barriers and Drivers to Digital Transformation and Industry 4.0 Adoption: A Systematic Review | 10.1016/j.techfore.2021.121102",
@@ -8298,7 +8896,9 @@
             "works_count": 462,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8332,7 +8932,9 @@
             "works_count": 86,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ben Adcock | PDE-Based Regularization in Radial Basis Function Networks | 10.1016/j.acha.2019.04.002",
@@ -8358,7 +8960,9 @@
             "works_count": 214,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ricky T. Q. Chen | Neural Ordinary Differential Equations | 10.48550/arXiv.1806.07366",
@@ -8383,7 +8987,9 @@
             "works_count": 42,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jun-Fei Cao | RBF-DiffNet: A Physics-Inspired Neural Network with PDE-Based Regularization for Noise Robustness | 10.1109/TNNLS.2021.3094892",
@@ -8409,7 +9015,9 @@
             "works_count": 45,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.53
       },
       {
         "citation": "George Em Karniadakis | Physics-Informed Machine Learning | 10.1038/s42254-021-00314-5",
@@ -8434,7 +9042,9 @@
             "works_count": 1255,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8468,7 +9078,9 @@
             "works_count": 96,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jie Lu | Insider Threat Detection Using Graph Neural Networks | 10.1109/TIFS.2020.2981234",
@@ -8494,7 +9106,9 @@
             "works_count": 1564,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.51
       },
       {
         "citation": "Fadi Al-Goul | Multi-Scale Temporal Feature Extraction vs. Graph Networks for Insider Threat Detection | 10.1016/j.sysarc.2021.102145",
@@ -8520,7 +9134,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Jason R. C. Nurse | Understanding Insider Threat Risk: Individual vs. Group Dynamics | 10.1016/j.cose.2014.07.001",
@@ -8547,7 +9163,9 @@
             "works_count": 226,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xiao-Long Wang | Combining Behavioral Deviations and Structural Dependencies for Insider Threat Mitigation | 10.1109/TDSC.2022.3156712",
@@ -8573,7 +9191,9 @@
             "works_count": 529,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       }
     ]
   },
@@ -8605,7 +9225,9 @@
             "works_count": 155,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jie Hu | Squeeze-and-Excitation Networks | 10.1109/CVPR.2018.00742",
@@ -8632,7 +9254,9 @@
             "works_count": 29,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Sanghyun Woo | CBAM: Convolutional Block Attention Module | 10.1007/978-3-030-01234-2_1",
@@ -8657,7 +9281,9 @@
             "works_count": 69,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Jiachen Zhang | Lightweight Medical Image Segmentation with Channel Attention and Partial Feature Selection | 10.1016/j.cmpb.2022.106891",
@@ -8684,7 +9310,9 @@
             "works_count": 230,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       },
       {
         "citation": "Guolei Sun | Parameter-Efficient Deep Learning for Medical Image Segmentation: A Review | 10.1016/j.media.2023.102812",
@@ -8710,7 +9338,9 @@
             "works_count": 54,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       }
     ]
   },
@@ -8743,7 +9373,9 @@
             "works_count": 274,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Christopher N. Topp | Joint Segmentation and Keypoint Detection for Root Phenotyping | 10.3389/fpls.2021.684120",
@@ -8769,7 +9401,9 @@
             "works_count": 92,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tony Pridmore | Multi-Task Deep Learning for Plant Root Trait Extraction | 10.1016/j.compag.2022.107021",
@@ -8795,7 +9429,9 @@
             "works_count": 241,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hannah S. J. Wang | Comparing Multi-Head Joint Models and Single-Task Pipelines in Rhizotron Root Imaging | 10.1016/j.cropro.2023.106121",
@@ -8821,7 +9457,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Satoru Murase | Deep Learning-Based Root System Architecture Phenotyping Under Different Imaging Modalities | 10.1016/j.postharvbio.2021.111624",
@@ -8847,7 +9485,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8880,7 +9520,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Javier Valente | Energy-Efficient Coverage Path Planning for UAVs: A Survey | 10.1109/ACCESS.2019.2923145",
@@ -8906,7 +9548,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Isaac K. Debrah | Path Smoothness and Energy Efficiency in Homogeneous vs Heterogeneous UAV Swarm Systems | 10.1007/s10846-022-01642-1",
@@ -8932,7 +9576,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Mark W. Spong | Computational Complexity of Coverage Path Planning Algorithms for UAV Networks | 10.1016/j.automatica.2018.09.001",
@@ -8958,7 +9604,9 @@
             "works_count": 331,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yong-Duan Song | Smooth Trajectory Generation and Tracking for Multi-UAV Cooperative Coverage | 10.1109/TCST.2020.2971210",
@@ -8984,14 +9632,16 @@
             "works_count": 519,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       }
     ]
   },
   {
     "id": "https://openalex.org/W4387911253",
     "model": "gemini",
-    "question": "How do different approaches to integrating heterogeneous EHR data modalities—such as medical codes, clinical notes, ontological relationships, and patient demographics—via attention mechanisms compare in their effectiveness for enhancing medical concept embeddings and clinical prediction tasks?",
+    "question": "How do different approaches to integrating heterogeneous EHR data modalities\u2014such as medical codes, clinical notes, ontological relationships, and patient demographics\u2014via attention mechanisms compare in their effectiveness for enhancing medical concept embeddings and clinical prediction tasks?",
     "references": [
       {
         "citation": "Edward Choi | GRAM: Graph-Based Attention Model for Clinical Prediction with Electronic Health Records | 10.1145/3097983.3098126",
@@ -9019,7 +9669,9 @@
             "works_count": 185,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yanshan Wang | Deep Learning for Clinical Document Classification: A Multimodal Attention Approach | 10.1016/j.jbi.2018.06.012",
@@ -9045,7 +9697,9 @@
             "works_count": 308,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.69
       },
       {
         "citation": "Junyu Liu | Integrating Heterogeneous EHR Modalities via Dual-Attention Networks for Medical Embeddings | 10.1109/JBHI.2021.3101234",
@@ -9072,7 +9726,9 @@
             "works_count": 220,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.84
       },
       {
         "citation": "Fan Zhang | Multi-Modal Attention-Based Fusion for Clinical Prediction Tasks in EHR | 10.1145/3340531.3340578",
@@ -9098,7 +9754,9 @@
             "works_count": 564,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       },
       {
         "citation": "Cao Xiao | Ontological Relationship-Aware Embedding of Electronic Health Records Using Attention Mechanisms | 10.1093/jamia/ocy145",
@@ -9124,7 +9782,9 @@
             "works_count": 239,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.51
       }
     ]
   },
@@ -9157,7 +9817,9 @@
             "works_count": 97,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andreas Holzinger | Explainable AI for Healthcare: Ethical Considerations and Clinical Safety | 10.1109/MIE.2020.2981324",
@@ -9183,7 +9845,9 @@
             "works_count": 821,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Cengiz Kahraman | Fuzzy Multi-Criteria Decision-Making in Healthcare: Ethical and Practical Challenges | 10.1016/j.eswa.2021.115201",
@@ -9209,7 +9873,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Effy Vayena | Ethical Guidelines for AI in Healthcare: Transparency vs. Human Oversight | 10.1016/j.hjdsi.2018.04.003",
@@ -9236,7 +9902,9 @@
             "works_count": 234,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Enrico Coiera | Clinical Safety Outcomes and Decision Agency in Explainable AI | 10.1093/jamia/ocz112",
@@ -9262,7 +9930,9 @@
             "works_count": 444,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9296,7 +9966,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David J. Spiegelhalter | Handling Measurement Uncertainty in Machine Learning Evaluative Metrics | 10.1111/rssa.12356",
@@ -9322,7 +9994,9 @@
             "works_count": 188,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sebastian Raschka | Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning | 10.48550/arXiv.1811.12808",
@@ -9347,7 +10021,9 @@
             "works_count": 61,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ioannis Tsamardinos | Preventing False Scientific Discoveries: Overoptimistic Evaluations and Target Uncertainty | 10.1007/s10994-019-05834-1",
@@ -9373,7 +10049,9 @@
             "works_count": 248,
             "organization_country_id": "GR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter L. Bonate | Target Variable Noise and Its Impact on Machine Learning Robustness | 10.1002/psp4.12563",
@@ -9399,7 +10077,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9432,7 +10112,9 @@
             "works_count": 522,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       },
       {
         "citation": "Mohammed El-Mitiny | Proactive Traffic Safety Planning via Real-Time Micro-Simulation Integration | 10.1016/j.aap.2011.03.012",
@@ -9458,7 +10140,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Hesham Rakha | Integrating Machine Learning Risk Predictors with Dynamic Traffic Micro-simulations | 10.1109/TITS.2018.2812345",
@@ -9484,7 +10168,9 @@
             "works_count": 665,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sheng-Xian Li | A Cellular Automata Framework with Machine Learning for Proactive Congestion Modeling | 10.1016/j.physa.2021.126413",
@@ -9510,7 +10196,9 @@
             "works_count": 242,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "Mohamed Abdel-Aty | Real-Time Traffic Safety Analysis in Urban Environments Using Cellular Automata and AI | 10.1016/j.aap.2019.01.025",
@@ -9536,7 +10224,9 @@
             "works_count": 884,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9569,7 +10259,9 @@
             "works_count": 853,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yan-Qiang Zhang | Multimodal OCR and NLP Fusion for Product Verification at Self-Checkout | 10.1109/ACCESS.2020.3014562",
@@ -9595,7 +10287,9 @@
             "works_count": 198,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.56
       },
       {
         "citation": "Adrian M. G. Evans | Purely Vision-Based Deep Learning Models for Retail Loss Prevention | 10.1109/TIV.2021.3075123",
@@ -9622,7 +10316,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Xiao-Ming Wu | Efficacy and Computational Efficiency of Multimodal Retail Fraud Detection Systems | 10.1016/j.jretconser.2021.102654",
@@ -9649,7 +10345,9 @@
             "works_count": 307,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       },
       {
         "citation": "Helen L. Peters | Self-Checkout Loss Prevention: Comparing Vision and Textual Modalities | 10.1109/MCOM.2021.9512345",
@@ -9675,7 +10373,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -9709,7 +10409,9 @@
             "works_count": 327,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.57
       },
       {
         "citation": "Zonghan Wu | Connecting the Dots: Multivariate Time Series Forecasting with Latent Spatial-Temporal Graphs | 10.1145/3394486.3403118",
@@ -9735,7 +10437,9 @@
             "works_count": 24,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Lei Han | Horizon-Specific Feature Projection in Temporal Graph Neural Networks | 10.1109/TNNLS.2022.3167123",
@@ -9761,7 +10465,9 @@
             "works_count": 328,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.71
       },
       {
         "citation": "Bing-Yuan Sun | Gradient Optimization Stability in Spatial-Temporal Forecasting using Unified vs. Horizon-Specific Mapping | 10.1016/j.neucom.2022.09.041",
@@ -9787,7 +10493,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.52
       },
       {
         "citation": "Ming-Yi Zhou | Localized Pattern Extraction in Spatial-Temporal Graph Networks with Feature Projection | 10.1109/TITS.2021.3094856",
@@ -9814,7 +10522,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.64
       }
     ]
   },
@@ -9847,7 +10557,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Sally L. Priest | Combining Social Media and Meteorological Inputs for Real-Time Flood Management | 10.5194/nhess-21-1235-2021",
@@ -9873,7 +10585,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Guoming Li | Traditional Geostatistical Modeling vs. Social Media-Based Victim Localization in Urban Floods | 10.1016/j.jhydrol.2020.124912",
@@ -9899,7 +10613,9 @@
             "works_count": 271,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.81
       },
       {
         "citation": "Enrico Creaco | Enhancing Situational Awareness in Metropolitan Flash Floods Using Social Sensing | 10.1016/j.envsoft.2019.04.011",
@@ -9925,7 +10641,9 @@
             "works_count": 228,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Muhammad J. Malik | Real-Time Crowdsourced Crisis Mapping and Victim Localization in Flood Hazards | 10.1007/s11069-021-04671-2",
@@ -9952,7 +10670,9 @@
             "works_count": 336,
             "organization_country_id": "MY"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9986,7 +10706,9 @@
             "works_count": 122,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.54
       },
       {
         "citation": "Charles R. Qi | PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space | 10.48550/arXiv.1706.02413",
@@ -10011,7 +10733,9 @@
             "works_count": 66,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jiageng Mao | Generative vs. Contrastive Self-Supervised Learning for 3D LiDAR Point Clouds | 10.1109/CVPR.2021.11234",
@@ -10037,7 +10761,9 @@
             "works_count": 48,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Hanyu Wang | Pre-training Strategies for Sparse LiDAR Point Clouds in Downstream Object Detection | 10.1109/IROS.2022.9981234",
@@ -10063,7 +10789,9 @@
             "works_count": 106,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.54
       },
       {
         "citation": "Li Jiang | Contrastive Self-Supervised Learning on 3D Point Clouds for Semantic Segmentation | 10.1109/ICCV.2021.00912",
@@ -10089,7 +10817,9 @@
             "works_count": 580,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -10123,7 +10853,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kaiming He | Mask R-CNN | 10.1109/ICCV.2017.322",
@@ -10151,7 +10883,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Jin-Sheng Zhao | Segmenting Specialty Crops under Variable Illumination: cGAN vs U-Net | 10.1016/j.compag.2022.107123",
@@ -10178,7 +10912,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Sarah M. Miller | Mask R-CNN and cGAN Performance in Harsh Field Agriculture Segmentation | 10.1109/TASE.2021.3112345",
@@ -10204,7 +10940,9 @@
             "works_count": 1004,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Diego L. Gomez | Deep Learning Under Adverse Lighting: A Comparative Study for Crop Detection | 10.1007/s11119-021-09852-y",
@@ -10230,7 +10968,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10240,7 +10980,7 @@
     "question": "How do Euclidean distance-based parameter reduction techniques for interval-valued fuzzy soft sets compare to other distance- and similarity-measure-based reduction frameworks in terms of computational complexity, success rates, and decision-making stability across diverse real-world applications?",
     "references": [
       {
-        "citation": "Molodtsov, D. | Soft Set Theory—First Results | 10.1016/s0898-1221(99)00177-8",
+        "citation": "Molodtsov, D. | Soft Set Theory\u2014First Results | 10.1016/s0898-1221(99)00177-8",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -10265,7 +11005,9 @@
             "works_count": 19,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Muhammad R. Ahmad | Parameter Reduction of Interval-Valued Fuzzy Soft Sets Using Euclidean Distance | 10.1016/j.asoc.2020.106234",
@@ -10292,7 +11034,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bin Chen | Distance and Similarity-Based Parameter Reduction in Fuzzy Soft Sets | 10.1016/j.ins.2019.02.045",
@@ -10319,7 +11063,9 @@
             "works_count": 519,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Feng Feng | Parameter Reduction of Soft Sets and Its Applications in Decision Making | 10.1016/j.camwa.2010.03.011",
@@ -10345,7 +11091,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.92
       },
       {
         "citation": "Xia-Bing Wang | Computational Complexity and Stability of Parameter Reduction for Interval-Valued Fuzzy Soft Sets | 10.1016/j.eswa.2021.115612",
@@ -10371,7 +11119,9 @@
             "works_count": 225,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       }
     ]
   },
@@ -10407,7 +11157,9 @@
             "works_count": 154,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Vladimir Vovk | Nonconformal Predictors for Probabilistic Regression | 10.1007/978-3-540-87479-9_38",
@@ -10434,7 +11186,9 @@
             "works_count": 378,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jian-Yong Chen | Boosting-Based Probabilistic Regression for Skewed Target Distributions | 10.1109/TNNLS.2021.3102345",
@@ -10461,7 +11215,9 @@
             "works_count": 375,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.52
       },
       {
         "citation": "Harris S. Patel | Computational Scalability of Conformal Prediction and Distribution-Free Regression Models | 10.1016/j.patcog.2022.108712",
@@ -10488,7 +11244,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ryan J. Tibshirani | Conformal Prediction Under Covariate Shift | 10.48550/arXiv.1904.06019",
@@ -10513,7 +11271,9 @@
             "works_count": 182,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10547,7 +11307,9 @@
             "works_count": 2901,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Muhammad Saeed | Personal Protective Equipment Selection Using Interval-Valued Multi-Fuzzy Hypersoft Sets | 10.1016/j.asoc.2021.107934",
@@ -10574,7 +11336,9 @@
             "works_count": 901,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Cengiz Kahraman | Hybrid Fuzzy Decision-Making Frameworks for Material Selection: A Comparative Study | 10.1108/EC-08-2020-0435",
@@ -10595,12 +11359,14 @@
           {
             "cited_name": "Cengiz Kahraman",
             "author_exists": true,
-            "fullest_name": "KAHRAMAN, Cengiz; İSTANBUL TEKNİK ÜNİVERSİTESİ",
+            "fullest_name": "KAHRAMAN, Cengiz; \u0130STANBUL TEKN\u0130K \u00dcN\u0130VERS\u0130TES\u0130",
             "h_index": 90,
             "works_count": 751,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jin-Ming Wu | Computational Scalability of Hypersoft Set Decision Models Under Uncertainty | 10.1007/s40747-022-00671-w",
@@ -10626,7 +11392,9 @@
             "works_count": 343,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       },
       {
         "citation": "Irfan Ali | Multi-Criteria Decision-Making for PPE Selection: An Interval-Valued Fuzzy Soft Set Approach | 10.1016/j.matpr.2022.01.012",
@@ -10653,7 +11421,9 @@
             "works_count": 89,
             "organization_country_id": "PK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -10687,7 +11457,9 @@
             "works_count": 29,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Bing Xue | Evolutionary Computation for Feature Selection: A Survey | 10.1109/TEVC.2015.2504420",
@@ -10713,7 +11485,9 @@
             "works_count": 906,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       },
       {
         "citation": "Jun-Wei Cao | Divide-and-Conquer Paradigms in Evolutionary Feature Selection | 10.1016/j.eswa.2021.116123",
@@ -10739,7 +11513,9 @@
             "works_count": 199,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Zhang-Yi Liu | Cooperative Coevolutionary Feature Selection for High-Dimensional Datasets | 10.1109/TCYB.2020.2991234",
@@ -10766,7 +11542,9 @@
             "works_count": 1627,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       },
       {
         "citation": "Gary G. Yen | Balancing Complexity and Accuracy in Evolutionary Feature Selection: A Comparative Study | 10.1109/TEVC.2018.2841235",
@@ -10792,7 +11570,9 @@
             "works_count": 473,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10827,7 +11607,9 @@
             "works_count": 311,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jia-Wei Chen | Human-in-the-Loop Dynamic Knowledge Graph Construction: A Multi-Agent Approach | 10.1109/TKDE.2021.3121234",
@@ -10853,7 +11635,9 @@
             "works_count": 178,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.8
       },
       {
         "citation": "Shuo Zhang | Factual Accuracy in Evolving Domains: Multi-Agent Systems vs. RAG Pipelines | 10.1016/j.inffus.2022.10.012",
@@ -10880,7 +11664,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.62
       },
       {
         "citation": "Ruimin Wang | Automated Knowledge Graph Querying and Construction with Large Language Models | 10.1145/3540693.3540712",
@@ -10907,7 +11693,9 @@
             "works_count": 368,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Emily S. Thomas | Dynamic Knowledge Graphs and Scientific Domain Adaptation: Human-Agent Interaction | 10.1016/j.asoc.2023.110123",
@@ -10933,7 +11721,9 @@
             "works_count": 49,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10968,7 +11758,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sergio Garcia | Heuristic and Exact Optimization for the Capacitated Dispersion Problem | 10.1016/j.cor.2018.06.012",
@@ -10994,7 +11786,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard L. Church | Spatial Facility Location: Real-World Geographic Data vs. Synthetic Benchmarks | 10.1111/j.1538-4632.2011.00823.x",
@@ -11020,7 +11814,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pablo-Jose Martin | Scalability of Exact and Heuristic Methods for the Capacitated Facility Location Problem | 10.1016/j.ejor.2020.10.012",
@@ -11046,7 +11842,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       },
       {
         "citation": "Ana M. G. Silva | Influence of Demographic Factors on Heuristic Performance in Spatial Dispersion Models | 10.1016/j.compenvurbsys.2021.101623",
@@ -11072,7 +11870,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.91
       }
     ]
   },
@@ -11102,12 +11902,14 @@
           {
             "cited_name": "Turgay Celik",
             "author_exists": true,
-            "fullest_name": "CELİK, Turgay; Temasek Laboratories, Nanyang Technological University, Singapore",
+            "fullest_name": "CEL\u0130K, Turgay; Temasek Laboratories, Nanyang Technological University, Singapore",
             "h_index": 43,
             "works_count": 186,
             "organization_country_id": "ZA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jin-Hee Lee | Deep Learning-Based Real-Time Fire Detection and False-Positive Reduction | 10.1109/ACCESS.2019.2934567",
@@ -11133,15 +11935,17 @@
             "works_count": 2265,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.79
       },
       {
-        "citation": "B. U. Töreyin | Real-Time Fire Detection Using Color, Motion, and Geometric Properties | 10.1109/ICIP.2005.1530345",
+        "citation": "B. U. T\u00f6reyin | Real-Time Fire Detection Using Color, Motion, and Geometric Properties | 10.1109/ICIP.2005.1530345",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "B. U. Töreyin"
+          "B. U. T\u00f6reyin"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -11153,14 +11957,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "B. U. Töreyin",
+            "cited_name": "B. U. T\u00f6reyin",
             "author_exists": true,
             "fullest_name": "Toreyin, Behcet Ugur",
             "h_index": 24,
             "works_count": 183,
             "organization_country_id": "TR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xian-Mei Zhang | Comparing Hybrid Image-Processing and Deep Learning for Real-Time Fire Detection | 10.1016/j.compeleceng.2021.107412",
@@ -11188,7 +11994,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.55
       },
       {
         "citation": "Antoine G. S. Robert | Computational Efficiency and False-Alarm Control in Deep Fire Detection Networks | 10.1109/TII.2021.3094512",
@@ -11216,7 +12024,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11250,7 +12060,9 @@
             "works_count": 420,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       },
       {
         "citation": "Shuo Han | Deep Learning-Based Delineation of Rodent Hippocampus in Diverse Staining Modalities | 10.1109/TMI.2021.3091234",
@@ -11277,7 +12089,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       },
       {
         "citation": "Marc-Andre Cardin | Generalizability of GAN-Based and U-Net Segmentation in Brain Immunohistochemistry | 10.1016/j.media.2022.102512",
@@ -11303,7 +12117,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah J. Peters | Manual Segmentation vs. Deep Learning for Hippocampal Subregions in Rodent Models | 10.1016/j.jneumeth.2020.108812",
@@ -11329,7 +12145,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Olivier Colliot | Deep Learning vs. Traditional Atlas-Based Segmentation of Mouse Brain Regions | 10.3389/fninf.2021.654123",
@@ -11356,7 +12174,9 @@
             "works_count": 464,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11390,7 +12210,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Laura E. Brown | Machine Learning and Deep Learning for Wetland Drainage Mapping: A Comparative Study | 10.1109/TGRS.2020.2981234",
@@ -11416,7 +12238,9 @@
             "works_count": 49,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David S. Ward | Implications of Artificial Drainage Network Mapping on Regional Greenhouse Gas Budgets | 10.1029/2021GB007123",
@@ -11442,7 +12266,9 @@
             "works_count": 288,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Emily M. Becker | Artificial Wetland Drainage Classification with Deep Neural Networks and LiDAR | 10.1016/j.isprsjprs.2021.08.012",
@@ -11468,7 +12294,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joshua R. S. Collins | Automated Detection of Agricultural Drains in Wetland Ecosystems Using LiDAR | 10.1016/j.agwat.2022.107512",
@@ -11494,7 +12322,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11526,10 +12356,12 @@
             "works_count": 110,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.83
       },
       {
-        "citation": "Bharat Singh | An Analysis of Scale Invariance in Object Detection – SNIP | 10.1109/CVPR.2018.00377",
+        "citation": "Bharat Singh | An Analysis of Scale Invariance in Object Detection \u2013 SNIP | 10.1109/CVPR.2018.00377",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -11553,7 +12385,9 @@
             "works_count": 495,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zhi-Min Chen | Size-Adaptive Loss Functions for Small Object Detection in Autonomous Driving | 10.1109/TITS.2021.3092345",
@@ -11580,7 +12414,9 @@
             "works_count": 343,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.69
       },
       {
         "citation": "Jiacheng Zhang | Feature-Retention Networks vs. Multi-Scale Fusion for Small Object Detection | 10.1016/j.patcog.2022.108612",
@@ -11606,7 +12442,9 @@
             "works_count": 2063,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.61
       },
       {
         "citation": "Shuo G. Wang | Attention-Based Mechanisms and Spatial Losses for Small Obstacle Detection | 10.1109/TIV.2022.3151234",
@@ -11632,7 +12470,9 @@
             "works_count": 45,
             "organization_country_id": "MO"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -11668,7 +12508,9 @@
             "works_count": 42,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Necati Cihan Camgoz | Sign Language Translation with Transformers and Spatial-Temporal Graphs | 10.1109/CVPR.2020.00912",
@@ -11696,7 +12538,9 @@
             "works_count": 89,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuo-Wei Chen | Spatial-Temporal Architectures for Sign Language Translation on PHOENIX-2014T | 10.1016/j.cviu.2021.103212",
@@ -11723,7 +12567,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       },
       {
         "citation": "Kayo Yin | Resource-Constrained Sign Language Translation on Portable Devices: A Survey | 10.1145/3474085.3474123",
@@ -11750,7 +12596,9 @@
             "works_count": 31,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.54
       },
       {
         "citation": "Jing-Hua Zhou | Deploying Deep Sign Language Models on Edge Devices: Challenges and Solutions | 10.1109/MCOM.2022.3141234",
@@ -11777,7 +12625,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.58
       }
     ]
   },
@@ -11811,7 +12661,9 @@
             "works_count": 317,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dietmar Jannach | Evaluating Recommender Systems: Offline Accuracy vs. Business and Profit Metrics | 10.1145/3421345.3421348",
@@ -11839,7 +12691,9 @@
             "works_count": 445,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pearl S. Huang | Measuring Long-Term User Engagement and Operational Cost-Effectiveness in Recommendation | 10.1145/3383313.3412345",
@@ -11865,7 +12719,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.95
       },
       {
         "citation": "Guy Shani | Evaluating Recommendation Systems: Traditional Metrics vs. Profit-Centric Evaluation | 10.1007/978-0-387-85820-3_8",
@@ -11890,7 +12746,9 @@
             "works_count": 144,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.64
       },
       {
         "citation": "Francesca B. Ricci | Business-Centric Offline Evaluation of Recommender Systems for E-commerce | 10.1016/j.ipm.2021.102612",
@@ -11916,7 +12774,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -11952,7 +12812,9 @@
             "works_count": 73,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Shuhang Gu | Self-Calibrating Attention Mechanisms for Low-Level Image Restoration | 10.1109/TCSVT.2020.3012345",
@@ -11981,7 +12843,9 @@
             "works_count": 186,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.76
       },
       {
         "citation": "Jun-Wei Cao | MSD-Net: Multi-Scale Progressive Contrastive Learning for Spatially Non-Uniform Image Restoration | 10.1109/TNNLS.2022.3161234",
@@ -12008,7 +12872,9 @@
             "works_count": 153,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Liang-Chieh Chen | Spatial Degradation Modeling in Deep Image Restoration: A Survey | 10.1109/TPAMI.2021.3051234",
@@ -12035,7 +12901,9 @@
             "works_count": 99,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "Xiao-Ming Wu | Progressive Contrastive Attention Networks for Image Dehazing and Deraining | 10.1016/j.patcog.2022.108612",
@@ -12062,7 +12930,9 @@
             "works_count": 307,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       }
     ]
   },
@@ -12096,7 +12966,9 @@
             "works_count": 3015,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jin-Hwan Kim | Distinguishing Fatigue and Alcohol Intoxication via Deep Near-Infrared Periocular Imaging | 10.1109/TBIOM.2021.3091234",
@@ -12123,7 +12995,9 @@
             "works_count": 401,
             "organization_country_id": "KR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.87
       },
       {
         "citation": "Mark S. Adams | Robustness of Deep Learning Models for Central Nervous System Impairment Classification | 10.1016/j.bspc.2022.103512",
@@ -12149,7 +13023,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fernando Alonso | Periocular Feature Extraction Under Diverse Environmental and Demographic Conditions | 10.1109/ACCESS.2020.3012345",
@@ -12175,7 +13051,9 @@
             "works_count": 236,
             "organization_country_id": "AR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sarah E. Smith | Deep Learning on Infrared Pupillometry for Substance Abuse and Fatigue Detection | 10.1016/j.cmpb.2021.106212",
@@ -12202,7 +13080,9 @@
             "works_count": 103,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12235,7 +13115,9 @@
             "works_count": 419,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jun-Wei Zhang | Multimodal Gated Fusion of Raw EEG and Time-Frequency Representations for Epilepsy Detection | 10.1109/TNSRE.2021.3092345",
@@ -12261,7 +13143,9 @@
             "works_count": 797,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.76
       },
       {
         "citation": "S. S. Sanei | Traditional Machine Learning vs. Deep Learning in Clinical Epilepsy Classification | 10.1016/j.bspc.2020.102123",
@@ -12287,7 +13171,9 @@
             "works_count": 448,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert J. Croft | Generalization of Gated Multimodal Networks Across Diverse Clinical EEG Datasets | 10.1109/TBME.2022.3151234",
@@ -12314,7 +13200,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alan S. L. Wong | Gated Fusion Architectures for Raw and Time-Frequency Brain Signal Classification | 10.1016/j.ins.2022.10.045",
@@ -12341,7 +13229,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12375,7 +13265,9 @@
             "works_count": 24,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jin-Yuan Chen | Hybrid Swarm Intelligence Feature Selection with Semi-Supervised Learning for Rare Intrusion Detection | 10.1016/j.asoc.2020.106512",
@@ -12401,7 +13293,9 @@
             "works_count": 151,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Shuo-Wei Wang | Deep Representation Learning for Imbalanced Network Intrusion Detection Systems | 10.1109/TIFS.2021.3112345",
@@ -12428,7 +13322,9 @@
             "works_count": 121,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Jane S. Peters | Balancing Class Imbalance in Intrusion Detection: Swarm Heuristics vs. Deep Autoencoders | 10.1016/j.cose.2021.102412",
@@ -12455,7 +13351,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Wei-Dong Zhang | Semi-Supervised Swarm-Based Feature Selection for Cyber Attack Classification | 10.1016/j.sysarc.2022.102512",
@@ -12481,7 +13379,9 @@
             "works_count": 1620,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.71
       }
     ]
   },
@@ -12515,7 +13415,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jin-Sheng Zhao | DynaPose: CAD-Prior-Assisted Pose Estimation and Defect Detection in Inline Industrial Metrology | 10.1109/TII.2020.3012345",
@@ -12541,7 +13443,9 @@
             "works_count": 358,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Pierre J. L. Miller | Traditional Iterative Reconstruction vs. Deep Learning for Real-Time Industrial X-Ray Metrology | 10.1016/j.compind.2021.103412",
@@ -12567,7 +13471,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Liang-Chieh Chen | Computational Latency and Defect Sensitivity in CAD-Prior Assisted Sparse-View X-Ray Systems | 10.1109/TASE.2021.3101234",
@@ -12593,7 +13499,9 @@
             "works_count": 99,
             "organization_country_id": "PL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.85
       },
       {
         "citation": "Gary G. Yen | Deep-Learning-Based Sparse-View CT Reconstruction for Non-Destructive Testing | 10.1109/TNNLS.2019.2934512",
@@ -12619,7 +13527,9 @@
             "works_count": 473,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12653,7 +13563,9 @@
             "works_count": 519,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       },
       {
         "citation": "Marc W. Spong | Kinematic and Turning Constraints in Joint Multi-Rotor and Fixed-Wing Cooperative Flight | 10.1109/TAES.2019.2921234",
@@ -12680,7 +13592,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jun-Wei Cao | Reconciling Heterogeneous Flight Constraints in Cooperative Multi-Agent Reinforcement Learning | 10.1016/j.automatica.2021.109812",
@@ -12707,7 +13621,9 @@
             "works_count": 16,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Sarah J. Peters | Multi-UAV Cooperative Exploration: MARL Frameworks for Heterogeneous Fleets | 10.1016/j.patcog.2022.108512",
@@ -12734,7 +13650,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Daniel L. Gomez | Path Planning and Coordination for Heterogeneous Fixed-Wing and Rotary UAVs | 10.1109/TITS.2020.3014512",
@@ -12761,7 +13679,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12771,12 +13691,12 @@
     "question": "How do manifold-learning-based feature fusion techniques compare to transformer-based attention mechanisms in their ability to mitigate non-verbal noise and preserve sentiment-salient features across standard multimodal sentiment analysis benchmarks?",
     "references": [
       {
-        "citation": "Tadas Baltrušaitis | Multimodal Sentiment Analysis: A Survey of Feature Fusion and Attention Mechanisms | 10.1109/TPAMI.2018.2831234",
+        "citation": "Tadas Baltru\u0161aitis | Multimodal Sentiment Analysis: A Survey of Feature Fusion and Attention Mechanisms | 10.1109/TPAMI.2018.2831234",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Tadas Baltrušaitis"
+          "Tadas Baltru\u0161aitis"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -12788,14 +13708,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Tadas Baltrušaitis",
+            "cited_name": "Tadas Baltru\u0161aitis",
             "author_exists": true,
             "fullest_name": "Baltrusaitis, Tadas",
             "h_index": 30,
             "works_count": 102,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Soujanya Poria | Manifold Learning vs. Deep Transformer Attention for Multimodal Emotion Recognition | 10.1016/j.inffus.2019.06.012",
@@ -12822,7 +13744,9 @@
             "works_count": 308,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Shuo-Wei Wang | Mitigating Non-Verbal Noise in Multimodal Sentiment Analysis via Manifold-Learning Feature Fusion | 10.1109/TMM.2021.3092345",
@@ -12849,7 +13773,9 @@
             "works_count": 121,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.63
       },
       {
         "citation": "Amir Zadeh | Transformer-Based Attention Networks for Multimodal Sentiment Benchmark Optimization | 10.1145/3340531.3340579",
@@ -12876,7 +13802,9 @@
             "works_count": 75,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Helen L. Peters | Preserving Sentiment-Salient Features with Manifold Alignment and Gated Attention | 10.1016/j.patcog.2022.108712",
@@ -12903,7 +13831,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -12937,7 +13867,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.95
       },
       {
         "citation": "Dietmar Jannach | Hybrid Recommendation Frameworks vs. Deep Sequential Models: A Comparative Study | 10.1016/j.ipm.2021.102712",
@@ -12964,7 +13896,9 @@
             "works_count": 445,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jin-Sheng Zhao | Dynamic User Preference Adaptation with Recurrent and Transformer Recommender Systems | 10.1109/TKDE.2022.3141234",
@@ -12991,7 +13925,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Satoru Murase | Preserving Local User-Item Correlations via Biclustering-Guided Reinforcement Learning | 10.1016/j.eswa.2022.117123",
@@ -13019,7 +13955,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuo G. Wang | Reinforcement Learning Recommendation Frameworks: A Survey and Benchmarking | 10.1145/3474085.3474124",
@@ -13046,7 +13984,9 @@
             "works_count": 45,
             "organization_country_id": "MO"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -13080,7 +14020,9 @@
             "works_count": 104,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joaquin Torres-Sospedra | A Comparative Study of Machine Learning and Deep Learning for WiFi Indoor Positioning | 10.3390/rs11091112",
@@ -13107,7 +14049,9 @@
             "works_count": 323,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jun-Fei Cao | Feature Extraction Methodologies and CNN Robustness in Noisy WiFi Environments | 10.1016/j.asoc.2021.107512",
@@ -13134,7 +14078,9 @@
             "works_count": 182,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.53
       },
       {
         "citation": "Sarah M. Miller | Computational Efficiency of Custom-Designed CNNs for Indoor Localization | 10.1109/ACCESS.2021.3101234",
@@ -13161,7 +14107,9 @@
             "works_count": 40,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert J. Croft | Transfer Learning and Deep Representation Robustness for RSSI-Based Indoor Positioning | 10.1109/TITS.2022.3145123",
@@ -13187,7 +14135,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13221,7 +14171,9 @@
             "works_count": 455,
             "organization_country_id": "AT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jin-Sheng Zhao | Deep Learning-Based Per-Segment Encoding Parameter Estimation in HAS | 10.1109/TCSVT.2020.3012346",
@@ -13248,7 +14200,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.72
       },
       {
         "citation": "Werner Robitza | Low-Resolution Feature Extraction for Computational-Efficient Video Quality Estimation | 10.1109/TMM.2019.2912345",
@@ -13275,7 +14229,9 @@
             "works_count": 66,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuo G. Wang | Comparative Analysis of Heuristic and ML Approaches for Rate-Distortion Optimization | 10.1016/j.jvcir.2021.103123",
@@ -13302,7 +14258,9 @@
             "works_count": 45,
             "organization_country_id": "MO"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Alan S. L. Wong | Per-Segment Parameter Estimation for High-Efficiency Video Codecs in Streaming Systems | 10.1109/TMM.2021.3094123",
@@ -13328,7 +14286,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13361,7 +14321,9 @@
             "works_count": 821,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuo-Wei Wang | Quantitatively Validating Retinal Pathology Features with Multi-Method XAI | 10.1109/TMI.2022.3141234",
@@ -13387,7 +14349,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.66
       },
       {
         "citation": "Jane S. Peters | Confounding Factor Mitigation in Retinal Deep Learning via Explainability Frameworks | 10.1016/j.cmpb.2022.106912",
@@ -13413,7 +14377,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert J. Croft | Quantitative Validation of Pathological Feature Relevance in Deep Ophthalmology Networks | 10.1109/JBHI.2021.3094321",
@@ -13439,7 +14405,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian J. S. Weber | Evaluating Saliency Map Reliability in Retinal Disease Detection Datasets | 10.1007/s11548-022-02612-y",
@@ -13465,7 +14433,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13499,7 +14469,9 @@
             "works_count": 151,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.59
       },
       {
         "citation": "Marc W. Spong | Traditional Strain-Gauge vs. Empirical Vibration Assessment in Industrial Piping | 10.1016/j.ijpvp.2019.103912",
@@ -13527,7 +14499,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Shuo-Wei Wang | Real-Time Vibration-Induced Fatigue Assessment Using Deep Learning and Sensors | 10.1109/TII.2021.3101235",
@@ -13554,7 +14528,9 @@
             "works_count": 18,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.65
       },
       {
         "citation": "Sarah M. Miller | Computational Overhead and Scalability of Vibration Classification Techniques | 10.1016/j.sysarc.2022.102413",
@@ -13582,7 +14558,9 @@
             "works_count": 1004,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daniel L. Gomez | Industrial Piping Network Health Monitoring: Deep Learning and Threshold Methods | 10.1016/j.engstruct.2020.111451",
@@ -13609,7 +14587,9 @@
             "works_count": 303,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13643,7 +14623,9 @@
             "works_count": 104,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jane S. Peters | Optimal Transport vs. Contrastive Learning for Unsupervised Network Alignment | 10.1016/j.ins.2021.10.012",
@@ -13669,7 +14651,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert J. Croft | Graph Size Imbalance and Structural Noise in Adversarial Network Alignment | 10.1016/j.patcog.2021.108123",
@@ -13697,7 +14681,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian J. S. Weber | Theoretical Capacity of Contrastive Representation Learning in Graph Matching | 10.1109/TNNLS.2022.3151234",
@@ -13724,7 +14710,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alan S. L. Wong | Evaluating NAWAL and Optimal Transport on Highly Imbalanced Social Networks | 10.1145/3474085.3474125",
@@ -13751,7 +14739,9 @@
             "works_count": 73,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -13761,12 +14751,12 @@
     "question": "How do bottom-up, entity-specific fusion strategies compare to top-down or joint fusion approaches across different multimodal human-object interaction recognition methods in terms of preserving modality-specific strengths and handling complex real-world scenarios like concurrent actions and mutual occlusions?",
     "references": [
       {
-        "citation": "Tadas Baltrušaitis | Bottom-Up vs. Top-Down Fusion in Multimodal Action Recognition | 10.1109/TPAMI.2019.2912346",
+        "citation": "Tadas Baltru\u0161aitis | Bottom-Up vs. Top-Down Fusion in Multimodal Action Recognition | 10.1109/TPAMI.2019.2912346",
         "status": "not_found",
         "title_found": false,
         "author_matched": false,
         "ref_authors": [
-          "Tadas Baltrušaitis"
+          "Tadas Baltru\u0161aitis"
         ],
         "found_authors_count": 0,
         "reason": "title could not be found in any checked database",
@@ -13777,14 +14767,16 @@
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Tadas Baltrušaitis",
+            "cited_name": "Tadas Baltru\u0161aitis",
             "author_exists": true,
             "fullest_name": "Baltrusaitis, Tadas",
             "h_index": 30,
             "works_count": 102,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Soujanya Poria | Joint Fusion and Entity-Specific Strategies for Human-Object Interaction | 10.1016/j.inffus.2020.06.013",
@@ -13810,7 +14802,9 @@
             "works_count": 308,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Shuo-Wei Wang | Preserving Modality-Specific Strengths in Multimodal HOI Recognition | 10.1109/TCSVT.2021.3092347",
@@ -13837,7 +14831,9 @@
             "works_count": 117,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.73
       },
       {
         "citation": "Amir Zadeh | Handling Concurrent Actions and Mutual Occlusions with Entity-Specific Fusion | 10.1109/CVPR.2021.00913",
@@ -13863,7 +14859,9 @@
             "works_count": 75,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Helen L. Peters | Comparative Study of Bottom-Up, Top-Down, and Joint Multimodal Fusion | 10.1016/j.patcog.2022.108713",
@@ -13889,7 +14887,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       }
     ]
   }

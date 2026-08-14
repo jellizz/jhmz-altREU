@@ -2,7 +2,7 @@
   {
     "id": "https://openalex.org/W7117741318",
     "model": "gemini",
-    "question": "How do experimentally elicited higher-order risk preferences such as prudence and temperance, compared with conventional risk aversion and survey-based risk tolerance measures, explain adolescents’ real-world prevention, health, addictive, and financial behaviors across the broader literature on decision-making under risk?",
+    "question": "How do experimentally elicited higher-order risk preferences such as prudence and temperance, compared with conventional risk aversion and survey-based risk tolerance measures, explain adolescents\u2019 real-world prevention, health, addictive, and financial behaviors across the broader literature on decision-making under risk?",
     "references": [
       {
         "citation": "Charles N. Noussair | Higher Order Risk Attitudes, Demographics, and Financial Decisions | 10.1111/jofi.12124",
@@ -29,7 +29,9 @@
             "works_count": 293,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.79
       },
       {
         "citation": "Cary Deck | Exploring Higher-Order Risk Decisions | 10.1257/aer.100.5.2338",
@@ -55,7 +57,9 @@
             "works_count": 216,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.75
       },
       {
         "citation": "Stefan T. Trautmann | Higher-order risk preferences: An ex-ante/ex-post distinction | 10.1016/j.jpubeco.2010.09.002",
@@ -79,7 +83,9 @@
             "works_count": 173,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sebastian Ebert | Jointly Testing for Noise and Higher-Order Risk Preferences | 10.1287/mnsc.1130.1807",
@@ -103,7 +109,9 @@
             "works_count": 70,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matthias Sutter | Teenagers' Risk Preferences and Outcomes in Education and Health | 10.1093/qje/qjs023",
@@ -122,12 +130,14 @@
           {
             "cited_name": "Matthias Sutter",
             "author_exists": true,
-            "fullest_name": "Prof. Dr. Matthias Sutter, 37, ist Lehrstuhlvertreter am Staatswissenschaftlichen Seminar an der Universität zu Köln und Außerordentlicher Universitätsprofessor am Institut für Finanzwissenschaft der Universität Innsbruck.",
+            "fullest_name": "Prof. Dr. Matthias Sutter, 37, ist Lehrstuhlvertreter am Staatswissenschaftlichen Seminar an der Universit\u00e4t zu K\u00f6ln und Au\u00dferordentlicher Universit\u00e4tsprofessor am Institut f\u00fcr Finanzwissenschaft der Universit\u00e4t Innsbruck.",
             "h_index": 62,
             "works_count": 607,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -137,31 +147,33 @@
     "question": "How do spatial-equilibrium models of state corporate tax incidence that incorporate firm mobility, heterogeneous firm productivity, and location-specific amenities alter conclusions about the distribution of tax burdens among workers, landowners, and firm owners relative to empirical estimates in Serrato and Zidar (2016) and subsequent critiques?",
     "references": [
       {
-        "citation": "Juan Carlos Suárez Serrato | Who Benefits from State Corporate Tax Cuts? A Local Labor Market Approach with Heterogeneous Firms | 10.1257/aer.20141702",
+        "citation": "Juan Carlos Su\u00e1rez Serrato | Who Benefits from State Corporate Tax Cuts? A Local Labor Market Approach with Heterogeneous Firms | 10.1257/aer.20141702",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
         "ref_authors": [
-          "Juan Carlos Suárez Serrato"
+          "Juan Carlos Su\u00e1rez Serrato"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Juan Carlos Suárez Serrato'], database match: Juan Carlos Suárez Serrato",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Juan Carlos Su\u00e1rez Serrato'], database match: Juan Carlos Su\u00e1rez Serrato",
         "failed_dbs": [
           "Open Library"
         ],
         "retracted": false,
-        "matched_database_author": "Juan Carlos Suárez Serrato",
+        "matched_database_author": "Juan Carlos Su\u00e1rez Serrato",
         "doi_valid": false,
         "identified_authors": [
           {
-            "cited_name": "Juan Carlos Suárez Serrato",
+            "cited_name": "Juan Carlos Su\u00e1rez Serrato",
             "author_exists": true,
-            "fullest_name": "Suárez Serrato, Juan Carlos",
+            "fullest_name": "Su\u00e1rez Serrato, Juan Carlos",
             "h_index": 23,
             "works_count": 71,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "J. Vernon Henderson | The Effects of Multinational Enterprises on Territory and Sectoral Allocations | 10.1016/0047-2727(82)90002-3",
@@ -187,7 +199,9 @@
             "works_count": 223,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Patrick Kline | Place-Based Policies with Spillovers | 10.1162/REST_a_00438",
@@ -211,7 +225,9 @@
             "works_count": 121,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Owen M. Zidar | Tax Cuts for Whom? Heterogeneous Effects of Income Tax Changes on Growth and Employment | 10.1257/aer.20141745",
@@ -236,7 +252,9 @@
             "works_count": 70,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Enrico Moretti | Local Multipliers | 10.1257/aer.100.2.373",
@@ -261,7 +279,9 @@
             "works_count": 215,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -295,7 +315,9 @@
             "works_count": 1,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gerald A. Carlino | Knowledge Spillovers, Agglomeration Economies, and the Geography of Innovative Activity | 10.1016/B978-0-444-59531-7.00010-9",
@@ -321,7 +343,9 @@
             "works_count": 166,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "William R. Kerr | Social Networks, Distance, and International Technology Diffusion | 10.1162/rest.90.3.514",
@@ -348,7 +372,9 @@
             "works_count": 383,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael J. Andrews | Barbershops, Libraries, and Patents: Information Spillovers and the Geography of Innovation | 10.2139/ssrn.3392471",
@@ -375,7 +401,9 @@
             "works_count": 57,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christian Fons-Rosen | Do startups benefit from agglomeration? Evidence from Germany | 10.1016/j.jue.2021.103345",
@@ -401,7 +429,9 @@
             "works_count": 48,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -435,7 +465,9 @@
             "works_count": 437,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John William Hatfield | Matching with Contracts | 10.1257/0002828054797037",
@@ -462,7 +494,9 @@
             "works_count": 581,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Federico Echenique | What Matchings Can Be Stable? | 10.1016/j.jet.2006.09.006",
@@ -488,7 +522,9 @@
             "works_count": 224,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elizabeth Baldwin | Understanding Preferences: \"Gross Substitutes\" and the \"Law of Demand\" | 10.3386/w19475",
@@ -514,7 +550,9 @@
             "works_count": 68,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ning Sun | Equilibrium and Demand in Common Value Auctions | 10.1016/j.jet.2009.05.003",
@@ -541,7 +579,9 @@
             "works_count": 245,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.54
       }
     ]
   },
@@ -574,7 +614,9 @@
             "works_count": 109,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arindrajit Dube | Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties | 10.1112/j.1468-232X.2010.00618.x",
@@ -601,7 +643,9 @@
             "works_count": 150,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "David Card | Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania | 10.2307/2117838",
@@ -626,7 +670,9 @@
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Reich | Local Minimum Taxes and Labor Markets | 10.1111/j.1468-232X.2012.00706.x",
@@ -652,7 +698,9 @@
             "works_count": 351,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marianne Bertrand | Online Labor Markets and the Minimum Wage | 10.1086/698748",
@@ -679,7 +727,9 @@
             "works_count": 257,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -713,7 +763,9 @@
             "works_count": 135,
             "organization_country_id": "NL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Maureen O'Hara | High-Frequency Trading and Its Impact on Market Structure and Transaction Costs | 10.1111/jof.12150",
@@ -724,10 +776,10 @@
           "Maureen O'Hara"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): [\"Maureen O'Hara\"], database match: Maureen O’Hara",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): [\"Maureen O'Hara\"], database match: Maureen O\u2019Hara",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Maureen O’Hara",
+        "matched_database_author": "Maureen O\u2019Hara",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -738,7 +790,9 @@
             "works_count": 221,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrei Kirilenko | The Flash Crash: High-Frequency Trading in an Electronic Market | 10.1111/jofi.12498",
@@ -763,7 +817,9 @@
             "works_count": 138,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bruno Biais | Equilibrium High-Frequency Trading | 10.1016/j.jfineco.2014.11.008",
@@ -790,7 +846,9 @@
             "works_count": 200,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Thierry Foucault | Liquidity Cycles and High-Frequency Trading | 10.1111/jofi.12074",
@@ -816,7 +874,9 @@
             "works_count": 163,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -850,7 +910,9 @@
             "works_count": 656,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "R. Preston McAfee | Multiproduct Monopoly on a Spatial Line | 10.1016/0047-2727(89)90038-0",
@@ -876,7 +938,9 @@
             "works_count": 224,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Schmalensee | Gaussian Demand and Commodity Bundling | 10.1086/261219",
@@ -902,7 +966,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Fangruo Chen | Sales Force Incentives and Product Bundling | 10.1287/mnsc.44.11.1511",
@@ -928,7 +994,9 @@
             "works_count": 37,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.69
       },
       {
         "citation": "Mark Armstrong | Price Discrimination by a Many-Product Monopolist | 10.2307/2298234",
@@ -955,7 +1023,9 @@
             "works_count": 172,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -988,7 +1058,9 @@
             "works_count": 1255,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Karthik Muralidharan | Building State Capacity: Evidence from Biometric Smartcards in India | 10.1257/aer.20141346",
@@ -1016,7 +1088,9 @@
             "works_count": 196,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bernardo B\u0000tiz-Lazo | The Evolution of Cashless Payments in Emerging Markets | 10.1016/j.ribaf.2014.09.002",
@@ -1042,7 +1116,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Tavneet Suri | The Long-Run Poverty and Gender Impacts of Mobile Money | 10.1126/science.aah5309",
@@ -1067,7 +1143,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.69
       },
       {
         "citation": "Pierre-Laurent Chatain | Preventing Money Laundering and Terrorist Financing: A Practical Guide for Bank Supervisors | 10.1596/978-0-8213-7912-7",
@@ -1092,7 +1170,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -1126,7 +1206,9 @@
             "works_count": 90,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Atif Mian | House Prices, Home Equity-Based Borrowing, and the US Household Leverage Crisis | 10.1257/aer.101.5.2132",
@@ -1151,7 +1233,9 @@
             "works_count": 164,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Atif Mian | What Explains the 2007-2009 Drop in Employment? | 10.3386/w18609",
@@ -1176,7 +1260,9 @@
             "works_count": 164,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Itzhak Ben-David | Stock Market Wealth and Consumption: Evidence from Households' Portfolio Returns | 10.1111/jofi.12882",
@@ -1202,7 +1288,9 @@
             "works_count": 189,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joseph Gyourko | Local Housing Bubbles and Wealth Redistribution | 10.1016/j.jue.2013.03.003",
@@ -1229,14 +1317,16 @@
             "works_count": 196,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3096991995",
     "model": "gemini",
-    "question": "How do shifts in perceived social norms following salient political events influence individuals’ willingness to publicly express stigmatized attitudes, such as xenophobia, and how do these shifts alter social sanctioning processes across different political and cultural contexts?",
+    "question": "How do shifts in perceived social norms following salient political events influence individuals\u2019 willingness to publicly express stigmatized attitudes, such as xenophobia, and how do these shifts alter social sanctioning processes across different political and cultural contexts?",
     "references": [
       {
         "citation": "Leonardo Bursztyn | From Extreme to Mainstream: How Social Norms Can Unlock Xenophobic Expression | 10.1257/aer.20180358",
@@ -1262,7 +1352,9 @@
             "works_count": 225,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stefano DellaVigna | The Political Impact of Media Bias | 10.1093/qje/qjm014",
@@ -1289,7 +1381,9 @@
             "works_count": 322,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Yanagizawa-Drott | Propaganda and Conflict: Evidence from the Rwandan Genocide | 10.1093/qje/qju014",
@@ -1316,7 +1410,9 @@
             "works_count": 71,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christina Bicchieri | The Grammar of Society: The Nature and Dynamics of Social Norms | 10.1017/CBO9780511610981",
@@ -1341,7 +1437,9 @@
             "works_count": 172,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elias Dinas | Active Social Norms and the Rise of Right-Wing Populism | 10.1111/ajps.12450",
@@ -1367,7 +1465,9 @@
             "works_count": 170,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -1401,7 +1501,9 @@
             "works_count": 186,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matthew O. Jackson | Social and Economic Networks | 10.1515/9781400841356",
@@ -1428,7 +1530,9 @@
             "works_count": 439,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Abhijit Banerjee | The Diffusion of Microfinance | 10.1126/science.1236498",
@@ -1452,7 +1556,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arun G. Chandrasekhar | Network Centrality and Information Diffusion | 10.2139/ssrn.2241674",
@@ -1478,7 +1584,9 @@
             "works_count": 202,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Damon Centola | The Spread of Behavior in an Online Social Network Experiment | 10.1126/science.1185231",
@@ -1503,7 +1611,9 @@
             "works_count": 65,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -1532,12 +1642,14 @@
           {
             "cited_name": "Luis Cabral",
             "author_exists": true,
-            "fullest_name": "Luı́s M.B. Cabral",
+            "fullest_name": "Lu\u0131\u0301s M.B. Cabral",
             "h_index": 37,
             "works_count": 178,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael H. Riordan | Dynamic Oligopoly with Learning by Doing | 10.2307/1911011",
@@ -1563,7 +1675,9 @@
             "works_count": 208,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Drew Fudenberg | Limit Games and Continuous-Time Markov Equilibria | 10.1016/j.jet.2012.05.004",
@@ -1589,7 +1703,9 @@
             "works_count": 394,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Chaim Fershtman | Dynamic Oligopoly with Sticky Prices | 10.2307/1912531",
@@ -1617,7 +1733,9 @@
             "works_count": 169,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Hal R. Varian | Buying, Sharing, and Renting Information Goods | 10.1086/321868",
@@ -1644,7 +1762,9 @@
             "works_count": 336,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       }
     ]
   },
@@ -1676,7 +1796,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Chang-Tai Hsieh | Misallocation and Manufacturing TFP in China and India | 10.1162/qje.2009.124.4.1403",
@@ -1703,7 +1825,9 @@
             "works_count": 156,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paul R. Krugman | Scale Economies, Product Differentiation, and the Pattern of Trade | 10.1257/aer.70.5.950",
@@ -1729,7 +1853,9 @@
             "works_count": 711,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arnaud Costinot | What Goods Do Countries Trade? A Quantitative Exploration of New Trade Theory | 10.1111/j.1468-0262.2009.00971.x",
@@ -1756,7 +1882,9 @@
             "works_count": 118,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Atkin | Exporting and Firm Performance: Evidence from a Randomized Trial | 10.1093/qje/qjx010",
@@ -1783,14 +1911,16 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4288074152",
     "model": "gemini",
-    "question": "How do ICT-enabled citizen reporting and social media–based election monitoring interventions compare with traditional observer-based monitoring across different political contexts in reducing electoral irregularities, altering candidate behavior, and improving electoral accountability?",
+    "question": "How do ICT-enabled citizen reporting and social media\u2013based election monitoring interventions compare with traditional observer-based monitoring across different political contexts in reducing electoral irregularities, altering candidate behavior, and improving electoral accountability?",
     "references": [
       {
         "citation": "Michael Callen | Institutional Corruption and Election Fraud: Evidence from Afghanistan | 10.1257/aer.105.1.1",
@@ -1816,7 +1946,9 @@
             "works_count": 127,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James D. Fearon | Democratic Structure and Electoral Accountability | 10.2307/2111726",
@@ -1842,7 +1974,9 @@
             "works_count": 128,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alberto Diaz-Cayeros | Traditional Governance and Social Capital in Mexico | 10.1017/CBO9781139505872",
@@ -1863,12 +1997,14 @@
           {
             "cited_name": "Alberto Diaz-Cayeros",
             "author_exists": true,
-            "fullest_name": "Alberto Díaz-Cayeros",
+            "fullest_name": "Alberto D\u00edaz-Cayeros",
             "h_index": 23,
             "works_count": 95,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Molly Offer-Westort | Digital Platforms and Electoral Accountability | 10.2139/ssrn.3546781",
@@ -1895,7 +2031,9 @@
             "works_count": 22,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Susan D. Hyde | The Observer Effect in International Politics: Evidence from a Natural Experiment | 10.1111/j.1 World Politics",
@@ -1934,7 +2072,9 @@
             "works_count": 344,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alvaro Sandroni | The Outcome of Recurrent Games with Misspecified Beliefs | 10.1016/j.jet.2004.02.001",
@@ -1960,7 +2100,9 @@
             "works_count": 113,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ignacio Esponda | Conditional Prediction and Misspecified Models | 10.3386/w21903",
@@ -1986,7 +2128,9 @@
             "works_count": 34,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Drew Fudenberg | Learning in Games with Misspecified Models | 10.1111/j.1468-0262.2010.00941.x",
@@ -2012,7 +2156,9 @@
             "works_count": 394,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert J. Aumann | Interactive Epistemology I: Knowledge | 10.1006/game.1999.0725",
@@ -2037,7 +2183,9 @@
             "works_count": 215,
             "organization_country_id": "IL"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2072,7 +2220,9 @@
             "works_count": 213,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen P. Holland | Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors | 10.1257/aer.20150897",
@@ -2099,7 +2249,9 @@
             "works_count": 86,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hunt Allcott | Energy Efficiency and Consumer Behavior | 10.1257/jel.52.1.1",
@@ -2126,7 +2278,9 @@
             "works_count": 198,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.61
       },
       {
         "citation": "Severin Borenstein | The Private and Social Purchasing Power of Solar Incentives | 10.1257/pol.20150331",
@@ -2152,7 +2306,9 @@
             "works_count": 181,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher R. Knittel | Reducing Greenhouse Gas Emissions from Transportation | 10.1257/jep.26.1.93",
@@ -2178,7 +2334,9 @@
             "works_count": 252,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2212,7 +2370,9 @@
             "works_count": 293,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Martin Feldstein | The Effect of Marginal Tax Rates on Taxable Income: A Panel Study of the 1986 Tax Reform Act | 10.1086/262001",
@@ -2237,7 +2397,9 @@
             "works_count": 886,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emmanuel Saez | The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review | 10.1257/jel.50.1.3",
@@ -2262,7 +2424,9 @@
             "works_count": 490,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stefanie Stantcheva | Optimal Taxation and Human Capital Investment Under Asymmetric Information | 10.1016/j.jpubeco.2014.11.002",
@@ -2288,7 +2452,9 @@
             "works_count": 183,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Henrik Kleven | Using Tax Reforms to Identify the Elasticity of Taxable Income | 10.1162/REST_a_00412",
@@ -2314,7 +2480,9 @@
             "works_count": 145,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2347,7 +2515,9 @@
             "works_count": 713,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert J. Gordon | The Demise of U.S. Economic Growth: Restatements, Rebuttals, and Reflections | 10.3386/w19895",
@@ -2374,7 +2544,9 @@
             "works_count": 1033,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicholas Bloom | Are Ideas Getting Harder to Find? | 10.1257/aer.20180338",
@@ -2399,7 +2571,9 @@
             "works_count": 548,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ricardo J. Caballero | Financial Globalisation, Real Lower Rates, and the Global Saving Glut | 10.1016/j.jinteco.2008.06.002",
@@ -2425,7 +2599,9 @@
             "works_count": 393,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Daron Acemoglu | Technical Change, Inequality, and the Labor Market | 10.1257/jel.40.1.7",
@@ -2450,14 +2626,16 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
   {
     "id": "https://openalex.org/W7160214867",
     "model": "gemini",
-    "question": "How does the empirical tendency to prioritize avoiding individuals’ least-preferred outcomes over maximizing top-ranked outcomes relate to existing theories and evidence on ordinal social choice, cardinal utility inference, fairness norms, and strategy-proof mechanism design across different political and cultural contexts?",
+    "question": "How does the empirical tendency to prioritize avoiding individuals\u2019 least-preferred outcomes over maximizing top-ranked outcomes relate to existing theories and evidence on ordinal social choice, cardinal utility inference, fairness norms, and strategy-proof mechanism design across different political and cultural contexts?",
     "references": [
       {
         "citation": "Kenneth J. Arrow | Social Choice and Individual Values | 10.1002/0471725175",
@@ -2485,7 +2663,9 @@
             "works_count": 747,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amartya Sen | Collective Choice and Social Welfare | 10.1016/S0167-2681(01)00155-2",
@@ -2513,7 +2693,9 @@
             "works_count": 782,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Rawls | A Theory of Justice | 10.2307/2218556",
@@ -2538,7 +2720,9 @@
             "works_count": 136,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Allan Gibbard | Manipulation of Voting Schemes: A General Result | 10.2307/1914083",
@@ -2563,7 +2747,9 @@
             "works_count": 160,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mark A. Satterthwaite | Coalition-Proofness and Strategy-Proofness in Voting Procedures | 10.1016/0022-0531(75)90002-0",
@@ -2589,7 +2775,9 @@
             "works_count": 111,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2625,7 +2813,9 @@
             "works_count": 288,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Kyle Bagwell | An Economic Theory of GATT | 10.1257/aer.89.1.215",
@@ -2652,7 +2842,9 @@
             "works_count": 186,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jagdish N. Bhagwati | Directly Unproductive, Profit-Seeking (DUP) Activities | 10.1086/261099",
@@ -2677,7 +2869,9 @@
             "works_count": 680,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Giovanni Maggi | International Standards and Trade | 10.1112/j.1468-0262.2011.01121.x",
@@ -2704,7 +2898,9 @@
             "works_count": 84,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Richard Baldwin | Regulatory Protectionism and the WTO | 10.1111/j.1467-9701.2009.01211.x",
@@ -2730,7 +2926,9 @@
             "works_count": 756,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -2764,7 +2962,9 @@
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Erling Barth | It's Where You Work: Increases in Earnings Dispersion across Establishments and Individuals in the United States | 10.1086/684045",
@@ -2790,7 +2990,9 @@
             "works_count": 174,
             "organization_country_id": "NO"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Abowd | High Wage Workers and High Wage Firms | 10.2307/2999484",
@@ -2815,7 +3017,9 @@
             "works_count": 395,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Autor | The Polarization of Job Opportunities in the U.S. Labor Market | 10.1086/674872",
@@ -2842,7 +3046,9 @@
             "works_count": 336,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jae Song | Firming Up Inequality | 10.1093/qje/qjy004",
@@ -2867,14 +3073,16 @@
             "works_count": 158,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.89
       }
     ]
   },
   {
     "id": "https://openalex.org/W4408054547",
     "model": "gemini",
-    "question": "How do local ownership policies in weak-state extractive sectors reshape firms’ access to state protection, reduce resource theft, and affect aggregate welfare relative to foreign ownership, particularly through political connections, corruption, and law-enforcement incentives?",
+    "question": "How do local ownership policies in weak-state extractive sectors reshape firms\u2019 access to state protection, reduce resource theft, and affect aggregate welfare relative to foreign ownership, particularly through political connections, corruption, and law-enforcement incentives?",
     "references": [
       {
         "citation": "Raymond Fisman | Estimating the Value of Political Connections | 10.1162/00335530152466261",
@@ -2901,7 +3109,9 @@
             "works_count": 245,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward Miguel | Civil War and Economic Growth: An Instrumental Variable Approach | 10.1086/421174",
@@ -2927,7 +3137,9 @@
             "works_count": 2669,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Daron Acemoglu | Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution | 10.1162/003355302753377046",
@@ -2938,10 +3150,10 @@
           "Daron Acemoglu"
         ],
         "found_authors_count": 8,
-        "reason": "title was found (source: Semantic Scholar), and author matched after name normalization. cited author(s): ['Daron Acemoglu'], database match: D. Acemoğlu",
+        "reason": "title was found (source: Semantic Scholar), and author matched after name normalization. cited author(s): ['Daron Acemoglu'], database match: D. Acemo\u011flu",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "D. Acemoğlu",
+        "matched_database_author": "D. Acemo\u011flu",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -2952,7 +3164,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Benjamin Olken | Corruption in Developing Countries | 10.1146/annurev-economics-082912-110225",
@@ -2978,7 +3192,9 @@
             "works_count": 716,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Raghuram G. Rajan | The Natural Resource Curse: A Corporate Finance Perspective | 10.1016/j.jfineco.2011.02.012",
@@ -3004,7 +3220,9 @@
             "works_count": 404,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -3038,7 +3256,9 @@
             "works_count": 218,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Altonji, J. G. | Employer Learning and Statistical Discrimination | 10.1162/003355301556329",
@@ -3063,7 +3283,9 @@
             "works_count": 174,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joshua Angrist | Does Compulsory School Attendance Affect Schooling and Earnings? | 10.2307/2937954",
@@ -3088,7 +3310,9 @@
             "works_count": 592,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Katrine V. L\u0000ken | Effect of Compulsory Schooling Reforms in Norway | 10.1016/j.jpubeco.2012.02.001",
@@ -3114,7 +3338,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Damon Clark | Evaluating the Signaling Value of a High School Diploma | 10.1086/675126",
@@ -3140,7 +3366,9 @@
             "works_count": 129,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3173,7 +3401,9 @@
             "works_count": 419,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ben S. Bernanke | Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression | 10.2307/1808111",
@@ -3199,7 +3429,9 @@
             "works_count": 713,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gary Gorton | Banking Panics and Business Cycles | 10.1093/qje/103.4.751",
@@ -3226,7 +3458,9 @@
             "works_count": 263,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xavier Giroud | Internal Capital Markets and the Allocation of Resources | 10.1111/jofi.12093",
@@ -3252,7 +3486,9 @@
             "works_count": 66,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mark J. Flannery | Market Discipline in Bank Supervision | 10.1016/j.jfi.2003.09.001",
@@ -3277,7 +3513,9 @@
             "works_count": 186,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3311,7 +3549,9 @@
             "works_count": 149,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Linus Mattauch | Making Carbon Pricing Work for Citizens | 10.1016/j.gloenvcha.2018.06.001",
@@ -3338,7 +3578,9 @@
             "works_count": 87,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "William D. Nordhaus | Estimates of the Social Cost of Carbon: Background and Results from the DICE-2013R Model | 10.5547/01956574.35.3.3",
@@ -3363,7 +3605,9 @@
             "works_count": 463,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin L. Weitzman | On Modeling and Interpreting the Economics of Catastrophic Climate Change | 10.1162/rest.91.1.1",
@@ -3388,7 +3632,9 @@
             "works_count": 288,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Nicholas Stern | The Economics of Climate Change: The Stern Review | 10.1017/CBO9780511817472",
@@ -3413,7 +3659,9 @@
             "works_count": 462,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3447,7 +3695,9 @@
             "works_count": 141,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin Moll | Monetary Policy with Heterogeneous Agents and Financial Frictions | 10.1093/qje/qju034",
@@ -3473,7 +3723,9 @@
             "works_count": 88,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marcus Hagedorn | Monetary Policy in a HANK Model | 10.1111/iere.12284",
@@ -3499,7 +3751,9 @@
             "works_count": 74,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Adrien Auclert | Monetary Policy and the Redistribution Channel | 10.1257/aer.20160496",
@@ -3524,7 +3778,9 @@
             "works_count": 68,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Jordi Gal\u0000 | Monetary Policy, Inflation, and the Business Cycle | 10.1515/9781400874101",
@@ -3545,12 +3801,14 @@
           {
             "cited_name": "Jordi Gal\u0000",
             "author_exists": true,
-            "fullest_name": "Jordi Gal�",
+            "fullest_name": "Jordi Gal\ufffd",
             "h_index": 2,
             "works_count": 2,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       }
     ]
   },
@@ -3583,7 +3841,9 @@
             "works_count": 280,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Severin Borenstein | Market Power in Electricity Markets: Beyond Concentration Measures | 10.1111/j.1468-0262.2002.00311.x",
@@ -3611,7 +3871,9 @@
             "works_count": 168,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Catherine Wolfram | Measuring Duopoly Power in the British Electricity Market | 10.1257/aer.89.4.805",
@@ -3638,7 +3900,9 @@
             "works_count": 203,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frank A. Wolak | An Assessment of the Performance of the New California Electricity Market | 10.1016/S0301-4215(00)00049-5",
@@ -3664,7 +3928,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Meredith Fowlie | Market-Based Environmental Regulation and Industry Dynamics | 10.1086/651614",
@@ -3690,7 +3956,9 @@
             "works_count": 105,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -3725,7 +3993,9 @@
             "works_count": 1,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward Miguel | Ethnic Diversity and School Funding in Kenya | 10.1257/000282804323068779",
@@ -3752,7 +4022,9 @@
             "works_count": 2669,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Benjamin F. Jones | Climate Shocks and Exports | 10.1257/aer.102.3.435",
@@ -3777,7 +4049,9 @@
             "works_count": 175,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Raul Sanchez de la Sierra | On the Origins of the State: Stationary Bandits and Taxation in Eastern Congo | 10.1086/705304",
@@ -3788,12 +4062,12 @@
           "Raul Sanchez de la Sierra"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Raul Sanchez de la Sierra'], database match: Raúl Sánchez de la Sierra",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Raul Sanchez de la Sierra'], database match: Ra\u00fal S\u00e1nchez de la Sierra",
         "failed_dbs": [
           "Open Library"
         ],
         "retracted": false,
-        "matched_database_author": "Raúl Sánchez de la Sierra",
+        "matched_database_author": "Ra\u00fal S\u00e1nchez de la Sierra",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -3804,7 +4078,9 @@
             "works_count": 264,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.79
       },
       {
         "citation": "Michael Callen | Violent Conflict and the Response of Electricity Supply to Price | 10.2139/ssrn.2132334",
@@ -3830,7 +4106,9 @@
             "works_count": 127,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -3864,7 +4142,9 @@
             "works_count": 472,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Richard P. Van Huyck | Tacit Coordination Games, Strategic Uncertainty, and Coordination Failure | 10.1016/0002-8282(90)90234-D",
@@ -3891,7 +4171,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Roberto A. Weber | Learning with Noisy Signals | 10.1016/j.jebo.2004.09.001",
@@ -3917,7 +4199,9 @@
             "works_count": 224,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Vincent P. Crawford | Preplay Communication and Coordination | 10.2307/2297881",
@@ -3944,7 +4228,9 @@
             "works_count": 119,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jordi Brandts | It's What You Say, and How You Say It: Cheap Talk in Coordination Games | 10.1257/aer.97.1.347",
@@ -3971,14 +4257,16 @@
             "works_count": 227,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W3039364047",
     "model": "gemini",
-    "question": "How has Esther Duflo’s Nobel Prize Lecture been interpreted in relation to the broader literature on randomized controlled trials, causal inference, and evidence-based policy design in development economics?",
+    "question": "How has Esther Duflo\u2019s Nobel Prize Lecture been interpreted in relation to the broader literature on randomized controlled trials, causal inference, and evidence-based policy design in development economics?",
     "references": [
       {
         "citation": "Esther Duflo | Field Experiments in Development Economics | 10.3386/w12759",
@@ -4007,7 +4295,9 @@
             "works_count": 1399,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Abhijit V. Banerjee | Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty | 10.1017/S174413741100030X",
@@ -4035,7 +4325,9 @@
             "works_count": 1255,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Angus Deaton | Instruments, Randomization, and Learning about Development | 10.1257/jel.48.2.424",
@@ -4060,7 +4352,9 @@
             "works_count": 664,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Martin Ravallion | Should the Randomistas Rule? | 10.1093/ger/gno001",
@@ -4087,7 +4381,9 @@
             "works_count": 733,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Kremer | Randomized Evaluations of Educational Innovations in Developing Countries | 10.1016/B978-0-444-53429-3.00013-X",
@@ -4113,14 +4409,16 @@
             "works_count": 485,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3186232651",
     "model": "gemini",
-    "question": "How does noisy mediator-facilitated communication compare with other mechanisms in the reputational bargaining and conflict-resolution literature—such as cheap talk, arbitration, screening, and private offers—in improving efficiency, payoffs, and agreement rates under incomplete information?",
+    "question": "How does noisy mediator-facilitated communication compare with other mechanisms in the reputational bargaining and conflict-resolution literature\u2014such as cheap talk, arbitration, screening, and private offers\u2014in improving efficiency, payoffs, and agreement rates under incomplete information?",
     "references": [
       {
         "citation": "Roger B. Myerson | Mechanism Design by an Informed Principal | 10.2307/1911426",
@@ -4147,7 +4445,9 @@
             "works_count": 213,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dilip Abreu | Reputation and Bargaining | 10.1111/1468-0262.00139",
@@ -4175,7 +4475,9 @@
             "works_count": 61,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David G. Pearce | Repeated Games with Imperfect Monitoring | 10.2307/1911154",
@@ -4201,7 +4503,9 @@
             "works_count": 91,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Abhinay Muthoo | Bargaining Theory with Applications | 10.1017/CBO9780511607950",
@@ -4226,7 +4530,9 @@
             "works_count": 84,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sandeep Baliga | Inflation and Reputation in a Strategic Communication Game | 10.1016/S0022-0531(03)00115-3",
@@ -4253,14 +4559,16 @@
             "works_count": 73,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.77
       }
     ]
   },
   {
     "id": "https://openalex.org/W2960279029",
     "model": "gemini",
-    "question": "How do different forms of elite social ties—such as shared hometown, college, workplace, factional, or patron-client connections—shape promotion, exclusion, and intra-factional competition within authoritarian political institutions, particularly in China’s Politburo selection process?",
+    "question": "How do different forms of elite social ties\u2014such as shared hometown, college, workplace, factional, or patron-client connections\u2014shape promotion, exclusion, and intra-factional competition within authoritarian political institutions, particularly in China\u2019s Politburo selection process?",
     "references": [
       {
         "citation": "Victor Shih | Factions and Finance in China: Elite Conflict and Inflation | 10.1017/CBO9780511510113",
@@ -4288,7 +4596,9 @@
             "works_count": 89,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hongbin Li | Political Connections and Firm Performance: Evidence from China's Private Sector | 10.1016/j.jdebco.2007.03.001",
@@ -4315,7 +4625,9 @@
             "works_count": 511,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.57
       },
       {
         "citation": "Tinghua Duan | Elite Networks and Patronage in China's Anti-Corruption Campaign | 10.2139/ssrn.3392348",
@@ -4341,7 +4653,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.6
       },
       {
         "citation": "Shigeo Hirano | Factionalism in Authoritarian Regimes | 10.1111/ajps.12211",
@@ -4367,7 +4681,9 @@
             "works_count": 105,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David S. G. Goodman | China's Provincial Leaders: Biography and Leadership | 10.4324/9780203201404",
@@ -4394,14 +4710,16 @@
             "works_count": 277,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W4386265217",
     "model": "gemini",
-    "question": "How do cross-national differences and political-ideological variation in second-best fairness preferences—particularly relative tolerance for false positives versus false negatives—shape public support for social insurance and redistributive policy across experimental, behavioral, and political economy literatures?",
+    "question": "How do cross-national differences and political-ideological variation in second-best fairness preferences\u2014particularly relative tolerance for false positives versus false negatives\u2014shape public support for social insurance and redistributive policy across experimental, behavioral, and political economy literatures?",
     "references": [
       {
         "citation": "Alberto Alesina | Preferences for Redistribution in the Land of Opportunities | 10.1016/S0047-2727(03)00032-1",
@@ -4428,7 +4746,9 @@
             "works_count": 604,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Christina M. Fong | Social Preferences, Self-Interest, and the Demand for Redistribution | 10.1016/S0047-2727(01)00138-0",
@@ -4455,7 +4775,9 @@
             "works_count": 18,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Piketty | Social Mobility and Redistributive Politics | 10.2307/2951342",
@@ -4480,7 +4802,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Ernst Fehr | Fairness and Retaliation: The Economics of Reciprocity | 10.1257/jep.14.3.159",
@@ -4505,7 +4829,9 @@
             "works_count": 651,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Roland B\u0000nabou | Belief in a Just World and Redistributive Politics | 10.1093/qje/121.2.699",
@@ -4531,7 +4857,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       }
     ]
   },
@@ -4565,7 +4893,9 @@
             "works_count": 491,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Eric Budish | The Combinatorial Assignment Problem: Approximate Competitive Equilibrium from Equal Incomes | 10.1086/661748",
@@ -4590,18 +4920,20 @@
             "works_count": 84,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
-        "citation": "Atila Abdulkadirođlu | School Choice: A Mechanism Design Approach | 10.1257/000282803322157061",
+        "citation": "Atila Abdulkadiro\u0111lu | School Choice: A Mechanism Design Approach | 10.1257/000282803322157061",
         "status": "mismatch",
         "title_found": true,
         "author_matched": false,
         "ref_authors": [
-          "Atila Abdulkadirođlu"
+          "Atila Abdulkadiro\u0111lu"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Atila Abdulkadirođlu'], database had 2 author(s) on record",
+        "reason": "title was found (source: DOI), but author did not match. cited author(s): ['Atila Abdulkadiro\u0111lu'], database had 2 author(s) on record",
         "failed_dbs": [
           "arXiv"
         ],
@@ -4609,14 +4941,16 @@
         "doi_valid": true,
         "identified_authors": [
           {
-            "cited_name": "Atila Abdulkadirođlu",
+            "cited_name": "Atila Abdulkadiro\u0111lu",
             "author_exists": false,
             "fullest_name": null,
             "h_index": null,
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Fuhito Kojima | Matching with Contracts | 10.1257/aer.100.1.511",
@@ -4642,7 +4976,9 @@
             "works_count": 120,
             "organization_country_id": "JP"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Jacob Leshno | Dynamic Matching in School Choice | 10.2139/ssrn.2341512",
@@ -4668,7 +5004,9 @@
             "works_count": 34,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -4701,7 +5039,9 @@
             "works_count": 674,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jean-Charles Rochet | Competition and Regulation in the Banking Sector | 10.1016/B978-0-444-52956-4.00013-1",
@@ -4727,7 +5067,9 @@
             "works_count": 338,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Tomasz Piskorski | Mortgage Modification and Strategic Default: Evidence from a Policy Intervention | 10.1016/j.jfineco.2010.08.016",
@@ -4753,7 +5095,9 @@
             "works_count": 110,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sumit Agarwal | The Impact of Unconventional Monetary Policy on Mortgage Lending | 10.1111/jofi.12281",
@@ -4780,7 +5124,9 @@
             "works_count": 631,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Christopher Palmer | Mortgage Pricing and the Zero Lower Bound | 10.1016/j.jfineco.2019.04.011",
@@ -4807,7 +5153,9 @@
             "works_count": 496,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4842,7 +5190,9 @@
             "works_count": 260,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.54
       },
       {
         "citation": "Robert J. Barro | Religion and Economic Growth in a Panel of Countries | 10.2307/2946654",
@@ -4869,7 +5219,9 @@
             "works_count": 726,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jared Rubin | Ruling by Authority: State, Religion, and the Rise of Islamic Institutions | 10.1017/9781316480562",
@@ -4895,7 +5247,9 @@
             "works_count": 138,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jean-Philippe Platteau | Religion, Politics, and Development in the Third World | 10.1016/S0305-750X(02)00025-6",
@@ -4921,7 +5275,9 @@
             "works_count": 256,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Timur Kuran | The Long-Term Economic Impact of Islamic Law | 10.1257/jep.18.3.71",
@@ -4947,7 +5303,9 @@
             "works_count": 177,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -4982,7 +5340,9 @@
             "works_count": 562,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jan K. Brueckner | Urban Sprawl: Diagnostics and Remedies | 10.1111/1468-2257.00115",
@@ -5009,7 +5369,9 @@
             "works_count": 362,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.8
       },
       {
         "citation": "Gilles Duranton | The Economics of Transportation Infrastructure | 10.1016/B978-0-444-59531-7.00010-9",
@@ -5035,7 +5397,9 @@
             "works_count": 256,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nathaniel Baum-Snow | Did Highway Construction Cause Suburbanization? | 10.1162/qje.124.2.775",
@@ -5061,7 +5425,9 @@
             "works_count": 172,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen Redding | Urban Land Use and the Economic Effects of Spatial Planning | 10.1111/iere.12354",
@@ -5088,7 +5454,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5121,7 +5489,9 @@
             "works_count": 164,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Paul Healy | Information Asymmetry, Corporate Disclosure, and the Capital Markets | 10.1016/S0165-4101(01)00018-0",
@@ -5146,7 +5516,9 @@
             "works_count": 185,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mary Margaret Frank | Tax Reporting, Corporate Governance, and Transparency | 10.2307/40245601",
@@ -5173,7 +5545,9 @@
             "works_count": 77,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Michael Greenstone | The Effects of Environmental Regulation on Industrial Activity | 10.1086/339223",
@@ -5200,7 +5574,9 @@
             "works_count": 447,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin Olken | Monitoring Corruption: Evidence from a Field Experiment in Indonesia | 10.1086/517914",
@@ -5225,7 +5601,9 @@
             "works_count": 716,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -5260,7 +5638,9 @@
             "works_count": 208,
             "organization_country_id": "CA"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.78
       },
       {
         "citation": "Nicholas Bloom | Measuring Knowledge Spillovers Using Patent Citations | 10.1162/rest.95.1.55",
@@ -5286,7 +5666,9 @@
             "works_count": 548,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Wolfgang Keller | International Technology Diffusion | 10.1257/0022051042177685",
@@ -5311,7 +5693,9 @@
             "works_count": 176,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pinelopi Koujianou Goldberg | Intellectual Property Rights and Innovation in Developing Countries | 10.1093/qje/qjp018",
@@ -5337,7 +5721,9 @@
             "works_count": 138,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       },
       {
         "citation": "Shang-Jin Wei | From 'Made in China' to 'Innovated in China': Institutional Factors | 10.1257/jep.31.1.49",
@@ -5364,7 +5750,9 @@
             "works_count": 545,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.82
       }
     ]
   },
@@ -5398,7 +5786,9 @@
             "works_count": 144,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Olivier Jeanne | Collateral Constraints, Debt, and Pecuniary Externalities | 10.1257/aer.102.1.201",
@@ -5424,7 +5814,9 @@
             "works_count": 194,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Javier Bianchi | Overborrowing and Systemic Risk in the Business Cycle | 10.1257/aer.101.7.3400",
@@ -5450,7 +5842,9 @@
             "works_count": 137,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nobuhiro Kiyotaki | Credit Cycles | 10.1086/262021",
@@ -5475,7 +5869,9 @@
             "works_count": 112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mark Gertler | Financial Intermediation and Business Cycles | 10.1257/jep.24.4.17",
@@ -5501,7 +5897,9 @@
             "works_count": 211,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5535,7 +5933,9 @@
             "works_count": 713,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nobuhiro Kiyotaki | Credit Cycles | 10.1086/262021",
@@ -5560,7 +5960,9 @@
             "works_count": 112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mark Gertler | Financial Intermediation, Business Cycles, and Monetary Policy | 10.1111/j.1468-0262.2010.01080.x",
@@ -5586,7 +5988,9 @@
             "works_count": 211,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arvind Krishnamurthy | The Financial Crisis and Monetary Policy Transmission | 10.1257/jep.24.1.3",
@@ -5613,7 +6017,9 @@
             "works_count": 516,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Carmen M. Reinhart | This Time Is Different: Eight Centuries of Financial Folly | 10.2307/j.ctv10hmdqp",
@@ -5638,7 +6044,9 @@
             "works_count": 533,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -5670,7 +6078,9 @@
             "works_count": 181,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Frank A. Wolak | Measuring Market Power in the California Electricity Market | 10.1016/S0301-4215(00)00049-5",
@@ -5696,7 +6106,9 @@
             "works_count": 273,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Catherine Wolfram | Strategic Bidding in a Multiunit Auction: An Empirical Analysis of British Electricity | 10.2307/2646609",
@@ -5722,7 +6134,9 @@
             "works_count": 203,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard Green | Competition in the British Electricity Spot Market | 10.1086/261821",
@@ -5747,7 +6161,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mar Reguant | Complementary Bidding and Market Power in Electricity Markets | 10.1257/aer.104.11.3607",
@@ -5774,7 +6190,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.77
       }
     ]
   },
@@ -5809,7 +6227,9 @@
             "works_count": 161,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joseph J. Doyle | Casualties of the Child Welfare System: Evidence from Court Records | 10.1086/524314",
@@ -5836,7 +6256,9 @@
             "works_count": 161,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Janet Currie | Early Childhood Intervention Programs: What Do We Know? | 10.1257/jep.15.2.213",
@@ -5863,7 +6285,9 @@
             "works_count": 524,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David J. Deming | Better Schools, Less Crime? | 10.1093/qje/qjr049",
@@ -5890,7 +6314,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Heather N. Ringeisen | Child Welfare and Legal Representation for Youth in Foster Care | 10.1177/1049731510373809",
@@ -5917,7 +6343,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -5951,7 +6379,9 @@
             "works_count": 78,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alon Brav | Market Efficiency and the Post-Earnings-Announcement Drift | 10.1111/0022-1082.00282",
@@ -5977,7 +6407,9 @@
             "works_count": 89,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Harrison Hong | A Unified Theory of Underreaction, Momentum Trading, and Overreaction in Asset Markets | 10.1111/0022-1082.00192",
@@ -6002,7 +6434,9 @@
             "works_count": 207,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.64
       },
       {
         "citation": "Kent Daniel | Investor Psychology and Security Market Under- and Overreactions | 10.1111/0022-1082.00077",
@@ -6027,7 +6461,9 @@
             "works_count": 96,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pietro Veronesi | Stock Market Overreaction to Bad News in Good Times: A Rational Explanation | 10.1111/0022-1082.00195",
@@ -6053,14 +6489,16 @@
             "works_count": 132,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W2766190141",
     "model": "gemini",
-    "question": "How do the mechanisms linking firm size to business cycle sensitivity—such as industry diversification versus financial frictions—compare across studies using different data sources and firm-size definitions, and what accounts for divergent findings on the role of financial strength?",
+    "question": "How do the mechanisms linking firm size to business cycle sensitivity\u2014such as industry diversification versus financial frictions\u2014compare across studies using different data sources and firm-size definitions, and what accounts for divergent findings on the role of financial strength?",
     "references": [
       {
         "citation": "Mark Gertler | Financial Intermediation and Business Cycles | 10.1257/jep.24.4.17",
@@ -6086,7 +6524,9 @@
             "works_count": 211,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen J. Davis | Job Creation and Destruction | 10.7551/mitpress/4006.001.0001",
@@ -6113,7 +6553,9 @@
             "works_count": 442,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xavier Gabaix | The Granular Origins of Business Cycles | 10.1111/j.1468-0262.2011.01189.x",
@@ -6139,7 +6581,9 @@
             "works_count": 206,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charles W. Calomiris | Financial Friction, Firm Size, and Business Cycle Sensitivity | 10.3386/w11104",
@@ -6165,7 +6609,9 @@
             "works_count": 419,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mitchell A. Petersen | The Effect of Credit Market Competition on Lending Relationships | 10.1093/qje/110.2.407",
@@ -6190,7 +6636,9 @@
             "works_count": 104,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6226,7 +6674,9 @@
             "works_count": 153,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Enrico Moretti | Local Multipliers | 10.1257/aer.100.2.373",
@@ -6251,7 +6701,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Esteban Rossi-Hansberg | Spatial Equilibrium and the Geography of Economic Activity | 10.1016/j.jue.2015.01.002",
@@ -6278,7 +6730,9 @@
             "works_count": 197,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David B. Carter | Climate Change, Sea-Level Rise, and Spatial Equilibrium | 10.1016/j.jue.2019.01.005",
@@ -6305,7 +6759,9 @@
             "works_count": 92,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ivan Werning | Spatial Allocation and the Social Cost of Climate Change | 10.3386/w29837",
@@ -6331,7 +6787,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6365,7 +6823,9 @@
             "works_count": 463,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin L. Weitzman | Fat-Tailed Uncertainty in the Economics of Catastrophic Climate Change | 10.1093/reep/rem006",
@@ -6390,7 +6850,9 @@
             "works_count": 288,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Robert S. Pindyck | Uncertainty and Climate Change Policy | 10.1561/101.00000039",
@@ -6416,7 +6878,9 @@
             "works_count": 322,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Derek Lemoine | Managing Climate Change Under Uncertainty | 10.1257/aer.20151441",
@@ -6443,7 +6907,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Linus Mattauch | Making Carbon Pricing Work for Citizens | 10.1016/j.gloenvcha.2018.06.001",
@@ -6468,7 +6934,9 @@
             "works_count": 87,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -6502,7 +6970,9 @@
             "works_count": 257,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mahzarin R. Banaji | Blindspot: Hidden Biases of Good People | 10.1080/01973533.2014.890623",
@@ -6529,7 +6999,9 @@
             "works_count": 409,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.76
       },
       {
         "citation": "Elizabeth Levy Paluck | Prejudice Reduction: What Works? A Review and Assessment of Research and Practice | 10.1146/annurev.psych.59.103006.093612",
@@ -6553,7 +7025,9 @@
             "works_count": 137,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Patricia G. Devine | Long-term Reduction in Implicit Race Bias: A Prejudice Habit-breaking Intervention | 10.1016/j.jesp.2012.06.003",
@@ -6577,7 +7051,9 @@
             "works_count": 213,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Iris Bohnet | What Works: Gender Equality by Design | 10.4159/9780674545991",
@@ -6602,7 +7078,9 @@
             "works_count": 188,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6634,7 +7112,9 @@
             "works_count": 395,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Card | Workplace Heterogeneity and the Rise of West German Wage Inequality | 10.1093/qje/qjt006",
@@ -6659,7 +7139,9 @@
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Roland G. Fryer | Racial Inequality in the 21st Century | 10.1016/B978-0-444-53429-3.00010-4",
@@ -6687,7 +7169,9 @@
             "works_count": 203,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Kerwin Kofi Charles | Prejudice and Wages: An Empirical Assessment of Becker's The Economics of Discrimination | 10.1086/588192",
@@ -6698,10 +7182,10 @@
           "Kerwin Kofi Charles"
         ],
         "found_authors_count": 2,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Kerwin Kofi Charles'], database match: Kerwin Kofi Charles",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Kerwin Kofi Charles'], database match: Kerwin\u00a0Kofi Charles",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Kerwin Kofi Charles",
+        "matched_database_author": "Kerwin\u00a0Kofi Charles",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -6712,7 +7196,9 @@
             "works_count": 133,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Neumark | Detecting Discrimination in Audit and Correspondence Studies | 10.3386/w14518",
@@ -6737,7 +7223,9 @@
             "works_count": 675,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -6771,7 +7259,9 @@
             "works_count": 190,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Maurice Obstfeld | Global Imbalances and the Financial Crisis | 10.1016/j.jinteco.2009.09.002",
@@ -6798,7 +7288,9 @@
             "works_count": 428,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Emmanuel Farhi | A Model of the Safe Asset Glut | 10.1257/aer.106.12.3533",
@@ -6824,7 +7316,9 @@
             "works_count": 123,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matteo Maggiori | Financial Globalization and the Dollar | 10.1016/j.jinteco.2016.10.005",
@@ -6850,7 +7344,9 @@
             "works_count": 255,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ricardo J. Caballero | The Safe Assets Shortage Conundrum | 10.1257/jep.31.3.29",
@@ -6875,14 +7371,16 @@
             "works_count": 393,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
   {
     "id": "https://openalex.org/W4403893207",
     "model": "gemini",
-    "question": "How do the mechanisms linking polity size to public goods provision—such as civic engagement, political accountability, and elite capture—vary across different institutional and socioeconomic contexts in the broader decentralization literature?",
+    "question": "How do the mechanisms linking polity size to public goods provision\u2014such as civic engagement, political accountability, and elite capture\u2014vary across different institutional and socioeconomic contexts in the broader decentralization literature?",
     "references": [
       {
         "citation": "Wallace E. Oates | An Economic Approach to Federalism | 10.1007/bf00122976",
@@ -6909,7 +7407,9 @@
             "works_count": 221,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alberto Alesina | On the Number and Size of Nations | 10.2307/2951333",
@@ -6934,7 +7434,9 @@
             "works_count": 604,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Pranab Bardhan | Decentralization of Governance and Development | 10.1257/089533002760278739",
@@ -6960,7 +7462,9 @@
             "works_count": 669,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin Olken | Direct Democracy and Local Public Goods: Evidence from Indonesia | 10.1257/aer.100.1.243",
@@ -6986,7 +7490,9 @@
             "works_count": 716,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Dilip Mookherjee | Decentralizing Public Service Delivery in India | 10.1016/B978-0-444-59531-7.00012-2",
@@ -7013,7 +7519,9 @@
             "works_count": 596,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7047,7 +7555,9 @@
             "works_count": 336,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marc J. Melitz | The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity | 10.1111/1468-0262.00467",
@@ -7072,7 +7582,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen Redding | Spatial Economics and the Labor Market | 10.1112/j.1468-0262.2011.01121.x",
@@ -7098,7 +7610,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Elhanan Helpman | Inequality and Unemployment in a Global Economy | 10.1111/1468-0262.2010.00941.x",
@@ -7123,7 +7637,9 @@
             "works_count": 399,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Amit K. Khandelwal | Trade Liberalization and Firm Productivity | 10.1162/qje.124.4.1403",
@@ -7150,7 +7666,9 @@
             "works_count": 120,
             "organization_country_id": "IN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7168,12 +7686,12 @@
           "Daron Acemoglu"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: Semantic Scholar), and author matched after name normalization. cited author(s): ['Daron Acemoglu'], database match: D. Acemoğlu",
+        "reason": "title was found (source: Semantic Scholar), and author matched after name normalization. cited author(s): ['Daron Acemoglu'], database match: D. Acemo\u011flu",
         "failed_dbs": [
           "arXiv"
         ],
         "retracted": false,
-        "matched_database_author": "D. Acemoğlu",
+        "matched_database_author": "D. Acemo\u011flu",
         "doi_valid": false,
         "identified_authors": [
           {
@@ -7184,7 +7702,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Robert M. Solow | Investment and Technical Progress | 10.1016/B978-0-12-395724-5.50020-0",
@@ -7210,7 +7730,9 @@
             "works_count": 469,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jeremy Greenwood | The Role of Investment-Specific Technological Change in the Business Cycle | 10.1257/aer.87.3.342",
@@ -7235,7 +7757,9 @@
             "works_count": 253,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daron Acemoglu | The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment | 10.1257/aer.20160121",
@@ -7260,7 +7784,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Nicholas Kaldor | Capital Accumulation and Economic Growth | 10.1007/978-1-349-08343-4_10",
@@ -7287,14 +7813,16 @@
             "works_count": 243,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W7126181318",
     "model": "gemini",
-    "question": "How do the predictions of supply-function-based models of aggregate supply compare with those of alternative price-setting frameworks—such as menu-cost, rational-inattention, and Calvo-pricing models—in explaining the observed time-varying slope of the Phillips curve across different macroeconomic regimes?",
+    "question": "How do the predictions of supply-function-based models of aggregate supply compare with those of alternative price-setting frameworks\u2014such as menu-cost, rational-inattention, and Calvo-pricing models\u2014in explaining the observed time-varying slope of the Phillips curve across different macroeconomic regimes?",
     "references": [
       {
         "citation": "Gregory Mankiw | Sticky Prices and the Phillips Curve: A Keynesian Alternative | 10.1016/S0304-3932(01)00114-1",
@@ -7320,7 +7848,9 @@
             "works_count": 563,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher A. Sims | Implications of Rational Inattention | 10.1016/j.jmoneco.2005.10.001",
@@ -7347,7 +7877,9 @@
             "works_count": 267,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Mikhail Golosov | Menu Costs and Phillips Curves | 10.1086/508066",
@@ -7372,7 +7904,9 @@
             "works_count": 133,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Guillermo A. Calvo | Staggered Prices in a Utility-Maximizing Framework | 10.1016/0304-3932(83)90060-0",
@@ -7397,7 +7931,9 @@
             "works_count": 390,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert E. Lucas | Some International Evidence on Output-Inflation Tradeoffs | 10.2307/1811568",
@@ -7423,14 +7959,16 @@
             "works_count": 152,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W3201688646",
     "model": "gemini",
-    "question": "How do the identification strategies and experimental designs for disentangling direct treatment effects from market-equilibrium spillovers in this paper compare to and improve upon alternative approaches—such as cluster-randomized designs, structural equilibrium models, and network-based interference frameworks—developed across the broader literature on interference and general equilibrium effects in field experiments?",
+    "question": "How do the identification strategies and experimental designs for disentangling direct treatment effects from market-equilibrium spillovers in this paper compare to and improve upon alternative approaches\u2014such as cluster-randomized designs, structural equilibrium models, and network-based interference frameworks\u2014developed across the broader literature on interference and general equilibrium effects in field experiments?",
     "references": [
       {
         "citation": "Joshua Angrist | Identification of Social Connection Effects | 10.1111/j.1468-0262.2011.01121.x",
@@ -7456,7 +7994,9 @@
             "works_count": 592,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charles Manski | Identification of Endogenous Social Effects: The Reflection Problem | 10.2307/2298123",
@@ -7483,7 +8023,9 @@
             "works_count": 519,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Esther Duflo | Peer Effects and Student Achievement: Experimental Evidence from Kenya | 10.1257/aer.101.5.1739",
@@ -7510,7 +8052,9 @@
             "works_count": 1399,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward Miguel | Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities | 10.2307/3516295",
@@ -7535,7 +8079,9 @@
             "works_count": 2669,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Abhijit Banerjee | The Diffusion of Microfinance | 10.1126/science.1236498",
@@ -7559,7 +8105,9 @@
             "works_count": 1255,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7593,7 +8141,9 @@
             "works_count": 548,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Luigi Guiso | Populism: Demand and Supply | 10.2139/ssrn.3129597",
@@ -7620,7 +8170,9 @@
             "works_count": 315,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sergei Guriev | The Political Economy of Populism | 10.1257/jel.20201595",
@@ -7645,7 +8197,9 @@
             "works_count": 236,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daron Acemoglu | A Theory of Populist Democracy | 10.2139/ssrn.1394749",
@@ -7672,7 +8226,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Christian Dustmann | Populism and Social Norms | 10.1111/j.1468-0298.2012.02534.x",
@@ -7699,7 +8255,9 @@
             "works_count": 346,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -7709,7 +8267,7 @@
     "question": "How do rising domestic corporate asset valuations and the resulting cross-border equity ownership patterns affect national welfare and external sustainability across advanced economies, and what mechanisms explain differences from the U.S. experience?",
     "references": [
       {
-        "citation": "Philip R. Lane | The External Wealth of Nations Mark II: Revised and Extended Estimates of Foreign Assets and Liabilities, 1970–2004 | 10.1016/j.jinteco.2007.02.003",
+        "citation": "Philip R. Lane | The External Wealth of Nations Mark II: Revised and Extended Estimates of Foreign Assets and Liabilities, 1970\u20132004 | 10.1016/j.jinteco.2007.02.003",
         "status": "verified",
         "title_found": true,
         "author_matched": true,
@@ -7734,7 +8292,9 @@
             "works_count": 363,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Maurice Obstfeld | Global Imbalances and the Financial Crisis | 10.1016/j.jinteco.2009.09.002",
@@ -7760,7 +8320,9 @@
             "works_count": 428,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Pierre-Olivier Gourinchas | Valuation Effects and Global Imbalances | 10.1086/588196",
@@ -7787,7 +8349,9 @@
             "works_count": 190,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matteo Maggiori | Financial Globalization and the Dollar | 10.1016/j.jinteco.2016.10.005",
@@ -7813,7 +8377,9 @@
             "works_count": 255,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephanie Schmitt-Groh\u0000 | Optimal Fiscal and Monetary Policy Under Sticky Prices | 10.1016/j.jpubeco.2003.09.001",
@@ -7839,7 +8405,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       }
     ]
   },
@@ -7873,7 +8441,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bruno S. Frey | Motivation Crowding Theory | 10.1111/1467-6435.00128",
@@ -7900,7 +8470,9 @@
             "works_count": 1355,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "George A. Akerlof | Economics and Identity | 10.1162/003355300554999",
@@ -7927,7 +8499,9 @@
             "works_count": 223,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Oriana Bandiera | Incentives and the Behavior of Public Sector Workers | 10.1112/j.1468-0262.2011.01121.x",
@@ -7954,7 +8528,9 @@
             "works_count": 203,
             "organization_country_id": "DE"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.99
       },
       {
         "citation": "Imran Rasul | Public Sector Incentives and Performance | 10.1093/qje/qjx033",
@@ -7981,7 +8557,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -8014,7 +8592,9 @@
             "works_count": 145,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Henrik Jacobsen Kleven | Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark | 10.1111/j.1468-0262.2011.01121.x",
@@ -8041,7 +8621,9 @@
             "works_count": 145,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joel Slemrod | Tax Compliance and Tax Administration | 10.1016/B978-0-444-59531-7.00014-6",
@@ -8068,7 +8650,9 @@
             "works_count": 571,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Timothy Besley | State Capacity, Conflict, and Development | 10.1016/S1574-0080(04)80005-1",
@@ -8093,7 +8677,9 @@
             "works_count": 296,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dino Pomeranz | No taxation without information: Deterrence and self-enforcement in the value added tax | 10.1257/aer.20130393",
@@ -8118,7 +8704,9 @@
             "works_count": 69,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -8152,7 +8740,9 @@
             "works_count": 195,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard B. Freeman | Collaborating with People Like Me: Ethnic Co-authorship and the Quality of Research | 10.1162/rest_a_00454",
@@ -8179,7 +8769,9 @@
             "works_count": 1177,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Lu Hong | Groups of diverse problem solvers can outperform groups of high-ability problem solvers | 10.1073/pnas.0403798101",
@@ -8203,7 +8795,9 @@
             "works_count": 310,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.64
       },
       {
         "citation": "Fiona Murray | Grand Innovation Prizes: A Strategy for Scientific Research | 10.1016/j.respol.2011.05.011",
@@ -8229,7 +8823,9 @@
             "works_count": 193,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Donna K. Ginther | Race, Ethnicity, and NIH Research Funding | 10.1126/science.1207358",
@@ -8256,7 +8852,9 @@
             "works_count": 142,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8290,7 +8888,9 @@
             "works_count": 72,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "John C. Driscoll | Estimating the Macroeconomic Effects of Nominal Rigidity | 10.1162/rest.91.4.756",
@@ -8316,7 +8916,9 @@
             "works_count": 83,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "George A. Akerlof | The Macroeconomics of Low Inflation | 10.2307/2118105",
@@ -8341,7 +8943,9 @@
             "works_count": 223,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Stephanie Schmitt-Groh\u0000 | Downward Nominal Wage Rigidity, Currency Pegs, and Unemployment | 10.1086/661756",
@@ -8367,7 +8971,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Mary C. Daly | Wage Rigidity and the Business Cycle | 10.1016/j.jmoneco.2011.11.002",
@@ -8394,7 +9000,9 @@
             "works_count": 296,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8428,7 +9036,9 @@
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alan Manning | Monopsony in Motion: Imperfect Competition in Labor Markets | 10.1515/9781400850259",
@@ -8455,7 +9065,9 @@
             "works_count": 318,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jos\u0000 Azar | Labor Market Concentration | 10.1086/711400",
@@ -8466,21 +9078,23 @@
           "Jos\u0000 Azar"
         ],
         "found_authors_count": 3,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Jos\\x00 Azar'], database match: José Azar",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['Jos\\x00 Azar'], database match: Jos\u00e9 Azar",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "José Azar",
+        "matched_database_author": "Jos\u00e9 Azar",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "Jos\u0000 Azar",
             "author_exists": true,
-            "fullest_name": "Azar, José",
+            "fullest_name": "Azar, Jos\u00e9",
             "h_index": 25,
             "works_count": 77,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Jan De Loecker | The Rise of Market Power and the Macroeconomic Implications | 10.1093/qje/qjaa040",
@@ -8505,7 +9119,9 @@
             "works_count": 90,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 0.81
       },
       {
         "citation": "Suresh Naidu | Monopsony and the Labor Share | 10.1257/aer.20170882",
@@ -8531,7 +9147,9 @@
             "works_count": 182,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -8566,7 +9184,9 @@
             "works_count": 54,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Caroline M. Hoxby | Does Competition Among Public Schools Benefit Students and Taxpayers? | 10.1257/aer.90.5.1209",
@@ -8591,7 +9211,9 @@
             "works_count": 173,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dennis Epple | School Choice: A Survey of the Theoretical and Empirical Literature | 10.1016/S1574-0080(04)80005-1",
@@ -8617,7 +9239,9 @@
             "works_count": 185,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Derek Neal | The Effects of Catholic Secondary Schooling on Educational Achievement | 10.1086/262071",
@@ -8644,7 +9268,9 @@
             "works_count": 111,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Miguel Urquiola | Voucher Schools and Public School Performance | 10.1016/j.jpubeco.2005.11.002",
@@ -8671,7 +9297,9 @@
             "works_count": 104,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -8705,7 +9333,9 @@
             "works_count": 562,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen Redding | Spatial Economics and the Labor Market | 10.1112/j.1468-0262.2011.01121.x",
@@ -8731,7 +9361,9 @@
             "works_count": 320,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Raj Chetty | The Effects of Neighborhoods on Intergenerational Mobility: Childhood Exposure Effects | 10.3386/w23001",
@@ -8757,7 +9389,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Robert J. Sampson | Great American City: Chicago and the Enduring Neighborhood Effect | 10.7208/chicago/9780226733227.001.0001",
@@ -8783,7 +9417,9 @@
             "works_count": 667,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Donald Green | Social Networks and Political Participation | 10.1146/annurev.polisci.5.112801.080922",
@@ -8809,7 +9445,9 @@
             "works_count": 541,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.88
       }
     ]
   },
@@ -8841,7 +9479,9 @@
             "works_count": 322,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matthew Gentzkow | What Drives Media Slant? Evidence from U.S. Daily Newspapers | 10.1111/j.1468-0262.2010.00941.x",
@@ -8868,7 +9508,9 @@
             "works_count": 219,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sendhil Mullainathan | Media Bias: A Model of Demand and Supply | 10.1257/0002828054797127",
@@ -8895,7 +9537,9 @@
             "works_count": 384,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Cass R. Sunstein | Republic.com 2.0 | 10.1515/9781400832040",
@@ -8922,7 +9566,9 @@
             "works_count": 1515,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Abhijit Banerjee | E-governance, Leakage, and Covariates: An Evaluation of an Electronic Payment System | 10.1257/aer.20150241",
@@ -8948,14 +9594,16 @@
             "works_count": 1255,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W2560792582",
     "model": "gemini",
-    "question": "How do the long-run health and economic returns to childhood Medicaid eligibility documented here compare with those estimated for other early-life public investments—such as nutritional assistance, cash transfers, and educational interventions—and what do these comparisons reveal about the relative cost-effectiveness of investing in children's health versus other domains?",
+    "question": "How do the long-run health and economic returns to childhood Medicaid eligibility documented here compare with those estimated for other early-life public investments\u2014such as nutritional assistance, cash transfers, and educational interventions\u2014and what do these comparisons reveal about the relative cost-effectiveness of investing in children's health versus other domains?",
     "references": [
       {
         "citation": "Janet Currie | Long-Term Effects of Early Childhood Programs | 10.1016/S1573-4463(99)30018-7",
@@ -8982,7 +9630,9 @@
             "works_count": 524,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Deming | The Long-Term Effects of Head Start | 10.1257/app.1.3.111",
@@ -9008,7 +9658,9 @@
             "works_count": 144,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Douglas Almond | Childhood Circumstances and Adult Outcomes: Act II | 10.1257/jel.56.4.1335",
@@ -9033,7 +9685,9 @@
             "works_count": 123,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Rucker C. Johnson | The Effects of Early-Life Public Investments on Adult Outcomes | 10.1093/qje/qjy015",
@@ -9060,7 +9714,9 @@
             "works_count": 65,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Andrew Goodman-Bacon | Public Insurance and Mortality: Evidence from the Introduction of Medicaid | 10.1257/aer.20150555",
@@ -9086,7 +9742,9 @@
             "works_count": 42,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9118,7 +9776,9 @@
             "works_count": 141,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gauti B. Eggertsson | The Zero Lower Bound on Interest Rates and Optimal Monetary Policy | 10.1162/qje.118.4.1399",
@@ -9139,12 +9799,14 @@
           {
             "cited_name": "Gauti B. Eggertsson",
             "author_exists": true,
-            "fullest_name": "Gauti BergÞóruson Eggertsson",
+            "fullest_name": "Gauti Berg\u00de\u00f3ruson Eggertsson",
             "h_index": 36,
             "works_count": 147,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Atif Mian | House Prices, Home Equity-Based Borrowing, and the US Household Leverage Crisis | 10.1257/aer.101.5.2132",
@@ -9169,7 +9831,9 @@
             "works_count": 164,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Jonathan A. Parker | Consumer Spending and the Economic Stimulus Payments of 2008 | 10.1257/aer.103.6.2530",
@@ -9194,7 +9858,9 @@
             "works_count": 152,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paul Krugman | It's Baaack: Japan's Slump and the Return of the Liquidity Trap | 10.2307/2534694",
@@ -9219,7 +9885,9 @@
             "works_count": 711,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9254,7 +9922,9 @@
             "works_count": 161,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Emmanuel Farhi | Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy Independence | 10.3386/w21162",
@@ -9281,7 +9951,9 @@
             "works_count": 123,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "H\u0000l\u0000ne Rey | Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy Independence | 10.2139/ssrn.2341512",
@@ -9292,21 +9964,23 @@
           "H\u0000l\u0000ne Rey"
         ],
         "found_authors_count": 1,
-        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['H\\x00l\\x00ne Rey'], database match: Hélène Rey",
+        "reason": "title was found (source: CrossRef), and author matched after name normalization. cited author(s): ['H\\x00l\\x00ne Rey'], database match: H\u00e9l\u00e8ne Rey",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Hélène Rey",
+        "matched_database_author": "H\u00e9l\u00e8ne Rey",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "H\u0000l\u0000ne Rey",
             "author_exists": true,
-            "fullest_name": "Rey, Hélène",
+            "fullest_name": "Rey, H\u00e9l\u00e8ne",
             "h_index": 49,
             "works_count": 264,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Maurice Obstfeld | Financial Globalization and the Dollar | 10.1016/j.jinteco.2016.10.005",
@@ -9332,7 +10006,9 @@
             "works_count": 428,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher J. Erceg | Capital Controls and Monetary Policy in a Small Open Economy | 10.1016/j.jinteco.2015.01.002",
@@ -9358,7 +10034,9 @@
             "works_count": 123,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9392,7 +10070,9 @@
             "works_count": 267,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Filip Matejka | Rational Inattention Dynamics with Discrete Choices | 10.3386/w20412",
@@ -9414,12 +10094,14 @@
           {
             "cited_name": "Filip Matejka",
             "author_exists": true,
-            "fullest_name": "Matějka, Filip",
+            "fullest_name": "Mat\u011bjka, Filip",
             "h_index": 20,
             "works_count": 45,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrew Caplin | Rational Inattention and the Properties of Discrete Choice | 10.1257/aer.20130255",
@@ -9446,7 +10128,9 @@
             "works_count": 232,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Woodford | Inattentive Valuation and Consumer Choice | 10.3386/w18607",
@@ -9473,7 +10157,9 @@
             "works_count": 433,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Yusufcan Masatlioglu | Revealed Attention | 10.1257/aer.102.5.2181",
@@ -9498,7 +10184,9 @@
             "works_count": 60,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -9531,7 +10219,9 @@
             "works_count": 631,
             "organization_country_id": "SG"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Robert DeYoung | Credit Scoring and Small Business Lending in the United States | 10.1016/j.jfi.2007.03.003",
@@ -9557,7 +10247,9 @@
             "works_count": 158,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward L. Glaeser | The Social Multiplier | 10.1162/003355303322558167",
@@ -9582,7 +10274,9 @@
             "works_count": 562,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sendhil Mullainathan | Machine Learning: An Applied Econometric Approach | 10.1257/jep.31.2.87",
@@ -9607,7 +10301,9 @@
             "works_count": 384,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Joseph Stiglitz | Credit Rationing in Markets with Imperfect Information | 10.2307/1802787",
@@ -9634,7 +10330,9 @@
             "works_count": 1647,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -9666,7 +10364,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Allan Gibbard | Manipulation of Voting Schemes: A General Result | 10.2307/1914083",
@@ -9691,7 +10391,9 @@
             "works_count": 160,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John Roemer | Theories of Distributive Justice | 10.4159/9780674042858",
@@ -9718,7 +10420,9 @@
             "works_count": 437,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Torsten Persson | Political Economics: Explaining Economic Policy | 10.7551/mitpress/5419.001.0001",
@@ -9746,7 +10450,9 @@
             "works_count": 299,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daron Acemoglu | Economic Origins of Dictatorship and Democracy | 10.1017/CBO9780511546181",
@@ -9771,7 +10477,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       }
     ]
   },
@@ -9804,7 +10512,9 @@
             "works_count": 308,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Alessandro Bonatti | Selling Information to Competitive Buyers | 10.1111/jofi.12211",
@@ -9830,7 +10540,9 @@
             "works_count": 76,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Spence | Monopoly, Quality, and Regulation | 10.2307/1884419",
@@ -9856,7 +10568,9 @@
             "works_count": 155,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hal R. Varian | Price Discrimination and User Information | 10.2139/ssrn.1352431",
@@ -9882,7 +10596,9 @@
             "works_count": 336,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Jean-Charles Rochet | Two-Sided Markets: A Progress Report | 10.1111/j.1540-6296.2006.00196.x",
@@ -9909,7 +10625,9 @@
             "works_count": 338,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -9941,7 +10659,9 @@
             "works_count": 223,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Roland B\u0000nabou | Incentives and Prosocial Behavior | 10.1257/aer.96.5.1652",
@@ -9967,7 +10687,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Leonardo Bursztyn | Social Image and the Demand for Protection | 10.1257/aer.20150241",
@@ -9993,7 +10715,9 @@
             "works_count": 225,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James Andreoni | Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow Giving | 10.2307/2006717",
@@ -10018,7 +10742,9 @@
             "works_count": 220,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christina Bicchieri | The Grammar of Society: The Nature and Dynamics of Social Norms | 10.1017/CBO9780511610981",
@@ -10043,7 +10769,9 @@
             "works_count": 172,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10077,7 +10805,9 @@
             "works_count": 117,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Cutler | Physician Financial Incentives and Treatment Choices | 10.3386/w19018",
@@ -10103,7 +10833,9 @@
             "works_count": 752,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amitabh Chandra | The Productivity of U.S. Healthcare | 10.1257/aer.101.3.383",
@@ -10129,7 +10861,9 @@
             "works_count": 305,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joseph Newhouse | Free for All? Lessons from the RAND Health Insurance Experiment | 10.4159/harvard.9780674419014",
@@ -10154,7 +10888,9 @@
             "works_count": 611,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Janet Currie | Physician Ownership of Ancillary Services | 10.1016/j.jhealeco.2012.01.002",
@@ -10180,7 +10916,9 @@
             "works_count": 524,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10214,7 +10952,9 @@
             "works_count": 299,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Daron Acemoglu | Economic Origins of Dictatorship and Democracy | 10.1017/CBO9780511546181",
@@ -10239,7 +10979,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Thomas Piketty | Social Mobility and Redistributive Politics | 10.2307/2951342",
@@ -10264,7 +11006,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Alberto Alesina | Preferences for Redistribution in the Land of Opportunities | 10.1016/S0047-2727(03)00032-1",
@@ -10289,7 +11033,9 @@
             "works_count": 604,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Timothy Besley | Handouts or Help? Public Works vs Money Transfers | 10.2307/2117838",
@@ -10315,7 +11061,9 @@
             "works_count": 296,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10348,7 +11096,9 @@
             "works_count": 524,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin J. Druss | Mental Health and Medical Comorbidity | 10.2139/ssrn.1118121",
@@ -10374,7 +11124,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Richard G. Frank | Economics of Mental Health | 10.1016/S1574-0064(00)80161-0",
@@ -10400,7 +11152,9 @@
             "works_count": 554,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas G. McGuire | Physician Agency in Psychiatric Treatment | 10.1016/B978-0-444-53429-3.00012-2",
@@ -10426,7 +11180,9 @@
             "works_count": 339,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David J. Deming | Better Schools, Less Crime? | 10.1093/qje/qjr049",
@@ -10451,7 +11207,9 @@
             "works_count": 71,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10485,7 +11243,9 @@
             "works_count": 254,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ronald H. Coase | The Problem of Social Cost | 10.1086/467049",
@@ -10510,7 +11270,9 @@
             "works_count": 156,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "William D. Nordhaus | To Tax or Not to Tax: Alternative Approaches to Carbon Pricing | 10.1007/bf00122976",
@@ -10536,7 +11298,9 @@
             "works_count": 463,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Stephen P. Holland | Emissions Trading with Localized Externalities | 10.1016/j.jeem.2014.04.002",
@@ -10563,7 +11327,9 @@
             "works_count": 86,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Severin Borenstein | Market Power in Environmental Markets | 10.1257/aer.100.2.373",
@@ -10589,7 +11355,9 @@
             "works_count": 181,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10623,7 +11391,9 @@
             "works_count": 1385,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christina D. Romer | What Ended the Great Depression? | 10.2307/2123511",
@@ -10648,7 +11418,9 @@
             "works_count": 138,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Temin | Lessons from the Great Depression | 10.7551/mitpress/4172.001.0001",
@@ -10675,7 +11447,9 @@
             "works_count": 482,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ben S. Bernanke | Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression | 10.2307/1808111",
@@ -10701,7 +11475,9 @@
             "works_count": 713,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jeffrey A. Miron | The Founding of the Fed and the Stabilization of the Money Market | 10.1086/261352",
@@ -10727,7 +11503,9 @@
             "works_count": 130,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10759,7 +11537,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Leonardo Bursztyn | Misperceived Social Norms: Female Labor Force Participation in Saudi Arabia | 10.1257/aer.20181810",
@@ -10786,7 +11566,9 @@
             "works_count": 225,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Raquel Fern\u0000ndez | Culture as a Determinant of Economic Outcomes | 10.1016/B978-0-444-52956-4.00013-1",
@@ -10812,7 +11594,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       },
       {
         "citation": "Esther Duflo | Women Empowerment and Economic Development | 10.1257/jel.50.4.1051",
@@ -10837,7 +11621,9 @@
             "works_count": 1399,
             "organization_country_id": "RU"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Claudia Goldin | The Quiet Revolution That Transformed Women's Employment, Education, and Family | 10.1257/000282806777212350",
@@ -10862,7 +11648,9 @@
             "works_count": 373,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -10897,7 +11685,9 @@
             "works_count": 119,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicholas Bloom | Are Ideas Getting Harder to Find? | 10.1257/aer.20180338",
@@ -10922,7 +11712,9 @@
             "works_count": 548,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert J. Barro | Government Spending in a Simple Model of Endogenous Growth | 10.1086/261726",
@@ -10947,7 +11739,9 @@
             "works_count": 726,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Philippe Aghion | A Model of Growth through Creative Destruction | 10.1112/j.1468-0262.1992.tb01021.x",
@@ -10972,7 +11766,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zvi Griliches | R&D and Productivity: The Econometric Evidence | 10.7208/chicago/9780226308906.001.0001",
@@ -10998,14 +11794,16 @@
             "works_count": 314,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W2185872490",
     "model": "gemini",
-    "question": "How do the mechanisms of civilian mobilization identified in this study—namely, the strategic deployment of armed groups and the exploitation of obedience—compare to the mobilization strategies and peer-effect dynamics documented across other historical cases of state-sponsored mass violence?",
+    "question": "How do the mechanisms of civilian mobilization identified in this study\u2014namely, the strategic deployment of armed groups and the exploitation of obedience\u2014compare to the mobilization strategies and peer-effect dynamics documented across other historical cases of state-sponsored mass violence?",
     "references": [
       {
         "citation": "Stathis N. Kalyvas | The Logic of Violence in Civil War | 10.1017/CBO9780511818462",
@@ -11033,7 +11831,9 @@
             "works_count": 146,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Yanagizawa-Drott | Propaganda and Conflict: Evidence from the Rwandan Genocide | 10.1093/qje/qju014",
@@ -11060,7 +11860,9 @@
             "works_count": 71,
             "organization_country_id": "CH"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward Miguel | Civil War and Economic Growth: An Instrumental Variable Approach | 10.1086/421174",
@@ -11086,7 +11888,9 @@
             "works_count": 2669,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "James D. Fearon | Ethnicity, Insurgency, and Civil War | 10.2307/3118222",
@@ -11113,7 +11917,9 @@
             "works_count": 128,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin F. Jones | The Anatomy of Mass Violence | 10.1162/qje.124.2.775",
@@ -11139,7 +11945,9 @@
             "works_count": 175,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -11171,7 +11979,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Guido W. Imbens | Instrumental Variables with Monotonicity Violations | 10.1257/aer.91.2.62",
@@ -11197,7 +12007,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David S. Lee | Regression Discontinuity Designs in Economics | 10.1257/jel.48.2.281",
@@ -11224,7 +12036,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Peter Hull | Judge Instrument Validity | 10.2139/ssrn.3392331",
@@ -11250,7 +12064,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amanda Y. Agan | The Effects of Ban the Box on Job Applicants | 10.1093/qje/qjx028",
@@ -11277,7 +12093,9 @@
             "works_count": 77,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11311,7 +12129,9 @@
             "works_count": 150,
             "organization_country_id": "ES"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "John P. A. Ioannidis | Why Most Published Research Findings Are False | 10.1371/journal.pmed.0020124",
@@ -11338,7 +12158,9 @@
             "works_count": 1857,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Colin F. Camerer | Evaluating the Replicability of Social Science Experiments | 10.1126/science.aal0961",
@@ -11358,12 +12180,14 @@
           {
             "cited_name": "Colin F. Camerer",
             "author_exists": true,
-            "fullest_name": "Camerer, Colin F.¬Noussair, Charles",
+            "fullest_name": "Camerer, Colin F.\u00acNoussair, Charles",
             "h_index": 116,
             "works_count": 494,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Isaiah Andrews | Identification and Inference in Meta-Analysis | 10.1111/j.1468-0262.2011.01121.x",
@@ -11389,7 +12213,9 @@
             "works_count": 90,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hristos Doucouliagos | What's in a p-value? Publication Bias in Economics | 10.1111/j.1467-6419.2011.00713.x",
@@ -11415,7 +12241,9 @@
             "works_count": 282,
             "organization_country_id": "AU"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.93
       }
     ]
   },
@@ -11448,7 +12276,9 @@
             "works_count": 237,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "James H. Stock | Testing for Weak Instruments in Linear IV Regression | 10.1017/CBO9780511615301.005",
@@ -11473,7 +12303,9 @@
             "works_count": 375,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marcelo J. Moreira | A Conditional Likelihood Ratio Test for Structural Models | 10.1111/1468-0262.00418",
@@ -11500,7 +12332,9 @@
             "works_count": 59,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "David S. Lee | Weak Instruments and Robust Inference | 10.1257/aer.100.2.373",
@@ -11526,7 +12360,9 @@
             "works_count": 309,
             "organization_country_id": "HK"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Joshua D. Angrist | Does Compulsory School Attendance Affect Schooling and Earnings? | 10.2307/2937954",
@@ -11551,7 +12387,9 @@
             "works_count": 592,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11585,7 +12423,9 @@
             "works_count": 342,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Robert Shimer | Assortative Matching and Search | 10.1111/j.1468-0262.2011.01121.x",
@@ -11613,7 +12453,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Sattinger | Assortative Matching with Frictions | 10.1016/j.jpubeco.2011.02.001",
@@ -11639,7 +12481,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Jan Eeckhout | Multidimensional Sorting in the Labor Market | 10.1257/aer.105.6.2132",
@@ -11666,7 +12510,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.9
       },
       {
         "citation": "Jeremy Lise | Household Search and Marriage Market Equilibrium | 10.1093/restud/rdw052",
@@ -11692,7 +12538,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       }
     ]
   },
@@ -11726,7 +12574,9 @@
             "works_count": 562,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Matthew E. Kahn | Green Cities: Urban Growth and the Environment | 10.1112/j.1468-0262.2011.01121.x",
@@ -11751,7 +12601,9 @@
             "works_count": 240,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Christopher R. Knittel | Reducing Greenhouse Gas Emissions from Transportation | 10.1257/jep.26.1.93",
@@ -11777,7 +12629,9 @@
             "works_count": 252,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Hunt Allcott | Energy Efficiency and Consumer Behavior | 10.1257/jel.52.1.1",
@@ -11803,7 +12657,9 @@
             "works_count": 198,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.61
       },
       {
         "citation": "Stephen Redding | Urban Land Use and the Economic Effects of Spatial Planning | 10.1111/iere.12354",
@@ -11829,7 +12685,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11863,7 +12721,9 @@
             "works_count": 373,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "David Neumark | Sex Discrimination in Restaurant Hiring: An Audit Study | 10.2307/2535316",
@@ -11888,7 +12748,9 @@
             "works_count": 675,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Marianne Bertrand | Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination | 10.1257/0002828042002561",
@@ -11913,7 +12775,9 @@
             "works_count": 257,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Roland G. Fryer | An Empirical Analysis of Racial Differences in Police Use of Force | 10.1086/684045",
@@ -11940,7 +12804,9 @@
             "works_count": 203,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Iris Bohnet | What Works: Gender Equality by Design | 10.4159/9780674545991",
@@ -11965,7 +12831,9 @@
             "works_count": 188,
             "organization_country_id": "CZ"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -11998,7 +12866,9 @@
             "works_count": 480,
             "organization_country_id": "BE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Markus K. Brunnermeier | Market Liquidity and Funding Liquidity | 10.1111/j.1540-6261.2008.01444.x",
@@ -12023,7 +12893,9 @@
             "works_count": 276,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Andrei Shleifer | The Limits of Arbitrage | 10.1111/j.1540-6261.1997.tb03807.x",
@@ -12048,7 +12920,9 @@
             "works_count": 523,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimitri Vayanos | An Intermediary-Based Model of Equity Premium and Term Structure | 10.1111/jofi.12074",
@@ -12074,7 +12948,9 @@
             "works_count": 132,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arvind Krishnamurthy | Funding Frictions and Market Liquidity | 10.1111/jofi.12080",
@@ -12100,7 +12976,9 @@
             "works_count": 516,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12134,7 +13012,9 @@
             "works_count": 103,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "John K. Brueckner | Search and Matching in the Housing Market | 10.1016/j.jue.2014.11.002",
@@ -12162,7 +13042,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Atif Mian | What Explains the 2007-2009 Drop in Employment? | 10.3386/w18609",
@@ -12187,7 +13069,9 @@
             "works_count": 164,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Patrick Kline | Place-Based Policies with Spillovers | 10.1162/REST_a_00438",
@@ -12211,7 +13095,9 @@
             "works_count": 121,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gabriel Chodorow-Reich | The Direct and Indirect Effects of Financial Shocks on Firms and Households | 10.1162/qje/qju009",
@@ -12237,7 +13123,9 @@
             "works_count": 90,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12269,7 +13157,9 @@
             "works_count": 276,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Zhiguo He | Intermediary Asset Pricing | 10.1016/j.jfineco.2013.11.001",
@@ -12294,7 +13184,9 @@
             "works_count": 205,
             "organization_country_id": "CN"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Arvind Krishnamurthy | Funding Frictions and Market Liquidity | 10.1111/jofi.12080",
@@ -12320,7 +13212,9 @@
             "works_count": 516,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dimitri Vayanos | Liquidity and Asset Prices | 10.1561/1000000039",
@@ -12346,7 +13240,9 @@
             "works_count": 132,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nicolae G\u0000rleanu | Margin Requirements and Asset Prices | 10.1093/rfs/hhp115",
@@ -12372,7 +13268,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": null,
+        "gender_probability": null
       }
     ]
   },
@@ -12404,7 +13302,9 @@
             "works_count": 156,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Nobuhiro Kiyotaki | Credit Cycles | 10.1086/262021",
@@ -12429,7 +13329,9 @@
             "works_count": 112,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Abhijit Banerjee | The Economics of Allocative Efficiency | 10.1016/j.jpubeco.2014.11.002",
@@ -12456,7 +13358,9 @@
             "works_count": 1255,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paco Buera | Finance and Development: A Schumpeterian Approach | 10.1257/aer.101.5.1964",
@@ -12482,7 +13386,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Hugo Hopenhayn | Entry, Exit, and Firm Dynamics in Long Run Equilibrium | 10.2307/2951599",
@@ -12507,14 +13413,16 @@
             "works_count": 123,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
   {
     "id": "https://openalex.org/W7131826288",
     "model": "gemini",
-    "question": "How does the empirical literature reconcile the varying macroeconomic mechanisms—such as trade disruptions, capital destruction, and productivity shocks—that drive the international transmission of war-induced stagflation to third-party economies across different historical eras?",
+    "question": "How does the empirical literature reconcile the varying macroeconomic mechanisms\u2014such as trade disruptions, capital destruction, and productivity shocks\u2014that drive the international transmission of war-induced stagflation to third-party economies across different historical eras?",
     "references": [
       {
         "citation": "Maurice Obstfeld | Global Imbalances and the Financial Crisis | 10.1016/j.jinteco.2009.09.002",
@@ -12540,7 +13448,9 @@
             "works_count": 428,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Barry Eichengreen | Golden Fetters: The Gold Standard and the Great Depression, 1919-1939 | 10.1093/0195101138.001.0001",
@@ -12565,7 +13475,9 @@
             "works_count": 1385,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Ben S. Bernanke | The Global Saving Glut and the U.S. Current Account Deficit | 10.2139/ssrn.901174",
@@ -12591,7 +13503,9 @@
             "works_count": 713,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "H\u0000l\u0000ne Rey | Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy Independence | 10.2139/ssrn.2341512",
@@ -12605,18 +13519,20 @@
         "reason": "title and author both matched a database record",
         "failed_dbs": [],
         "retracted": false,
-        "matched_database_author": "Hélène Rey",
+        "matched_database_author": "H\u00e9l\u00e8ne Rey",
         "doi_valid": false,
         "identified_authors": [
           {
             "cited_name": "H\u0000l\u0000ne Rey",
             "author_exists": true,
-            "fullest_name": "Rey, Hélène",
+            "fullest_name": "Rey, H\u00e9l\u00e8ne",
             "h_index": 49,
             "works_count": 264,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "female",
+        "gender_probability": 1.0
       },
       {
         "citation": "Paul Krugman | Trade and Inequality: Revisited | 10.1112/j.1468-0262.2011.01121.x",
@@ -12643,7 +13559,9 @@
             "works_count": 711,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12675,7 +13593,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Bruce Sacerdote | Peer Effects with Random Assignment: Results for Dartmouth Roommates | 10.1162/00335530151144104",
@@ -12702,7 +13622,9 @@
             "works_count": 146,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Joshua Angrist | Identification of Social Connection Effects | 10.1111/j.1468-0262.2011.01121.x",
@@ -12728,7 +13650,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charles Manski | Identification of Endogenous Social Effects: The Reflection Problem | 10.2307/2298123",
@@ -12755,7 +13679,9 @@
             "works_count": 519,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Edward L. Glaeser | The Social Multiplier | 10.1162/003355303322558167",
@@ -12780,7 +13706,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12814,7 +13742,9 @@
             "works_count": 490,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Martin Feldstein | The Effect of Marginal Tax Rates on Taxable Income: A Panel Study of the 1986 Tax Reform Act | 10.1086/262001",
@@ -12839,7 +13769,9 @@
             "works_count": 886,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Piketty | Social Mobility and Redistributive Politics | 10.2307/2951342",
@@ -12864,7 +13796,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Raj Chetty | Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply | 10.3386/w15616",
@@ -12889,7 +13823,9 @@
             "works_count": 293,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Henrik Kleven | Using Tax Reforms to Identify the Elasticity of Taxable Income | 10.1162/REST_a_00412",
@@ -12915,7 +13851,9 @@
             "works_count": 145,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -12950,7 +13888,9 @@
             "works_count": 150,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Amy Finkelstein | Welfare Effects of Consumer Choice in Insurance Markets | 10.1257/aer.100.2.373",
@@ -12976,7 +13916,9 @@
             "works_count": 385,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.7
       },
       {
         "citation": "Liran Einav | Selection on Moral Hazard in Health Insurance | 10.1086/670154",
@@ -13000,7 +13942,9 @@
             "works_count": 227,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.97
       },
       {
         "citation": "Keith M. Marzilli Ericson | Consumer Inattention and Monopolistic Pricing in the Health Insurance Market | 10.1257/pol.3.1.28",
@@ -13026,7 +13970,9 @@
             "works_count": 103,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin Handel | Adverse Selection and Switching Costs in Health Insurance Markets | 10.1257/aer.103.7.2643",
@@ -13051,7 +13997,9 @@
             "works_count": 72,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13083,7 +14031,9 @@
             "works_count": 141,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Gauti B. Eggertsson | The Zero Lower Bound on Interest Rates and Optimal Monetary Policy | 10.1162/qje.118.4.1399",
@@ -13104,12 +14054,14 @@
           {
             "cited_name": "Gauti B. Eggertsson",
             "author_exists": true,
-            "fullest_name": "Gauti BergÞóruson Eggertsson",
+            "fullest_name": "Gauti Berg\u00de\u00f3ruson Eggertsson",
             "h_index": 36,
             "works_count": 147,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Adrien Auclert | Monetary Policy and the Redistribution Channel | 10.1257/aer.20160496",
@@ -13134,7 +14086,9 @@
             "works_count": 68,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.94
       },
       {
         "citation": "Atif Mian | The Great Distortion: Debt, Inequality, and Capital Flows | 10.1257/aer.20150897",
@@ -13160,7 +14114,9 @@
             "works_count": 164,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.95
       },
       {
         "citation": "Jonathan A. Parker | Consumer Spending and the Economic Stimulus Payments of 2008 | 10.1257/aer.103.6.2530",
@@ -13185,7 +14141,9 @@
             "works_count": 152,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13217,7 +14175,9 @@
             "works_count": 439,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Tyler McCormick | Using Aggregated Relational Data to Estimate Network Demographics | 10.1198/jasa.2009.ap08200",
@@ -13243,7 +14203,9 @@
             "works_count": 189,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Abhijit Banerjee | The Diffusion of Microfinance | 10.1126/science.1236498",
@@ -13267,7 +14229,9 @@
             "works_count": 1255,
             "organization_country_id": "GB"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Charles Manski | Identification of Endogenous Social Effects: The Reflection Problem | 10.2307/2298123",
@@ -13292,7 +14256,9 @@
             "works_count": 519,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Arun G. Chandrasekhar | Network Centrality and Information Diffusion | 10.2139/ssrn.2241674",
@@ -13318,7 +14284,9 @@
             "works_count": 202,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13350,7 +14318,9 @@
             "works_count": 223,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "David Card | Workplace Heterogeneity and the Rise of West German Wage Inequality | 10.1093/qje/qjt006",
@@ -13375,7 +14345,9 @@
             "works_count": 696,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Thomas Piketty | Social Mobility and Redistributive Politics | 10.2307/2951342",
@@ -13400,7 +14372,9 @@
             "works_count": 677,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.99
       },
       {
         "citation": "Hal R. Varian | Price Discrimination and User Information | 10.2139/ssrn.1352431",
@@ -13426,7 +14400,9 @@
             "works_count": 336,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.96
       },
       {
         "citation": "Timothy Besley | State Capacity, Conflict, and Development | 10.1016/S1574-0080(04)80005-1",
@@ -13451,7 +14427,9 @@
             "works_count": 296,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13483,7 +14461,9 @@
             "works_count": 1030,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 0.98
       },
       {
         "citation": "Torsten Persson | Political Economics: Explaining Economic Policy | 10.7551/mitpress/5419.001.0001",
@@ -13508,7 +14488,9 @@
             "works_count": 299,
             "organization_country_id": "SE"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Dani Rodrik | Populism and the Economics of Globalization | 10.1093/jeg/lby002",
@@ -13533,7 +14515,9 @@
             "works_count": 548,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Luigi Guiso | Populism: Demand and Supply | 10.2139/ssrn.3129597",
@@ -13558,7 +14542,9 @@
             "works_count": 315,
             "organization_country_id": "IT"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Sergei Guriev | The Political Economy of Populism | 10.1257/jel.20201595",
@@ -13583,7 +14569,9 @@
             "works_count": 236,
             "organization_country_id": "FR"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   },
@@ -13617,7 +14605,9 @@
             "works_count": 322,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Xavier Gabaix | Shrouded Attributes, Consumer Myopia, and Information Disclosure in Competitive Markets | 10.1162/qje.2006.121.2.505",
@@ -13643,7 +14633,9 @@
             "works_count": 206,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Benjamin Handel | Adverse Selection and Switching Costs in Health Insurance Markets | 10.1257/aer.103.7.2643",
@@ -13668,7 +14660,9 @@
             "works_count": null,
             "organization_country_id": null
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Michael Grubb | Selling to Overconfident Consumers | 10.1257/aer.99.5.1770",
@@ -13693,7 +14687,9 @@
             "works_count": 37,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       },
       {
         "citation": "Keith M. Marzilli Ericson | Consumer Inattention and Monopolistic Pricing in the Health Insurance Market | 10.1257/pol.3.1.28",
@@ -13719,7 +14715,9 @@
             "works_count": 103,
             "organization_country_id": "US"
           }
-        ]
+        ],
+        "gender": "male",
+        "gender_probability": 1.0
       }
     ]
   }
