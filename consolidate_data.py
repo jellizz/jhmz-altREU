@@ -711,15 +711,36 @@ def add_derived_fields(citation):
     # --------------------------------------------------------
     # STATUS
     # --------------------------------------------------------
+    #
+    # Raw statuses in your JSON:
+    #
+    #   verified  -> found
+    #   not_found -> not_found
+    #   mismatch  -> other
+    #   CHECK     -> other
+    #
+    # We keep the original "status" field unchanged and create
+    # "derived_status" for analysis.
+    # --------------------------------------------------------
 
-    status = citation.get(
-        "status"
-    )
+    raw_status = citation.get("status")
 
-    if status is None:
-        status = "null"
+    if raw_status is None:
+        derived_status = "other"
 
-    citation["derived_status"] = status
+    else:
+        raw_status = str(raw_status).strip().lower()
+
+        if raw_status == "verified":
+            derived_status = "found"
+
+        elif raw_status == "not_found":
+            derived_status = "not_found"
+
+        else:
+            derived_status = "other"
+
+    citation["derived_status"] = derived_status
 
     # --------------------------------------------------------
     # TITLE / AUTHOR / DOI
@@ -830,29 +851,90 @@ def add_derived_fields(citation):
         []
     )
 
-    citation["author_identified"] = bool(
-        identified_authors
-    )
+    citation["author_identified"] = False
+
+    if isinstance(
+        identified_authors,
+        list
+    ):
+
+        for author in identified_authors:
+
+            if not isinstance(
+                author,
+                dict
+            ):
+                continue
+
+            if author.get(
+                "author_exists"
+            ) is True:
+
+                citation["author_identified"] = True
+
+                break
 
     # --------------------------------------------------------
-    # H-INDEX
+    # H-INDEX / WORKS
+    # --------------------------------------------------------
+    #
+    # These fields are stored inside:
+    #
+    # identified_authors[0]
+    #
+    # rather than directly on the citation.
+    #
+    # Example:
+    #
+    # "identified_authors": [
+    #     {
+    #         "h_index": 4,
+    #         "works_count": 5
+    #     }
+    # ]
     # --------------------------------------------------------
 
-    citation["h_index_numeric"] = (
-        get_numeric(
-            citation.get("h_index")
+    identified_author = None
+
+    if isinstance(
+        identified_authors,
+        list
+    ) and identified_authors:
+
+        # Use the first identified author.
+        first_author = identified_authors[0]
+
+        if isinstance(
+            first_author,
+            dict
+        ):
+
+            identified_author = first_author
+
+    if identified_author is not None:
+
+        citation["h_index_numeric"] = (
+            get_numeric(
+                identified_author.get(
+                    "h_index"
+                )
+            )
         )
-    )
 
-    # --------------------------------------------------------
-    # WORKS
-    # --------------------------------------------------------
-
-    citation["works_count_numeric"] = (
-        get_numeric(
-            citation.get("works_count")
+        citation["works_count_numeric"] = (
+            get_numeric(
+                identified_author.get(
+                    "works_count"
+                )
+            )
         )
-    )
+
+    else:
+
+        citation["h_index_numeric"] = None
+
+        citation["works_count_numeric"] = None
+
 
     # --------------------------------------------------------
     # DATABASE FAILURES
@@ -1445,6 +1527,14 @@ def analyze_productivity(citations):
         citations
     )
 
+    identified_author_count = sum(
+        1
+        for citation in citations
+        if citation.get(
+            "author_identified"
+        )
+    )
+
     return {
 
         "h_index_average":
@@ -1465,6 +1555,12 @@ def analyze_productivity(citations):
                 len(h_indices),
                 total
             ),
+        
+        "h_index_found_pct_identified":
+            calculate_pct(
+                len(h_indices),
+                identified_author_count
+            ),
 
         "works_average":
             calculate_average(
@@ -1483,6 +1579,12 @@ def analyze_productivity(citations):
             calculate_pct(
                 len(works),
                 total
+            ),
+
+        "works_found_pct_identified":
+            calculate_pct(
+                len(works),
+                identified_author_count
             ),
     }
 
